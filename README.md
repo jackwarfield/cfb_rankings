@@ -25,4 +25,5 @@
 | 23    | LSU                  | SEC                  | 3-1      | 2165   |
 | 24    | Maryland             | Big Ten              | 3-1      | 2115   |
 | 25    | Auburn               | SEC                  | 3-1      | 2111   |
+
 Updated 01/10/2022 17:54:51
