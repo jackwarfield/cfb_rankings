@@ -5,6 +5,8 @@ from glicko2 import *
 import random
 from datetime import datetime, timezone
 today = datetime.now(timezone.utc).strftime("%Y-%m-%d")+'T00:00:00.000Z'
+todayprint = datetime.now()
+todayprint = todayprint.strftime("%d/%m/%Y %H:%M:%S") 
 
 config = pd.read_json("./config.json")
 targyear = int(config.season.year)
@@ -39,7 +41,7 @@ for i in range(int(11)):
             else:
                 rating = 200
             df3 = pd.DataFrame ([[id1, sched.loc[i, 'home_team'], rating, 600, 0.06, level]], columns=['id', 'school', 'rating', 'rd', 'volatility', 'level'])
-            df = pd.concat([df, df3], ignore_index=True,)
+            df = pd.concat([df, df3]).reset_index(drop=True)
         try:
             _ = df[df.id == id2].values[0]
         except IndexError:
@@ -49,7 +51,7 @@ for i in range(int(11)):
             else:
                 rating = 200
             df3 = pd.DataFrame ([[id2, sched.loc[i, 'away_team'], rating, 600, 0.06, level]], columns=['id', 'school', 'rating', 'rd', 'volatility', 'level'])
-            df = pd.concat([df, df3], ignore_index=True,)
+            df = pd.concat([df, df3]).reset_index(drop=True)
         hp = sched.loc[i, 'home_points']
         ap = sched.loc[i, 'away_points']
         if hp > ap:
@@ -64,8 +66,8 @@ sched = sched.sort_values('start_date', ascending=True)
 sched = sched.reset_index(drop=True)
 sched2 = pd.read_csv(f'games{targyear}.csv')
 sched2 = sched2[sched2.home_points.notna()]
-sched2 = sched2.sort_values('start_date', ascending=True, ignore_index=True,)
-sched = pd.concat([sched,sched2], ignore_index=True).sort_values(by='start_date', ignore_index=True,)
+sched2 = sched2.sort_values('start_date', ascending=True).reset_index(drop=True)
+sched = pd.concat([sched,sched2]).reset_index(drop=True).sort_values(by='start_date').reset_index(drop=True)
 
 s_ind = list(sched.index)
 
@@ -84,7 +86,7 @@ for i in range(int(21 + 10*(max_week-run_week))):
             else:
                 rating = 200
             df3 = pd.DataFrame ([[id1, sched.loc[i, 'home_team'], rating, 600, 0.06, level]], columns=['id', 'school', 'rating', 'rd', 'volatility', 'level'])
-            df = pd.concat([df, df3], ignore_index=True,)
+            df = pd.concat([df, df3]).reset_index(drop=True)
         try:
             _ = df[df.id == id2].values[0]
         except IndexError:
@@ -94,7 +96,7 @@ for i in range(int(21 + 10*(max_week-run_week))):
             else:
                 rating = 200
             df3 = pd.DataFrame ([[id2, sched.loc[i, 'away_team'], rating, 600, 0.06, level]], columns=['id', 'school', 'rating', 'rd', 'volatility', 'level'])
-            df = pd.concat([df, df3], ignore_index=True,)
+            df = pd.concat([df, df3]).reset_index(drop=True)
         hp = sched.loc[i, 'home_points']
         ap = sched.loc[i, 'away_points']
         if hp > ap:
@@ -131,7 +133,7 @@ for i in range(int(31 + 10*run_week)):
                 rating = 200
             df3 = pd.DataFrame([[id1, sched.loc[i, 'home_team'], rating, 600, 0.06, level]],
                                columns=['id', 'school', 'rating', 'rd', 'volatility', 'level'])
-            df = pd.concat([df, df3], ignore_index=True, )
+            df = pd.concat([df, df3]).reset_index(drop=True)
         try:
             _ = df[df.id == id2].values[0]
         except IndexError:
@@ -142,7 +144,7 @@ for i in range(int(31 + 10*run_week)):
                 rating = 200
             df3 = pd.DataFrame([[id2, sched.loc[i, 'away_team'], rating, 600, 0.06, level]],
                                columns=['id', 'school', 'rating', 'rd', 'volatility', 'level'])
-            df = pd.concat([df, df3], ignore_index=True, )
+            df = pd.concat([df, df3]).reset_index(drop=True)
         hp = sched.loc[i, 'home_points']
         ap = sched.loc[i, 'away_points']
         if hp > ap:
@@ -173,6 +175,8 @@ with open("./README.md", "w") as f:
         t,c,r,w,l = ranks[i-1]
         rec = str(int(w))+'-'+str(int(l))
         print ('| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(i, t, c, rec, int(r)), file=f)
+
+    print(f"Updated {todayprint}", file=f)
 
 
 df.to_csv ('teams_2022_rankings.csv', index=False)
