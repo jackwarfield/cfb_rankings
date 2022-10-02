@@ -176,6 +176,7 @@ with open("./README.md", "w") as f:
         rec = str(int(w))+'-'+str(int(l))
         print ('| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(i, t, c, rec, int(r)), file=f)
 
+    print("", file=f)
     print(f"Updated {todayprint}", file=f)
 
 
