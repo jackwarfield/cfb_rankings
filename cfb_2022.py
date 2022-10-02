@@ -6,7 +6,7 @@ import random
 from datetime import datetime, timezone
 today = datetime.now(timezone.utc).strftime("%Y-%m-%d")+'T00:00:00.000Z'
 todayprint = datetime.now()
-todayprint = todayprint.strftime("%d/%m/%Y %H:%M:%S") 
+todayprint = todayprint.strftime("%m/%d/%Y %H:%M:%S") 
 
 config = pd.read_json("./config.json")
 targyear = int(config.season.year)
