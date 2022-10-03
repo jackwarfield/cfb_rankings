@@ -131,10 +131,10 @@ def main():
 
     build_teams_table(ApiClient=cfbd.ApiClient(configuration), year=year,)
 
-    if not os.path.exists(f"./games{year-2}.csv"):
-        build_games_table(ApiClient=cfbd.ApiClient(configuration), year=year-2)
-    if not os.path.exists(f"./games{year-1}.csv"):
-        build_games_table(ApiClient=cfbd.ApiClient(configuration), year=year-1)
+    #if not os.path.exists(f"./games{year-2}.csv"):
+    build_games_table(ApiClient=cfbd.ApiClient(configuration), year=year-2)
+    #if not os.path.exists(f"./games{year-1}.csv"):
+    build_games_table(ApiClient=cfbd.ApiClient(configuration), year=year-1)
     build_games_table(ApiClient=cfbd.ApiClient(configuration), year=year)
 
     return 0
