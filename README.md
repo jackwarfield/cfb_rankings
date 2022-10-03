@@ -26,4 +26,4 @@
 | 24    | Maryland             | Big Ten              | 4-1      | 2226   |
 | 25    | Washington State     | Pac-12               | 4-1      | 2168   |
 
-Updated 10/02/2022 16:04:25
+Updated 10/03/2022 12:40:59
