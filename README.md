@@ -1,6 +1,6 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 5-0      | 3151   |
+| 1     | Georgia              | SEC                  | 5-0      | 3150   |
 | 2     | Clemson              | ACC                  | 5-0      | 3076   |
 | 3     | Ole Miss             | SEC                  | 5-0      | 2868   |
 | 4     | TCU                  | Big 12               | 5-0      | 2831   |
@@ -26,4 +26,4 @@
 | 24    | Purdue               | Big Ten              | 4-2      | 2261   |
 | 25    | Washington State     | Pac-12               | 4-1      | 2182   |
 
-Updated 10/08/2022 17:09:12
+Updated 10/08/2022 17:00:09
