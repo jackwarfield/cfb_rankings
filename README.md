@@ -26,4 +26,4 @@
 | 24    | Purdue               | Big Ten              | 4-2      | 2260   |
 | 25    | Washington State     | Pac-12               | 4-1      | 2181   |
 
-Updated 10/08/2022 15:49:23
+Updated 10/08/2022 16:00:11
