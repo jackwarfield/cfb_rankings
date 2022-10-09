@@ -1,7 +1,7 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
 | 1     | Clemson              | ACC                  | 6-0      | 3173   |
-| 2     | Georgia              | SEC                  | 6-0      | 3124   |
+| 2     | Georgia              | SEC                  | 6-0      | 3125   |
 | 3     | Alabama              | SEC                  | 6-0      | 2845   |
 | 4     | TCU                  | Big 12               | 5-0      | 2778   |
 | 5     | Tennessee            | SEC                  | 5-0      | 2756   |
@@ -12,18 +12,18 @@
 | 10    | Ohio State           | Big Ten              | 6-0      | 2681   |
 | 11    | Syracuse             | ACC                  | 5-0      | 2677   |
 | 12    | USC                  | Pac-12               | 6-0      | 2672   |
-| 13    | Michigan             | Big Ten              | 6-0      | 2663   |
+| 13    | Michigan             | Big Ten              | 6-0      | 2662   |
 | 14    | NC State             | ACC                  | 5-1      | 2658   |
 | 15    | UCLA                 | Pac-12               | 6-0      | 2594   |
-| 16    | Oregon               | Pac-12               | 5-1      | 2580   |
-| 17    | Coastal Carolina     | Sun Belt             | 6-0      | 2377   |
+| 16    | Oregon               | Pac-12               | 5-1      | 2581   |
+| 17    | Coastal Carolina     | Sun Belt             | 6-0      | 2376   |
 | 18    | James Madison        | Sun Belt             | 5-0      | 2342   |
 | 19    | Florida State        | ACC                  | 4-2      | 2324   |
 | 20    | Kansas               | Big 12               | 5-1      | 2319   |
 | 21    | LSU                  | SEC                  | 4-2      | 2266   |
 | 22    | Purdue               | Big Ten              | 4-2      | 2247   |
-| 23    | Mississippi State    | SEC                  | 5-1      | 2141   |
+| 23    | Mississippi State    | SEC                  | 5-1      | 2140   |
 | 24    | Washington State     | Pac-12               | 4-2      | 2134   |
 | 25    | Kansas State         | Big 12               | 5-1      | 2124   |
 
-Updated 10/09/2022 00:00:14
+Updated 10/09/2022 00:30:08
