@@ -10,11 +10,11 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401239884,2020,1,regular,2020-09-06T01:00:00.000Z,False,False,2638,UTEP,24,2617,Stephen F. Austin,14,fbs,fcs
 401234576,2020,1,regular,2020-09-08T00:00:00.000Z,False,False,2426,Navy,3,252,BYU,55,fbs,fbs
 401234559,2020,2,regular,2020-09-11T00:00:00.000Z,False,False,2390,Miami,31,5,UAB,14,fbs,fbs
+401236221,2020,2,regular,2020-09-12T16:00:00.000Z,False,False,66,Iowa State,14,309,Louisiana,31,fbs,fbs
 401234565,2020,2,regular,2020-09-12T16:00:00.000Z,False,True,153,North Carolina,31,183,Syracuse,6,fbs,fbs
 401236053,2020,2,regular,2020-09-12T16:00:00.000Z,False,False,2306,Kansas State,31,2032,Arkansas State,35,fbs,fbs
 401236038,2020,2,regular,2020-09-12T16:00:00.000Z,False,False,277,West Virginia,56,2198,Eastern Kentucky,10,fbs,fcs
 401236081,2020,2,regular,2020-09-12T16:00:00.000Z,False,False,2026,Appalachian State,35,2429,Charlotte,20,fbs,fbs
-401236221,2020,2,regular,2020-09-12T16:00:00.000Z,False,False,66,Iowa State,14,309,Louisiana,31,fbs,fbs
 401240113,2020,2,regular,2020-09-12T17:30:00.000Z,False,False,349,Army,37,2433,Louisiana Monroe,7,fbs,fbs
 401234574,2020,2,regular,2020-09-12T18:30:00.000Z,False,True,87,Notre Dame,27,150,Duke,13,fbs,fbs
 401207113,2020,2,regular,2020-09-12T19:30:00.000Z,False,False,326,Texas State,48,2636,UT San Antonio,51,fbs,fbs
@@ -23,155 +23,155 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401215298,2020,2,regular,2020-09-12T20:14:00.000Z,False,False,290,Georgia Southern,27,2097,Campbell,26,fbs,fcs
 401236054,2020,2,regular,2020-09-12T23:00:00.000Z,False,False,201,Oklahoma,48,2623,Missouri State,0,fbs,fcs
 401240039,2020,2,regular,2020-09-12T23:00:00.000Z,False,False,58,South Florida,27,2643,The Citadel,6,fbs,fcs
-401239973,2020,2,regular,2020-09-12T23:30:00.000Z,False,False,6,South Alabama,24,2655,Tulane,27,fbs,fbs
 401234562,2020,2,regular,2020-09-12T23:30:00.000Z,False,True,154,Wake Forest,13,228,Clemson,37,fbs,fbs
-401234564,2020,2,regular,2020-09-13T00:00:00.000Z,False,False,97,Louisville,35,98,Western Kentucky,21,fbs,fbs
+401239973,2020,2,regular,2020-09-12T23:30:00.000Z,False,False,6,South Alabama,24,2655,Tulane,27,fbs,fbs
 401236222,2020,2,regular,2020-09-13T00:00:00.000Z,False,False,251,Texas,59,2638,UTEP,3,fbs,fbs
 401236039,2020,2,regular,2020-09-13T00:00:00.000Z,False,False,2641,Texas Tech,35,2277,Houston Christian,33,fbs,fcs
+401234564,2020,2,regular,2020-09-13T00:00:00.000Z,False,False,97,Louisville,35,98,Western Kentucky,21,fbs,fbs
 401236658,2020,2,regular,2020-09-13T02:00:00.000Z,False,False,2305,Kansas,23,324,Coastal Carolina,38,fbs,fbs
 401240126,2020,3,regular,2020-09-18T23:30:00.000Z,False,False,324,Coastal Carolina,43,2097,Campbell,21,fbs,fcs
-401212541,2020,3,regular,2020-09-19T16:00:00.000Z,False,False,2132,Cincinnati,55,2046,Austin Peay,20,fbs,fcs
 401236041,2020,3,regular,2020-09-19T16:00:00.000Z,False,False,197,Oklahoma State,16,202,Tulsa,7,fbs,fbs
-401212522,2020,3,regular,2020-09-19T16:00:00.000Z,False,True,2655,Tulane,24,2426,Navy,27,fbs,fbs
-401234571,2020,3,regular,2020-09-19T16:00:00.000Z,False,True,221,Pittsburgh,21,183,Syracuse,10,fbs,fbs
-401207124,2020,3,regular,2020-09-19T16:00:00.000Z,False,False,98,Western Kentucky,24,2335,Liberty,30,fbs,fbs
 401215301,2020,3,regular,2020-09-19T16:00:00.000Z,False,True,2247,Georgia State,31,309,Louisiana,34,fbs,fbs
 401234567,2020,3,regular,2020-09-19T16:00:00.000Z,False,True,150,Duke,6,103,Boston College,26,fbs,fbs
+401212541,2020,3,regular,2020-09-19T16:00:00.000Z,False,False,2132,Cincinnati,55,2046,Austin Peay,20,fbs,fcs
+401234571,2020,3,regular,2020-09-19T16:00:00.000Z,False,True,221,Pittsburgh,21,183,Syracuse,10,fbs,fbs
+401212522,2020,3,regular,2020-09-19T16:00:00.000Z,False,True,2655,Tulane,24,2426,Navy,27,fbs,fbs
+401207124,2020,3,regular,2020-09-19T16:00:00.000Z,False,False,98,Western Kentucky,24,2335,Liberty,30,fbs,fbs
 401241282,2020,3,regular,2020-09-19T18:30:00.000Z,False,False,87,Notre Dame,52,58,South Florida,0,fbs,fbs
-401234568,2020,3,regular,2020-09-19T19:30:00.000Z,False,False,59,Georgia Tech,21,2116,UCF,49,fbs,fbs
-401236939,2020,3,regular,2020-09-19T19:30:00.000Z,False,False,276,Marshall,17,2026,Appalachian State,7,fbs,fbs
-401240041,2020,3,regular,2020-09-19T19:30:00.000Z,False,False,2636,UT San Antonio,24,2617,Stephen F. Austin,10,fbs,fcs
 401240640,2020,3,regular,2020-09-19T19:30:00.000Z,False,False,2393,Middle Tennessee,14,2653,Troy,47,fbs,fbs
+401236939,2020,3,regular,2020-09-19T19:30:00.000Z,False,False,276,Marshall,17,2026,Appalachian State,7,fbs,fbs
+401234568,2020,3,regular,2020-09-19T19:30:00.000Z,False,False,59,Georgia Tech,21,2116,UCF,49,fbs,fbs
+401240041,2020,3,regular,2020-09-19T19:30:00.000Z,False,False,2636,UT San Antonio,24,2617,Stephen F. Austin,10,fbs,fcs
 401237492,2020,3,regular,2020-09-19T20:00:00.000Z,False,False,228,Clemson,49,2643,The Citadel,0,fbs,fcs
 401207120,2020,3,regular,2020-09-19T22:00:00.000Z,False,False,249,North Texas,35,2567,SMU,65,fbs,fbs
-401215302,2020,3,regular,2020-09-19T23:30:00.000Z,False,True,2433,Louisiana Monroe,17,326,Texas State,38,fbs,fbs
 401207106,2020,3,regular,2020-09-19T23:30:00.000Z,False,True,2572,Southern Mississippi,30,2348,Louisiana Tech,31,fbs,fbs
 401234569,2020,3,regular,2020-09-19T23:30:00.000Z,False,True,97,Louisville,34,2390,Miami,47,fbs,fbs
+401215302,2020,3,regular,2020-09-19T23:30:00.000Z,False,True,2433,Louisiana Monroe,17,326,Texas State,38,fbs,fbs
 401234570,2020,3,regular,2020-09-20T00:00:00.000Z,False,True,152,NC State,45,154,Wake Forest,42,fbs,fbs
 401239885,2020,3,regular,2020-09-20T01:00:00.000Z,False,False,2638,UTEP,17,2000,Abilene Christian,13,fbs,fcs
 401207132,2020,4,regular,2020-09-24T23:30:00.000Z,False,False,6,South Alabama,10,5,UAB,42,fbs,fbs
 401207134,2020,4,regular,2020-09-26T00:00:00.000Z,False,False,2636,UT San Antonio,37,2393,Middle Tennessee,35,fbs,fbs
+401234595,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,221,Pittsburgh,23,97,Louisville,20,fbs,fbs
+401236952,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,145,Ole Miss,35,57,Florida,51,fbs,fbs
 401212536,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,151,East Carolina,28,2116,UCF,51,fbs,fbs
 401234594,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,183,Syracuse,37,59,Georgia Tech,20,fbs,fbs
-401236253,2020,4,regular,2020-09-26T16:00:00.000Z,False,False,2026,Appalachian State,52,2097,Campbell,21,fbs,fcs
-401236952,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,145,Ole Miss,35,57,Florida,51,fbs,fbs
 401235996,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,201,Oklahoma,35,2306,Kansas State,38,fbs,fbs
+401236253,2020,4,regular,2020-09-26T16:00:00.000Z,False,False,2026,Appalachian State,52,2097,Campbell,21,fbs,fcs
 401237034,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,2,Auburn,29,96,Kentucky,13,fbs,fbs
 401215303,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,309,Louisiana,20,290,Georgia Southern,18,fbs,fbs
-401234595,2020,4,regular,2020-09-26T16:00:00.000Z,False,True,221,Pittsburgh,23,97,Louisville,20,fbs,fbs
 401207126,2020,4,regular,2020-09-26T17:00:00.000Z,False,False,2335,Liberty,36,2229,Florida International,34,fbs,fbs
 401237493,2020,4,regular,2020-09-26T17:00:00.000Z,False,False,2643,The Citadel,14,2198,Eastern Kentucky,37,fcs,fcs
 401235994,2020,4,regular,2020-09-26T17:30:00.000Z,False,True,2628,TCU,34,66,Iowa State,37,fbs,fbs
-401237035,2020,4,regular,2020-09-26T19:30:00.000Z,False,True,99,LSU,34,344,Mississippi State,44,fbs,fbs
-401235995,2020,4,regular,2020-09-26T19:30:00.000Z,False,True,2641,Texas Tech,56,251,Texas,63,fbs,fbs
 401240996,2020,4,regular,2020-09-26T19:30:00.000Z,False,False,2132,Cincinnati,24,349,Army,10,fbs,fbs
-401240194,2020,4,regular,2020-09-26T19:30:00.000Z,False,False,2433,Louisiana Monroe,6,2638,UTEP,31,fbs,fbs
+401235995,2020,4,regular,2020-09-26T19:30:00.000Z,False,True,2641,Texas Tech,56,251,Texas,63,fbs,fbs
+401237035,2020,4,regular,2020-09-26T19:30:00.000Z,False,True,99,LSU,34,344,Mississippi State,44,fbs,fbs
 401235997,2020,4,regular,2020-09-26T19:30:00.000Z,False,True,197,Oklahoma State,27,277,West Virginia,13,fbs,fbs
-401237033,2020,4,regular,2020-09-26T20:00:00.000Z,False,True,8,Arkansas,10,61,Georgia,37,fbs,fbs
+401240194,2020,4,regular,2020-09-26T19:30:00.000Z,False,False,2433,Louisiana Monroe,6,2638,UTEP,31,fbs,fbs
 401234638,2020,4,regular,2020-09-26T20:00:00.000Z,False,True,258,Virginia,38,150,Duke,20,fbs,fbs
+401237033,2020,4,regular,2020-09-26T20:00:00.000Z,False,True,8,Arkansas,10,61,Georgia,37,fbs,fbs
 401241303,2020,4,regular,2020-09-26T22:00:00.000Z,False,False,103,Boston College,24,326,Texas State,21,fbs,fbs
-401212485,2020,4,regular,2020-09-26T23:00:00.000Z,False,False,2567,SMU,50,2617,Stephen F. Austin,7,fbs,fcs
-401232157,2020,4,regular,2020-09-26T23:00:00.000Z,False,False,2348,Louisiana Tech,66,2277,Houston Christian,38,fbs,fcs
 401236951,2020,4,regular,2020-09-26T23:00:00.000Z,False,True,142,Missouri,19,333,Alabama,38,fbs,fbs
+401232157,2020,4,regular,2020-09-26T23:00:00.000Z,False,False,2348,Louisiana Tech,66,2277,Houston Christian,38,fbs,fcs
+401212485,2020,4,regular,2020-09-26T23:00:00.000Z,False,False,2567,SMU,50,2617,Stephen F. Austin,7,fbs,fcs
 401234734,2020,4,regular,2020-09-26T23:00:00.000Z,False,False,2572,Southern Mississippi,24,2655,Tulane,66,fbs,fbs
 401234593,2020,4,regular,2020-09-26T23:30:00.000Z,False,True,2390,Miami,52,52,Florida State,10,fbs,fbs
 401237037,2020,4,regular,2020-09-26T23:30:00.000Z,False,True,245,Texas A&M,17,238,Vanderbilt,12,fbs,fbs
 401237036,2020,4,regular,2020-09-26T23:30:00.000Z,False,True,2579,South Carolina,27,2633,Tennessee,31,fbs,fbs
 401235993,2020,4,regular,2020-09-26T23:30:00.000Z,False,True,239,Baylor,47,2305,Kansas,14,fbs,fbs
-401234566,2020,4,regular,2020-09-27T00:00:00.000Z,False,True,259,Virginia Tech,45,152,NC State,24,fbs,fbs
 401236381,2020,4,regular,2020-09-27T00:00:00.000Z,False,False,2110,Central Arkansas,27,2623,Missouri State,20,fcs,fcs
+401234566,2020,4,regular,2020-09-27T00:00:00.000Z,False,True,259,Virginia Tech,45,152,NC State,24,fbs,fbs
 401236223,2020,4,regular,2020-09-27T02:15:00.000Z,False,False,252,BYU,48,2653,Troy,7,fbs,fbs
 401240282,2020,5,regular,2020-10-02T23:00:00.000Z,False,False,154,Wake Forest,66,2097,Campbell,14,fbs,fcs
 401246275,2020,5,regular,2020-10-03T01:00:00.000Z,False,False,252,BYU,45,2348,Louisiana Tech,14,fbs,fbs
-401212547,2020,5,regular,2020-10-03T16:00:00.000Z,False,False,2247,Georgia State,49,151,East Carolina,29,fbs,fbs
-401234600,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,221,Pittsburgh,29,152,NC State,30,fbs,fbs
-401215304,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,324,Coastal Carolina,52,2032,Arkansas State,23,fbs,fbs
 401237099,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,2633,Tennessee,35,142,Missouri,12,fbs,fbs
-401237096,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,57,Florida,38,2579,South Carolina,24,fbs,fbs
+401212547,2020,5,regular,2020-10-03T16:00:00.000Z,False,False,2247,Georgia State,49,151,East Carolina,29,fbs,fbs
 401236002,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,251,Texas,31,2628,TCU,33,fbs,fbs
 401235998,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,277,West Virginia,27,239,Baylor,21,fbs,fbs
+401237096,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,57,Florida,38,2579,South Carolina,24,fbs,fbs
+401215304,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,324,Coastal Carolina,52,2032,Arkansas State,23,fbs,fbs
+401234600,2020,5,regular,2020-10-03T16:00:00.000Z,False,True,221,Pittsburgh,29,152,NC State,30,fbs,fbs
 401207141,2020,5,regular,2020-10-03T16:30:00.000Z,False,True,5,UAB,21,2636,UT San Antonio,13,fbs,fbs
 401237513,2020,5,regular,2020-10-03T17:00:00.000Z,False,False,2335,Liberty,28,2453,North Alabama,7,fbs,fcs
 401240040,2020,5,regular,2020-10-03T17:30:00.000Z,False,False,349,Army,55,2000,Abilene Christian,23,fbs,fcs
 401246566,2020,5,regular,2020-10-03T19:00:00.000Z,False,False,2198,Eastern Kentucky,30,2277,Houston Christian,33,fcs,fcs
+401237093,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,333,Alabama,52,245,Texas A&M,24,fbs,fbs
+401212476,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,2132,Cincinnati,28,58,South Florida,7,fbs,fbs
 401234597,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,103,Boston College,22,153,North Carolina,26,fbs,fbs
 401236000,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,2305,Kansas,7,197,Oklahoma State,47,fbs,fbs
-401240124,2020,5,regular,2020-10-03T19:30:00.000Z,False,False,2449,North Dakota State,39,2110,Central Arkansas,28,fcs,fcs
-401212476,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,2132,Cincinnati,28,58,South Florida,7,fbs,fbs
-401237093,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,333,Alabama,52,245,Texas A&M,24,fbs,fbs
-401236001,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,2306,Kansas State,31,2641,Texas Tech,21,fbs,fbs
 401212486,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,2567,SMU,30,235,Memphis,27,fbs,fbs
-401237097,2020,5,regular,2020-10-03T20:00:00.000Z,False,True,96,Kentucky,41,145,Ole Miss,42,fbs,fbs
-401207136,2020,5,regular,2020-10-03T20:00:00.000Z,False,True,2226,Florida Atlantic,21,2429,Charlotte,17,fbs,fbs
-401238034,2020,5,regular,2020-10-03T20:00:00.000Z,False,False,52,Florida State,41,55,Jacksonville State,24,fbs,fcs
+401236001,2020,5,regular,2020-10-03T19:30:00.000Z,False,True,2306,Kansas State,31,2641,Texas Tech,21,fbs,fbs
+401240124,2020,5,regular,2020-10-03T19:30:00.000Z,False,False,2449,North Dakota State,39,2110,Central Arkansas,28,fcs,fcs
 401234599,2020,5,regular,2020-10-03T20:00:00.000Z,False,True,150,Duke,31,259,Virginia Tech,38,fbs,fbs
+401238034,2020,5,regular,2020-10-03T20:00:00.000Z,False,False,52,Florida State,41,55,Jacksonville State,24,fbs,fcs
+401207136,2020,5,regular,2020-10-03T20:00:00.000Z,False,True,2226,Florida Atlantic,21,2429,Charlotte,17,fbs,fbs
+401237097,2020,5,regular,2020-10-03T20:00:00.000Z,False,True,96,Kentucky,41,145,Ole Miss,42,fbs,fbs
 401240042,2020,5,regular,2020-10-03T21:00:00.000Z,False,False,2617,Stephen F. Austin,34,2704,West Texas A&M,6,fcs,ii
 401207138,2020,5,regular,2020-10-03T21:00:00.000Z,False,True,2393,Middle Tennessee,17,98,Western Kentucky,20,fbs,fbs
 401212557,2020,5,regular,2020-10-03T22:00:00.000Z,False,False,2005,Air Force,40,2426,Navy,7,fbs,fbs
 401215305,2020,5,regular,2020-10-03T23:00:00.000Z,False,True,2433,Louisiana Monroe,30,290,Georgia Southern,35,fbs,fbs
-401235999,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,66,Iowa State,37,201,Oklahoma,30,fbs,fbs
-401237098,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,238,Vanderbilt,7,99,LSU,41,fbs,fbs
-401237095,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,61,Georgia,27,2,Auburn,6,fbs,fbs
-401207139,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,249,North Texas,31,2572,Southern Mississippi,41,fbs,fbs
 401237094,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,344,Mississippi State,14,8,Arkansas,21,fbs,fbs
+401237095,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,61,Georgia,27,2,Auburn,6,fbs,fbs
+401235999,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,66,Iowa State,37,201,Oklahoma,30,fbs,fbs
 401212531,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,2116,UCF,26,202,Tulsa,34,fbs,fbs
+401237098,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,238,Vanderbilt,7,99,LSU,41,fbs,fbs
+401207139,2020,5,regular,2020-10-03T23:30:00.000Z,False,True,249,North Texas,31,2572,Southern Mississippi,41,fbs,fbs
 401234598,2020,5,regular,2020-10-04T00:00:00.000Z,False,True,228,Clemson,41,258,Virginia,23,fbs,fbs
 401212523,2020,6,regular,2020-10-08T23:30:00.000Z,False,True,248,Houston,49,2655,Tulane,31,fbs,fbs
 401234601,2020,6,regular,2020-10-09T23:00:00.000Z,False,True,59,Georgia Tech,46,97,Louisville,27,fbs,fbs
-401234608,2020,6,regular,2020-10-10T16:00:00.000Z,False,True,258,Virginia,21,152,NC State,38,fbs,fbs
-401237105,2020,6,regular,2020-10-10T16:00:00.000Z,False,True,99,LSU,41,142,Missouri,45,fbs,fbs
-401237102,2020,6,regular,2020-10-10T16:00:00.000Z,False,True,245,Texas A&M,41,57,Florida,38,fbs,fbs
-401207215,2020,6,regular,2020-10-10T16:00:00.000Z,False,False,2335,Liberty,40,2433,Louisiana Monroe,7,fbs,fbs
 401236005,2020,6,regular,2020-10-10T16:00:00.000Z,True,True,201,Oklahoma,53,251,Texas,45,fbs,fbs
+401234608,2020,6,regular,2020-10-10T16:00:00.000Z,False,True,258,Virginia,21,152,NC State,38,fbs,fbs
 401237106,2020,6,regular,2020-10-10T16:00:00.000Z,False,True,238,Vanderbilt,7,2579,South Carolina,41,fbs,fbs
+401207215,2020,6,regular,2020-10-10T16:00:00.000Z,False,False,2335,Liberty,40,2433,Louisiana Monroe,7,fbs,fbs
+401237102,2020,6,regular,2020-10-10T16:00:00.000Z,False,True,245,Texas A&M,41,57,Florida,38,fbs,fbs
+401237105,2020,6,regular,2020-10-10T16:00:00.000Z,False,True,99,LSU,41,142,Missouri,45,fbs,fbs
 401234607,2020,6,regular,2020-10-10T16:00:00.000Z,False,True,153,North Carolina,56,259,Virginia Tech,45,fbs,fbs
 401234605,2020,6,regular,2020-10-10T16:30:00.000Z,False,True,183,Syracuse,24,150,Duke,38,fbs,fbs
 401240114,2020,6,regular,2020-10-10T17:30:00.000Z,False,False,349,Army,14,2643,The Citadel,9,fbs,fcs
 401240117,2020,6,regular,2020-10-10T19:00:00.000Z,False,False,55,Jacksonville State,34,2382,Mercer,28,fcs,fcs
+401215308,2020,6,regular,2020-10-10T19:30:00.000Z,False,True,2653,Troy,37,326,Texas State,17,fbs,fbs
+401236003,2020,6,regular,2020-10-10T19:30:00.000Z,False,True,66,Iowa State,31,2641,Texas Tech,15,fbs,fbs
 401240997,2020,6,regular,2020-10-10T19:30:00.000Z,False,False,252,BYU,27,2636,UT San Antonio,20,fbs,fbs
 401237103,2020,6,regular,2020-10-10T19:30:00.000Z,False,True,61,Georgia,44,2633,Tennessee,21,fbs,fbs
-401236003,2020,6,regular,2020-10-10T19:30:00.000Z,False,True,66,Iowa State,31,2641,Texas Tech,15,fbs,fbs
-401215308,2020,6,regular,2020-10-10T19:30:00.000Z,False,True,2653,Troy,37,326,Texas State,17,fbs,fbs
 401246425,2020,6,regular,2020-10-10T19:30:00.000Z,False,False,2032,Arkansas State,50,2110,Central Arkansas,27,fbs,fcs
-401234603,2020,6,regular,2020-10-10T20:00:00.000Z,False,True,103,Boston College,31,221,Pittsburgh,30,fbs,fbs
+401237101,2020,6,regular,2020-10-10T20:00:00.000Z,False,True,2,Auburn,30,8,Arkansas,28,fbs,fbs
 401236004,2020,6,regular,2020-10-10T20:00:00.000Z,False,True,2628,TCU,14,2306,Kansas State,21,fbs,fbs
 401207143,2020,6,regular,2020-10-10T20:00:00.000Z,False,True,2229,Florida International,28,2393,Middle Tennessee,31,fbs,fbs
-401237101,2020,6,regular,2020-10-10T20:00:00.000Z,False,True,2,Auburn,30,8,Arkansas,28,fbs,fbs
+401234603,2020,6,regular,2020-10-10T20:00:00.000Z,False,True,103,Boston College,31,221,Pittsburgh,30,fbs,fbs
 401212515,2020,6,regular,2020-10-10T22:00:00.000Z,False,True,2426,Navy,31,218,Temple,29,fbs,fbs
 401212477,2020,6,regular,2020-10-10T23:00:00.000Z,False,True,58,South Florida,24,151,East Carolina,44,fbs,fbs
+401207146,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,98,Western Kentucky,14,276,Marshall,38,fbs,fbs
+401207145,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,2348,Louisiana Tech,21,2638,UTEP,17,fbs,fbs
+401234606,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,87,Notre Dame,42,52,Florida State,26,fbs,fbs
+401237104,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,96,Kentucky,24,344,Mississippi State,2,fbs,fbs
 401234604,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,228,Clemson,42,2390,Miami,17,fbs,fbs
 401237100,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,145,Ole Miss,48,333,Alabama,63,fbs,fbs
-401207145,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,2348,Louisiana Tech,21,2638,UTEP,17,fbs,fbs
-401207146,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,98,Western Kentucky,14,276,Marshall,38,fbs,fbs
-401237104,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,96,Kentucky,24,344,Mississippi State,2,fbs,fbs
-401234606,2020,6,regular,2020-10-10T23:30:00.000Z,False,True,87,Notre Dame,42,52,Florida State,26,fbs,fbs
 401207142,2020,6,regular,2020-10-11T00:00:00.000Z,False,True,249,North Texas,21,2429,Charlotte,49,fbs,fbs
 401215311,2020,7,regular,2020-10-14T23:30:00.000Z,False,True,309,Louisiana,27,324,Coastal Carolina,30,fbs,fbs
 401215310,2020,7,regular,2020-10-15T23:30:00.000Z,False,True,2032,Arkansas State,59,2247,Georgia State,52,fbs,fbs
 401212487,2020,7,regular,2020-10-16T22:00:00.000Z,False,True,2655,Tulane,34,2567,SMU,37,fbs,fbs
 401212551,2020,7,regular,2020-10-17T01:30:00.000Z,False,False,248,Houston,26,252,BYU,43,fbs,fbs
-401234615,2020,7,regular,2020-10-17T16:00:00.000Z,False,False,183,Syracuse,21,2335,Liberty,38,fbs,fbs
-401237111,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,2633,Tennessee,7,96,Kentucky,34,fbs,fbs
+401237109,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,2579,South Carolina,30,2,Auburn,22,fbs,fbs
 401234614,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,2390,Miami,31,221,Pittsburgh,19,fbs,fbs
 401212548,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,151,East Carolina,23,2426,Navy,27,fbs,fbs
-401237109,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,2579,South Carolina,30,2,Auburn,22,fbs,fbs
-401236007,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,277,West Virginia,38,2305,Kansas,17,fbs,fbs
-401212478,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,218,Temple,39,58,South Florida,37,fbs,fbs
 401215313,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,6,South Alabama,30,326,Texas State,20,fbs,fbs
+401212478,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,218,Temple,39,58,South Florida,37,fbs,fbs
+401236007,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,277,West Virginia,38,2305,Kansas,17,fbs,fbs
+401237111,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,2633,Tennessee,7,96,Kentucky,34,fbs,fbs
+401234615,2020,7,regular,2020-10-17T16:00:00.000Z,False,False,183,Syracuse,21,2335,Liberty,38,fbs,fbs
 401234610,2020,7,regular,2020-10-17T16:00:00.000Z,False,True,59,Georgia Tech,7,228,Clemson,73,fbs,fbs
 401240115,2020,7,regular,2020-10-17T17:30:00.000Z,False,False,2636,UT San Antonio,16,349,Army,28,fbs,fbs
 401207153,2020,7,regular,2020-10-17T17:30:00.000Z,False,True,5,UAB,37,98,Western Kentucky,14,fbs,fbs
 401240034,2020,7,regular,2020-10-17T18:00:00.000Z,False,False,2453,North Alabama,17,55,Jacksonville State,24,fcs,fcs
 401234613,2020,7,regular,2020-10-17T18:30:00.000Z,False,True,87,Notre Dame,12,97,Louisville,7,fbs,fbs
-401237108,2020,7,regular,2020-10-17T19:30:00.000Z,False,True,8,Arkansas,33,145,Ole Miss,21,fbs,fbs
 401234611,2020,7,regular,2020-10-17T19:30:00.000Z,False,True,152,NC State,31,150,Duke,20,fbs,fbs
-401212537,2020,7,regular,2020-10-17T19:30:00.000Z,False,True,235,Memphis,50,2116,UCF,49,fbs,fbs
 401239872,2020,7,regular,2020-10-17T19:30:00.000Z,False,False,2653,Troy,31,2198,Eastern Kentucky,29,fbs,fcs
-401250215,2020,7,regular,2020-10-17T20:00:00.000Z,False,False,290,Georgia Southern,41,113,UMass,0,fbs,fbs
+401212537,2020,7,regular,2020-10-17T19:30:00.000Z,False,True,235,Memphis,50,2116,UCF,49,fbs,fbs
+401237108,2020,7,regular,2020-10-17T19:30:00.000Z,False,True,8,Arkansas,33,145,Ole Miss,21,fbs,fbs
 401234616,2020,7,regular,2020-10-17T20:00:00.000Z,False,True,154,Wake Forest,40,258,Virginia,23,fbs,fbs
+401250215,2020,7,regular,2020-10-17T20:00:00.000Z,False,False,290,Georgia Southern,41,113,UMass,0,fbs,fbs
 401237112,2020,7,regular,2020-10-17T20:00:00.000Z,False,True,344,Mississippi State,14,245,Texas A&M,28,fbs,fbs
-401249652,2020,7,regular,2020-10-17T21:00:00.000Z,False,False,2617,Stephen F. Austin,31,2025,Angelo State,12,fcs,ii
 401207150,2020,7,regular,2020-10-17T21:00:00.000Z,False,True,2393,Middle Tennessee,35,249,North Texas,52,fbs,fbs
+401249652,2020,7,regular,2020-10-17T21:00:00.000Z,False,False,2617,Stephen F. Austin,31,2025,Angelo State,12,fcs,ii
 401207149,2020,7,regular,2020-10-17T22:00:00.000Z,False,True,2348,Louisiana Tech,17,276,Marshall,35,fbs,fbs
 401234612,2020,7,regular,2020-10-17T23:30:00.000Z,False,True,52,Florida State,31,153,North Carolina,28,fbs,fbs
 401236382,2020,7,regular,2020-10-18T00:00:00.000Z,False,False,2623,Missouri State,24,2110,Central Arkansas,33,fcs,fcs
@@ -182,101 +182,101 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401212479,2020,8,regular,2020-10-23T23:30:00.000Z,False,True,58,South Florida,13,202,Tulsa,42,fbs,fbs
 401238036,2020,8,regular,2020-10-24T00:00:00.000Z,False,False,5,UAB,20,309,Louisiana,24,fbs,fbs
 401247297,2020,8,regular,2020-10-24T00:00:00.000Z,False,True,275,Wisconsin,45,356,Illinois,7,fbs,fbs
-401207154,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,2429,Charlotte,38,2638,UTEP,28,fbs,fbs
-401212516,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,235,Memphis,41,218,Temple,29,fbs,fbs
-401247293,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,194,Ohio State,52,158,Nebraska,17,fbs,fbs
 401234621,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,153,North Carolina,48,152,NC State,21,fbs,fbs
-401236010,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,2306,Kansas State,55,2305,Kansas,14,fbs,fbs
-401234618,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,228,Clemson,47,183,Syracuse,21,fbs,fbs
-401234619,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,97,Louisville,48,52,Florida State,16,fbs,fbs
+401247299,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,127,Michigan State,27,164,Rutgers,38,fbs,fbs
 401237115,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,145,Ole Miss,28,2,Auburn,35,fbs,fbs
 401215316,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,324,Coastal Carolina,28,290,Georgia Southern,14,fbs,fbs
-401247299,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,127,Michigan State,27,164,Rutgers,38,fbs,fbs
-401236011,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,2628,TCU,14,201,Oklahoma,33,fbs,fbs
+401207154,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,2429,Charlotte,38,2638,UTEP,28,fbs,fbs
 401240116,2020,8,regular,2020-10-24T16:00:00.000Z,False,False,349,Army,49,2382,Mercer,3,fbs,fcs
+401247293,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,194,Ohio State,52,158,Nebraska,17,fbs,fbs
+401234619,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,97,Louisville,48,52,Florida State,16,fbs,fbs
+401234618,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,228,Clemson,47,183,Syracuse,21,fbs,fbs
+401236010,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,2306,Kansas State,55,2305,Kansas,14,fbs,fbs
+401212516,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,235,Memphis,41,218,Temple,29,fbs,fbs
+401236011,2020,8,regular,2020-10-24T16:00:00.000Z,False,True,2628,TCU,14,201,Oklahoma,33,fbs,fbs
 401207160,2020,8,regular,2020-10-24T17:00:00.000Z,False,False,2335,Liberty,56,2572,Southern Mississippi,35,fbs,fbs
 401248039,2020,8,regular,2020-10-24T17:30:00.000Z,True,True,2617,Stephen F. Austin,35,2000,Abilene Christian,32,fcs,fcs
 401212524,2020,8,regular,2020-10-24T18:00:00.000Z,False,True,2116,UCF,51,2655,Tulane,34,fbs,fbs
 401207156,2020,8,regular,2020-10-24T18:30:00.000Z,False,True,276,Marshall,20,2226,Florida Atlantic,9,fbs,fbs
 401239871,2020,8,regular,2020-10-24T19:00:00.000Z,False,False,2198,Eastern Kentucky,31,2110,Central Arkansas,28,fcs,fcs
-401207158,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,242,Rice,34,2393,Middle Tennessee,40,fbs,fbs
+401212552,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,2426,Navy,21,248,Houston,37,fbs,fbs
 401234623,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,154,Wake Forest,23,259,Virginia Tech,16,fbs,fbs
+401247295,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,84,Indiana,36,213,Penn State,35,fbs,fbs
+401247296,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,2509,Purdue,24,2294,Iowa,20,fbs,fbs
 401237114,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,2633,Tennessee,17,333,Alabama,48,fbs,fbs
 401236008,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,251,Texas,27,239,Baylor,16,fbs,fbs
 401236009,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,197,Oklahoma State,24,66,Iowa State,21,fbs,fbs
-401212552,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,2426,Navy,21,248,Houston,37,fbs,fbs
-401247296,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,2509,Purdue,24,2294,Iowa,20,fbs,fbs
-401247295,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,84,Indiana,36,213,Penn State,35,fbs,fbs
+401207158,2020,8,regular,2020-10-24T19:30:00.000Z,False,True,242,Rice,34,2393,Middle Tennessee,40,fbs,fbs
 401234622,2020,8,regular,2020-10-24T19:41:00.000Z,False,True,221,Pittsburgh,3,87,Notre Dame,45,fbs,fbs
-401237122,2020,8,regular,2020-10-24T20:00:00.000Z,False,True,142,Missouri,20,96,Kentucky,10,fbs,fbs
 401234617,2020,8,regular,2020-10-24T20:00:00.000Z,False,True,103,Boston College,48,59,Georgia Tech,27,fbs,fbs
-401215317,2020,8,regular,2020-10-24T20:00:00.000Z,False,True,2653,Troy,34,2247,Georgia State,36,fbs,fbs
+401237122,2020,8,regular,2020-10-24T20:00:00.000Z,False,True,142,Missouri,20,96,Kentucky,10,fbs,fbs
 401207102,2020,8,regular,2020-10-24T20:00:00.000Z,False,False,98,Western Kentucky,13,236,Chattanooga,10,fbs,fcs
+401215317,2020,8,regular,2020-10-24T20:00:00.000Z,False,True,2653,Troy,34,2247,Georgia State,36,fbs,fbs
 401236012,2020,8,regular,2020-10-24T21:30:00.000Z,False,True,2641,Texas Tech,34,277,West Virginia,27,fbs,fbs
-401250784,2020,8,regular,2020-10-24T23:00:00.000Z,False,True,6,South Alabama,38,2433,Louisiana Monroe,14,fbs,fbs
-401237118,2020,8,regular,2020-10-24T23:00:00.000Z,False,True,99,LSU,52,2579,South Carolina,24,fbs,fbs
-401248998,2020,8,regular,2020-10-24T23:00:00.000Z,False,True,2440,Nevada,37,2751,Wyoming,34,fbs,fbs
 401248997,2020,8,regular,2020-10-24T23:00:00.000Z,False,True,68,Boise State,42,328,Utah State,13,fbs,fbs
+401248998,2020,8,regular,2020-10-24T23:00:00.000Z,False,True,2440,Nevada,37,2751,Wyoming,34,fbs,fbs
+401237118,2020,8,regular,2020-10-24T23:00:00.000Z,False,True,99,LSU,52,2579,South Carolina,24,fbs,fbs
+401250784,2020,8,regular,2020-10-24T23:00:00.000Z,False,True,6,South Alabama,38,2433,Louisiana Monroe,14,fbs,fbs
 401247294,2020,8,regular,2020-10-24T23:30:00.000Z,False,True,135,Minnesota,24,130,Michigan,49,fbs,fbs
-401248994,2020,8,regular,2020-10-24T23:30:00.000Z,False,True,278,Fresno State,19,62,Hawai'i,34,fbs,fbs
 401247298,2020,8,regular,2020-10-24T23:30:00.000Z,False,True,77,Northwestern,43,120,Maryland,3,fbs,fbs
+401248994,2020,8,regular,2020-10-24T23:30:00.000Z,False,True,278,Fresno State,19,62,Hawai'i,34,fbs,fbs
 401234620,2020,8,regular,2020-10-25T00:00:00.000Z,False,True,2390,Miami,19,258,Virginia,14,fbs,fbs
 401207157,2020,8,regular,2020-10-25T00:00:00.000Z,False,True,2636,UT San Antonio,27,2348,Louisiana Tech,26,fbs,fbs
 401212488,2020,8,regular,2020-10-25T01:00:00.000Z,False,True,2567,SMU,13,2132,Cincinnati,42,fbs,fbs
 401240998,2020,8,regular,2020-10-25T02:15:00.000Z,False,False,252,BYU,52,326,Texas State,14,fbs,fbs
-401248996,2020,8,regular,2020-10-25T02:30:00.000Z,False,True,21,San Diego State,34,2439,UNLV,6,fbs,fbs
 401248993,2020,8,regular,2020-10-25T02:30:00.000Z,False,True,23,San José State,17,2005,Air Force,6,fbs,fbs
+401248996,2020,8,regular,2020-10-25T02:30:00.000Z,False,True,21,San Diego State,34,2439,UNLV,6,fbs,fbs
 401215321,2020,9,regular,2020-10-29T23:30:00.000Z,False,True,290,Georgia Southern,24,6,South Alabama,17,fbs,fbs
 401249000,2020,9,regular,2020-10-30T02:00:00.000Z,False,True,278,Fresno State,38,36,Colorado State,17,fbs,fbs
 401247675,2020,9,regular,2020-10-30T23:00:00.000Z,False,False,79,Southern Illinois,20,2546,Southeast Missouri State,17,fcs,fcs
 401247302,2020,9,regular,2020-10-30T23:30:00.000Z,False,True,120,Maryland,45,135,Minnesota,44,fbs,fbs
 401212533,2020,9,regular,2020-10-31T01:00:00.000Z,False,True,202,Tulsa,34,151,East Carolina,30,fbs,fbs
 401249001,2020,9,regular,2020-10-31T01:45:00.000Z,False,True,2751,Wyoming,31,62,Hawai'i,7,fbs,fbs
-401234629,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,183,Syracuse,14,154,Wake Forest,38,fbs,fbs
-401234624,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,228,Clemson,34,103,Boston College,28,fbs,fbs
 401247301,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,356,Illinois,24,2509,Purdue,31,fbs,fbs
-401212517,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,2655,Tulane,38,218,Temple,3,fbs,fbs
-401236014,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,2305,Kansas,22,66,Iowa State,52,fbs,fbs
 401212543,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,2132,Cincinnati,49,235,Memphis,10,fbs,fbs
-401236015,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,277,West Virginia,37,2306,Kansas State,10,fbs,fbs
+401247305,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,130,Michigan,24,127,Michigan State,27,fbs,fbs
 401215318,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,2247,Georgia State,0,324,Coastal Carolina,51,fbs,fbs
+401212517,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,2655,Tulane,38,218,Temple,3,fbs,fbs
+401234629,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,183,Syracuse,14,154,Wake Forest,38,fbs,fbs
+401236014,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,2305,Kansas,22,66,Iowa State,52,fbs,fbs
+401234624,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,228,Clemson,34,103,Boston College,28,fbs,fbs
 401237117,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,96,Kentucky,3,61,Georgia,14,fbs,fbs
 401207162,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,2226,Florida Atlantic,24,2636,UT San Antonio,3,fbs,fbs
-401247305,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,130,Michigan,24,127,Michigan State,27,fbs,fbs
+401236015,2020,9,regular,2020-10-31T16:00:00.000Z,False,True,277,West Virginia,37,2306,Kansas State,10,fbs,fbs
 401212538,2020,9,regular,2020-10-31T18:00:00.000Z,False,True,248,Houston,21,2116,UCF,44,fbs,fbs
 401207166,2020,9,regular,2020-10-31T19:00:00.000Z,False,True,2572,Southern Mississippi,6,242,Rice,30,fbs,fbs
+401248073,2020,9,regular,2020-10-31T19:00:00.000Z,False,False,2382,Mercer,17,2000,Abilene Christian,20,fcs,fcs
 401250213,2020,9,regular,2020-10-31T19:00:00.000Z,False,False,2617,Stephen F. Austin,64,2714,Western State,7,fcs,ii
 401215320,2020,9,regular,2020-10-31T19:00:00.000Z,False,True,2032,Arkansas State,10,2653,Troy,38,fbs,fbs
-401248073,2020,9,regular,2020-10-31T19:00:00.000Z,False,False,2382,Mercer,17,2000,Abilene Christian,20,fcs,fcs
-401234626,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,59,Georgia Tech,13,87,Notre Dame,31,fbs,fbs
+401247303,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,2294,Iowa,20,77,Northwestern,21,fbs,fbs
 401207163,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,2348,Louisiana Tech,37,5,UAB,34,fbs,fbs
+401234626,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,59,Georgia Tech,13,87,Notre Dame,31,fbs,fbs
+401247300,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,164,Rutgers,21,84,Indiana,37,fbs,fbs
 401236013,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,239,Baylor,23,2628,TCU,33,fbs,fbs
 401237121,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,2,Auburn,48,99,LSU,11,fbs,fbs
-401247300,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,164,Rutgers,21,84,Indiana,37,fbs,fbs
-401247303,2020,9,regular,2020-10-31T19:30:00.000Z,False,True,2294,Iowa,20,77,Northwestern,21,fbs,fbs
 401236017,2020,9,regular,2020-10-31T20:00:00.000Z,False,True,197,Oklahoma State,34,251,Texas,41,fbs,fbs
-401239873,2020,9,regular,2020-10-31T20:00:00.000Z,False,False,2110,Central Arkansas,52,137,Missouri Western,10,fcs,ii
 401237123,2020,9,regular,2020-10-31T20:00:00.000Z,False,True,238,Vanderbilt,21,145,Ole Miss,54,fbs,fbs
-401234627,2020,9,regular,2020-10-31T20:00:00.000Z,False,True,97,Louisville,35,259,Virginia Tech,42,fbs,fbs
 401215319,2020,9,regular,2020-10-31T20:00:00.000Z,False,True,2433,Louisiana Monroe,13,2026,Appalachian State,31,fbs,fbs
+401234627,2020,9,regular,2020-10-31T20:00:00.000Z,False,True,97,Louisville,35,259,Virginia Tech,42,fbs,fbs
+401239873,2020,9,regular,2020-10-31T20:00:00.000Z,False,False,2110,Central Arkansas,52,137,Missouri Western,10,fcs,ii
 401248999,2020,9,regular,2020-10-31T22:00:00.000Z,False,True,2005,Air Force,30,68,Boise State,49,fbs,fbs
 401249003,2020,9,regular,2020-10-31T23:00:00.000Z,False,True,167,New Mexico,21,23,San José State,38,fbs,fbs
 401237119,2020,9,regular,2020-10-31T23:00:00.000Z,False,True,333,Alabama,41,344,Mississippi State,0,fbs,fbs
 401234625,2020,9,regular,2020-10-31T23:00:00.000Z,False,False,150,Duke,53,2429,Charlotte,19,fbs,fbs
 401237120,2020,9,regular,2020-10-31T23:30:00.000Z,False,True,245,Texas A&M,42,8,Arkansas,31,fbs,fbs
 401212489,2020,9,regular,2020-10-31T23:30:00.000Z,False,True,2567,SMU,51,2426,Navy,37,fbs,fbs
-401237116,2020,9,regular,2020-10-31T23:30:00.000Z,False,True,57,Florida,41,142,Missouri,17,fbs,fbs
 401247306,2020,9,regular,2020-10-31T23:30:00.000Z,False,True,213,Penn State,25,194,Ohio State,38,fbs,fbs
-401215322,2020,9,regular,2020-11-01T00:00:00.000Z,False,True,326,Texas State,34,309,Louisiana,44,fbs,fbs
-401236016,2020,9,regular,2020-11-01T00:00:00.000Z,False,True,2641,Texas Tech,28,201,Oklahoma,62,fbs,fbs
+401237116,2020,9,regular,2020-10-31T23:30:00.000Z,False,True,57,Florida,41,142,Missouri,17,fbs,fbs
 401234628,2020,9,regular,2020-11-01T00:00:00.000Z,False,True,258,Virginia,44,153,North Carolina,41,fbs,fbs
+401236016,2020,9,regular,2020-11-01T00:00:00.000Z,False,True,2641,Texas Tech,28,201,Oklahoma,62,fbs,fbs
+401215322,2020,9,regular,2020-11-01T00:00:00.000Z,False,True,326,Texas State,34,309,Louisiana,44,fbs,fbs
 401249004,2020,9,regular,2020-11-01T01:30:00.000Z,False,True,328,Utah State,7,21,San Diego State,38,fbs,fbs
 401239887,2020,9,regular,2020-11-01T02:15:00.000Z,False,False,252,BYU,41,98,Western Kentucky,10,fbs,fbs
 401249002,2020,9,regular,2020-11-01T02:30:00.000Z,False,True,2439,UNLV,19,2440,Nevada,37,fbs,fbs
-401249857,2020,10,regular,2020-11-04T23:00:00.000Z,False,True,2006,Akron,13,2711,Western Michigan,58,fbs,fbs
 401249856,2020,10,regular,2020-11-04T23:00:00.000Z,False,True,2309,Kent State,27,2199,Eastern Michigan,23,fbs,fbs
-401249860,2020,10,regular,2020-11-05T00:00:00.000Z,False,True,2117,Central Michigan,30,195,Ohio,27,fbs,fbs
+401249857,2020,10,regular,2020-11-04T23:00:00.000Z,False,True,2006,Akron,13,2711,Western Michigan,58,fbs,fbs
 401249889,2020,10,regular,2020-11-05T00:00:00.000Z,False,True,193,Miami (OH),38,2050,Ball State,31,fbs,fbs
+401249860,2020,10,regular,2020-11-05T00:00:00.000Z,False,True,2117,Central Michigan,30,195,Ohio,27,fbs,fbs
 401249859,2020,10,regular,2020-11-05T00:00:00.000Z,False,True,2459,Northern Illinois,30,2084,Buffalo,49,fbs,fbs
 401249858,2020,10,regular,2020-11-05T01:00:00.000Z,False,True,2649,Toledo,38,189,Bowling Green,3,fbs,fbs
 401249009,2020,10,regular,2020-11-06T00:00:00.000Z,False,True,2440,Nevada,34,328,Utah State,9,fbs,fbs
@@ -285,42 +285,42 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401249008,2020,10,regular,2020-11-07T02:00:00.000Z,False,True,21,San Diego State,17,23,San José State,28,fbs,fbs
 401249005,2020,10,regular,2020-11-07T02:45:00.000Z,False,False,68,Boise State,17,252,BYU,51,fbs,fbs
 401247307,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,77,Northwestern,21,158,Nebraska,13,fbs,fbs
-401215327,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,2247,Georgia State,52,2433,Louisiana Monroe,34,fbs,fbs
-401249400,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,30,USC,28,9,Arizona State,27,fbs,fbs
-401236022,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,251,Texas,17,277,West Virginia,13,fbs,fbs
-401212480,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,235,Memphis,34,58,South Florida,33,fbs,fbs
-401234636,2020,10,regular,2020-11-07T17:00:00.000Z,False,False,259,Virginia Tech,35,2335,Liberty,38,fbs,fbs
+401212525,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,151,East Carolina,21,2655,Tulane,38,fbs,fbs
 401212490,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,218,Temple,23,2567,SMU,47,fbs,fbs
 401247309,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,84,Indiana,38,130,Michigan,21,fbs,fbs
+401249400,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,30,USC,28,9,Arizona State,27,fbs,fbs
+401212480,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,235,Memphis,34,58,South Florida,33,fbs,fbs
+401234636,2020,10,regular,2020-11-07T17:00:00.000Z,False,False,259,Virginia Tech,35,2335,Liberty,38,fbs,fbs
+401247313,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,2294,Iowa,49,127,Michigan State,7,fbs,fbs
+401215327,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,2247,Georgia State,52,2433,Louisiana Monroe,34,fbs,fbs
+401236022,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,251,Texas,17,277,West Virginia,13,fbs,fbs
 401253924,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,309,Louisiana,27,2032,Arkansas State,20,fbs,fbs
 401234633,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,150,Duke,24,153,North Carolina,56,fbs,fbs
-401212525,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,151,East Carolina,21,2655,Tulane,38,fbs,fbs
-401247313,2020,10,regular,2020-11-07T17:00:00.000Z,False,True,2294,Iowa,49,127,Michigan State,7,fbs,fbs
 401215326,2020,10,regular,2020-11-07T18:00:00.000Z,False,True,290,Georgia Southern,20,2653,Troy,13,fbs,fbs
 401234631,2020,10,regular,2020-11-07T19:00:00.000Z,False,True,183,Syracuse,13,103,Boston College,16,fbs,fbs
 401251931,2020,10,regular,2020-11-07T19:30:00.000Z,False,False,276,Marshall,51,113,UMass,10,fbs,fbs
 401215324,2020,10,regular,2020-11-07T20:00:00.000Z,False,True,326,Texas State,17,2026,Appalachian State,38,fbs,fbs
 401239874,2020,10,regular,2020-11-07T20:00:00.000Z,False,False,2198,Eastern Kentucky,6,2617,Stephen F. Austin,24,fcs,fcs
 401240035,2020,10,regular,2020-11-07T20:00:00.000Z,False,False,2572,Southern Mississippi,24,2453,North Alabama,13,fbs,fcs
-401247312,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,213,Penn State,19,120,Maryland,35,fbs,fbs
-401237125,2020,10,regular,2020-11-07T20:30:00.000Z,True,True,61,Georgia,28,57,Florida,44,fbs,fbs
-401212544,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,2132,Cincinnati,38,248,Houston,10,fbs,fbs
+401236019,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,201,Oklahoma,62,2305,Kansas,9,fbs,fbs
 401249006,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,2439,UNLV,27,278,Fresno State,40,fbs,fbs
+401247312,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,213,Penn State,19,120,Maryland,35,fbs,fbs
 401236021,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,2628,TCU,34,2641,Texas Tech,18,fbs,fbs
 401237126,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,344,Mississippi State,24,238,Vanderbilt,17,fbs,fbs
+401237125,2020,10,regular,2020-11-07T20:30:00.000Z,True,True,61,Georgia,28,57,Florida,44,fbs,fbs
+401212544,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,2132,Cincinnati,38,248,Houston,10,fbs,fbs
 401247308,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,356,Illinois,14,135,Minnesota,41,fbs,fbs
-401236019,2020,10,regular,2020-11-07T20:30:00.000Z,False,True,201,Oklahoma,62,2305,Kansas,9,fbs,fbs
 401236020,2020,10,regular,2020-11-07T21:00:00.000Z,False,True,2306,Kansas State,18,197,Oklahoma State,20,fbs,fbs
-401234634,2020,10,regular,2020-11-07T21:00:00.000Z,False,True,52,Florida State,17,221,Pittsburgh,41,fbs,fbs
 401248273,2020,10,regular,2020-11-07T21:00:00.000Z,False,False,2000,Abilene Christian,21,2025,Angelo State,34,fcs,ii
+401234634,2020,10,regular,2020-11-07T21:00:00.000Z,False,True,52,Florida State,17,221,Pittsburgh,41,fbs,fbs
 401207169,2020,10,regular,2020-11-07T23:00:00.000Z,False,True,2226,Florida Atlantic,10,98,Western Kentucky,6,fbs,fbs
 401236018,2020,10,regular,2020-11-08T00:00:00.000Z,False,True,66,Iowa State,38,239,Baylor,31,fbs,fbs
 401237127,2020,10,regular,2020-11-08T00:00:00.000Z,False,True,2579,South Carolina,3,245,Texas A&M,48,fbs,fbs
 401249402,2020,10,regular,2020-11-08T00:00:00.000Z,False,True,38,Colorado,48,26,UCLA,42,fbs,fbs
 401249399,2020,10,regular,2020-11-08T00:30:00.000Z,False,True,2483,Oregon,35,24,Stanford,14,fbs,fbs
-401247310,2020,10,regular,2020-11-08T00:30:00.000Z,False,True,194,Ohio State,49,164,Rutgers,27,fbs,fbs
 401234632,2020,10,regular,2020-11-08T00:30:00.000Z,False,True,87,Notre Dame,47,228,Clemson,40,fbs,fbs
 401237124,2020,10,regular,2020-11-08T00:30:00.000Z,False,True,8,Arkansas,24,2633,Tennessee,13,fbs,fbs
+401247310,2020,10,regular,2020-11-08T00:30:00.000Z,False,True,194,Ohio State,49,164,Rutgers,27,fbs,fbs
 401215325,2020,10,regular,2020-11-08T01:00:00.000Z,False,True,324,Coastal Carolina,23,6,South Alabama,6,fbs,fbs
 401249397,2020,10,regular,2020-11-08T03:30:00.000Z,False,True,204,Oregon State,28,265,Washington State,38,fbs,fbs
 401249007,2020,10,regular,2020-11-08T04:00:00.000Z,False,True,62,Hawai'i,39,167,New Mexico,33,fbs,fbs
@@ -334,85 +334,85 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401207174,2020,11,regular,2020-11-14T00:00:00.000Z,False,True,2229,Florida International,19,2226,Florida Atlantic,38,fbs,fbs
 401247317,2020,11,regular,2020-11-14T00:00:00.000Z,False,True,135,Minnesota,7,2294,Iowa,35,fbs,fbs
 401212545,2020,11,regular,2020-11-14T00:30:00.000Z,False,True,2132,Cincinnati,55,151,East Carolina,17,fbs,fbs
-401207200,2020,11,regular,2020-11-14T17:00:00.000Z,False,False,2655,Tulane,38,349,Army,12,fbs,fbs
-401236024,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,277,West Virginia,24,2628,TCU,6,fbs,fbs
-401247320,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,158,Nebraska,30,213,Penn State,23,fbs,fbs
 401237132,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,96,Kentucky,38,238,Vanderbilt,35,fbs,fbs
 401207176,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,276,Marshall,42,2393,Middle Tennessee,14,fbs,fbs
-401234642,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,153,North Carolina,59,154,Wake Forest,53,fbs,fbs
-401234641,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,259,Virginia Tech,24,2390,Miami,25,fbs,fbs
+401207200,2020,11,regular,2020-11-14T17:00:00.000Z,False,False,2655,Tulane,38,349,Army,12,fbs,fbs
 401207218,2020,11,regular,2020-11-14T17:00:00.000Z,False,False,2335,Liberty,58,2717,Western Carolina,14,fbs,fcs
+401234641,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,259,Virginia Tech,24,2390,Miami,25,fbs,fbs
+401234642,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,153,North Carolina,59,154,Wake Forest,53,fbs,fbs
 401247316,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,127,Michigan State,0,84,Indiana,24,fbs,fbs
+401236024,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,277,West Virginia,24,2628,TCU,6,fbs,fbs
+401247320,2020,11,regular,2020-11-14T17:00:00.000Z,False,True,158,Nebraska,30,213,Penn State,23,fbs,fbs
 401247314,2020,11,regular,2020-11-14T18:00:00.000Z,False,True,164,Rutgers,20,356,Illinois,23,fbs,fbs
 401215332,2020,11,regular,2020-11-14T19:00:00.000Z,False,True,309,Louisiana,38,6,South Alabama,10,fbs,fbs
-401249013,2020,11,regular,2020-11-14T19:30:00.000Z,False,True,328,Utah State,16,278,Fresno State,35,fbs,fbs
 401215328,2020,11,regular,2020-11-14T19:30:00.000Z,False,True,2026,Appalachian State,17,2247,Georgia State,13,fbs,fbs
+401249013,2020,11,regular,2020-11-14T19:30:00.000Z,False,True,328,Utah State,16,278,Fresno State,35,fbs,fbs
 401207179,2020,11,regular,2020-11-14T20:00:00.000Z,False,True,2636,UT San Antonio,52,2638,UTEP,21,fbs,fbs
-401234637,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,103,Boston College,31,87,Notre Dame,45,fbs,fbs
-401215331,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,290,Georgia Southern,40,326,Texas State,38,fbs,fbs
 401249403,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,12,Arizona,30,30,USC,34,fbs,fbs
 401249406,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,24,Stanford,32,38,Colorado,35,fbs,fbs
+401215331,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,290,Georgia Southern,40,326,Texas State,38,fbs,fbs
 401207178,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,98,Western Kentucky,10,2572,Southern Mississippi,7,fbs,fbs
+401234637,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,103,Boston College,31,87,Notre Dame,45,fbs,fbs
 401257934,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,258,Virginia,31,97,Louisville,17,fbs,fbs
 401212481,2020,11,regular,2020-11-14T20:30:00.000Z,False,True,248,Houston,56,58,South Florida,21,fbs,fbs
+401236023,2020,11,regular,2020-11-14T21:00:00.000Z,False,True,2641,Texas Tech,24,239,Baylor,23,fbs,fbs
 401249014,2020,11,regular,2020-11-14T21:00:00.000Z,False,True,21,San Diego State,34,62,Hawai'i,10,fbs,fbs
 401248074,2020,11,regular,2020-11-14T21:00:00.000Z,False,False,2110,Central Arkansas,37,2198,Eastern Kentucky,25,fcs,fcs
-401236023,2020,11,regular,2020-11-14T21:00:00.000Z,False,True,2641,Texas Tech,24,239,Baylor,23,fbs,fbs
-401247315,2020,11,regular,2020-11-14T22:00:00.000Z,False,True,2509,Purdue,20,77,Northwestern,27,fbs,fbs
 401247413,2020,11,regular,2020-11-14T22:00:00.000Z,False,False,2617,Stephen F. Austin,26,90,Pittsburg State,7,fcs,ii
+401247315,2020,11,regular,2020-11-14T22:00:00.000Z,False,True,2509,Purdue,20,77,Northwestern,27,fbs,fbs
 401249015,2020,11,regular,2020-11-14T23:30:00.000Z,False,True,167,New Mexico,20,2440,Nevada,27,fbs,fbs
-401249405,2020,11,regular,2020-11-15T00:00:00.000Z,False,True,265,Washington State,29,2483,Oregon,43,fbs,fbs
-401237129,2020,11,regular,2020-11-15T00:00:00.000Z,False,True,57,Florida,63,8,Arkansas,35,fbs,fbs
 401212491,2020,11,regular,2020-11-15T00:00:00.000Z,False,True,202,Tulsa,28,2567,SMU,24,fbs,fbs
-401234639,2020,11,regular,2020-11-15T00:30:00.000Z,False,True,152,NC State,38,52,Florida State,22,fbs,fbs
+401237129,2020,11,regular,2020-11-15T00:00:00.000Z,False,True,57,Florida,63,8,Arkansas,35,fbs,fbs
+401249405,2020,11,regular,2020-11-15T00:00:00.000Z,False,True,265,Washington State,29,2483,Oregon,43,fbs,fbs
 401247319,2020,11,regular,2020-11-15T00:30:00.000Z,False,True,130,Michigan,11,275,Wisconsin,49,fbs,fbs
 401212518,2020,11,regular,2020-11-15T00:30:00.000Z,False,True,2116,UCF,38,218,Temple,13,fbs,fbs
 401237133,2020,11,regular,2020-11-15T00:30:00.000Z,False,True,145,Ole Miss,59,2579,South Carolina,42,fbs,fbs
+401234639,2020,11,regular,2020-11-15T00:30:00.000Z,False,True,152,NC State,38,52,Florida State,22,fbs,fbs
 401249016,2020,11,regular,2020-11-15T03:30:00.000Z,False,True,23,San José State,34,2439,UNLV,17,fbs,fbs
 401249404,2020,11,regular,2020-11-15T04:00:00.000Z,False,True,264,Washington,27,204,Oregon State,21,fbs,fbs
 401261454,2020,12,regular,2020-11-15T17:00:00.000Z,False,True,26,UCLA,34,25,California,10,fbs,fbs
 401249868,2020,12,regular,2020-11-18T00:00:00.000Z,False,True,189,Bowling Green,17,2084,Buffalo,42,fbs,fbs
 401249867,2020,12,regular,2020-11-18T01:00:00.000Z,False,True,2309,Kent State,69,2006,Akron,35,fbs,fbs
-401249870,2020,12,regular,2020-11-19T00:00:00.000Z,False,True,2050,Ball State,31,2459,Northern Illinois,25,fbs,fbs
-401249872,2020,12,regular,2020-11-19T00:00:00.000Z,False,True,2117,Central Michigan,44,2711,Western Michigan,52,fbs,fbs
 401249871,2020,12,regular,2020-11-19T00:00:00.000Z,False,True,2199,Eastern Michigan,28,2649,Toledo,45,fbs,fbs
+401249872,2020,12,regular,2020-11-19T00:00:00.000Z,False,True,2117,Central Michigan,44,2711,Western Michigan,52,fbs,fbs
+401249870,2020,12,regular,2020-11-19T00:00:00.000Z,False,True,2050,Ball State,31,2459,Northern Illinois,25,fbs,fbs
 401212526,2020,12,regular,2020-11-20T00:30:00.000Z,False,True,202,Tulsa,30,2655,Tulane,24,fbs,fbs
 401234643,2020,12,regular,2020-11-21T00:00:00.000Z,False,True,97,Louisville,30,183,Syracuse,0,fbs,fbs
 401247325,2020,12,regular,2020-11-21T00:30:00.000Z,False,True,135,Minnesota,34,2509,Purdue,31,fbs,fbs
 401261674,2020,12,regular,2020-11-21T01:00:00.000Z,False,False,2226,Florida Atlantic,24,113,UMass,2,fbs,fbs
 401249018,2020,12,regular,2020-11-21T02:30:00.000Z,False,True,2005,Air Force,28,167,New Mexico,0,fbs,fbs
-401235975,2020,12,regular,2020-11-21T17:00:00.000Z,False,False,349,Army,28,290,Georgia Southern,27,fbs,fbs
-401215334,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,326,Texas State,47,2032,Arkansas State,45,fbs,fbs
-401247321,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,158,Nebraska,23,356,Illinois,41,fbs,fbs
-401212519,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,218,Temple,3,151,East Carolina,28,fbs,fbs
+401237138,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,238,Vanderbilt,17,57,Florida,38,fbs,fbs
 401215333,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,324,Coastal Carolina,34,2026,Appalachian State,23,fbs,fbs
-401237136,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,8,Arkansas,24,99,LSU,27,fbs,fbs
+401212519,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,218,Temple,3,151,East Carolina,28,fbs,fbs
 401247326,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,194,Ohio State,42,84,Indiana,35,fbs,fbs
 401247374,2020,12,regular,2020-11-21T17:00:00.000Z,False,False,235,Memphis,56,2617,Stephen F. Austin,14,fbs,fcs
-401237138,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,238,Vanderbilt,17,57,Florida,38,fbs,fbs
+401215334,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,326,Texas State,47,2032,Arkansas State,45,fbs,fbs
+401247321,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,158,Nebraska,23,356,Illinois,41,fbs,fbs
+401237136,2020,12,regular,2020-11-21T17:00:00.000Z,False,True,8,Arkansas,24,99,LSU,27,fbs,fbs
+401235975,2020,12,regular,2020-11-21T17:00:00.000Z,False,False,349,Army,28,290,Georgia Southern,27,fbs,fbs
 401207181,2020,12,regular,2020-11-21T19:00:00.000Z,False,True,98,Western Kentucky,38,2229,Florida International,21,fbs,fbs
 401207184,2020,12,regular,2020-11-21T19:00:00.000Z,False,True,249,North Texas,27,242,Rice,17,fbs,fbs
 401209818,2020,12,regular,2020-11-21T20:00:00.000Z,False,False,252,BYU,66,2453,North Alabama,14,fbs,fcs
 401207185,2020,12,regular,2020-11-21T20:00:00.000Z,False,True,2572,Southern Mississippi,20,2636,UT San Antonio,23,fbs,fbs
 401239875,2020,12,regular,2020-11-21T20:00:00.000Z,False,False,2198,Eastern Kentucky,49,2717,Western Carolina,17,fcs,fcs
-401247323,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,77,Northwestern,17,275,Wisconsin,7,fbs,fbs
+401212540,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,2116,UCF,33,2132,Cincinnati,36,fbs,fbs
+401249415,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,2483,Oregon,38,26,UCLA,35,fbs,fbs
+401249411,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,204,Oregon State,31,25,California,27,fbs,fbs
 401249019,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,2440,Nevada,26,21,San Diego State,21,fbs,fbs
 401240641,2020,12,regular,2020-11-21T20:30:00.000Z,False,False,2653,Troy,17,2393,Middle Tennessee,20,fbs,fbs
-401249411,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,204,Oregon State,31,25,California,27,fbs,fbs
-401249415,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,2483,Oregon,38,26,UCLA,35,fbs,fbs
-401247327,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,213,Penn State,21,2294,Iowa,41,fbs,fbs
-401212540,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,2116,UCF,33,2132,Cincinnati,36,fbs,fbs
 401215335,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,6,South Alabama,14,2247,Georgia State,31,fbs,fbs
-401248275,2020,12,regular,2020-11-21T21:00:00.000Z,False,False,258,Virginia,55,2000,Abilene Christian,15,fbs,fcs
+401247327,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,213,Penn State,21,2294,Iowa,41,fbs,fbs
+401247323,2020,12,regular,2020-11-21T20:30:00.000Z,False,True,77,Northwestern,17,275,Wisconsin,7,fbs,fbs
 401236025,2020,12,regular,2020-11-21T21:00:00.000Z,False,True,66,Iowa State,45,2306,Kansas State,0,fbs,fbs
-401237135,2020,12,regular,2020-11-21T21:00:00.000Z,False,True,333,Alabama,63,96,Kentucky,3,fbs,fbs
 401234648,2020,12,regular,2020-11-21T21:00:00.000Z,False,True,221,Pittsburgh,47,259,Virginia Tech,14,fbs,fbs
+401248275,2020,12,regular,2020-11-21T21:00:00.000Z,False,False,258,Virginia,55,2000,Abilene Christian,15,fbs,fcs
+401237135,2020,12,regular,2020-11-21T21:00:00.000Z,False,True,333,Alabama,63,96,Kentucky,3,fbs,fbs
 401237137,2020,12,regular,2020-11-22T00:00:00.000Z,False,True,2,Auburn,30,2633,Tennessee,17,fbs,fbs
-401234647,2020,12,regular,2020-11-22T00:30:00.000Z,False,False,152,NC State,15,2335,Liberty,14,fbs,fbs
 401236027,2020,12,regular,2020-11-22T00:30:00.000Z,False,True,201,Oklahoma,41,197,Oklahoma State,13,fbs,fbs
+401234647,2020,12,regular,2020-11-22T00:30:00.000Z,False,False,152,NC State,15,2335,Liberty,14,fbs,fbs
 401247324,2020,12,regular,2020-11-22T00:30:00.000Z,False,True,164,Rutgers,42,130,Michigan,48,fbs,fbs
-401237139,2020,12,regular,2020-11-22T00:30:00.000Z,False,True,61,Georgia,31,344,Mississippi State,24,fbs,fbs
 401237141,2020,12,regular,2020-11-22T00:30:00.000Z,False,True,2579,South Carolina,10,142,Missouri,17,fbs,fbs
+401237139,2020,12,regular,2020-11-22T00:30:00.000Z,False,True,61,Georgia,31,344,Mississippi State,24,fbs,fbs
 401249413,2020,12,regular,2020-11-22T01:00:00.000Z,False,True,264,Washington,44,12,Arizona,27,fbs,fbs
 401249410,2020,12,regular,2020-11-22T03:30:00.000Z,False,True,254,Utah,17,30,USC,33,fbs,fbs
 401249017,2020,12,regular,2020-11-22T04:00:00.000Z,False,True,62,Hawai'i,32,68,Boise State,40,fbs,fbs
@@ -420,75 +420,75 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401236029,2020,13,regular,2020-11-27T17:00:00.000Z,False,True,251,Texas,20,66,Iowa State,23,fbs,fbs
 401251926,2020,13,regular,2020-11-27T17:00:00.000Z,False,False,2335,Liberty,45,113,UMass,0,fbs,fbs
 401247332,2020,13,regular,2020-11-27T18:00:00.000Z,False,True,2294,Iowa,26,158,Nebraska,20,fbs,fbs
-401234650,2020,13,regular,2020-11-27T20:30:00.000Z,False,True,153,North Carolina,17,87,Notre Dame,31,fbs,fbs
 401212483,2020,13,regular,2020-11-27T20:30:00.000Z,False,True,58,South Florida,46,2116,UCF,58,fbs,fbs
+401234650,2020,13,regular,2020-11-27T20:30:00.000Z,False,True,153,North Carolina,17,87,Notre Dame,31,fbs,fbs
 401249028,2020,13,regular,2020-11-27T21:00:00.000Z,False,True,2439,UNLV,14,2751,Wyoming,45,fbs,fbs
 401249874,2020,13,regular,2020-11-27T21:00:00.000Z,False,True,2199,Eastern Michigan,23,2117,Central Michigan,31,fbs,fbs
 401249417,2020,13,regular,2020-11-27T21:30:00.000Z,False,True,25,California,23,24,Stanford,24,fbs,fbs
 401249418,2020,13,regular,2020-11-28T00:30:00.000Z,False,True,204,Oregon State,41,2483,Oregon,38,fbs,fbs
-401247333,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,130,Michigan,17,213,Penn State,27,fbs,fbs
-401249875,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,2711,Western Michigan,30,2459,Northern Illinois,27,fbs,fbs
-401249876,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,195,Ohio,52,189,Bowling Green,10,fbs,fbs
-401212513,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,151,East Carolina,52,2567,SMU,38,fbs,fbs
-401249873,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,2649,Toledo,24,2050,Ball State,27,fbs,fbs
 401249877,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,2084,Buffalo,70,2309,Kent State,41,fbs,fbs
-401234655,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,183,Syracuse,29,152,NC State,36,fbs,fbs
-401236032,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,197,Oklahoma State,50,2641,Texas Tech,44,fbs,fbs
-401237143,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,142,Missouri,41,238,Vanderbilt,0,fbs,fbs
+401249876,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,195,Ohio,52,189,Bowling Green,10,fbs,fbs
+401249875,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,2711,Western Michigan,30,2459,Northern Illinois,27,fbs,fbs
+401249873,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,2649,Toledo,24,2050,Ball State,27,fbs,fbs
 401237144,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,57,Florida,34,96,Kentucky,10,fbs,fbs
-401215339,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,2247,Georgia State,30,290,Georgia Southern,24,fbs,fbs
+401237143,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,142,Missouri,41,238,Vanderbilt,0,fbs,fbs
+401236032,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,197,Oklahoma State,50,2641,Texas Tech,44,fbs,fbs
+401247333,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,130,Michigan,17,213,Penn State,27,fbs,fbs
 401247329,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,84,Indiana,27,120,Maryland,11,fbs,fbs
+401212513,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,151,East Carolina,52,2567,SMU,38,fbs,fbs
+401234655,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,183,Syracuse,29,152,NC State,36,fbs,fbs
+401215339,2020,13,regular,2020-11-28T17:00:00.000Z,False,True,2247,Georgia State,30,290,Georgia Southern,24,fbs,fbs
 401249892,2020,13,regular,2020-11-28T18:00:00.000Z,False,True,2006,Akron,7,193,Miami (OH),38,fbs,fbs
-401215340,2020,13,regular,2020-11-28T20:00:00.000Z,False,True,2433,Louisiana Monroe,20,309,Louisiana,70,fbs,fbs
 401215338,2020,13,regular,2020-11-28T20:00:00.000Z,False,True,326,Texas State,14,324,Coastal Carolina,49,fbs,fbs
 401207191,2020,13,regular,2020-11-28T20:00:00.000Z,False,True,2636,UT San Antonio,49,249,North Texas,17,fbs,fbs
+401215340,2020,13,regular,2020-11-28T20:00:00.000Z,False,True,2433,Louisiana Monroe,20,309,Louisiana,70,fbs,fbs
 401215337,2020,13,regular,2020-11-28T20:00:00.000Z,False,True,2032,Arkansas State,31,6,South Alabama,38,fbs,fbs
-401237142,2020,13,regular,2020-11-28T20:30:00.000Z,False,True,333,Alabama,42,2,Auburn,13,fbs,fbs
-401215336,2020,13,regular,2020-11-28T20:30:00.000Z,False,True,2026,Appalachian State,47,2653,Troy,10,fbs,fbs
 401247330,2020,13,regular,2020-11-28T20:30:00.000Z,False,True,127,Michigan State,29,77,Northwestern,20,fbs,fbs
+401215336,2020,13,regular,2020-11-28T20:30:00.000Z,False,True,2026,Appalachian State,47,2653,Troy,10,fbs,fbs
+401237142,2020,13,regular,2020-11-28T20:30:00.000Z,False,True,333,Alabama,42,2,Auburn,13,fbs,fbs
 401234651,2020,13,regular,2020-11-28T20:30:00.000Z,False,True,228,Clemson,52,221,Pittsburgh,17,fbs,fbs
+401247328,2020,13,regular,2020-11-28T21:00:00.000Z,False,True,2509,Purdue,30,164,Rutgers,37,fbs,fbs
 401237147,2020,13,regular,2020-11-28T21:00:00.000Z,False,True,145,Ole Miss,31,344,Mississippi State,24,fbs,fbs
 401234649,2020,13,regular,2020-11-28T21:00:00.000Z,False,True,103,Boston College,34,97,Louisville,27,fbs,fbs
-401247328,2020,13,regular,2020-11-28T21:00:00.000Z,False,True,2509,Purdue,30,164,Rutgers,37,fbs,fbs
 401265734,2020,13,regular,2020-11-28T22:37:00.000Z,False,False,38,Colorado,20,21,San Diego State,10,fbs,fbs
-401236028,2020,13,regular,2020-11-29T00:00:00.000Z,False,True,239,Baylor,32,2306,Kansas State,31,fbs,fbs
-401234652,2020,13,regular,2020-11-29T00:00:00.000Z,False,True,59,Georgia Tech,56,150,Duke,33,fbs,fbs
-401237146,2020,13,regular,2020-11-29T00:00:00.000Z,False,True,245,Texas A&M,20,99,LSU,7,fbs,fbs
 401264080,2020,13,regular,2020-11-29T00:00:00.000Z,False,True,2426,Navy,7,235,Memphis,10,fbs,fbs
+401237146,2020,13,regular,2020-11-29T00:00:00.000Z,False,True,245,Texas A&M,20,99,LSU,7,fbs,fbs
+401234652,2020,13,regular,2020-11-29T00:00:00.000Z,False,True,59,Georgia Tech,56,150,Duke,33,fbs,fbs
+401236028,2020,13,regular,2020-11-29T00:00:00.000Z,False,True,239,Baylor,32,2306,Kansas State,31,fbs,fbs
 401237145,2020,13,regular,2020-11-29T00:30:00.000Z,False,True,2579,South Carolina,16,61,Georgia,45,fbs,fbs
 401265458,2020,13,regular,2020-11-29T00:30:00.000Z,False,True,264,Washington,24,254,Utah,21,fbs,fbs
-401236030,2020,13,regular,2020-11-29T01:00:00.000Z,False,True,2305,Kansas,23,2628,TCU,59,fbs,fbs
 401249421,2020,13,regular,2020-11-29T01:00:00.000Z,False,True,26,UCLA,27,12,Arizona,10,fbs,fbs
+401236030,2020,13,regular,2020-11-29T01:00:00.000Z,False,True,2305,Kansas,23,2628,TCU,59,fbs,fbs
 401249024,2020,13,regular,2020-11-29T04:00:00.000Z,False,True,62,Hawai'i,24,2440,Nevada,21,fbs,fbs
 401265703,2020,14,regular,2020-12-03T23:00:00.000Z,False,True,249,North Texas,31,2348,Louisiana Tech,42,fbs,fbs
 401249029,2020,14,regular,2020-12-04T02:30:00.000Z,False,True,328,Utah State,7,2005,Air Force,35,fbs,fbs
 401252117,2020,14,regular,2020-12-05T01:30:00.000Z,False,True,2026,Appalachian State,21,309,Louisiana,24,fbs,fbs
 401265818,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,142,Missouri,50,8,Arkansas,48,fbs,fbs
 401257812,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,276,Marshall,0,242,Rice,20,fbs,fbs
-401248781,2020,14,regular,2020-12-05T17:00:00.000Z,False,False,153,North Carolina,49,2717,Western Carolina,9,fbs,fcs
-401247335,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2509,Purdue,27,158,Nebraska,37,fbs,fbs
-401249880,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2459,Northern Illinois,24,2649,Toledo,41,fbs,fbs
 401247336,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,164,Rutgers,7,213,Penn State,23,fbs,fbs
 401264082,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2655,Tulane,35,235,Memphis,21,fbs,fbs
-401247340,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,127,Michigan State,12,194,Ohio State,52,fbs,fbs
+401248781,2020,14,regular,2020-12-05T17:00:00.000Z,False,False,153,North Carolina,49,2717,Western Carolina,9,fbs,fcs
+401247335,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2509,Purdue,27,158,Nebraska,37,fbs,fbs
+401236037,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2628,TCU,29,197,Oklahoma State,22,fbs,fbs
 401236035,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2641,Texas Tech,16,2305,Kansas,13,fbs,fbs
 401236036,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2306,Kansas State,31,251,Texas,69,fbs,fbs
 401237150,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2,Auburn,20,245,Texas A&M,31,fbs,fbs
-401236037,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2628,TCU,29,197,Oklahoma State,22,fbs,fbs
+401247340,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,127,Michigan State,12,194,Ohio State,52,fbs,fbs
+401249880,2020,14,regular,2020-12-05T17:00:00.000Z,False,True,2459,Northern Illinois,24,2649,Toledo,41,fbs,fbs
+401249881,2020,14,regular,2020-12-05T19:00:00.000Z,False,True,2006,Akron,31,189,Bowling Green,3,fbs,fbs
 401249879,2020,14,regular,2020-12-05T19:00:00.000Z,False,True,2711,Western Michigan,42,2199,Eastern Michigan,53,fbs,fbs
 401249878,2020,14,regular,2020-12-05T19:00:00.000Z,False,True,2117,Central Michigan,20,2050,Ball State,45,fbs,fbs
-401249881,2020,14,regular,2020-12-05T19:00:00.000Z,False,True,2006,Akron,31,189,Bowling Green,3,fbs,fbs
 401262494,2020,14,regular,2020-12-05T19:00:00.000Z,False,True,6,South Alabama,0,2653,Troy,29,fbs,fbs
 401234662,2020,14,regular,2020-12-05T19:30:00.000Z,False,True,87,Notre Dame,45,183,Syracuse,21,fbs,fbs
 401262493,2020,14,regular,2020-12-05T20:00:00.000Z,False,True,2032,Arkansas State,48,2433,Louisiana Monroe,15,fbs,fbs
 401264083,2020,14,regular,2020-12-05T20:30:00.000Z,False,True,2426,Navy,6,202,Tulsa,19,fbs,fbs
-401236034,2020,14,regular,2020-12-05T20:30:00.000Z,False,True,66,Iowa State,42,277,West Virginia,6,fbs,fbs
 401234656,2020,14,regular,2020-12-05T20:30:00.000Z,False,True,258,Virginia,43,103,Boston College,32,fbs,fbs
+401236034,2020,14,regular,2020-12-05T20:30:00.000Z,False,True,66,Iowa State,42,277,West Virginia,6,fbs,fbs
 401247338,2020,14,regular,2020-12-05T20:30:00.000Z,False,True,275,Wisconsin,6,84,Indiana,14,fbs,fbs
 401247337,2020,14,regular,2020-12-05T20:30:00.000Z,False,True,356,Illinois,21,2294,Iowa,35,fbs,fbs
 401237151,2020,14,regular,2020-12-05T20:30:00.000Z,False,True,2633,Tennessee,19,57,Florida,31,fbs,fbs
-401234659,2020,14,regular,2020-12-05T21:00:00.000Z,False,True,152,NC State,23,59,Georgia Tech,13,fbs,fbs
 401249424,2020,14,regular,2020-12-05T21:00:00.000Z,False,True,264,Washington,26,24,Stanford,31,fbs,fbs
+401234659,2020,14,regular,2020-12-05T21:00:00.000Z,False,True,152,NC State,23,59,Georgia Tech,13,fbs,fbs
 401237514,2020,14,regular,2020-12-05T22:30:00.000Z,False,False,324,Coastal Carolina,22,252,BYU,17,fbs,fbs
 401249033,2020,14,regular,2020-12-05T23:00:00.000Z,False,True,23,San José State,35,62,Hawai'i,24,fbs,fbs
 401261675,2020,14,regular,2020-12-05T23:00:00.000Z,False,False,290,Georgia Southern,20,2226,Florida Atlantic,3,fbs,fbs
@@ -501,9 +501,9 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401266134,2020,14,regular,2020-12-06T01:00:00.000Z,False,True,150,Duke,0,2390,Miami,48,fbs,fbs
 401265817,2020,14,regular,2020-12-06T01:00:00.000Z,False,True,99,LSU,17,333,Alabama,55,fbs,fbs
 401249032,2020,14,regular,2020-12-06T02:00:00.000Z,False,True,2440,Nevada,37,278,Fresno State,26,fbs,fbs
-401249422,2020,14,regular,2020-12-06T03:30:00.000Z,False,True,254,Utah,30,204,Oregon State,24,fbs,fbs
 401249034,2020,14,regular,2020-12-06T03:30:00.000Z,False,True,167,New Mexico,17,2751,Wyoming,16,fbs,fbs
 401249425,2020,14,regular,2020-12-06T03:30:00.000Z,False,True,9,Arizona State,18,26,UCLA,25,fbs,fbs
+401249422,2020,14,regular,2020-12-06T03:30:00.000Z,False,True,254,Utah,30,204,Oregon State,24,fbs,fbs
 401266789,2020,14,regular,2020-12-06T17:00:00.000Z,False,True,2429,Charlotte,19,98,Western Kentucky,37,fbs,fbs
 401249427,2020,14,regular,2020-12-07T00:30:00.000Z,False,True,30,USC,38,265,Washington State,13,fbs,fbs
 401257813,2020,15,regular,2020-12-10T23:30:00.000Z,False,True,2572,Southern Mississippi,45,2226,Florida Atlantic,31,fbs,fbs
@@ -511,41 +511,41 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401257816,2020,15,regular,2020-12-11T23:00:00.000Z,False,True,2638,UTEP,43,249,North Texas,45,fbs,fbs
 401249429,2020,15,regular,2020-12-12T00:00:00.000Z,False,True,12,Arizona,7,9,Arizona State,70,fbs,fbs
 401249037,2020,15,regular,2020-12-12T03:00:00.000Z,False,True,23,San José State,30,2440,Nevada,20,fbs,fbs
-401247346,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,213,Penn State,39,127,Michigan State,24,fbs,fbs
 401247344,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,77,Northwestern,28,356,Illinois,10,fbs,fbs
+401249428,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,38,Colorado,21,254,Utah,38,fbs,fbs
 401266696,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,97,Louisville,45,154,Wake Forest,21,fbs,fbs
+401247346,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,213,Penn State,39,127,Michigan State,24,fbs,fbs
 401247345,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,158,Nebraska,17,135,Minnesota,24,fbs,fbs
 401247342,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,120,Maryland,24,164,Rutgers,27,fbs,fbs
-401249428,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,38,Colorado,21,254,Utah,38,fbs,fbs
-401249884,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,2199,Eastern Michigan,41,2459,Northern Illinois,33,fbs,fbs
 401267161,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,142,Missouri,14,61,Georgia,49,fbs,fbs
-401267164,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,8,Arkansas,3,333,Alabama,52,fbs,fbs
 401249885,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,2050,Ball State,30,2711,Western Michigan,27,fbs,fbs
+401249884,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,2199,Eastern Michigan,41,2459,Northern Illinois,33,fbs,fbs
+401267164,2020,15,regular,2020-12-12T17:00:00.000Z,False,True,8,Arkansas,3,333,Alabama,52,fbs,fbs
 401257815,2020,15,regular,2020-12-12T18:00:00.000Z,False,True,242,Rice,16,5,UAB,21,fbs,fbs
 401249886,2020,15,regular,2020-12-12T19:30:00.000Z,False,True,2084,Buffalo,56,2006,Akron,7,fbs,fbs
-401259671,2020,15,regular,2020-12-12T20:00:00.000Z,False,True,2653,Troy,38,324,Coastal Carolina,42,fbs,fbs
 401249883,2020,15,regular,2020-12-12T20:00:00.000Z,False,True,2649,Toledo,24,2117,Central Michigan,23,fbs,fbs
+401259671,2020,15,regular,2020-12-12T20:00:00.000Z,False,True,2653,Troy,38,324,Coastal Carolina,42,fbs,fbs
 401207203,2020,15,regular,2020-12-12T20:00:00.000Z,True,False,349,Army,15,2426,Navy,0,fbs,fbs
+401264084,2020,15,regular,2020-12-12T20:30:00.000Z,False,True,235,Memphis,30,248,Houston,27,fbs,fbs
 401234661,2020,15,regular,2020-12-12T20:30:00.000Z,False,True,2390,Miami,26,153,North Carolina,62,fbs,fbs
 401247347,2020,15,regular,2020-12-12T20:30:00.000Z,False,True,2294,Iowa,28,275,Wisconsin,7,fbs,fbs
-401264084,2020,15,regular,2020-12-12T20:30:00.000Z,False,True,235,Memphis,30,248,Houston,27,fbs,fbs
 401250713,2020,15,regular,2020-12-12T20:30:00.000Z,False,True,239,Baylor,3,197,Oklahoma State,42,fbs,fbs
 401267163,2020,15,regular,2020-12-12T21:00:00.000Z,False,True,238,Vanderbilt,17,2633,Tennessee,42,fbs,fbs
 401266694,2020,15,regular,2020-12-12T21:00:00.000Z,False,True,52,Florida State,56,150,Duke,35,fbs,fbs
 401249035,2020,15,regular,2020-12-12T23:00:00.000Z,False,True,2751,Wyoming,9,68,Boise State,17,fbs,fbs
 401215309,2020,15,regular,2020-12-12T23:00:00.000Z,False,True,290,Georgia Southern,26,2026,Appalachian State,34,fbs,fbs
-401251100,2020,15,regular,2020-12-13T00:00:00.000Z,False,True,57,Florida,34,99,LSU,37,fbs,fbs
 401266711,2020,15,regular,2020-12-13T00:00:00.000Z,False,False,2628,TCU,52,2348,Louisiana Tech,10,fbs,fbs
-401260157,2020,15,regular,2020-12-13T00:30:00.000Z,False,True,344,Mississippi State,10,2,Auburn,24,fbs,fbs
+401251100,2020,15,regular,2020-12-13T00:00:00.000Z,False,True,57,Florida,34,99,LSU,37,fbs,fbs
 401249431,2020,15,regular,2020-12-13T00:30:00.000Z,False,True,26,UCLA,38,30,USC,43,fbs,fbs
+401260157,2020,15,regular,2020-12-13T00:30:00.000Z,False,True,344,Mississippi State,10,2,Auburn,24,fbs,fbs
 401234572,2020,15,regular,2020-12-13T01:00:00.000Z,False,True,259,Virginia Tech,33,258,Virginia,15,fbs,fbs
 401249432,2020,15,regular,2020-12-13T03:00:00.000Z,False,True,204,Oregon State,24,24,Stanford,27,fbs,fbs
 401249435,2020,15,regular,2020-12-13T03:00:00.000Z,False,False,252,BYU,28,21,San Diego State,14,fbs,fbs
 401249036,2020,15,regular,2020-12-13T03:30:00.000Z,False,True,167,New Mexico,49,278,Fresno State,39,fbs,fbs
 401249038,2020,15,regular,2020-12-13T04:00:00.000Z,False,True,62,Hawai'i,38,2439,UNLV,21,fbs,fbs
 401240101,2020,16,regular,2020-12-19T00:00:00.000Z,False,True,276,Marshall,13,5,UAB,22,fbs,fbs
-401249854,2020,16,regular,2020-12-19T00:30:00.000Z,True,True,2084,Buffalo,28,2050,Ball State,38,fbs,fbs
 401269382,2020,16,regular,2020-12-19T00:30:00.000Z,False,True,164,Rutgers,21,158,Nebraska,28,fbs,fbs
+401249854,2020,16,regular,2020-12-19T00:30:00.000Z,True,True,2084,Buffalo,28,2050,Ball State,38,fbs,fbs
 401249434,2020,16,regular,2020-12-19T01:00:00.000Z,False,True,30,USC,24,2483,Oregon,31,fbs,fbs
 401247349,2020,16,regular,2020-12-19T17:00:00.000Z,True,True,194,Ohio State,22,77,Northwestern,10,fbs,fbs
 401262060,2020,16,regular,2020-12-19T17:00:00.000Z,True,True,66,Iowa State,21,201,Oklahoma,27,fbs,fbs

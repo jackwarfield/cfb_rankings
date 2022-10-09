@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 6-0      | 3186   |
-| 2     | Clemson              | ACC                  | 5-0      | 3079   |
-| 3     | Ole Miss             | SEC                  | 6-0      | 2926   |
-| 4     | Tennessee            | SEC                  | 5-0      | 2807   |
-| 5     | TCU                  | Big 12               | 5-0      | 2805   |
-| 6     | Alabama              | SEC                  | 5-0      | 2794   |
-| 7     | Oklahoma State       | Big 12               | 5-0      | 2762   |
-| 8     | Penn State           | Big Ten              | 5-0      | 2750   |
-| 9     | Oregon               | Pac-12               | 4-1      | 2707   |
-| 10    | Wake Forest          | ACC                  | 4-1      | 2686   |
-| 11    | Michigan             | Big Ten              | 6-0      | 2684   |
-| 12    | Syracuse             | ACC                  | 5-0      | 2679   |
-| 13    | UCLA                 | Pac-12               | 6-0      | 2598   |
-| 14    | Ohio State           | Big Ten              | 6-0      | 2584   |
-| 15    | Kentucky             | SEC                  | 4-1      | 2425   |
-| 16    | USC                  | Pac-12               | 5-0      | 2425   |
-| 17    | James Madison        | Sun Belt             | 4-0      | 2419   |
-| 18    | NC State             | ACC                  | 4-1      | 2418   |
-| 19    | Florida State        | ACC                  | 4-1      | 2417   |
-| 20    | Kansas               | Big 12               | 5-1      | 2361   |
-| 21    | BYU                  | FBS Independents     | 4-1      | 2341   |
-| 22    | Coastal Carolina     | Sun Belt             | 5-0      | 2338   |
-| 23    | LSU                  | SEC                  | 4-2      | 2304   |
-| 24    | Purdue               | Big Ten              | 4-2      | 2251   |
-| 25    | Washington State     | Pac-12               | 4-1      | 2196   |
+| 1     | Georgia              | SEC                  | 6-0      | 3131   |
+| 2     | Clemson              | ACC                  | 5-0      | 3093   |
+| 3     | Alabama              | SEC                  | 5-0      | 2805   |
+| 4     | Tennessee            | SEC                  | 5-0      | 2783   |
+| 5     | TCU                  | Big 12               | 5-0      | 2776   |
+| 6     | Penn State           | Big Ten              | 5-0      | 2753   |
+| 7     | Ole Miss             | SEC                  | 6-0      | 2737   |
+| 8     | Oklahoma State       | Big 12               | 5-0      | 2721   |
+| 9     | Wake Forest          | ACC                  | 5-1      | 2699   |
+| 10    | Ohio State           | Big Ten              | 6-0      | 2685   |
+| 11    | Syracuse             | ACC                  | 5-0      | 2679   |
+| 12    | Michigan             | Big Ten              | 6-0      | 2667   |
+| 13    | Oregon               | Pac-12               | 4-1      | 2598   |
+| 14    | UCLA                 | Pac-12               | 6-0      | 2594   |
+| 15    | NC State             | ACC                  | 4-1      | 2437   |
+| 16    | Florida State        | ACC                  | 4-1      | 2426   |
+| 17    | USC                  | Pac-12               | 5-0      | 2417   |
+| 18    | James Madison        | Sun Belt             | 5-0      | 2344   |
+| 19    | Coastal Carolina     | Sun Belt             | 5-0      | 2337   |
+| 20    | Kansas               | Big 12               | 5-1      | 2315   |
+| 21    | LSU                  | SEC                  | 4-2      | 2312   |
+| 22    | Purdue               | Big Ten              | 4-2      | 2249   |
+| 23    | Washington State     | Pac-12               | 4-1      | 2196   |
+| 24    | Mississippi State    | SEC                  | 5-1      | 2162   |
+| 25    | Liberty              | FBS Independents     | 5-1      | 2110   |
 
-Updated 10/08/2022 21:30:12
+Updated 10/08/2022 22:00:09
