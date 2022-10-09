@@ -26,4 +26,4 @@
 | 24    | Washington State     | Pac-12               | 4-2      | 2135   |
 | 25    | Kansas State         | Big 12               | 5-1      | 2124   |
 
-Updated 10/09/2022 03:00:07
+Updated 10/09/2022 08:15:08
