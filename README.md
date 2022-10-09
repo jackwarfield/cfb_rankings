@@ -5,7 +5,7 @@
 | 3     | Ole Miss             | SEC                  | 6-0      | 2929   |
 | 4     | Tennessee            | SEC                  | 5-0      | 2810   |
 | 5     | TCU                  | Big 12               | 5-0      | 2805   |
-| 6     | Alabama              | SEC                  | 5-0      | 2794   |
+| 6     | Alabama              | SEC                  | 5-0      | 2793   |
 | 7     | Oklahoma State       | Big 12               | 5-0      | 2762   |
 | 8     | Penn State           | Big Ten              | 5-0      | 2752   |
 | 9     | Oregon               | Pac-12               | 4-1      | 2710   |
@@ -26,4 +26,4 @@
 | 24    | Purdue               | Big Ten              | 4-2      | 2253   |
 | 25    | Washington State     | Pac-12               | 4-1      | 2200   |
 
-Updated 10/08/2022 20:15:07
+Updated 10/08/2022 20:30:14
