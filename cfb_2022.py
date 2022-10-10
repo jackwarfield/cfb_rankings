@@ -28,7 +28,7 @@ s_ind = list(sched.index)
 
 year = sched.loc[0, 'season']
 df['rd'] = 600*np.ones(len(df))
-for i in range(int(11)):
+for i in range(int(max_week-run_week)):
     for i in s_ind:
         id1 = sched.loc[i, 'home_id']
         id2 = sched.loc[i, 'away_id']
