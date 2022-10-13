@@ -26,4 +26,4 @@
 | 24    | Mississippi State    | SEC                  | 5-1      | 2160   |
 | 25    | Vanderbilt           | SEC                  | 3-3      | 2147   |
 
-Updated 10/12/2022 23:00:09
+Updated 10/13/2022 10:59:23
