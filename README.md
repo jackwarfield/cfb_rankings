@@ -26,4 +26,4 @@
 | 24    | Washington State     | Pac-12               | 4-2      | 2145   |
 | 25    | Vanderbilt           | SEC                  | 3-3      | 2145   |
 
-Updated 10/14/2022 23:47:34
+Updated 10/15/2022 08:52:27
