@@ -1,11 +1,11 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Clemson              | ACC                  | 7-0      | 3261   |
+| 1     | Clemson              | ACC                  | 7-0      | 3262   |
 | 2     | Michigan             | Big Ten              | 7-0      | 3175   |
 | 3     | Tennessee            | SEC                  | 6-0      | 3146   |
 | 4     | Georgia              | SEC                  | 7-0      | 3104   |
 | 5     | Syracuse             | ACC                  | 6-0      | 3080   |
-| 6     | TCU                  | Big 12               | 6-0      | 2991   |
+| 6     | TCU                  | Big 12               | 6-0      | 2992   |
 | 7     | Ole Miss             | SEC                  | 7-0      | 2903   |
 | 8     | UCLA                 | Pac-12               | 6-0      | 2792   |
 | 9     | Wake Forest          | ACC                  | 5-1      | 2743   |
@@ -26,4 +26,4 @@
 | 24    | Maryland             | Big Ten              | 5-2      | 2087   |
 | 25    | Auburn               | SEC                  | 3-4      | 2084   |
 
-Updated 10/15/2022 22:19:45
+Updated 10/15/2022 22:30:11
