@@ -23,7 +23,7 @@
 | 21    | Kansas State         | Big 12               | 5-1      | 2184   |
 | 22    | Liberty              | FBS Independents     | 6-1      | 2178   |
 | 23    | Texas Tech           | Big 12               | 3-3      | 2107   |
-| 24    | Texas                | Big 12               | 5-2      | 2092   |
+| 24    | Texas                | Big 12               | 5-2      | 2093   |
 | 25    | Maryland             | Big Ten              | 5-2      | 2083   |
 
-Updated 10/15/2022 17:30:13
+Updated 10/15/2022 18:00:11
