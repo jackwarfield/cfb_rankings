@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Clemson              | ACC                  | 7-0      | 3259   |
-| 2     | Michigan             | Big Ten              | 7-0      | 3177   |
-| 3     | Georgia              | SEC                  | 7-0      | 3140   |
-| 4     | Tennessee            | SEC                  | 6-0      | 3139   |
+| 1     | Clemson              | ACC                  | 7-0      | 3261   |
+| 2     | Michigan             | Big Ten              | 7-0      | 3176   |
+| 3     | Tennessee            | SEC                  | 6-0      | 3145   |
+| 4     | Georgia              | SEC                  | 7-0      | 3120   |
 | 5     | Syracuse             | ACC                  | 6-0      | 3080   |
-| 6     | TCU                  | Big 12               | 6-0      | 2995   |
-| 7     | Ole Miss             | SEC                  | 7-0      | 2893   |
-| 8     | Wake Forest          | ACC                  | 5-1      | 2738   |
-| 9     | UCLA                 | Pac-12               | 6-0      | 2695   |
+| 6     | TCU                  | Big 12               | 6-0      | 2992   |
+| 7     | Ole Miss             | SEC                  | 7-0      | 2903   |
+| 8     | UCLA                 | Pac-12               | 6-0      | 2775   |
+| 9     | Wake Forest          | ACC                  | 5-1      | 2743   |
 | 10    | Penn State           | Big Ten              | 5-1      | 2686   |
-| 11    | USC                  | Pac-12               | 6-0      | 2665   |
-| 12    | NC State             | ACC                  | 5-2      | 2629   |
-| 13    | Alabama              | SEC                  | 6-1      | 2596   |
-| 14    | Ohio State           | Big Ten              | 6-0      | 2540   |
-| 15    | Oregon               | Pac-12               | 5-1      | 2511   |
-| 16    | Oklahoma State       | Big 12               | 5-1      | 2458   |
-| 17    | Florida State        | ACC                  | 4-3      | 2360   |
-| 18    | Purdue               | Big Ten              | 5-2      | 2356   |
-| 19    | LSU                  | SEC                  | 5-2      | 2313   |
-| 20    | Liberty              | FBS Independents     | 6-1      | 2165   |
-| 21    | Kansas State         | Big 12               | 5-1      | 2162   |
-| 22    | Kentucky             | SEC                  | 5-2      | 2114   |
-| 23    | Maryland             | Big Ten              | 5-2      | 2094   |
-| 24    | Auburn               | SEC                  | 3-4      | 2078   |
-| 25    | Texas Tech           | Big 12               | 3-3      | 2075   |
+| 11    | NC State             | ACC                  | 5-2      | 2633   |
+| 12    | Alabama              | SEC                  | 6-1      | 2598   |
+| 13    | Ohio State           | Big Ten              | 6-0      | 2541   |
+| 14    | Oklahoma State       | Big 12               | 5-1      | 2455   |
+| 15    | Oregon               | Pac-12               | 5-1      | 2452   |
+| 16    | Florida State        | ACC                  | 4-3      | 2373   |
+| 17    | Purdue               | Big Ten              | 5-2      | 2354   |
+| 18    | LSU                  | SEC                  | 5-2      | 2342   |
+| 19    | Liberty              | FBS Independents     | 6-1      | 2166   |
+| 20    | Kansas State         | Big 12               | 5-1      | 2159   |
+| 21    | Kentucky             | SEC                  | 5-2      | 2157   |
+| 22    | Utah                 | Pac-12               | 5-2      | 2138   |
+| 23    | USC                  | Pac-12               | 6-1      | 2091   |
+| 24    | Auburn               | SEC                  | 3-4      | 2091   |
+| 25    | Maryland             | Big Ten              | 5-2      | 2090   |
 
-Updated 10/15/2022 20:15:12
+Updated 10/15/2022 20:30:12
