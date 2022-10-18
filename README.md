@@ -16,7 +16,7 @@
 | 14    | Oklahoma State       | Big 12               | 5-1      | 2453   |
 | 15    | Oregon               | Pac-12               | 5-1      | 2410   |
 | 16    | Florida State        | ACC                  | 4-3      | 2358   |
-| 17    | Purdue               | Big Ten              | 5-2      | 2341   |
+| 17    | Purdue               | Big Ten              | 5-2      | 2340   |
 | 18    | LSU                  | SEC                  | 5-2      | 2313   |
 | 19    | Utah                 | Pac-12               | 5-2      | 2175   |
 | 20    | Liberty              | FBS Independents     | 6-1      | 2163   |
@@ -26,4 +26,4 @@
 | 24    | Maryland             | Big Ten              | 5-2      | 2080   |
 | 25    | Texas Tech           | Big 12               | 3-3      | 2069   |
 
-Updated 10/15/2022 23:30:10
+Updated 10/16/2022 16:13:36
