@@ -26,4 +26,4 @@
 | 24    | Maryland             | Big Ten              | 5-2      | 2098   |
 | 25    | Florida              | SEC                  | 4-3      | 2091   |
 
-Updated 10/20/2022 11:30:21
+Updated 10/20/2022 14:35:44
