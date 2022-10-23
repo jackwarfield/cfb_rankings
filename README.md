@@ -26,4 +26,4 @@
 | 24    | Texas Tech           | Big 12               | 4-3      | 2125   |
 | 25    | Mississippi State    | SEC                  | 5-2      | 2073   |
 
-Updated 10/22/2022 20:12:17
+Updated 10/22/2022 20:15:05
