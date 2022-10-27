@@ -26,4 +26,4 @@
 | 24    | Texas Tech           | Big 12               | 4-3      | 2134   |
 | 25    | South Carolina       | SEC                  | 5-2      | 2106   |
 
-Updated 10/25/2022 12:00:22
+Updated 10/27/2022 13:23:39

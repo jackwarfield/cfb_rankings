@@ -28,7 +28,7 @@ def main() -> int:
     s2 = df.loc[df.school == away, 'rating'].values[0]
     r2 = df.loc[df.school == away, 'rd'].values[0]
     home_prob = prob(s1, r1, s2, r2)
-    sched.loc[i, 'home_prob'] = int(100*home_prob)
+    sched.loc[i, 'home_prob'] = home_prob
 
   sched = sched[(sched.home_prob > 0.6) | (sched.home_prob < 0.4)]
   print(sched)
