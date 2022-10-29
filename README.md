@@ -6,7 +6,7 @@
 | 4     | TCU                  | Big 12               | 8-0      | 3289   |
 | 5     | Ohio State           | Big Ten              | 8-0      | 3097   |
 | 6     | Michigan             | Big Ten              | 7-0      | 3074   |
-| 7     | Oregon               | Pac-12               | 6-1      | 2934   |
+| 7     | Oregon               | Pac-12               | 6-1      | 2935   |
 | 8     | Wake Forest          | ACC                  | 6-1      | 2872   |
 | 9     | Alabama              | SEC                  | 7-1      | 2738   |
 | 10    | Oklahoma State       | Big 12               | 6-1      | 2677   |
@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 5-2      | 2156   |
 | 25    | Oregon State         | Pac-12               | 6-2      | 2125   |
 
-Updated 10/29/2022 16:00:15
+Updated 10/29/2022 16:15:06
