@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Clemson              | ACC                  | 8-0      | 3660   |
-| 2     | Georgia              | SEC                  | 7-0      | 3445   |
+| 1     | Georgia              | SEC                  | 7-0      | 3450   |
+| 2     | Clemson              | ACC                  | 8-0      | 3432   |
 | 3     | Tennessee            | SEC                  | 7-0      | 3344   |
-| 4     | TCU                  | Big 12               | 7-0      | 3263   |
-| 5     | Michigan             | Big Ten              | 7-0      | 3167   |
-| 6     | Syracuse             | ACC                  | 6-1      | 3098   |
-| 7     | Wake Forest          | ACC                  | 6-1      | 3008   |
-| 8     | Oregon               | Pac-12               | 6-1      | 2925   |
-| 9     | NC State             | ACC                  | 6-2      | 2784   |
-| 10    | Alabama              | SEC                  | 7-1      | 2722   |
-| 11    | Ohio State           | Big Ten              | 7-0      | 2714   |
-| 12    | Oklahoma State       | Big 12               | 6-1      | 2683   |
-| 13    | Florida State        | ACC                  | 4-3      | 2575   |
-| 14    | UCLA                 | Pac-12               | 6-1      | 2561   |
-| 15    | LSU                  | SEC                  | 6-2      | 2555   |
-| 16    | Penn State           | Big Ten              | 6-1      | 2552   |
-| 17    | Ole Miss             | SEC                  | 7-1      | 2402   |
-| 18    | Liberty              | FBS Independents     | 7-1      | 2348   |
-| 19    | Utah                 | Pac-12               | 6-2      | 2282   |
-| 20    | USC                  | Pac-12               | 6-1      | 2237   |
-| 21    | Kansas State         | Big 12               | 5-2      | 2227   |
-| 22    | Florida              | SEC                  | 4-3      | 2176   |
-| 23    | Kentucky             | SEC                  | 5-2      | 2174   |
-| 24    | Texas Tech           | Big 12               | 4-3      | 2158   |
-| 25    | Tulane               | American Athletic    | 7-1      | 2120   |
+| 4     | TCU                  | Big 12               | 8-0      | 3288   |
+| 5     | Ohio State           | Big Ten              | 8-0      | 3095   |
+| 6     | Michigan             | Big Ten              | 7-0      | 3073   |
+| 7     | Oregon               | Pac-12               | 6-1      | 2934   |
+| 8     | Wake Forest          | ACC                  | 6-1      | 2873   |
+| 9     | Alabama              | SEC                  | 7-1      | 2738   |
+| 10    | Oklahoma State       | Big 12               | 6-1      | 2676   |
+| 11    | UCLA                 | Pac-12               | 6-1      | 2573   |
+| 12    | LSU                  | SEC                  | 6-2      | 2478   |
+| 13    | Penn State           | Big Ten              | 6-2      | 2416   |
+| 14    | Florida State        | ACC                  | 5-3      | 2380   |
+| 15    | NC State             | ACC                  | 6-2      | 2373   |
+| 16    | Ole Miss             | SEC                  | 7-1      | 2356   |
+| 17    | Liberty              | FBS Independents     | 7-1      | 2320   |
+| 18    | Utah                 | Pac-12               | 6-2      | 2295   |
+| 19    | USC                  | Pac-12               | 6-1      | 2260   |
+| 20    | Syracuse             | ACC                  | 6-2      | 2223   |
+| 21    | Kansas State         | Big 12               | 5-2      | 2210   |
+| 22    | Kentucky             | SEC                  | 5-2      | 2181   |
+| 23    | Florida              | SEC                  | 4-3      | 2164   |
+| 24    | South Carolina       | SEC                  | 5-2      | 2156   |
+| 25    | Oregon State         | Pac-12               | 6-2      | 2125   |
 
-Updated 10/29/2022 15:00:09
+Updated 10/29/2022 15:30:07
