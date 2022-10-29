@@ -26,4 +26,4 @@
 | 24    | Texas Tech           | Big 12               | 4-3      | 2158   |
 | 25    | Tulane               | American Athletic    | 7-1      | 2120   |
 
-Updated 10/29/2022 12:15:05
+Updated 10/29/2022 14:30:07
