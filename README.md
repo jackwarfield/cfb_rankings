@@ -4,7 +4,7 @@
 | 2     | Tennessee            | SEC                  | 7-0      | 3312   |
 | 3     | Clemson              | ACC                  | 8-0      | 3174   |
 | 4     | TCU                  | Big 12               | 8-0      | 3140   |
-| 5     | Ohio State           | Big Ten              | 8-0      | 3114   |
+| 5     | Ohio State           | Big Ten              | 8-0      | 3113   |
 | 6     | Michigan             | Big Ten              | 7-0      | 3091   |
 | 7     | Oregon               | Pac-12               | 7-1      | 2971   |
 | 8     | Alabama              | SEC                  | 7-1      | 2692   |
@@ -12,18 +12,18 @@
 | 10    | Penn State           | Big Ten              | 6-2      | 2443   |
 | 11    | LSU                  | SEC                  | 6-2      | 2421   |
 | 12    | Kansas State         | Big 12               | 6-2      | 2369   |
-| 13    | NC State             | ACC                  | 6-2      | 2321   |
+| 13    | NC State             | ACC                  | 6-2      | 2320   |
 | 14    | Ole Miss             | SEC                  | 7-1      | 2318   |
 | 15    | Utah                 | Pac-12               | 6-2      | 2306   |
-| 16    | Oklahoma State       | Big 12               | 6-2      | 2291   |
+| 16    | Oklahoma State       | Big 12               | 6-2      | 2290   |
 | 17    | USC                  | Pac-12               | 6-1      | 2271   |
-| 18    | Syracuse             | ACC                  | 6-2      | 2250   |
-| 19    | Florida State        | ACC                  | 5-3      | 2228   |
-| 20    | Wake Forest          | ACC                  | 6-2      | 2204   |
+| 18    | Syracuse             | ACC                  | 6-2      | 2249   |
+| 19    | Florida State        | ACC                  | 5-3      | 2227   |
+| 20    | Wake Forest          | ACC                  | 6-2      | 2203   |
 | 21    | Tulane               | American Athletic    | 7-1      | 2178   |
 | 22    | Florida              | SEC                  | 4-4      | 2159   |
 | 23    | Oregon State         | Pac-12               | 6-2      | 2140   |
-| 24    | Kentucky             | SEC                  | 5-2      | 2103   |
+| 24    | Kentucky             | SEC                  | 5-2      | 2102   |
 | 25    | Texas Tech           | Big 12               | 4-3      | 2077   |
 
-Updated 10/29/2022 20:15:05
+Updated 10/29/2022 22:00:09
