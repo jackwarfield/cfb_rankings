@@ -26,4 +26,4 @@
 | 24    | Kentucky             | SEC                  | 5-2      | 2103   |
 | 25    | Texas Tech           | Big 12               | 4-3      | 2077   |
 
-Updated 10/29/2022 20:00:10
+Updated 10/29/2022 20:15:05
