@@ -26,4 +26,4 @@
 | 24    | Kentucky             | SEC                  | 5-3      | 2127   |
 | 25    | Mississippi State    | SEC                  | 5-3      | 2066   |
 
-Updated 11/04/2022 10:00:09
+Updated 11/04/2022 10:29:46
