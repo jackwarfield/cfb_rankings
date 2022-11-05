@@ -26,4 +26,4 @@
 | 24    | Mississippi State    | SEC                  | 5-3      | 2064   |
 | 25    | Washington           | Pac-12               | 7-2      | 2053   |
 
-Updated 11/05/2022 09:50:24
+Updated 11/05/2022 09:35:52
