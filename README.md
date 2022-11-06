@@ -11,19 +11,19 @@
 | 9     | Penn State           | Big Ten              | 7-2      | 2466   |
 | 10    | Ole Miss             | SEC                  | 8-1      | 2389   |
 | 11    | Alabama              | SEC                  | 7-2      | 2382   |
-| 12    | Utah                 | Pac-12               | 7-2      | 2363   |
+| 12    | Utah                 | Pac-12               | 7-2      | 2364   |
 | 13    | Clemson              | ACC                  | 8-1      | 2353   |
-| 14    | USC                  | Pac-12               | 7-1      | 2312   |
+| 14    | USC                  | Pac-12               | 7-1      | 2313   |
 | 15    | Florida              | SEC                  | 5-4      | 2226   |
 | 16    | NC State             | ACC                  | 7-2      | 2180   |
 | 17    | Kentucky             | SEC                  | 6-3      | 2179   |
-| 18    | Notre Dame           | FBS Independents     | 6-3      | 2141   |
+| 18    | Notre Dame           | FBS Independents     | 6-3      | 2142   |
 | 19    | Florida State        | ACC                  | 6-3      | 2108   |
-| 20    | Washington           | Pac-12               | 7-2      | 2099   |
+| 20    | Washington           | Pac-12               | 7-2      | 2100   |
 | 21    | Kansas State         | Big 12               | 6-3      | 2091   |
 | 22    | Mississippi State    | SEC                  | 6-3      | 2089   |
-| 23    | Oregon State         | Pac-12               | 6-3      | 2087   |
+| 23    | Oregon State         | Pac-12               | 6-3      | 2088   |
 | 24    | Liberty              | FBS Independents     | 8-1      | 2081   |
 | 25    | North Carolina       | ACC                  | 8-1      | 2058   |
 
-Updated 11/05/2022 23:41:10
+Updated 11/06/2022 01:00:09
