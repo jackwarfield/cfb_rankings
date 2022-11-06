@@ -26,4 +26,4 @@
 | 24    | Liberty              | FBS Independents     | 8-1      | 2082   |
 | 25    | North Carolina       | ACC                  | 8-1      | 2059   |
 
-Updated 11/06/2022 13:30:12
+Updated 11/06/2022 18:10:10
