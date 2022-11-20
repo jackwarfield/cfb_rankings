@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 10-0     | 3832   |
-| 2     | Ohio State           | Big Ten              | 10-0     | 3354   |
-| 3     | Michigan             | Big Ten              | 10-0     | 3341   |
-| 4     | TCU                  | Big 12               | 10-0     | 3139   |
-| 5     | Tennessee            | SEC                  | 9-1      | 3133   |
-| 6     | Penn State           | Big Ten              | 8-2      | 2576   |
-| 7     | LSU                  | SEC                  | 8-2      | 2503   |
-| 8     | Alabama              | SEC                  | 8-2      | 2444   |
-| 9     | Oregon               | Pac-12               | 8-2      | 2313   |
-| 10    | Clemson              | ACC                  | 9-1      | 2309   |
-| 11    | USC                  | Pac-12               | 9-1      | 2304   |
-| 12    | Utah                 | Pac-12               | 8-2      | 2282   |
-| 13    | Ole Miss             | SEC                  | 8-2      | 2233   |
-| 14    | UCLA                 | Pac-12               | 8-2      | 2208   |
-| 15    | Washington           | Pac-12               | 8-2      | 2207   |
-| 16    | Florida              | SEC                  | 6-4      | 2169   |
-| 17    | North Carolina       | ACC                  | 9-1      | 2139   |
-| 18    | Notre Dame           | FBS Independents     | 7-3      | 2134   |
-| 19    | Oregon State         | Pac-12               | 7-3      | 2110   |
-| 20    | Kansas State         | Big 12               | 7-3      | 2088   |
-| 21    | Florida State        | ACC                  | 7-3      | 2083   |
-| 22    | Mississippi State    | SEC                  | 6-4      | 2053   |
-| 23    | Oklahoma State       | Big 12               | 7-3      | 2042   |
-| 24    | Texas                | Big 12               | 6-4      | 2026   |
-| 25    | Washington State     | Pac-12               | 6-4      | 1986   |
+| 1     | Georgia              | SEC                  | 11-0     | 3454   |
+| 2     | Ohio State           | Big Ten              | 11-0     | 3372   |
+| 3     | Michigan             | Big Ten              | 11-0     | 3364   |
+| 4     | TCU                  | Big 12               | 11-0     | 3167   |
+| 5     | Penn State           | Big Ten              | 9-2      | 2571   |
+| 6     | Tennessee            | SEC                  | 9-2      | 2394   |
+| 7     | USC                  | Pac-12               | 10-1     | 2334   |
+| 8     | LSU                  | SEC                  | 8-2      | 2328   |
+| 9     | Alabama              | SEC                  | 9-2      | 2292   |
+| 10    | Clemson              | ACC                  | 10-1     | 2269   |
+| 11    | Oregon               | Pac-12               | 8-2      | 2254   |
+| 12    | Utah                 | Pac-12               | 8-2      | 2228   |
+| 13    | Washington           | Pac-12               | 8-2      | 2145   |
+| 14    | UCLA                 | Pac-12               | 8-3      | 2108   |
+| 15    | Kansas State         | Big 12               | 8-3      | 2100   |
+| 16    | Oregon State         | Pac-12               | 8-3      | 2091   |
+| 17    | Notre Dame           | FBS Independents     | 8-3      | 2065   |
+| 18    | Ole Miss             | SEC                  | 8-3      | 2061   |
+| 19    | Florida State        | ACC                  | 8-3      | 2052   |
+| 20    | Texas                | Big 12               | 7-4      | 2050   |
+| 21    | Mississippi State    | SEC                  | 7-4      | 2029   |
+| 22    | South Carolina       | SEC                  | 7-4      | 2001   |
+| 23    | Florida              | SEC                  | 6-5      | 1998   |
+| 24    | Washington State     | Pac-12               | 7-4      | 1989   |
+| 25    | North Carolina       | ACC                  | 9-2      | 1954   |
 
-Updated 11/17/2022 00:36:37
+Updated 11/20/2022 00:11:12
