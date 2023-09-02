@@ -2,3 +2,4 @@
 __pycache__/*
 *.sh
 check.py
+.DS_Store
