@@ -7,15 +7,15 @@
 | 5     | Penn State           | Big Ten              | 0-0      | 2392   |
 | 6     | Alabama              | SEC                  | 0-0      | 2343   |
 | 7     | Utah                 | Pac-12               | 1-0      | 2329   |
-| 8     | Oregon               | Pac-12               | 1-0      | 2263   |
-| 9     | Washington           | Pac-12               | 0-0      | 2253   |
+| 8     | Washington           | Pac-12               | 1-0      | 2324   |
+| 9     | Oregon               | Pac-12               | 1-0      | 2264   |
 | 10    | USC                  | Pac-12               | 1-0      | 2230   |
 | 11    | LSU                  | SEC                  | 0-0      | 2225   |
-| 12    | Oregon State         | Pac-12               | 0-0      | 2220   |
+| 12    | Oregon State         | Pac-12               | 0-0      | 2221   |
 | 13    | Kansas State         | Big 12               | 0-0      | 2154   |
 | 14    | Clemson              | ACC                  | 0-0      | 2150   |
 | 15    | Mississippi State    | SEC                  | 1-0      | 2142   |
-| 16    | Colorado             | Pac-12               | 1-0      | 2135   |
+| 16    | Colorado             | Pac-12               | 1-0      | 2136   |
 | 17    | Tulane               | American Athletic    | 0-0      | 2133   |
 | 18    | Notre Dame           | FBS Independents     | 2-0      | 2124   |
 | 19    | Fresno State         | Mountain West        | 1-0      | 2115   |
@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 0-0      | 2035   |
 | 25    | Iowa                 | Big Ten              | 1-0      | 2032   |
 
-Updated 09/02/2023 18:00:17
+Updated 09/02/2023 18:30:19
