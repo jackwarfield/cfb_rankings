@@ -15,11 +15,11 @@ Boise State,68,Mountain West,Mountain,fbs,1500,600.0,0.06
 Boston College,103,ACC,Atlantic,fbs,1500,600.0,0.06
 Bowling Green,189,Mid-American,East,fbs,1500,600.0,0.06
 Buffalo,2084,Mid-American,East,fbs,1500,600.0,0.06
-BYU,252,FBS Independents,,fbs,1500,600.0,0.06
+BYU,252,Big 12,,fbs,1500,600.0,0.06
 California,25,Pac-12,,fbs,1500,600.0,0.06
 Central Michigan,2117,Mid-American,West,fbs,1500,600.0,0.06
-Charlotte,2429,Conference USA,,fbs,1500,600.0,0.06
-Cincinnati,2132,American Athletic,,fbs,1500,600.0,0.06
+Charlotte,2429,American Athletic,,fbs,1500,600.0,0.06
+Cincinnati,2132,Big 12,,fbs,1500,600.0,0.06
 Clemson,228,ACC,Atlantic,fbs,1500,600.0,0.06
 Coastal Carolina,324,Sun Belt,East,fbs,1500,600.0,0.06
 Colorado,38,Pac-12,,fbs,1500,600.0,0.06
@@ -29,7 +29,7 @@ Duke,150,ACC,Coastal,fbs,1500,600.0,0.06
 East Carolina,151,American Athletic,,fbs,1500,600.0,0.06
 Eastern Michigan,2199,Mid-American,West,fbs,1500,600.0,0.06
 Florida,57,SEC,East,fbs,1500,600.0,0.06
-Florida Atlantic,2226,Conference USA,,fbs,1500,600.0,0.06
+Florida Atlantic,2226,American Athletic,,fbs,1500,600.0,0.06
 Florida International,2229,Conference USA,,fbs,1500,600.0,0.06
 Florida State,52,ACC,Atlantic,fbs,1500,600.0,0.06
 Fresno State,278,Mountain West,West,fbs,1500,600.0,0.06
@@ -38,17 +38,18 @@ Georgia Southern,290,Sun Belt,East,fbs,1500,600.0,0.06
 Georgia State,2247,Sun Belt,East,fbs,1500,600.0,0.06
 Georgia Tech,59,ACC,Coastal,fbs,1500,600.0,0.06
 Hawai'i,62,Mountain West,West,fbs,1500,600.0,0.06
-Houston,248,American Athletic,,fbs,1500,600.0,0.06
+Houston,248,Big 12,,fbs,1500,600.0,0.06
 Illinois,356,Big Ten,West,fbs,1500,600.0,0.06
 Indiana,84,Big Ten,East,fbs,1500,600.0,0.06
 Iowa,2294,Big Ten,West,fbs,1500,600.0,0.06
 Iowa State,66,Big 12,,fbs,1500,600.0,0.06
+Jacksonville State,55,Conference USA,,fbs,1500,600.0,0.06
 James Madison,256,Sun Belt,East,fbs,1500,600.0,0.06
 Kansas,2305,Big 12,,fbs,1500,600.0,0.06
 Kansas State,2306,Big 12,,fbs,1500,600.0,0.06
 Kent State,2309,Mid-American,East,fbs,1500,600.0,0.06
 Kentucky,96,SEC,East,fbs,1500,600.0,0.06
-Liberty,2335,FBS Independents,,fbs,1500,600.0,0.06
+Liberty,2335,Conference USA,,fbs,1500,600.0,0.06
 Louisiana,309,Sun Belt,West,fbs,1500,600.0,0.06
 Louisiana Monroe,2433,Sun Belt,West,fbs,1500,600.0,0.06
 Louisiana Tech,2348,Conference USA,,fbs,1500,600.0,0.06
@@ -70,10 +71,10 @@ NC State,152,ACC,Atlantic,fbs,1500,600.0,0.06
 Nebraska,158,Big Ten,West,fbs,1500,600.0,0.06
 Nevada,2440,Mountain West,West,fbs,1500,600.0,0.06
 New Mexico,167,Mountain West,Mountain,fbs,1500,600.0,0.06
-New Mexico State,166,FBS Independents,,fbs,1500,600.0,0.06
+New Mexico State,166,Conference USA,,fbs,1500,600.0,0.06
 North Carolina,153,ACC,Coastal,fbs,1500,600.0,0.06
 Northern Illinois,2459,Mid-American,West,fbs,1500,600.0,0.06
-North Texas,249,Conference USA,,fbs,1500,600.0,0.06
+North Texas,249,American Athletic,,fbs,1500,600.0,0.06
 Northwestern,77,Big Ten,West,fbs,1500,600.0,0.06
 Notre Dame,87,FBS Independents,,fbs,1500,600.0,0.06
 Ohio,195,Mid-American,East,fbs,1500,600.0,0.06
@@ -87,8 +88,9 @@ Oregon State,204,Pac-12,,fbs,1500,600.0,0.06
 Penn State,213,Big Ten,East,fbs,1500,600.0,0.06
 Pittsburgh,221,ACC,Coastal,fbs,1500,600.0,0.06
 Purdue,2509,Big Ten,West,fbs,1500,600.0,0.06
-Rice,242,Conference USA,,fbs,1500,600.0,0.06
+Rice,242,American Athletic,,fbs,1500,600.0,0.06
 Rutgers,164,Big Ten,East,fbs,1500,600.0,0.06
+Sam Houston State,2534,Conference USA,,fbs,1500,600.0,0.06
 San Diego State,21,Mountain West,West,fbs,1500,600.0,0.06
 San José State,23,Mountain West,West,fbs,1500,600.0,0.06
 SMU,2567,American Athletic,,fbs,1500,600.0,0.06
@@ -109,8 +111,8 @@ Toledo,2649,Mid-American,West,fbs,1500,600.0,0.06
 Troy,2653,Sun Belt,West,fbs,1500,600.0,0.06
 Tulane,2655,American Athletic,,fbs,1500,600.0,0.06
 Tulsa,202,American Athletic,,fbs,1500,600.0,0.06
-UAB,5,Conference USA,,fbs,1500,600.0,0.06
-UCF,2116,American Athletic,,fbs,1500,600.0,0.06
+UAB,5,American Athletic,,fbs,1500,600.0,0.06
+UCF,2116,Big 12,,fbs,1500,600.0,0.06
 UCLA,26,Pac-12,,fbs,1500,600.0,0.06
 UMass,113,FBS Independents,,fbs,1500,600.0,0.06
 UNLV,2439,Mountain West,West,fbs,1500,600.0,0.06
@@ -118,7 +120,7 @@ USC,30,Pac-12,,fbs,1500,600.0,0.06
 Utah,254,Pac-12,,fbs,1500,600.0,0.06
 Utah State,328,Mountain West,Mountain,fbs,1500,600.0,0.06
 UTEP,2638,Conference USA,,fbs,1500,600.0,0.06
-UT San Antonio,2636,Conference USA,,fbs,1500,600.0,0.06
+UT San Antonio,2636,American Athletic,,fbs,1500,600.0,0.06
 Vanderbilt,238,SEC,East,fbs,1500,600.0,0.06
 Virginia,258,ACC,Coastal,fbs,1500,600.0,0.06
 Virginia Tech,259,ACC,Coastal,fbs,1500,600.0,0.06
