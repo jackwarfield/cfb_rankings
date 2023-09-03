@@ -137,17 +137,17 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401532570,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2005,Air Force,42.0,2523,Robert Morris,7.0,fbs,fcs
 401544115,2023,1,regular,2023-09-02T17:00:00.000Z,False,True,2614,St. Vincent,0.0,2686,Washington & Jefferson,51.0,iii,iii
 401541092,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2733,Wilmington (OH),63.0,2748,Wooster,43.0,iii,iii
-401541101,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2702,Western New England,14.0,81,Springfield,28.0,iii,iii
+401549802,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2828,Shenandoah,44.0,291,Methodist,29.0,iii,iii
 401553000,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2725,Widener,42.0,2354,Lycoming,21.0,iii,iii
 401549810,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2913,Brevard College,23.0,2683,Warner,29.0,iii,
 401544954,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,188,Baldwin-Wallace,33.0,2419,Mount St. Joseph,46.0,iii,iii
 401550391,2023,1,regular,2023-09-02T17:00:00.000Z,False,True,146,Grove City College,17.0,2849,Westminster PA,7.0,iii,iii
 401552992,2023,1,regular,2023-09-02T17:00:00.000Z,False,True,2248,Gettysburg,40.0,246,Juniata,20.0,iii,iii
 401551917,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2969,Misericordia,14.0,3162,Alfred State College,24.0,iii,iii
-401549802,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2828,Shenandoah,44.0,291,Methodist,29.0,iii,iii
 401544871,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2207,Elizabeth City State,23.0,2107,Catawba,31.0,ii,ii
-401550025,2023,1,regular,2023-09-02T17:00:00.000Z,False,True,2845,Waynesburg,36.0,2018,Allegheny,39.0,iii,iii
+401541101,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2702,Western New England,14.0,81,Springfield,28.0,iii,iii
 401550309,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,3111,Apprentice School,14.0,2047,Averett,34.0,iii,iii
+401550025,2023,1,regular,2023-09-02T17:00:00.000Z,False,True,2845,Waynesburg,36.0,2018,Allegheny,39.0,iii,iii
 401544060,2023,1,regular,2023-09-02T17:00:00.000Z,False,False,2970,William Paterson,29.0,2221,FDU-Florham,33.0,iii,iii
 401550091,2023,1,regular,2023-09-02T17:30:00.000Z,False,False,2121,Centre,7.0,2262,Hanover,10.0,iii,iii
 401544962,2023,1,regular,2023-09-02T17:30:00.000Z,False,False,2233,Franklin,32.0,354,Olivet College,35.0,iii,iii
@@ -157,12 +157,12 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401550219,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,2044,Aurora,38.0,2812,Hope,17.0,iii,iii
 401544069,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,72,Elmhurst,14.0,2003,Adrian,3.0,iii,iii
 401550179,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,162,Hamline,45.0,509,Crown College,13.0,iii,iii
-401541120,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,2151,Concordia (IL),14.0,2257,Greenville,41.0,iii,iii
 401549767,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,409,Concordia (WI),55.0,446,Martin Luther College,14.0,iii,iii
 401550153,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,124,Augsburg,52.0,583,Northwestern (MN),10.0,iii,iii
+401540258,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,149,Montana,13.0,2086,Butler,6.0,fcs,fcs
 401550451,2023,1,regular,2023-09-02T18:00:00.000Z,True,False,2591,St. Ambrose,7.0,2744,UW-Stout,35.0,,iii
 401547080,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,2968,Gustavus Adolphus,51.0,63,Buena Vista,7.0,iii,iii
-401540258,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,149,Montana,13.0,2086,Butler,6.0,fcs,fcs
+401541120,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,2151,Concordia (IL),14.0,2257,Greenville,41.0,iii,iii
 401547099,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,2155,Cornell College (IA),6.0,2141,Coe,56.0,iii,iii
 401545800,2023,1,regular,2023-09-02T18:00:00.000Z,False,True,2043,Augustana (SD),38.0,559,University of Mary,7.0,ii,ii
 401520168,2023,1,regular,2023-09-02T18:00:00.000Z,False,False,145,Ole Miss,73.0,2382,Mercer,7.0,fbs,fcs
@@ -178,37 +178,38 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401541043,2023,1,regular,2023-09-02T18:05:00.000Z,False,False,271,UW-Oshkosh,48.0,2639,Texas Lutheran,31.0,iii,iii
 401523992,2023,1,regular,2023-09-02T19:00:00.000Z,False,False,2483,Oregon,81.0,2502,Portland State,7.0,fbs,fcs
 401540155,2023,1,regular,2023-09-02T19:00:00.000Z,True,False,2261,Hampton,28.0,2755,Grambling,17.0,fcs,fcs
-401520180,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,275,Wisconsin,38.0,2084,Buffalo,17.0,fbs,fbs
 401525435,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,87,Notre Dame,56.0,2634,Tennessee State,3.0,fbs,fcs
+401520180,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,275,Wisconsin,38.0,2084,Buffalo,17.0,fbs,fbs
 401520161,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,120,Maryland,38.0,119,Towson,6.0,fbs,fcs
 401525818,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,2132,Cincinnati,66.0,2198,Eastern Kentucky,13.0,fbs,fcs
 401520156,2023,1,regular,2023-09-02T19:30:00.000Z,False,True,84,Indiana,3.0,194,Ohio State,23.0,fbs,fbs
 401525465,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,221,Pittsburgh,45.0,2747,Wofford,6.0,fbs,fcs
-401520181,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,98,Western Kentucky,41.0,58,South Florida,24.0,fbs,fbs
+401525824,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,251,Texas,37.0,242,Rice,10.0,fbs,fbs
 401523997,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,264,Washington,56.0,68,Boise State,19.0,fbs,fbs
 401520151,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,2,Auburn,59.0,113,UMass,14.0,fbs,fbs
-401525824,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,251,Texas,37.0,242,Rice,10.0,fbs,fbs
 401540235,2023,1,regular,2023-09-02T19:30:00.000Z,True,False,2449,North Dakota State,28.0,331,Eastern Washington,7.0,fcs,fcs
+401520181,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,98,Western Kentucky,41.0,58,South Florida,24.0,fbs,fbs
 401531835,2023,1,regular,2023-09-02T19:30:00.000Z,False,False,2026,Appalachian State,38.0,2241,Gardner-Webb,24.0,fbs,fcs
-401540369,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,155,North Dakota,48.0,2181,Drake,7.0,fcs,fcs
 401544144,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,2486,Pacific Lutheran,14.0,29,Redlands,24.0,iii,iii
-401520150,2023,1,regular,2023-09-02T20:00:00.000Z,True,False,8,Arkansas,56.0,2717,Western Carolina,10.0,fbs,fcs
-401523991,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,249,North Texas,21.0,25,California,58.0,fbs,fbs
-401525466,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,183,Syracuse,65.0,2142,Colgate,0.0,fbs,fcs
-401550874,2023,1,regular,2023-09-02T20:00:00.000Z,False,True,2508,Puget Sound,42.0,2333,Lewis & Clark,38.0,iii,iii
-401551509,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,2094,Cal Lutheran,41.0,2588,Southwestern University,35.0,iii,iii
 401532572,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,2439,UNLV,27.0,2803,Bryant,6.0,fbs,fcs
+401551509,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,2094,Cal Lutheran,41.0,2588,Southwestern University,35.0,iii,iii
+401550874,2023,1,regular,2023-09-02T20:00:00.000Z,False,True,2508,Puget Sound,42.0,2333,Lewis & Clark,38.0,iii,iii
 401520164,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,344,Mississippi State,41.0,2545,Southeastern Louisiana,7.0,fbs,fcs
+401523991,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,249,North Texas,21.0,25,California,58.0,fbs,fbs
+401540369,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,155,North Dakota,48.0,2181,Drake,7.0,fcs,fcs
+401520150,2023,1,regular,2023-09-02T20:00:00.000Z,True,False,8,Arkansas,56.0,2717,Western Carolina,10.0,fbs,fcs
+401525466,2023,1,regular,2023-09-02T20:00:00.000Z,False,False,183,Syracuse,65.0,2142,Colgate,0.0,fbs,fcs
 401549743,2023,1,regular,2023-09-02T21:00:00.000Z,False,False,3112,Christopher Newport,45.0,2896,Southern Virginia,0.0,iii,iii
+401531418,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2226,Florida Atlantic,42.0,2405,Monmouth,14.0,fbs,fcs
 401539978,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,257,Richmond,10.0,2415,Morgan State,17.0,fcs,fcs
 401531837,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,256,James Madison,38.0,2083,Bucknell,3.0,fbs,fcs
-401531838,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,276,Marshall,21.0,399,Albany,17.0,fbs,fcs
 401540027,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2529,Sacred Heart,7.0,322,Lafayette,13.0,fcs,fcs
+401531402,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2429,Charlotte,24.0,2569,South Carolina State,3.0,fbs,fcs
 401550046,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2362,Manchester,14.0,75,North Park,23.0,iii,iii
 401540115,2023,1,regular,2023-09-02T22:00:00.000Z,False,True,2011,Alabama State,14.0,2582,Southern,10.0,fcs,fcs
 401547020,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2331,Lenoir-Rhyne,45.0,395,St. Augustine's,7.0,ii,ii
 401540565,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,56,Stetson,20.0,125730,St. Thomas University (Fl),20.0,fcs,
-401531402,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2429,Charlotte,24.0,2569,South Carolina State,3.0,fbs,fcs
+401531838,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,276,Marshall,21.0,399,Albany,17.0,fbs,fcs
 401541023,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,209,Lock Haven,58.0,126086,Post University,7.0,ii,ii
 401531836,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,290,Georgia Southern,31.0,2643,The Citadel,0.0,fbs,fcs
 401540698,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2292,Indianapolis,39.0,2273,Hillsdale,20.0,ii,ii
@@ -216,26 +217,25 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401540043,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2230,Fordham,39.0,2681,Wagner,16.0,fcs,fcs
 401520154,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,61,Georgia,48.0,2630,UT Martin,7.0,fbs,fcs
 401541797,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,215,Slippery Rock,28.0,131,Wayne State (MI),17.0,ii,ii
-401531418,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2226,Florida Atlantic,42.0,2405,Monmouth,14.0,fbs,fcs
 401541885,2023,1,regular,2023-09-02T22:00:00.000Z,False,False,2940,Livingstone,7.0,124180,Bluefield,41.0,ii,ii
 401520153,2023,1,regular,2023-09-02T22:30:00.000Z,False,False,2229,Florida International,14.0,311,Maine,12.0,fbs,fcs
 401523996,2023,1,regular,2023-09-02T22:30:00.000Z,False,False,30,USC,66.0,2440,Nevada,14.0,fbs,fbs
 401540173,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,79,Southern Illinois,42.0,2046,Austin Peay,3.0,fcs,fcs
 401525823,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,197,Oklahoma State,27.0,2110,Central Arkansas,13.0,fbs,fcs
-401551481,2023,1,regular,2023-09-02T23:00:00.000Z,True,False,2824,OK Panhandle St,7.0,2586,Southwest Baptist,65.0,ii,ii
 401544125,2023,1,regular,2023-09-02T23:00:00.000Z,False,True,2644,Thiel College,0.0,2963,Case Western Reserve,14.0,iii,iii
 401531841,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2653,Troy,41.0,2617,Stephen F. Austin,23.0,fbs,fcs
-401523990,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,36,Colorado State,24.0,265,Washington State,49.0,fbs,fbs
-401531426,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,235,Memphis,56.0,2065,Bethune-Cookman,7.0,fbs,fcs
+401531840,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2572,Southern Mississippi,40.0,2016,Alcorn State,14.0,fbs,fcs
+401551481,2023,1,regular,2023-09-02T23:00:00.000Z,True,False,2824,OK Panhandle St,7.0,2586,Southwest Baptist,65.0,ii,ii
 401520178,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,238,Vanderbilt,47.0,2010,Alabama A&M,10.0,fbs,fcs
 401540363,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,93,Murray State,17.0,2506,Presbyterian College,10.0,fcs,fcs
+401523990,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,36,Colorado State,24.0,265,Washington State,49.0,fbs,fbs
 401550184,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2359,Macalester,44.0,2399,Minnesota-Morris,30.0,iii,iii
-401531840,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2572,Southern Mississippi,40.0,2016,Alcorn State,14.0,fbs,fcs
+401531426,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,235,Memphis,56.0,2065,Bethune-Cookman,7.0,fbs,fcs
 401525821,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2306,Kansas State,45.0,2546,Southeast Missouri State,0.0,fbs,fcs
-401525819,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,248,Houston,17.0,2636,UT San Antonio,14.0,fbs,fbs
 401540200,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2453,North Alabama,27.0,236,Chattanooga,27.0,fcs,fcs
 401541063,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2074,Bluffton,51.0,352,Kenyon,35.0,iii,iii
 401520173,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,245,Texas A&M,52.0,167,New Mexico,10.0,fbs,fbs
+401525819,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,248,Houston,17.0,2636,UT San Antonio,14.0,fbs,fbs
 401520175,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2433,Louisiana Monroe,17.0,349,Army,13.0,fbs,fbs
 401553015,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,15,Anna Maria College,51.0,2909,Westfield State,27.0,iii,iii
 401544935,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2564,Simpson College,27.0,2042,Augustana (IL),49.0,iii,iii
@@ -244,19 +244,21 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401541864,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,2673,Valdosta State,63.0,3179,Point University,10.0,ii,
 401525817,2023,1,regular,2023-09-02T23:00:00.000Z,False,False,239,Baylor,31.0,326,Texas State,42.0,fbs,fbs
 401547078,2023,1,regular,2023-09-02T23:00:00.000Z,True,False,267,Southeastern University,20.0,2542,Savannah State,23.0,,ii
+401520169,2023,1,regular,2023-09-02T23:30:00.000Z,False,False,213,Penn State,38.0,277,West Virginia,15.0,fbs,fbs
 401520149,2023,1,regular,2023-09-02T23:30:00.000Z,False,False,333,Alabama,56.0,2393,Middle Tennessee,7.0,fbs,fbs
 401520155,2023,1,regular,2023-09-02T23:30:00.000Z,False,False,356,Illinois,30.0,2649,Toledo,28.0,fbs,fbs
 401525825,2023,1,regular,2023-09-02T23:30:00.000Z,False,False,2751,Wyoming,33.0,2641,Texas Tech,33.0,fbs,fbs
 401550373,2023,1,regular,2023-09-02T23:30:00.000Z,False,True,2242,Geneva College,0.0,2102,Carnegie Mellon,31.0,iii,iii
 401520167,2023,1,regular,2023-09-02T23:30:00.000Z,True,False,153,North Carolina,31.0,2579,South Carolina,17.0,fbs,fbs
 401531839,2023,1,regular,2023-09-02T23:30:00.000Z,False,False,309,Louisiana,38.0,2466,Northwestern State,13.0,fbs,fcs
-401520169,2023,1,regular,2023-09-02T23:30:00.000Z,False,False,213,Penn State,38.0,277,West Virginia,15.0,fbs,fbs
 401547140,2023,1,regular,2023-09-03T00:00:00.000Z,False,False,415,George Fox University,3.0,2758,Howard Payne,17.0,iii,iii
 401525467,2023,1,regular,2023-09-03T00:00:00.000Z,False,False,259,Virginia Tech,36.0,295,Old Dominion,17.0,fbs,fbs
 401540980,2023,1,regular,2023-09-03T00:00:00.000Z,False,False,2570,Colorado State-Pueblo,37.0,2395,Midwestern State,8.0,ii,ii
 401531347,2023,1,regular,2023-09-03T00:00:00.000Z,False,False,2655,Tulane,37.0,6,South Alabama,17.0,fbs,fbs
 401540213,2023,1,regular,2023-09-03T00:00:00.000Z,False,False,2377,McNeese,24.0,2627,Tarleton State,31.0,fcs,fcs
 401544898,2023,1,regular,2023-09-03T00:00:00.000Z,False,False,2001,Adams State,35.0,124179,Lincoln University (CA),16.0,ii,
-401520177,2023,1,regular,2023-09-03T01:00:00.000Z,False,False,2638,UTEP,28.0,2916,Incarnate Word,14.0,fbs,fcs
 401520166,2023,1,regular,2023-09-03T01:00:00.000Z,False,False,166,New Mexico State,58.0,2710,Western Illinois,21.0,fbs,fcs
+401520177,2023,1,regular,2023-09-03T01:00:00.000Z,False,False,2638,UTEP,28.0,2916,Incarnate Word,14.0,fbs,fcs
 401523989,2023,1,regular,2023-09-03T02:00:00.000Z,False,False,12,Arizona,38.0,2464,Northern Arizona,3.0,fbs,fcs
+401520152,2023,1,regular,2023-09-03T02:15:00.000Z,False,False,252,BYU,14.0,2534,Sam Houston State,0.0,fbs,fbs
+401523995,2023,1,regular,2023-09-03T02:30:00.000Z,False,False,26,UCLA,27.0,324,Coastal Carolina,13.0,fbs,fbs
