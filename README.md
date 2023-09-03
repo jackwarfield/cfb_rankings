@@ -12,18 +12,18 @@
 | 10    | USC                  | Pac-12               | 2-0      | 2242   |
 | 11    | Oregon State         | Pac-12               | 0-0      | 2224   |
 | 12    | LSU                  | SEC                  | 0-0      | 2224   |
-| 13    | Tulane               | American Athletic    | 1-0      | 2217   |
-| 14    | Kansas State         | Big 12               | 1-0      | 2157   |
-| 15    | North Carolina       | ACC                  | 1-0      | 2151   |
-| 16    | Clemson              | ACC                  | 0-0      | 2147   |
-| 17    | Mississippi State    | SEC                  | 1-0      | 2141   |
+| 13    | Tulane               | American Athletic    | 1-0      | 2219   |
+| 14    | Kansas State         | Big 12               | 1-0      | 2158   |
+| 15    | North Carolina       | ACC                  | 1-0      | 2150   |
+| 16    | Clemson              | ACC                  | 0-0      | 2146   |
+| 17    | Mississippi State    | SEC                  | 1-0      | 2142   |
 | 18    | Colorado             | Pac-12               | 1-0      | 2139   |
-| 19    | Notre Dame           | FBS Independents     | 2-0      | 2124   |
+| 19    | Notre Dame           | FBS Independents     | 2-0      | 2121   |
 | 20    | Fresno State         | Mountain West        | 1-0      | 2113   |
 | 21    | Florida State        | ACC                  | 0-0      | 2086   |
-| 22    | Louisville           | ACC                  | 1-0      | 2065   |
-| 23    | Texas                | Big 12               | 1-0      | 2045   |
-| 24    | UCLA                 | Pac-12               | 0-0      | 2044   |
-| 25    | Iowa                 | Big Ten              | 1-0      | 2031   |
+| 22    | Louisville           | ACC                  | 1-0      | 2064   |
+| 23    | Texas                | Big 12               | 1-0      | 2046   |
+| 24    | UCLA                 | Pac-12               | 0-0      | 2045   |
+| 25    | Iowa                 | Big Ten              | 1-0      | 2030   |
 
-Updated 09/02/2023 22:00:21
+Updated 09/02/2023 22:30:22
