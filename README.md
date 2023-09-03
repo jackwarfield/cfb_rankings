@@ -8,7 +8,7 @@
 | 6     | Alabama              | SEC                  | 1-0      | 2357   |
 | 7     | Washington           | Pac-12               | 1-0      | 2338   |
 | 8     | Utah                 | Pac-12               | 1-0      | 2333   |
-| 9     | Oregon               | Pac-12               | 1-0      | 2279   |
+| 9     | Oregon               | Pac-12               | 1-0      | 2280   |
 | 10    | USC                  | Pac-12               | 2-0      | 2251   |
 | 11    | Tulane               | American Athletic    | 1-0      | 2240   |
 | 12    | Oregon State         | Pac-12               | 0-0      | 2228   |
@@ -23,7 +23,7 @@
 | 21    | Fresno State         | Mountain West        | 1-0      | 2120   |
 | 22    | Florida State        | ACC                  | 0-0      | 2092   |
 | 23    | Louisville           | ACC                  | 1-0      | 2078   |
-| 24    | Texas                | Big 12               | 1-0      | 2037   |
+| 24    | Texas                | Big 12               | 1-0      | 2038   |
 | 25    | Iowa                 | Big Ten              | 1-0      | 2033   |
 
-Updated 09/03/2023 02:00:17
+Updated 09/03/2023 02:30:16
