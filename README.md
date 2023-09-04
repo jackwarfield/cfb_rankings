@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 1-0      | 3731   |
-| 2     | Michigan             | Big Ten              | 1-0      | 2600   |
-| 3     | Ohio State           | Big Ten              | 1-0      | 2564   |
-| 4     | Tennessee            | SEC                  | 1-0      | 2452   |
-| 5     | Penn State           | Big Ten              | 1-0      | 2443   |
-| 6     | Alabama              | SEC                  | 1-0      | 2357   |
-| 7     | Washington           | Pac-12               | 1-0      | 2338   |
+| 1     | Georgia              | SEC                  | 1-0      | 3726   |
+| 2     | Michigan             | Big Ten              | 1-0      | 2594   |
+| 3     | Ohio State           | Big Ten              | 1-0      | 2561   |
+| 4     | Tennessee            | SEC                  | 1-0      | 2445   |
+| 5     | Penn State           | Big Ten              | 1-0      | 2437   |
+| 6     | Alabama              | SEC                  | 1-0      | 2347   |
+| 7     | Washington           | Pac-12               | 1-0      | 2343   |
 | 8     | Utah                 | Pac-12               | 1-0      | 2333   |
-| 9     | Oregon               | Pac-12               | 1-0      | 2280   |
-| 10    | USC                  | Pac-12               | 2-0      | 2251   |
-| 11    | Tulane               | American Athletic    | 1-0      | 2240   |
-| 12    | Oregon State         | Pac-12               | 0-0      | 2228   |
-| 13    | LSU                  | SEC                  | 0-0      | 2221   |
-| 14    | North Carolina       | ACC                  | 1-0      | 2167   |
-| 15    | Clemson              | ACC                  | 0-0      | 2151   |
-| 16    | Kansas State         | Big 12               | 1-0      | 2150   |
-| 17    | UCLA                 | Pac-12               | 1-0      | 2150   |
-| 18    | Mississippi State    | SEC                  | 1-0      | 2138   |
-| 19    | Colorado             | Pac-12               | 1-0      | 2136   |
-| 20    | Notre Dame           | FBS Independents     | 2-0      | 2127   |
-| 21    | Fresno State         | Mountain West        | 1-0      | 2120   |
-| 22    | Florida State        | ACC                  | 0-0      | 2092   |
-| 23    | Louisville           | ACC                  | 1-0      | 2078   |
-| 24    | Texas                | Big 12               | 1-0      | 2038   |
-| 25    | Iowa                 | Big Ten              | 1-0      | 2033   |
+| 9     | Oregon               | Pac-12               | 1-0      | 2281   |
+| 10    | Oregon State         | Pac-12               | 1-0      | 2256   |
+| 11    | USC                  | Pac-12               | 2-0      | 2254   |
+| 12    | Tulane               | American Athletic    | 1-0      | 2235   |
+| 13    | LSU                  | SEC                  | 0-0      | 2215   |
+| 14    | North Carolina       | ACC                  | 1-0      | 2162   |
+| 15    | UCLA                 | Pac-12               | 1-0      | 2150   |
+| 16    | Clemson              | ACC                  | 0-0      | 2146   |
+| 17    | Mississippi State    | SEC                  | 1-0      | 2134   |
+| 18    | Fresno State         | Mountain West        | 1-0      | 2130   |
+| 19    | Notre Dame           | FBS Independents     | 2-0      | 2128   |
+| 20    | Kansas State         | Big 12               | 1-0      | 2125   |
+| 21    | Colorado             | Pac-12               | 1-0      | 2124   |
+| 22    | Florida State        | ACC                  | 0-0      | 2084   |
+| 23    | Louisville           | ACC                  | 1-0      | 2073   |
+| 24    | Iowa                 | Big Ten              | 1-0      | 2038   |
+| 25    | Texas                | Big 12               | 1-0      | 2014   |
 
-Updated 09/03/2023 02:30:16
+Updated 09/03/2023 19:19:00
