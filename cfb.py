@@ -282,4 +282,4 @@ with open('./README.md', 'w') as f:
     print(f'Updated {todayprint}', file=f)
 
 
-df.to_csv('teams_2022_rankings.csv', index=False)
+df.to_csv('teams_2023_rankings.csv', index=False)
