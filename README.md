@@ -26,4 +26,4 @@
 | 24    | Texas                | Big 12               | 1-0      | 2014   |
 | 25    | Minnesota            | Big Ten              | 1-0      | 2007   |
 
-Updated 09/05/2023 12:00:09
+Updated 09/06/2023 15:24:23
