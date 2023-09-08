@@ -26,4 +26,4 @@
 | 24    | Minnesota            | Big Ten              | 1-0      | 2020   |
 | 25    | Texas                | Big 12               | 1-0      | 2019   |
 
-Updated 09/07/2023 23:00:26
+Updated 09/08/2023 00:00:21
