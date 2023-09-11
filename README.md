@@ -8,10 +8,10 @@
 | 6     | Florida State        | ACC                  | 2-0      | 2424   |
 | 7     | Tennessee            | SEC                  | 2-0      | 2403   |
 | 8     | Utah                 | Pac-12               | 2-0      | 2377   |
-| 9     | Ole Miss             | SEC                  | 2-0      | 2354   |
+| 9     | Ole Miss             | SEC                  | 2-0      | 2355   |
 | 10    | USC                  | Pac-12               | 3-0      | 2347   |
 | 11    | Notre Dame           | FBS Independents     | 3-0      | 2347   |
-| 12    | Washington           | Pac-12               | 2-0      | 2346   |
+| 12    | Washington           | Pac-12               | 2-0      | 2347   |
 | 13    | Oregon               | Pac-12               | 2-0      | 2345   |
 | 14    | Kansas State         | Big 12               | 2-0      | 2343   |
 | 15    | UCLA                 | Pac-12               | 2-0      | 2331   |
@@ -21,9 +21,9 @@
 | 19    | Duke                 | ACC                  | 2-0      | 2258   |
 | 20    | Fresno State         | Mountain West        | 2-0      | 2237   |
 | 21    | Colorado             | Pac-12               | 2-0      | 2213   |
-| 22    | Iowa                 | Big Ten              | 2-0      | 2178   |
-| 23    | Washington State     | Pac-12               | 2-0      | 2174   |
+| 22    | Iowa                 | Big Ten              | 2-0      | 2179   |
+| 23    | Washington State     | Pac-12               | 2-0      | 2175   |
 | 24    | Cincinnati           | Big 12               | 2-0      | 2164   |
 | 25    | Wake Forest          | ACC                  | 2-0      | 2156   |
 
-Updated 09/10/2023 14:00:13
+Updated 09/11/2023 13:30:29
