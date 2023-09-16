@@ -26,4 +26,4 @@
 | 24    | Wake Forest          | ACC                  | 2-0      | 2183   |
 | 25    | Cincinnati           | Big 12               | 2-0      | 2182   |
 
-Updated 09/15/2023 22:30:18
+Updated 09/15/2023 23:00:17
