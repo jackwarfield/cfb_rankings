@@ -13,10 +13,10 @@
 | 11    | Oregon State         | Pac-12               | 3-0      | 2466   |
 | 12    | UCLA                 | Pac-12               | 3-0      | 2449   |
 | 13    | Missouri             | SEC                  | 3-0      | 2419   |
-| 14    | Notre Dame           | FBS Independents     | 4-0      | 2399   |
+| 14    | Notre Dame           | FBS Independents     | 4-0      | 2398   |
 | 15    | Oregon               | Pac-12               | 3-0      | 2377   |
 | 16    | Colorado             | Pac-12               | 3-0      | 2364   |
-| 17    | Duke                 | ACC                  | 3-0      | 2349   |
+| 17    | Duke                 | ACC                  | 3-0      | 2348   |
 | 18    | Miami                | ACC                  | 3-0      | 2325   |
 | 19    | USC                  | Pac-12               | 3-0      | 2318   |
 | 20    | Washington State     | Pac-12               | 3-0      | 2317   |
@@ -24,6 +24,6 @@
 | 22    | BYU                  | Big 12               | 3-0      | 2265   |
 | 23    | Auburn               | SEC                  | 3-0      | 2251   |
 | 24    | LSU                  | SEC                  | 2-1      | 2249   |
-| 25    | Kansas               | Big 12               | 3-0      | 2237   |
+| 25    | Kansas               | Big 12               | 3-0      | 2236   |
 
-Updated 09/17/2023 03:00:12
+Updated 09/17/2023 17:00:20
