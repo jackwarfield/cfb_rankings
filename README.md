@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 2-0      | 3689   |
-| 2     | Florida State        | ACC                  | 3-0      | 2662   |
-| 3     | Michigan             | Big Ten              | 2-0      | 2591   |
-| 4     | Ohio State           | Big Ten              | 2-0      | 2569   |
-| 5     | Penn State           | Big Ten              | 3-0      | 2527   |
-| 6     | Texas                | Big 12               | 2-0      | 2473   |
-| 7     | Missouri             | SEC                  | 3-0      | 2462   |
-| 8     | Tennessee            | SEC                  | 2-0      | 2412   |
-| 9     | UCLA                 | Pac-12               | 2-0      | 2402   |
-| 10    | Utah                 | Pac-12               | 2-0      | 2400   |
-| 11    | Ole Miss             | SEC                  | 2-0      | 2387   |
-| 12    | USC                  | Pac-12               | 3-0      | 2373   |
-| 13    | Notre Dame           | FBS Independents     | 3-0      | 2372   |
-| 14    | Washington           | Pac-12               | 2-0      | 2370   |
-| 15    | Oregon               | Pac-12               | 2-0      | 2344   |
-| 16    | North Carolina       | ACC                  | 2-0      | 2329   |
-| 17    | Duke                 | ACC                  | 2-0      | 2287   |
-| 18    | Oregon State         | Pac-12               | 2-0      | 2285   |
-| 19    | Washington State     | Pac-12               | 2-0      | 2282   |
-| 20    | Fresno State         | Mountain West        | 2-0      | 2278   |
-| 21    | Wake Forest          | ACC                  | 3-0      | 2254   |
-| 22    | Louisville           | ACC                  | 3-0      | 2253   |
-| 23    | LSU                  | SEC                  | 2-1      | 2253   |
-| 24    | Colorado             | Pac-12               | 2-0      | 2221   |
-| 25    | Cincinnati           | Big 12               | 2-0      | 2185   |
+| 1     | Georgia              | SEC                  | 3-0      | 3693   |
+| 2     | Florida State        | ACC                  | 3-0      | 2664   |
+| 3     | Michigan             | Big Ten              | 3-0      | 2642   |
+| 4     | Utah                 | Pac-12               | 3-0      | 2636   |
+| 5     | Ohio State           | Big Ten              | 3-0      | 2624   |
+| 6     | Penn State           | Big Ten              | 3-0      | 2602   |
+| 7     | Texas                | Big 12               | 3-0      | 2577   |
+| 8     | Ole Miss             | SEC                  | 3-0      | 2526   |
+| 9     | North Carolina       | ACC                  | 3-0      | 2517   |
+| 10    | Washington           | Pac-12               | 3-0      | 2487   |
+| 11    | Oregon State         | Pac-12               | 3-0      | 2441   |
+| 12    | UCLA                 | Pac-12               | 3-0      | 2437   |
+| 13    | Missouri             | SEC                  | 3-0      | 2429   |
+| 14    | Notre Dame           | FBS Independents     | 4-0      | 2399   |
+| 15    | Oregon               | Pac-12               | 3-0      | 2362   |
+| 16    | Duke                 | ACC                  | 3-0      | 2358   |
+| 17    | Miami                | ACC                  | 3-0      | 2324   |
+| 18    | Washington State     | Pac-12               | 3-0      | 2322   |
+| 19    | USC                  | Pac-12               | 3-0      | 2303   |
+| 20    | BYU                  | Big 12               | 3-0      | 2260   |
+| 21    | LSU                  | SEC                  | 2-1      | 2252   |
+| 22    | Colorado             | Pac-12               | 2-0      | 2242   |
+| 23    | Louisville           | ACC                  | 3-0      | 2238   |
+| 24    | Auburn               | SEC                  | 3-0      | 2238   |
+| 25    | Syracuse             | ACC                  | 3-0      | 2229   |
 
-Updated 09/16/2023 15:30:17
+Updated 09/16/2023 16:00:19
