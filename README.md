@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
 | 1     | Georgia              | SEC                  | 3-0      | 3657   |
-| 2     | Florida State        | ACC                  | 3-0      | 2695   |
-| 3     | Utah                 | Pac-12               | 3-0      | 2692   |
-| 4     | Michigan             | Big Ten              | 3-0      | 2662   |
+| 2     | Florida State        | ACC                  | 3-0      | 2694   |
+| 3     | Utah                 | Pac-12               | 3-0      | 2690   |
+| 4     | Michigan             | Big Ten              | 3-0      | 2661   |
 | 5     | Ohio State           | Big Ten              | 3-0      | 2645   |
-| 6     | Penn State           | Big Ten              | 3-0      | 2625   |
+| 6     | Penn State           | Big Ten              | 3-0      | 2623   |
 | 7     | Texas                | Big 12               | 3-0      | 2616   |
-| 8     | Ole Miss             | SEC                  | 3-0      | 2569   |
-| 9     | North Carolina       | ACC                  | 3-0      | 2567   |
-| 10    | Washington           | Pac-12               | 3-0      | 2523   |
-| 11    | Oregon State         | Pac-12               | 3-0      | 2495   |
-| 12    | Missouri             | SEC                  | 3-0      | 2452   |
-| 13    | UCLA                 | Pac-12               | 3-0      | 2449   |
-| 14    | Notre Dame           | FBS Independents     | 4-0      | 2424   |
-| 15    | Colorado             | Pac-12               | 3-0      | 2403   |
-| 16    | Miami                | ACC                  | 3-0      | 2385   |
-| 17    | Oregon               | Pac-12               | 3-0      | 2382   |
-| 18    | Duke                 | ACC                  | 3-0      | 2378   |
-| 19    | Washington State     | Pac-12               | 3-0      | 2350   |
-| 20    | USC                  | Pac-12               | 3-0      | 2329   |
-| 21    | BYU                  | Big 12               | 3-0      | 2303   |
-| 22    | Fresno State         | Mountain West        | 3-0      | 2302   |
+| 8     | Washington           | Pac-12               | 3-0      | 2580   |
+| 9     | Ole Miss             | SEC                  | 3-0      | 2570   |
+| 10    | North Carolina       | ACC                  | 3-0      | 2567   |
+| 11    | Notre Dame           | FBS Independents     | 4-0      | 2459   |
+| 12    | Washington State     | Pac-12               | 3-0      | 2456   |
+| 13    | Missouri             | SEC                  | 3-0      | 2452   |
+| 14    | Oregon State         | Pac-12               | 3-0      | 2410   |
+| 15    | Colorado             | Pac-12               | 3-0      | 2405   |
+| 16    | Oregon               | Pac-12               | 3-0      | 2385   |
+| 17    | Miami                | ACC                  | 3-0      | 2384   |
+| 18    | Duke                 | ACC                  | 3-0      | 2376   |
+| 19    | UCLA                 | Pac-12               | 3-0      | 2363   |
+| 20    | UCF                  | Big 12               | 3-0      | 2360   |
+| 21    | USC                  | Pac-12               | 3-0      | 2329   |
+| 22    | BYU                  | Big 12               | 3-0      | 2305   |
 | 23    | Auburn               | SEC                  | 3-0      | 2288   |
-| 24    | Kansas               | Big 12               | 3-0      | 2275   |
-| 25    | Syracuse             | ACC                  | 3-0      | 2273   |
+| 24    | Kansas               | Big 12               | 3-0      | 2270   |
+| 25    | LSU                  | SEC                  | 2-1      | 2261   |
 
-Updated 09/22/2023 12:30:13
+Updated 09/23/2023 13:30:10
