@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 5-0      | 3643   |
-| 2     | Texas                | Big 12               | 5-0      | 3081   |
-| 3     | Ohio State           | Big Ten              | 4-0      | 3065   |
-| 4     | Penn State           | Big Ten              | 5-0      | 2986   |
-| 5     | Washington State     | Pac-12               | 4-0      | 2969   |
-| 6     | Michigan             | Big Ten              | 5-0      | 2896   |
-| 7     | Missouri             | SEC                  | 5-0      | 2829   |
-| 8     | Oregon               | Pac-12               | 5-0      | 2737   |
-| 9     | USC                  | Pac-12               | 5-0      | 2696   |
-| 10    | Florida State        | ACC                  | 4-0      | 2684   |
-| 11    | Washington           | Pac-12               | 5-0      | 2662   |
-| 12    | Kentucky             | SEC                  | 5-0      | 2636   |
-| 13    | Miami                | ACC                  | 4-0      | 2633   |
-| 14    | Notre Dame           | FBS Independents     | 5-1      | 2629   |
-| 15    | Alabama              | SEC                  | 4-1      | 2614   |
-| 16    | Oregon State         | Pac-12               | 4-1      | 2593   |
-| 17    | James Madison        | Sun Belt             | 5-0      | 2557   |
-| 18    | North Carolina       | ACC                  | 4-0      | 2556   |
-| 19    | Maryland             | Big Ten              | 5-0      | 2453   |
-| 20    | Oklahoma             | Big 12               | 5-0      | 2451   |
-| 21    | Louisville           | ACC                  | 5-0      | 2417   |
-| 22    | Kansas               | Big 12               | 4-1      | 2412   |
-| 23    | Fresno State         | Mountain West        | 5-0      | 2397   |
-| 24    | Wyoming              | Mountain West        | 4-1      | 2388   |
-| 25    | Utah                 | Pac-12               | 4-1      | 2372   |
+| 1     | Georgia              | SEC                  | 5-0      | 3494   |
+| 2     | Texas                | Big 12               | 5-0      | 3443   |
+| 3     | Ohio State           | Big Ten              | 4-0      | 3368   |
+| 4     | Washington State     | Pac-12               | 4-0      | 3329   |
+| 5     | Penn State           | Big Ten              | 5-0      | 3256   |
+| 6     | Missouri             | SEC                  | 5-0      | 3173   |
+| 7     | Michigan             | Big Ten              | 5-0      | 3138   |
+| 8     | Miami                | ACC                  | 4-0      | 2988   |
+| 9     | Oregon               | Pac-12               | 5-0      | 2975   |
+| 10    | USC                  | Pac-12               | 5-0      | 2944   |
+| 11    | Florida State        | ACC                  | 4-0      | 2895   |
+| 12    | Notre Dame           | FBS Independents     | 5-1      | 2877   |
+| 13    | Kentucky             | SEC                  | 5-0      | 2865   |
+| 14    | Oregon State         | Pac-12               | 4-1      | 2858   |
+| 15    | Alabama              | SEC                  | 4-1      | 2855   |
+| 16    | Washington           | Pac-12               | 5-0      | 2847   |
+| 17    | James Madison        | Sun Belt             | 5-0      | 2846   |
+| 18    | North Carolina       | ACC                  | 4-0      | 2770   |
+| 19    | Maryland             | Big Ten              | 5-0      | 2663   |
+| 20    | Oklahoma             | Big 12               | 5-0      | 2663   |
+| 21    | Kansas               | Big 12               | 4-1      | 2656   |
+| 22    | Wyoming              | Mountain West        | 4-1      | 2653   |
+| 23    | Kansas State         | Big 12               | 3-1      | 2628   |
+| 24    | Fresno State         | Mountain West        | 5-0      | 2573   |
+| 25    | West Virginia        | Big 12               | 4-1      | 2554   |
 
-Updated 10/02/2023 11:35:11
+Updated 10/03/2023 11:00:39
