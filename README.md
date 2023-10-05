@@ -26,4 +26,4 @@
 | 24    | Fresno State         | Mountain West        | 5-0      | 2573   |
 | 25    | Utah                 | Pac-12               | 4-1      | 2554   |
 
-Updated 10/05/2023 04:01:14
+Updated 10/05/2023 13:28:40
