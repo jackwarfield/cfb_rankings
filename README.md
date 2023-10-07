@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 5-0      | 3492   |
-| 2     | Ohio State           | Big Ten              | 5-0      | 3470   |
-| 3     | Texas                | Big 12               | 5-0      | 3439   |
-| 4     | Washington State     | Pac-12               | 4-0      | 3388   |
-| 5     | Penn State           | Big Ten              | 5-0      | 3265   |
-| 6     | Michigan             | Big Ten              | 5-0      | 3042   |
-| 7     | Oregon               | Pac-12               | 5-0      | 2983   |
-| 8     | Miami                | ACC                  | 4-0      | 2980   |
-| 9     | USC                  | Pac-12               | 5-0      | 2954   |
-| 10    | Missouri             | SEC                  | 5-0      | 2932   |
-| 11    | Notre Dame           | FBS Independents     | 5-1      | 2917   |
-| 12    | Florida State        | ACC                  | 4-0      | 2888   |
-| 13    | Oregon State         | Pac-12               | 4-1      | 2888   |
-| 14    | Washington           | Pac-12               | 5-0      | 2874   |
-| 15    | Kentucky             | SEC                  | 5-0      | 2872   |
-| 16    | Alabama              | SEC                  | 4-1      | 2868   |
-| 17    | Wisconsin            | Big Ten              | 4-1      | 2766   |
-| 18    | North Carolina       | ACC                  | 4-0      | 2762   |
-| 19    | Oklahoma             | Big 12               | 5-0      | 2700   |
-| 20    | Kansas               | Big 12               | 4-1      | 2639   |
-| 21    | James Madison        | Sun Belt             | 5-0      | 2638   |
-| 22    | Maryland             | Big Ten              | 5-1      | 2634   |
-| 23    | Wyoming              | Mountain West        | 4-1      | 2623   |
-| 24    | Louisville           | ACC                  | 5-0      | 2620   |
-| 25    | Iowa                 | Big Ten              | 4-1      | 2580   |
+| 1     | Oklahoma             | Big 12               | 6-0      | 3577   |
+| 2     | Georgia              | SEC                  | 5-0      | 3497   |
+| 3     | Ohio State           | Big Ten              | 5-0      | 3480   |
+| 4     | Washington State     | Pac-12               | 4-0      | 3392   |
+| 5     | Penn State           | Big Ten              | 5-0      | 3267   |
+| 6     | Texas                | Big 12               | 5-1      | 3123   |
+| 7     | Michigan             | Big Ten              | 5-0      | 3046   |
+| 8     | Florida State        | ACC                  | 4-0      | 3006   |
+| 9     | Miami                | ACC                  | 4-0      | 2985   |
+| 10    | Oregon               | Pac-12               | 5-0      | 2984   |
+| 11    | USC                  | Pac-12               | 5-0      | 2957   |
+| 12    | Notre Dame           | FBS Independents     | 5-1      | 2927   |
+| 13    | Washington           | Pac-12               | 5-0      | 2901   |
+| 14    | Oregon State         | Pac-12               | 4-1      | 2892   |
+| 15    | Kentucky             | SEC                  | 5-0      | 2879   |
+| 16    | Alabama              | SEC                  | 4-1      | 2778   |
+| 17    | Wisconsin            | Big Ten              | 4-1      | 2770   |
+| 18    | North Carolina       | ACC                  | 4-0      | 2757   |
+| 19    | Maryland             | Big Ten              | 5-1      | 2641   |
+| 20    | James Madison        | Sun Belt             | 5-0      | 2627   |
+| 21    | Louisville           | ACC                  | 5-0      | 2626   |
+| 22    | Iowa                 | Big Ten              | 4-1      | 2583   |
+| 23    | Utah                 | Pac-12               | 4-1      | 2573   |
+| 24    | Ole Miss             | SEC                  | 4-1      | 2556   |
+| 25    | Duke                 | ACC                  | 4-1      | 2548   |
 
-Updated 10/07/2023 15:00:18
+Updated 10/07/2023 15:45:28
