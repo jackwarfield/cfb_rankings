@@ -6,7 +6,7 @@
 | 4     | Louisville           | ACC                  | 6-0      | 3387   |
 | 5     | Penn State           | Big Ten              | 5-0      | 3199   |
 | 6     | Texas                | Big 12               | 5-1      | 3193   |
-| 7     | Florida State        | ACC                  | 5-0      | 3090   |
+| 7     | Florida State        | ACC                  | 5-0      | 3089   |
 | 8     | Michigan             | Big Ten              | 6-0      | 3059   |
 | 9     | USC                  | Pac-12               | 6-0      | 2939   |
 | 10    | Oregon               | Pac-12               | 5-0      | 2926   |
@@ -26,4 +26,4 @@
 | 24    | Iowa                 | Big Ten              | 5-1      | 2584   |
 | 25    | Liberty              | Conference USA       | 6-0      | 2561   |
 
-Updated 10/12/2023 23:30:17
+Updated 10/13/2023 10:00:11
