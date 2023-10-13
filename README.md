@@ -1,20 +1,20 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
 | 1     | Georgia              | SEC                  | 6-0      | 3745   |
-| 2     | Oklahoma             | Big 12               | 6-0      | 3638   |
+| 2     | Oklahoma             | Big 12               | 6-0      | 3639   |
 | 3     | Ohio State           | Big Ten              | 5-0      | 3408   |
 | 4     | Louisville           | ACC                  | 6-0      | 3387   |
 | 5     | Penn State           | Big Ten              | 5-0      | 3199   |
 | 6     | Texas                | Big 12               | 5-1      | 3193   |
-| 7     | Florida State        | ACC                  | 5-0      | 3089   |
-| 8     | Michigan             | Big Ten              | 6-0      | 3058   |
-| 9     | USC                  | Pac-12               | 6-0      | 2938   |
+| 7     | Florida State        | ACC                  | 5-0      | 3090   |
+| 8     | Michigan             | Big Ten              | 6-0      | 3059   |
+| 9     | USC                  | Pac-12               | 6-0      | 2939   |
 | 10    | Oregon               | Pac-12               | 5-0      | 2926   |
 | 11    | Kentucky             | SEC                  | 5-1      | 2875   |
-| 12    | Alabama              | SEC                  | 5-1      | 2866   |
-| 13    | Notre Dame           | FBS Independents     | 5-2      | 2866   |
+| 12    | Alabama              | SEC                  | 5-1      | 2867   |
+| 13    | Notre Dame           | FBS Independents     | 5-2      | 2865   |
 | 14    | North Carolina       | ACC                  | 5-0      | 2827   |
-| 15    | Washington           | Pac-12               | 5-0      | 2740   |
+| 15    | Washington           | Pac-12               | 5-0      | 2741   |
 | 16    | James Madison        | Sun Belt             | 5-0      | 2722   |
 | 17    | Washington State     | Pac-12               | 4-1      | 2673   |
 | 18    | UCLA                 | Pac-12               | 4-1      | 2645   |
@@ -26,4 +26,4 @@
 | 24    | Iowa                 | Big Ten              | 5-1      | 2584   |
 | 25    | Liberty              | Conference USA       | 6-0      | 2561   |
 
-Updated 10/12/2023 23:00:23
+Updated 10/12/2023 23:30:17
