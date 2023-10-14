@@ -265,7 +265,7 @@ for i in range(1, 25 + 1):
         )
     )
 
-with open('./README.md', 'w') as f:
+with open('./README_python.md', 'w') as f:
     print(
         '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(
             'Rank', 'Team', 'Conference', 'Record', 'Rating'

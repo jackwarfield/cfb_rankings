@@ -16,14 +16,14 @@
 | 14    | USC                  | Pac-12               | 6-0      | 2548   |
 | 15    | Oregon               | Pac-12               | 5-0      | 2529   |
 | 16    | Ole Miss             | SEC                  | 5-1      | 2483   |
-| 17    | James Madison        | Sun Belt             | 5-0      | 2479   |
+| 17    | James Madison        | Sun Belt             | 5-0      | 2478   |
 | 18    | Washington State     | Pac-12               | 4-1      | 2474   |
 | 19    | Oregon State         | Pac-12               | 5-1      | 2447   |
 | 20    | Utah                 | Pac-12               | 4-1      | 2446   |
 | 21    | UCLA                 | Pac-12               | 4-1      | 2446   |
 | 22    | Wyoming              | Mountain West        | 5-1      | 2422   |
 | 23    | Iowa                 | Big Ten              | 5-1      | 2374   |
-| 24    | Air Force            | Mountain West        | 5-0      | 2348   |
+| 24    | Air Force            | Mountain West        | 5-0      | 2347   |
 | 25    | Kansas               | Big 12               | 5-1      | 2341   |
 
-Updated 10/14/2023 10:02:04
+Updated 10/14/2023 15:00:11
