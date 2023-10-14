@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 6-0      | 3704   |
-| 2     | Oklahoma             | Big 12               | 6-0      | 3323   |
-| 3     | Ohio State           | Big Ten              | 5-0      | 3166   |
-| 4     | Louisville           | ACC                  | 6-0      | 3113   |
-| 5     | Penn State           | Big Ten              | 5-0      | 2995   |
-| 6     | Texas                | Big 12               | 5-1      | 2953   |
-| 7     | Florida State        | ACC                  | 5-0      | 2900   |
-| 8     | Michigan             | Big Ten              | 6-0      | 2897   |
-| 9     | USC                  | Pac-12               | 6-0      | 2764   |
-| 10    | Oregon               | Pac-12               | 5-0      | 2758   |
-| 11    | Kentucky             | SEC                  | 5-1      | 2721   |
-| 12    | Alabama              | SEC                  | 5-1      | 2685   |
-| 13    | North Carolina       | ACC                  | 5-0      | 2673   |
-| 14    | Notre Dame           | FBS Independents     | 5-2      | 2653   |
-| 15    | Washington           | Pac-12               | 5-0      | 2618   |
-| 16    | James Madison        | Sun Belt             | 5-0      | 2532   |
-| 17    | Ole Miss             | SEC                  | 5-1      | 2520   |
-| 18    | Washington State     | Pac-12               | 4-1      | 2519   |
-| 19    | UCLA                 | Pac-12               | 4-1      | 2490   |
-| 20    | Oregon State         | Pac-12               | 5-1      | 2490   |
-| 21    | Utah                 | Pac-12               | 4-1      | 2489   |
-| 22    | Wyoming              | Mountain West        | 5-1      | 2471   |
-| 23    | Iowa                 | Big Ten              | 5-1      | 2430   |
-| 24    | Air Force            | Mountain West        | 5-0      | 2408   |
-| 25    | Liberty              | Conference USA       | 6-0      | 2388   |
+| 1     | Georgia              | SEC                  | 0-0      | 3559   |
+| 2     | Ohio State           | Big Ten              | 0-0      | 2511   |
+| 3     | Michigan             | Big Ten              | 0-0      | 2497   |
+| 4     | Penn State           | Big Ten              | 0-0      | 2355   |
+| 5     | Oregon               | Pac-12               | 0-0      | 2212   |
+| 6     | Washington           | Pac-12               | 0-0      | 2205   |
+| 7     | Tennessee            | SEC                  | 0-0      | 2153   |
+| 8     | Alabama              | SEC                  | 0-0      | 2139   |
+| 9     | USC                  | Pac-12               | 0-0      | 2127   |
+| 10    | Florida State        | ACC                  | 0-0      | 2125   |
+| 11    | Utah                 | Pac-12               | 0-0      | 2120   |
+| 12    | Oregon State         | Pac-12               | 0-0      | 2110   |
+| 13    | LSU                  | SEC                  | 0-0      | 2033   |
+| 14    | Clemson              | ACC                  | 0-0      | 1978   |
+| 15    | Notre Dame           | FBS Independents     | 0-0      | 1976   |
+| 16    | Ole Miss             | SEC                  | 0-0      | 1974   |
+| 17    | Louisville           | ACC                  | 0-0      | 1973   |
+| 18    | UCLA                 | Pac-12               | 0-0      | 1972   |
+| 19    | Texas                | Big 12               | 0-0      | 1966   |
+| 20    | North Carolina       | ACC                  | 0-0      | 1956   |
+| 21    | Iowa                 | Big Ten              | 0-0      | 1947   |
+| 22    | Kentucky             | SEC                  | 0-0      | 1930   |
+| 23    | Tulane               | American Athletic    | 0-0      | 1927   |
+| 24    | Washington State     | Pac-12               | 0-0      | 1914   |
+| 25    | TCU                  | Big 12               | 0-0      | 1902   |
 
-Updated 10/14/2023 01:20:19
+Updated 10/14/2023 01:25:11
