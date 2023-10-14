@@ -24,7 +24,7 @@ double f(double x, double delta, double phi, double vi, double a, double tau) {
 }
 
 double iterSigPr(double sig, double delta, double phi, double vi, double tau,
-                 double eps = 1e-6) {
+                 double eps = 1e-8) {
   double a = log(sig * sig);
   double A = a;
   double B;
