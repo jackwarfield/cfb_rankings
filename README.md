@@ -23,7 +23,7 @@
 | 21    | UCLA                 | Pac-12               | 4-1      | 2514   |
 | 22    | Wyoming              | Mountain West        | 5-1      | 2468   |
 | 23    | Iowa                 | Big Ten              | 5-1      | 2419   |
-| 24    | Air Force            | Mountain West        | 5-0      | 2416   |
-| 25    | Liberty              | Conference USA       | 6-0      | 2381   |
+| 24    | Air Force            | Mountain West        | 5-0      | 2415   |
+| 25    | Liberty              | Conference USA       | 6-0      | 2382   |
 
-Updated 10/14/2023 18:35:09
+Updated 10/14/2023 18:40:10
