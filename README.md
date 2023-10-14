@@ -10,8 +10,8 @@
 | 8     | Michigan             | Big Ten              | 7-0      | 2935   |
 | 9     | Kentucky             | SEC                  | 5-1      | 2736   |
 | 10    | Alabama              | SEC                  | 6-1      | 2703   |
-| 11    | North Carolina       | ACC                  | 5-0      | 2679   |
-| 12    | James Madison        | Sun Belt             | 6-0      | 2667   |
+| 11    | North Carolina       | ACC                  | 5-0      | 2678   |
+| 12    | James Madison        | Sun Belt             | 6-0      | 2670   |
 | 13    | Notre Dame           | FBS Independents     | 5-2      | 2659   |
 | 14    | Washington           | Pac-12               | 5-0      | 2630   |
 | 15    | USC                  | Pac-12               | 6-0      | 2597   |
@@ -23,7 +23,7 @@
 | 21    | UCLA                 | Pac-12               | 4-1      | 2514   |
 | 22    | Wyoming              | Mountain West        | 5-1      | 2468   |
 | 23    | Iowa                 | Big Ten              | 5-1      | 2419   |
-| 24    | Air Force            | Mountain West        | 5-0      | 2415   |
+| 24    | Air Force            | Mountain West        | 5-0      | 2416   |
 | 25    | Liberty              | Conference USA       | 6-0      | 2382   |
 
-Updated 10/14/2023 18:40:10
+Updated 10/14/2023 18:45:11
