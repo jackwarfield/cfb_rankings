@@ -13,8 +13,8 @@
 | 11    | North Carolina       | ACC                  | 5-0      | 2637   |
 | 12    | James Madison        | Sun Belt             | 6-0      | 2619   |
 | 13    | Notre Dame           | FBS Independents     | 5-2      | 2617   |
-| 14    | Washington           | Pac-12               | 5-0      | 2583   |
-| 15    | USC                  | Pac-12               | 6-0      | 2548   |
+| 14    | Washington           | Pac-12               | 5-0      | 2584   |
+| 15    | USC                  | Pac-12               | 6-0      | 2549   |
 | 16    | Oregon               | Pac-12               | 5-0      | 2527   |
 | 17    | Ole Miss             | SEC                  | 5-1      | 2494   |
 | 18    | Washington State     | Pac-12               | 4-1      | 2483   |
@@ -26,4 +26,4 @@
 | 24    | Air Force            | Mountain West        | 5-0      | 2366   |
 | 25    | Liberty              | Conference USA       | 6-0      | 2338   |
 
-Updated 10/14/2023 18:00:15
+Updated 10/14/2023 18:05:08
