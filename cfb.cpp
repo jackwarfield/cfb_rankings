@@ -14,18 +14,19 @@ int main(int argc, char *argv[]) {
   int max_week = 15;
   int week = 7;
 
-  loop_schedule("sched1.csv", "teams.csv", "teams_2023_rankings.csv",
-                max_week - week, true);
-  loop_schedule("sched2.csv", "teams_2023_rankings.csv",
-                "teams_2023_rankings.csv", 21 + 10 * (max_week - week), true);
-  loop_schedule("sched3.csv", "teams_2023_rankings.csv",
-                "teams_2023_rankings.csv", 31 + 10 * week, false);
-
-  // loop_schedule("sched1.csv", "teams.csv", "teams_2023_rankings.csv", 1,
-  // true); loop_schedule("sched2.csv", "teams_2023_rankings.csv",
-  //               "teams_2023_rankings.csv", 1, true);
+  // loop_schedule("sched1.csv", "teams.csv", "teams_2023_rankings.csv",
+  //               max_week - week, true);
+  // loop_schedule("sched2.csv", "teams_2023_rankings.csv",
+  //               "teams_2023_rankings.csv", 21 + 10 * (max_week - week),
+  //               true);
   // loop_schedule("sched3.csv", "teams_2023_rankings.csv",
-  //               "teams_2023_rankings.csv", 1, false);
+  //               "teams_2023_rankings.csv", 31 + 10 * week, false);
+
+  loop_schedule("sched1.csv", "teams.csv", "teams_2023_rankings.csv", 1, true);
+  loop_schedule("sched2.csv", "teams_2023_rankings.csv",
+                "teams_2023_rankings.csv", 1, true);
+  loop_schedule("sched3.csv", "teams_2023_rankings.csv",
+                "teams_2023_rankings.csv", 1, false);
 
   return 0;
 }
