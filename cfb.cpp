@@ -78,8 +78,10 @@ void loop_schedule(std::string sched_fn, std::string teams_fnin,
   double r1, rd1, sig1, r2, rd2, sig2;
   std::vector<double> results(6, 0.0);
   for (int _ = 0; _ < n_loops; _++) {
-    std::vector<int> wins(schools.size(), 0);
-    std::vector<int> losses(schools.size(), 0);
+    for (int j = 0; j < wins.size(); j++) {
+      wins[j] = 0;
+      losses[j] = 0;
+    }
     for (int i = 0; i < home_teams.size(); i++) {
       ht = home_teams[i];
       at = away_teams[i];
