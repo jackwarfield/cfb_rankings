@@ -3,3 +3,8 @@ __pycache__/*
 *.sh
 check.py
 .DS_Store
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+sched?.csv
