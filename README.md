@@ -24,6 +24,6 @@
 | 22    | Wyoming              | Mountain West        | 5-1      | 2425   |
 | 23    | Iowa                 | Big Ten              | 5-1      | 2372   |
 | 24    | Air Force            | Mountain West        | 5-0      | 2364   |
-| 25    | Liberty              | Conference USA       | 6-0      | 2339   |
+| 25    | Liberty              | Conference USA       | 6-0      | 2338   |
 
-Updated 10/14/2023 17:00:11
+Updated 10/14/2023 17:05:09
