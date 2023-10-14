@@ -17,6 +17,7 @@ print(f'season: {targyear}')
 
 sched = pd.read_csv(f'games{targyear}.csv')
 max_week = sched.week.max()
+max_week = 15
 sched = sched[
     (sched.home_points.notna()) & (sched.home_points != sched.away_points)
 ]
