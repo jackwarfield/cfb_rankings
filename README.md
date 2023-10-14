@@ -8,7 +8,7 @@
 | 6     | Texas                | Big 12               | 5-1      | 2922   |
 | 7     | Florida State        | ACC                  | 6-0      | 2913   |
 | 8     | Michigan             | Big Ten              | 7-0      | 2893   |
-| 9     | Alabama              | SEC                  | 6-1      | 2663   |
+| 9     | Alabama              | SEC                  | 6-1      | 2662   |
 | 10    | Kentucky             | SEC                  | 5-1      | 2660   |
 | 11    | North Carolina       | ACC                  | 5-0      | 2637   |
 | 12    | James Madison        | Sun Belt             | 6-0      | 2619   |
@@ -26,4 +26,4 @@
 | 24    | Air Force            | Mountain West        | 5-0      | 2366   |
 | 25    | Liberty              | Conference USA       | 6-0      | 2338   |
 
-Updated 10/14/2023 17:30:11
+Updated 10/14/2023 17:35:08
