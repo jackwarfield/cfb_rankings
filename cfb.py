@@ -17,7 +17,9 @@ print(f'season: {targyear}')
 
 sched = pd.read_csv(f'games{targyear}.csv')
 max_week = sched.week.max()
-sched = sched[sched.home_points.notna()]
+sched = sched[
+    (sched.home_points.notna()) & (sched.home_points != sched.away_points)
+]
 run_week = sched.week.max()
 print(f'Week {run_week}')
 
@@ -25,7 +27,9 @@ df = pd.read_csv('teams.csv')
 df['rating'] = df['rating'].astype(float)
 
 sched = pd.read_csv(f'games{targyear-2}.csv')
-sched = sched[sched.home_points.notna()]
+sched = sched[
+    (sched.home_points.notna()) & (sched.home_points != sched.away_points)
+]
 sched = sched.sort_values('start_date', ascending=True)
 sched = sched.reset_index(drop=True)
 s_ind = list(sched.index)
@@ -85,11 +89,15 @@ for i in range(int(max_week - run_week)):
         df = update_ratings(id1, id2, win, df.copy())
 
 sched = pd.read_csv(f'games{targyear-1}.csv')
-sched = sched[sched.home_points.notna()]
+sched = sched[
+    (sched.home_points.notna()) & (sched.home_points != sched.away_points)
+]
 sched = sched.sort_values('start_date', ascending=True)
 sched = sched.reset_index(drop=True)
 sched2 = pd.read_csv(f'games{targyear}.csv')
-sched2 = sched2[sched2.home_points.notna()]
+sched2 = sched2[
+    (sched2.home_points.notna()) & (sched2.home_points != sched2.away_points)
+]
 sched2 = sched2.sort_values('start_date', ascending=True).reset_index(
     drop=True
 )
@@ -159,7 +167,9 @@ for i in range(int(21 + 10 * (max_week - run_week))):
 print(f'games{targyear}.csv')
 sched = pd.read_csv(f'games{targyear}.csv')
 sched = sched[(sched.season == targyear)]
-sched = sched[sched.home_points.notna()]
+sched = sched[
+    (sched.home_points.notna()) & (sched.home_points != sched.away_points)
+]
 sched = sched.sort_values('start_date', ascending=True)
 sched = sched.reset_index(drop=True)
 sched.to_csv(f'games{targyear}.csv', index=False)
