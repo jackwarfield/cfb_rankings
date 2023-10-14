@@ -26,4 +26,4 @@
 | 24    | Air Force            | Mountain West        | 5-0      | 2415   |
 | 25    | Liberty              | Conference USA       | 6-0      | 2388   |
 
-Updated 10/14/2023 18:15:10
+Updated 10/14/2023 18:20:23
