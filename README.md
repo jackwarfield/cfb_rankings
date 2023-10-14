@@ -14,7 +14,7 @@
 | 12    | James Madison        | Sun Belt             | 6-0      | 2618   |
 | 13    | Notre Dame           | FBS Independents     | 5-2      | 2617   |
 | 14    | Washington           | Pac-12               | 5-0      | 2577   |
-| 15    | USC                  | Pac-12               | 6-0      | 2546   |
+| 15    | USC                  | Pac-12               | 6-0      | 2547   |
 | 16    | Oregon               | Pac-12               | 5-0      | 2526   |
 | 17    | Ole Miss             | SEC                  | 5-1      | 2489   |
 | 18    | Washington State     | Pac-12               | 4-1      | 2482   |
@@ -26,4 +26,4 @@
 | 24    | Air Force            | Mountain West        | 5-0      | 2354   |
 | 25    | Liberty              | Conference USA       | 6-0      | 2337   |
 
-Updated 10/14/2023 16:40:22
+Updated 10/14/2023 16:45:08
