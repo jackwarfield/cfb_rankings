@@ -26,4 +26,4 @@
 | 24    | Air Force            | Mountain West        | 5-0      | 2347   |
 | 25    | Kansas               | Big 12               | 5-1      | 2341   |
 
-Updated 10/14/2023 15:00:11
+Updated 10/14/2023 15:05:08
