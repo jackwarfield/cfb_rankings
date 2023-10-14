@@ -36,8 +36,8 @@ sched = sched.sort_values('start_date', ascending=True)
 sched = sched.reset_index(drop=True)
 s_ind = list(sched.index)
 sched1 = sched.copy()
-for i in range(max_week - run_week - 1):
-    sched = pd.concat([sched, sched1]).reset_index(drop=True)
+# for i in range(max_week - run_week - 1):
+#    sched = pd.concat([sched, sched1]).reset_index(drop=True)
 sched.to_csv('./sched1.csv', index=False)
 
 sched = pd.read_csv(f'games{targyear-1}.csv')
@@ -60,8 +60,8 @@ sched = (
     .reset_index(drop=True)
 )
 sched1 = sched.copy()
-for i in range(21 + 10 * (max_week - run_week) - 1):
-    sched = pd.concat([sched, sched1]).reset_index(drop=True)
+# for i in range(21 + 10 * (max_week - run_week) - 1):
+#    sched = pd.concat([sched, sched1]).reset_index(drop=True)
 sched.to_csv('./sched2.csv', index=False)
 
 sched = pd.read_csv(f'games{targyear}.csv')
@@ -73,8 +73,8 @@ sched = sched.sort_values('start_date', ascending=True)
 sched = sched.reset_index(drop=True)
 sched.to_csv(f'games{targyear}.csv', index=False)
 sched1 = sched.copy()
-for i in range(31 + 10 * run_week - 1):
-    sched = pd.concat([sched, sched1]).reset_index(drop=True)
+# for i in range(31 + 10 * run_week - 1):
+#    sched = pd.concat([sched, sched1]).reset_index(drop=True)
 sched.to_csv('./sched3.csv', index=False)
 
 sp.run('./cfb', shell=True)

@@ -11,8 +11,8 @@ void loop_schedule(std::string sched_fn, std::string teams_fnin,
 
 int main(int argc, char *argv[]) {
 
-  int max_week = 15;
-  int week = 7;
+  // int max_week = 15;
+  // int week = 7;
 
   // loop_schedule("sched1.csv", "teams.csv", "teams_2023_rankings.csv",
   //               max_week - week, true);
