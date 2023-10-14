@@ -5,16 +5,16 @@
 | 3     | Ohio State           | Big Ten              | 6-0      | 3152   |
 | 4     | Louisville           | ACC                  | 6-0      | 3076   |
 | 5     | Penn State           | Big Ten              | 5-0      | 2949   |
-| 6     | Texas                | Big 12               | 5-1      | 2920   |
+| 6     | Texas                | Big 12               | 5-1      | 2921   |
 | 7     | Florida State        | ACC                  | 6-0      | 2911   |
 | 8     | Michigan             | Big Ten              | 7-0      | 2893   |
 | 9     | Kentucky             | SEC                  | 5-1      | 2660   |
 | 10    | Alabama              | SEC                  | 6-1      | 2659   |
 | 11    | North Carolina       | ACC                  | 5-0      | 2636   |
-| 12    | James Madison        | Sun Belt             | 6-0      | 2619   |
+| 12    | James Madison        | Sun Belt             | 6-0      | 2618   |
 | 13    | Notre Dame           | FBS Independents     | 5-2      | 2617   |
 | 14    | Washington           | Pac-12               | 5-0      | 2577   |
-| 15    | USC                  | Pac-12               | 6-0      | 2546   |
+| 15    | USC                  | Pac-12               | 6-0      | 2547   |
 | 16    | Oregon               | Pac-12               | 5-0      | 2526   |
 | 17    | Ole Miss             | SEC                  | 5-1      | 2489   |
 | 18    | Washington State     | Pac-12               | 4-1      | 2482   |
@@ -22,8 +22,8 @@
 | 20    | Utah                 | Pac-12               | 4-1      | 2450   |
 | 21    | UCLA                 | Pac-12               | 4-1      | 2450   |
 | 22    | Wyoming              | Mountain West        | 5-1      | 2425   |
-| 23    | Iowa                 | Big Ten              | 5-1      | 2371   |
+| 23    | Iowa                 | Big Ten              | 5-1      | 2372   |
 | 24    | Air Force            | Mountain West        | 5-0      | 2354   |
 | 25    | Liberty              | Conference USA       | 6-0      | 2337   |
 
-Updated 10/14/2023 16:30:13
+Updated 10/14/2023 16:35:08
