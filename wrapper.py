@@ -81,6 +81,8 @@ sp.run('./cfb', shell=True)
 
 df = pd.read_csv('./teams_2023_rankings.csv')
 df = df[df.conference.notna()].reset_index(drop=True)
+df['wins'] = (df['wins'] / (31 + 10 * run_week - 1)).astype(int)
+df['losses'] = (df['losses'] / (31 + 10 * run_week - 1)).astype(int)
 
 ranks = (
     df.sort_values('rating', ascending=False)
