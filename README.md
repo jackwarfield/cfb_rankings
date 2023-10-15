@@ -26,4 +26,4 @@
 | 24    | Oregon State         | Pac-12               | 5-1      | 2252   |
 | 25    | Kentucky             | SEC                  | 5-2      | 2231   |
 
-Updated 10/14/2023 23:15:11
+Updated 10/14/2023 23:20:08
