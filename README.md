@@ -1,6 +1,6 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 7-0      | 3743   |
+| 1     | Georgia              | SEC                  | 7-0      | 3744   |
 | 2     | Oklahoma             | Big 12               | 6-0      | 3284   |
 | 3     | Penn State           | Big Ten              | 6-0      | 3168   |
 | 4     | Ohio State           | Big Ten              | 6-0      | 3146   |
@@ -22,8 +22,8 @@
 | 20    | UCLA                 | Pac-12               | 4-1      | 2515   |
 | 21    | Ole Miss             | SEC                  | 5-1      | 2504   |
 | 22    | Wyoming              | Mountain West        | 5-1      | 2469   |
-| 23    | Air Force            | Mountain West        | 5-0      | 2390   |
+| 23    | Air Force            | Mountain West        | 5-0      | 2391   |
 | 24    | Oregon               | Pac-12               | 5-1      | 2370   |
-| 25    | Duke                 | ACC                  | 4-1      | 2369   |
+| 25    | Duke                 | ACC                  | 4-1      | 2370   |
 
-Updated 10/14/2023 21:20:10
+Updated 10/14/2023 21:25:08
