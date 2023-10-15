@@ -4,9 +4,9 @@
 | 2     | Oklahoma             | Big 12               | 6-0      | 3285   |
 | 3     | Penn State           | Big Ten              | 6-0      | 3168   |
 | 4     | Ohio State           | Big Ten              | 6-0      | 3146   |
-| 5     | Louisville           | ACC                  | 6-0      | 3104   |
+| 5     | Louisville           | ACC                  | 6-0      | 3105   |
 | 6     | Washington           | Pac-12               | 6-0      | 2988   |
-| 7     | Florida State        | ACC                  | 6-0      | 2945   |
+| 7     | Florida State        | ACC                  | 6-0      | 2946   |
 | 8     | Michigan             | Big Ten              | 7-0      | 2926   |
 | 9     | Texas                | Big 12               | 5-1      | 2907   |
 | 10    | Kentucky             | SEC                  | 5-1      | 2814   |
@@ -26,4 +26,4 @@
 | 24    | Oregon               | Pac-12               | 5-1      | 2370   |
 | 25    | Duke                 | ACC                  | 4-1      | 2370   |
 
-Updated 10/14/2023 20:40:09
+Updated 10/14/2023 20:45:09
