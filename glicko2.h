@@ -41,7 +41,7 @@ double iterSigPr(double sig, double delta, double phi, double vi, double tau,
   double fB = f(B, delta, phi, vi, a, tau);
   double C;
   double fC;
-  while (abs(B - A) > eps) {
+  while (std::abs(B - A) > eps) {
     C = A + (A - B) * fA / (fB - fA);
     fC = f(C, delta, phi, vi, a, tau);
     if (fC * fB <= 0) {
