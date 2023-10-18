@@ -10,20 +10,20 @@
 | 8     | Michigan             | Big Ten              | 7-0      | 2937   |
 | 9     | Air Force            | Mountain West        | 6-0      | 2916   |
 | 10    | North Carolina       | ACC                  | 6-0      | 2779   |
-| 11    | Alabama              | SEC                  | 6-1      | 2727   |
-| 12    | James Madison        | Sun Belt             | 6-0      | 2726   |
+| 11    | Alabama              | SEC                  | 6-1      | 2728   |
+| 12    | James Madison        | Sun Belt             | 6-0      | 2727   |
 | 13    | Iowa                 | Big Ten              | 6-1      | 2640   |
 | 14    | Ole Miss             | SEC                  | 5-1      | 2593   |
-| 15    | LSU                  | SEC                  | 5-2      | 2470   |
+| 15    | LSU                  | SEC                  | 5-2      | 2471   |
 | 16    | Wyoming              | Mountain West        | 5-2      | 2431   |
-| 17    | Oregon               | Pac-12               | 5-1      | 2405   |
+| 17    | Oregon               | Pac-12               | 5-1      | 2406   |
 | 18    | Liberty              | Conference USA       | 7-0      | 2404   |
-| 19    | Missouri             | SEC                  | 6-1      | 2403   |
+| 19    | Missouri             | SEC                  | 6-1      | 2404   |
 | 20    | Oregon State         | Pac-12               | 6-1      | 2361   |
 | 21    | Notre Dame           | FBS Independents     | 6-2      | 2351   |
 | 22    | Utah                 | Pac-12               | 5-1      | 2330   |
 | 23    | Duke                 | ACC                  | 5-1      | 2285   |
 | 24    | Kentucky             | SEC                  | 5-2      | 2242   |
-| 25    | Tulane               | American Athletic    | 5-1      | 2218   |
+| 25    | Tulane               | American Athletic    | 5-1      | 2219   |
 
-Updated 10/17/2023 22:35:09
+Updated 10/17/2023 22:55:07
