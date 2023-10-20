@@ -7,7 +7,7 @@
 | 5     | Washington           | Pac-12               | 6-0      | 3035   |
 | 6     | Ohio State           | Big Ten              | 6-0      | 3035   |
 | 7     | Texas                | Big 12               | 5-1      | 2957   |
-| 8     | Michigan             | Big Ten              | 7-0      | 2938   |
+| 8     | Michigan             | Big Ten              | 7-0      | 2937   |
 | 9     | Air Force            | Mountain West        | 6-0      | 2916   |
 | 10    | North Carolina       | ACC                  | 6-0      | 2780   |
 | 11    | Alabama              | SEC                  | 6-1      | 2727   |
@@ -19,11 +19,11 @@
 | 17    | Wyoming              | Mountain West        | 5-2      | 2431   |
 | 18    | Oregon               | Pac-12               | 5-1      | 2406   |
 | 19    | Missouri             | SEC                  | 6-1      | 2402   |
-| 20    | Oregon State         | Pac-12               | 6-1      | 2366   |
+| 20    | Oregon State         | Pac-12               | 6-1      | 2365   |
 | 21    | Notre Dame           | FBS Independents     | 6-2      | 2351   |
 | 22    | Utah                 | Pac-12               | 5-1      | 2334   |
 | 23    | Duke                 | ACC                  | 5-1      | 2285   |
 | 24    | Kentucky             | SEC                  | 5-2      | 2242   |
 | 25    | Tulane               | American Athletic    | 5-1      | 2220   |
 
-Updated 10/19/2023 00:30:09
+Updated 10/19/2023 22:00:19
