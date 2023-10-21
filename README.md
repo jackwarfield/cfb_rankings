@@ -26,4 +26,4 @@
 | 24    | Kentucky             | SEC                  | 5-2      | 2242   |
 | 25    | Tulane               | American Athletic    | 5-1      | 2221   |
 
-Updated 10/19/2023 23:35:07
+Updated 10/20/2023 22:00:18
