@@ -1,6 +1,6 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 7-0      | 3576   |
+| 1     | Georgia              | SEC                  | 7-0      | 3575   |
 | 2     | Oklahoma             | Big 12               | 6-0      | 3349   |
 | 3     | Penn State           | Big Ten              | 6-0      | 3186   |
 | 4     | Florida State        | ACC                  | 6-0      | 3053   |
@@ -22,8 +22,8 @@
 | 20    | Oregon State         | Pac-12               | 6-1      | 2366   |
 | 21    | Notre Dame           | FBS Independents     | 6-2      | 2350   |
 | 22    | Utah                 | Pac-12               | 5-1      | 2335   |
-| 23    | Duke                 | ACC                  | 5-1      | 2283   |
+| 23    | Duke                 | ACC                  | 5-1      | 2282   |
 | 24    | Kentucky             | SEC                  | 5-2      | 2242   |
 | 25    | Tulane               | American Athletic    | 5-1      | 2221   |
 
-Updated 10/20/2023 22:30:11
+Updated 10/21/2023 14:45:09
