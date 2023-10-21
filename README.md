@@ -1,6 +1,6 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 7-0      | 3576   |
+| 1     | Georgia              | SEC                  | 7-0      | 3575   |
 | 2     | Oklahoma             | Big 12               | 6-0      | 3349   |
 | 3     | Penn State           | Big Ten              | 6-0      | 3186   |
 | 4     | Florida State        | ACC                  | 6-0      | 3053   |
@@ -11,7 +11,7 @@
 | 9     | Air Force            | Mountain West        | 6-0      | 2918   |
 | 10    | North Carolina       | ACC                  | 6-0      | 2778   |
 | 11    | James Madison        | Sun Belt             | 7-0      | 2770   |
-| 12    | Alabama              | SEC                  | 6-1      | 2728   |
+| 12    | Alabama              | SEC                  | 6-1      | 2727   |
 | 13    | Iowa                 | Big Ten              | 6-1      | 2642   |
 | 14    | Ole Miss             | SEC                  | 5-1      | 2593   |
 | 15    | LSU                  | SEC                  | 5-2      | 2470   |
@@ -26,4 +26,4 @@
 | 24    | Kentucky             | SEC                  | 5-2      | 2242   |
 | 25    | Tulane               | American Athletic    | 5-1      | 2221   |
 
-Updated 10/21/2023 14:50:09
+Updated 10/21/2023 14:55:08
