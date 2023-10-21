@@ -7,10 +7,10 @@
 | 5     | Washington           | Pac-12               | 6-0      | 3038   |
 | 6     | Texas                | Big 12               | 5-1      | 2982   |
 | 7     | Air Force            | Mountain West        | 7-0      | 2957   |
-| 8     | Michigan             | Big Ten              | 7-0      | 2936   |
+| 8     | Michigan             | Big Ten              | 7-0      | 2937   |
 | 9     | Penn State           | Big Ten              | 6-1      | 2911   |
 | 10    | James Madison        | Sun Belt             | 7-0      | 2768   |
-| 11    | North Carolina       | ACC                  | 6-0      | 2762   |
+| 11    | North Carolina       | ACC                  | 6-0      | 2763   |
 | 12    | Alabama              | SEC                  | 6-1      | 2741   |
 | 13    | Ole Miss             | SEC                  | 5-1      | 2600   |
 | 14    | Iowa                 | Big Ten              | 6-1      | 2533   |
@@ -26,4 +26,4 @@
 | 24    | Kentucky             | SEC                  | 5-2      | 2246   |
 | 25    | Tulane               | American Athletic    | 5-1      | 2233   |
 
-Updated 10/21/2023 16:35:09
+Updated 10/21/2023 16:40:09
