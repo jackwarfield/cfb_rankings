@@ -10,7 +10,7 @@
 | 8     | Air Force            | Mountain West        | 7-0      | 2943   |
 | 9     | North Carolina       | ACC                  | 6-0      | 2828   |
 | 10    | Alabama              | SEC                  | 7-1      | 2785   |
-| 11    | James Madison        | Sun Belt             | 7-0      | 2758   |
+| 11    | James Madison        | Sun Belt             | 7-0      | 2759   |
 | 12    | Penn State           | Big Ten              | 6-1      | 2689   |
 | 13    | Ole Miss             | SEC                  | 5-1      | 2635   |
 | 14    | Oregon               | Pac-12               | 6-1      | 2583   |
@@ -26,4 +26,4 @@
 | 24    | Tulane               | American Athletic    | 6-1      | 2258   |
 | 25    | USC                  | Pac-12               | 6-1      | 2217   |
 
-Updated 10/21/2023 19:15:11
+Updated 10/21/2023 19:20:10
