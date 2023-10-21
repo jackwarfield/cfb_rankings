@@ -15,7 +15,7 @@
 | 13    | Ole Miss             | SEC                  | 5-1      | 2600   |
 | 14    | Iowa                 | Big Ten              | 6-1      | 2533   |
 | 15    | LSU                  | SEC                  | 5-2      | 2477   |
-| 16    | Wyoming              | Mountain West        | 5-2      | 2446   |
+| 16    | Wyoming              | Mountain West        | 5-2      | 2447   |
 | 17    | Liberty              | Conference USA       | 7-0      | 2426   |
 | 18    | Oregon               | Pac-12               | 5-1      | 2411   |
 | 19    | Missouri             | SEC                  | 6-1      | 2410   |
@@ -26,4 +26,4 @@
 | 24    | Kentucky             | SEC                  | 5-2      | 2246   |
 | 25    | Tulane               | American Athletic    | 5-1      | 2235   |
 
-Updated 10/21/2023 17:30:10
+Updated 10/21/2023 17:35:09
