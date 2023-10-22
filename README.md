@@ -20,10 +20,10 @@
 | 18    | Liberty              | Conference USA       | 7-0      | 2422   |
 | 19    | Notre Dame           | FBS Independents     | 6-2      | 2349   |
 | 20    | Oregon State         | Pac-12               | 6-1      | 2340   |
-| 21    | Utah                 | Pac-12               | 5-1      | 2316   |
-| 22    | Duke                 | ACC                  | 5-1      | 2276   |
+| 21    | Utah                 | Pac-12               | 5-1      | 2317   |
+| 22    | Duke                 | ACC                  | 5-1      | 2277   |
 | 23    | Kentucky             | SEC                  | 5-2      | 2262   |
 | 24    | Tulane               | American Athletic    | 6-1      | 2257   |
 | 25    | USC                  | Pac-12               | 6-1      | 2219   |
 
-Updated 10/21/2023 20:40:10
+Updated 10/21/2023 20:55:08
