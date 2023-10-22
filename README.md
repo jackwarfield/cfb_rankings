@@ -26,4 +26,4 @@
 | 24    | Tulane               | American Athletic    | 6-1      | 2257   |
 | 25    | USC                  | Pac-12               | 6-1      | 2219   |
 
-Updated 10/21/2023 20:35:09
+Updated 10/21/2023 20:40:10
