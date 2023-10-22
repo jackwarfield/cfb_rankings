@@ -11,7 +11,7 @@
 | 9     | Alabama              | SEC                  | 7-1      | 2804   |
 | 10    | James Madison        | Sun Belt             | 7-0      | 2767   |
 | 11    | Ole Miss             | SEC                  | 6-1      | 2655   |
-| 12    | Penn State           | Big Ten              | 6-1      | 2648   |
+| 12    | Penn State           | Big Ten              | 6-1      | 2647   |
 | 13    | Oregon               | Pac-12               | 6-1      | 2559   |
 | 14    | LSU                  | SEC                  | 6-2      | 2524   |
 | 15    | Missouri             | SEC                  | 7-1      | 2456   |
@@ -26,4 +26,4 @@
 | 24    | Duke                 | ACC                  | 5-2      | 2181   |
 | 25    | UCLA                 | Pac-12               | 4-2      | 2176   |
 
-Updated 10/22/2023 00:05:09
+Updated 10/22/2023 00:10:09
