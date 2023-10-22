@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Georgia              | SEC                  | 7-0      | 3590   |
-| 2     | Oklahoma             | Big 12               | 7-0      | 3444   |
-| 3     | Ohio State           | Big Ten              | 7-0      | 3307   |
-| 4     | Washington           | Pac-12               | 6-0      | 3128   |
-| 5     | Florida State        | ACC                  | 7-0      | 3126   |
+| 1     | Georgia              | SEC                  | 7-0      | 3589   |
+| 2     | Oklahoma             | Big 12               | 7-0      | 3443   |
+| 3     | Ohio State           | Big Ten              | 7-0      | 3306   |
+| 4     | Florida State        | ACC                  | 7-0      | 3125   |
+| 5     | Washington           | Pac-12               | 6-0      | 3124   |
 | 6     | Texas                | Big 12               | 6-1      | 3034   |
-| 7     | Michigan             | Big Ten              | 8-0      | 3001   |
-| 8     | Air Force            | Mountain West        | 7-0      | 2898   |
-| 9     | Alabama              | SEC                  | 7-1      | 2806   |
-| 10    | James Madison        | Sun Belt             | 7-0      | 2768   |
-| 11    | Ole Miss             | SEC                  | 6-1      | 2658   |
-| 12    | Penn State           | Big Ten              | 6-1      | 2650   |
-| 13    | Oregon               | Pac-12               | 6-1      | 2564   |
-| 14    | LSU                  | SEC                  | 6-2      | 2526   |
-| 15    | Missouri             | SEC                  | 7-1      | 2459   |
-| 16    | Liberty              | Conference USA       | 7-0      | 2433   |
-| 17    | Utah                 | Pac-12               | 6-1      | 2399   |
-| 18    | Oregon State         | Pac-12               | 6-1      | 2380   |
-| 19    | Wyoming              | Mountain West        | 5-2      | 2371   |
-| 20    | Notre Dame           | FBS Independents     | 6-2      | 2296   |
-| 21    | Kentucky             | SEC                  | 5-2      | 2276   |
-| 22    | Tulane               | American Athletic    | 6-1      | 2269   |
-| 23    | UCLA                 | Pac-12               | 4-2      | 2192   |
-| 24    | Duke                 | ACC                  | 5-2      | 2182   |
-| 25    | UNLV                 | Mountain West        | 6-1      | 2180   |
+| 7     | Michigan             | Big Ten              | 8-0      | 3006   |
+| 8     | Air Force            | Mountain West        | 7-0      | 2894   |
+| 9     | Alabama              | SEC                  | 7-1      | 2804   |
+| 10    | James Madison        | Sun Belt             | 7-0      | 2767   |
+| 11    | Ole Miss             | SEC                  | 6-1      | 2655   |
+| 12    | Penn State           | Big Ten              | 6-1      | 2648   |
+| 13    | Oregon               | Pac-12               | 6-1      | 2559   |
+| 14    | LSU                  | SEC                  | 6-2      | 2524   |
+| 15    | Missouri             | SEC                  | 7-1      | 2456   |
+| 16    | Liberty              | Conference USA       | 7-0      | 2426   |
+| 17    | Utah                 | Pac-12               | 6-1      | 2390   |
+| 18    | Wyoming              | Mountain West        | 5-2      | 2373   |
+| 19    | Oregon State         | Pac-12               | 6-1      | 2367   |
+| 20    | Notre Dame           | FBS Independents     | 6-2      | 2295   |
+| 21    | Kentucky             | SEC                  | 5-2      | 2273   |
+| 22    | Tulane               | American Athletic    | 6-1      | 2261   |
+| 23    | UNLV                 | Mountain West        | 6-1      | 2195   |
+| 24    | Duke                 | ACC                  | 5-2      | 2181   |
+| 25    | UCLA                 | Pac-12               | 4-2      | 2176   |
 
-Updated 10/22/2023 00:00:14
+Updated 10/22/2023 00:05:09
