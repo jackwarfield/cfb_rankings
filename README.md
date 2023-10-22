@@ -10,7 +10,7 @@
 | 8     | Air Force            | Mountain West        | 7-0      | 2900   |
 | 9     | Alabama              | SEC                  | 7-1      | 2800   |
 | 10    | James Madison        | Sun Belt             | 7-0      | 2760   |
-| 11    | Penn State           | Big Ten              | 6-1      | 2655   |
+| 11    | Penn State           | Big Ten              | 6-1      | 2656   |
 | 12    | Ole Miss             | SEC                  | 6-1      | 2653   |
 | 13    | Oregon               | Pac-12               | 6-1      | 2560   |
 | 14    | LSU                  | SEC                  | 6-2      | 2521   |
@@ -26,4 +26,4 @@
 | 24    | USC                  | Pac-12               | 6-1      | 2210   |
 | 25    | UNLV                 | Mountain West        | 6-1      | 2182   |
 
-Updated 10/21/2023 23:10:09
+Updated 10/21/2023 23:20:08
