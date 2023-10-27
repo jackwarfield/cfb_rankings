@@ -12,7 +12,7 @@
 | 10    | James Madison        | Sun Belt             | 7-0      | 2801   |
 | 11    | Ole Miss             | SEC                  | 6-1      | 2694   |
 | 12    | Penn State           | Big Ten              | 6-1      | 2673   |
-| 13    | Oregon               | Pac-12               | 6-1      | 2599   |
+| 13    | Oregon               | Pac-12               | 6-1      | 2600   |
 | 14    | LSU                  | SEC                  | 6-2      | 2554   |
 | 15    | Liberty              | Conference USA       | 8-0      | 2526   |
 | 16    | Missouri             | SEC                  | 7-1      | 2478   |
@@ -24,6 +24,6 @@
 | 22    | Tulane               | American Athletic    | 6-1      | 2285   |
 | 23    | UNLV                 | Mountain West        | 6-1      | 2215   |
 | 24    | UCLA                 | Pac-12               | 5-2      | 2208   |
-| 25    | Duke                 | ACC                  | 5-2      | 2191   |
+| 25    | Duke                 | ACC                  | 5-2      | 2192   |
 
-Updated 10/25/2023 23:40:12
+Updated 10/26/2023 22:30:11
