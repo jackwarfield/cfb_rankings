@@ -24,6 +24,6 @@
 | 22    | Tulane               | American Athletic    | 6-1      | 2284   |
 | 23    | UNLV                 | Mountain West        | 6-1      | 2222   |
 | 24    | UCLA                 | Pac-12               | 5-2      | 2218   |
-| 25    | Duke                 | ACC                  | 5-2      | 2184   |
+| 25    | Duke                 | ACC                  | 5-2      | 2183   |
 
-Updated 10/28/2023 15:10:10
+Updated 10/28/2023 15:15:10
