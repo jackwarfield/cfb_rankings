@@ -9,7 +9,7 @@
 | 7     | Michigan             | Big Ten              | 8-0      | 3047   |
 | 8     | Air Force            | Mountain West        | 7-0      | 2952   |
 | 9     | Alabama              | SEC                  | 7-1      | 2853   |
-| 10    | James Madison        | Sun Belt             | 7-0      | 2832   |
+| 10    | James Madison        | Sun Belt             | 7-0      | 2833   |
 | 11    | Ole Miss             | SEC                  | 6-1      | 2693   |
 | 12    | Penn State           | Big Ten              | 6-1      | 2680   |
 | 13    | Oregon               | Pac-12               | 6-1      | 2608   |
@@ -26,4 +26,4 @@
 | 24    | UCLA                 | Pac-12               | 5-2      | 2218   |
 | 25    | Duke                 | ACC                  | 5-2      | 2187   |
 
-Updated 10/27/2023 23:10:10
+Updated 10/28/2023 14:55:09
