@@ -2,7 +2,7 @@
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Georgia              | SEC                  | 7-0      | 3568   | 370       |
 | 2     | Ohio State           | Big Ten              | 7-0      | 3371   | 161       |
-| 3     | Washington           | Pac-12               | 7-0      | 3213   | 154       |
+| 3     | Washington           | Pac-12               | 7-0      | 3214   | 154       |
 | 4     | Florida State        | ACC                  | 8-0      | 3173   | 170       |
 | 5     | Michigan             | Big Ten              | 8-0      | 3058   | 188       |
 | 6     | Air Force            | Mountain West        | 7-0      | 2871   | 154       |
@@ -26,4 +26,4 @@
 | 24    | UCLA                 | Pac-12               | 5-2      | 2219   | 73        |
 | 25    | Duke                 | ACC                  | 5-2      | 2206   | 79        |
 
-Updated 10/28/2023 17:10:11
+Updated 10/28/2023 17:15:11
