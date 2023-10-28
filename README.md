@@ -23,7 +23,7 @@
 | 21    | Wyoming              | Mountain West        | 5-2      | 2262   | 89        |
 | 22    | Duke                 | ACC                  | 5-2      | 2234   | 79        |
 | 23    | Tulane               | American Athletic    | 6-1      | 2232   | 96        |
-| 24    | UNLV                 | Mountain West        | 6-1      | 2227   | 146       |
+| 24    | UNLV                 | Mountain West        | 6-1      | 2228   | 146       |
 | 25    | UCLA                 | Pac-12               | 5-2      | 2224   | 73        |
 
-Updated 10/28/2023 17:35:09
+Updated 10/28/2023 17:40:10
