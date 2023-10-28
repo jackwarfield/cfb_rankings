@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Georgia              | SEC                  | 7-0      | 3568   | 370       |
-| 2     | Ohio State           | Big Ten              | 7-0      | 3371   | 161       |
+| 1     | Georgia              | SEC                  | 7-0      | 3554   | 382       |
+| 2     | Ohio State           | Big Ten              | 7-0      | 3372   | 161       |
 | 3     | Washington           | Pac-12               | 7-0      | 3214   | 154       |
-| 4     | Florida State        | ACC                  | 8-0      | 3173   | 170       |
-| 5     | Michigan             | Big Ten              | 8-0      | 3058   | 188       |
-| 6     | Air Force            | Mountain West        | 7-0      | 2871   | 154       |
-| 7     | James Madison        | Sun Belt             | 7-0      | 2836   | 165       |
-| 8     | Penn State           | Big Ten              | 7-1      | 2710   | 130       |
-| 9     | Oregon               | Pac-12               | 6-1      | 2613   | 116       |
-| 10    | Alabama              | SEC                  | 7-1      | 2575   | 83        |
-| 11    | Ole Miss             | SEC                  | 6-1      | 2556   | 78        |
-| 12    | Texas                | Big 12               | 6-1      | 2546   | 77        |
-| 13    | Liberty              | Conference USA       | 8-0      | 2530   | 186       |
-| 14    | LSU                  | SEC                  | 6-2      | 2487   | 82        |
-| 15    | Missouri             | SEC                  | 7-1      | 2442   | 79        |
-| 16    | Utah                 | Pac-12               | 6-1      | 2414   | 74        |
-| 17    | Oregon State         | Pac-12               | 6-1      | 2401   | 77        |
-| 18    | Oklahoma             | Big 12               | 7-1      | 2367   | 89        |
+| 4     | Florida State        | ACC                  | 8-0      | 3174   | 170       |
+| 5     | Michigan             | Big Ten              | 8-0      | 3060   | 188       |
+| 6     | Air Force            | Mountain West        | 7-0      | 2873   | 154       |
+| 7     | James Madison        | Sun Belt             | 7-0      | 2839   | 165       |
+| 8     | Penn State           | Big Ten              | 7-1      | 2712   | 130       |
+| 9     | Oregon               | Pac-12               | 6-1      | 2615   | 116       |
+| 10    | Alabama              | SEC                  | 7-1      | 2577   | 83        |
+| 11    | Ole Miss             | SEC                  | 6-1      | 2558   | 78        |
+| 12    | Texas                | Big 12               | 6-1      | 2549   | 77        |
+| 13    | Liberty              | Conference USA       | 8-0      | 2533   | 185       |
+| 14    | LSU                  | SEC                  | 6-2      | 2489   | 82        |
+| 15    | Missouri             | SEC                  | 7-1      | 2445   | 79        |
+| 16    | Utah                 | Pac-12               | 6-1      | 2416   | 74        |
+| 17    | Oregon State         | Pac-12               | 6-1      | 2403   | 77        |
+| 18    | Oklahoma             | Big 12               | 7-1      | 2370   | 89        |
 | 19    | Notre Dame           | FBS Independents     | 6-2      | 2313   | 76        |
-| 20    | Kentucky             | SEC                  | 5-2      | 2264   | 84        |
-| 21    | Wyoming              | Mountain West        | 5-2      | 2261   | 89        |
-| 22    | Tulane               | American Athletic    | 6-1      | 2230   | 96        |
-| 23    | UNLV                 | Mountain West        | 6-1      | 2227   | 146       |
-| 24    | UCLA                 | Pac-12               | 5-2      | 2219   | 73        |
-| 25    | Duke                 | ACC                  | 5-2      | 2206   | 79        |
+| 20    | Kentucky             | SEC                  | 5-2      | 2266   | 84        |
+| 21    | Wyoming              | Mountain West        | 5-2      | 2263   | 89        |
+| 22    | Tulane               | American Athletic    | 6-1      | 2233   | 96        |
+| 23    | UNLV                 | Mountain West        | 6-1      | 2228   | 146       |
+| 24    | UCLA                 | Pac-12               | 5-2      | 2222   | 73        |
+| 25    | Duke                 | ACC                  | 5-2      | 2209   | 79        |
 
-Updated 10/28/2023 17:15:11
+Updated 10/28/2023 17:20:10
