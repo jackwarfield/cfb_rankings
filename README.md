@@ -20,10 +20,10 @@
 | 18    | Utah                 | Pac-12               | 6-1      | 2414   | 74        |
 | 19    | Oregon State         | Pac-12               | 6-1      | 2399   | 77        |
 | 20    | Notre Dame           | FBS Independents     | 6-2      | 2310   | 76        |
-| 21    | Tulane               | American Athletic    | 6-1      | 2282   | 103       |
+| 21    | Tulane               | American Athletic    | 6-1      | 2283   | 103       |
 | 22    | Kentucky             | SEC                  | 5-2      | 2278   | 85        |
 | 23    | UNLV                 | Mountain West        | 6-1      | 2224   | 146       |
 | 24    | UCLA                 | Pac-12               | 5-2      | 2217   | 73        |
 | 25    | Duke                 | ACC                  | 5-2      | 2202   | 79        |
 
-Updated 10/28/2023 16:35:09
+Updated 10/28/2023 16:40:11
