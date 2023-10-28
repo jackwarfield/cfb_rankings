@@ -16,14 +16,14 @@
 | 14    | LSU                  | SEC                  | 6-2      | 2551   |
 | 15    | Liberty              | Conference USA       | 8-0      | 2534   |
 | 16    | Missouri             | SEC                  | 7-1      | 2468   |
-| 17    | Wyoming              | Mountain West        | 5-2      | 2413   |
-| 18    | Utah                 | Pac-12               | 6-1      | 2413   |
+| 17    | Utah                 | Pac-12               | 6-1      | 2413   |
+| 18    | Wyoming              | Mountain West        | 5-2      | 2413   |
 | 19    | Oregon State         | Pac-12               | 6-1      | 2399   |
-| 20    | Notre Dame           | FBS Independents     | 6-2      | 2307   |
+| 20    | Notre Dame           | FBS Independents     | 6-2      | 2308   |
 | 21    | Tulane               | American Athletic    | 6-1      | 2284   |
 | 22    | Kentucky             | SEC                  | 5-2      | 2277   |
 | 23    | UNLV                 | Mountain West        | 6-1      | 2225   |
 | 24    | UCLA                 | Pac-12               | 5-2      | 2217   |
 | 25    | Duke                 | ACC                  | 5-2      | 2199   |
 
-Updated 10/28/2023 15:55:09
+Updated 10/28/2023 16:05:08
