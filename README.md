@@ -6,7 +6,7 @@
 | 4     | Florida State        | ACC                  | 8-0      | 3175   | 169       |
 | 5     | Michigan             | Big Ten              | 8-0      | 3059   | 188       |
 | 6     | Air Force            | Mountain West        | 7-0      | 2872   | 154       |
-| 7     | James Madison        | Sun Belt             | 7-0      | 2843   | 164       |
+| 7     | James Madison        | Sun Belt             | 7-0      | 2844   | 164       |
 | 8     | Penn State           | Big Ten              | 7-1      | 2714   | 130       |
 | 9     | Oregon               | Pac-12               | 6-1      | 2616   | 116       |
 | 10    | Alabama              | SEC                  | 7-1      | 2576   | 83        |
@@ -26,4 +26,4 @@
 | 24    | UNLV                 | Mountain West        | 6-1      | 2227   | 146       |
 | 25    | UCLA                 | Pac-12               | 5-2      | 2224   | 73        |
 
-Updated 10/28/2023 17:30:11
+Updated 10/28/2023 17:35:09
