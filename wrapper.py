@@ -88,49 +88,49 @@ df['losses'] = (df['losses'] / (31 + 10 * run_week - 1)).astype(int)
 ranks = (
     df.sort_values('rating', ascending=False)
     .reset_index(drop=True)[
-        ['school', 'conference', 'rating', 'wins', 'losses']
+        ['school', 'conference', 'rating', 'wins', 'losses', 'rd']
     ]
     .values
 )
 
 print(
-    '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(
-        'Rank', 'Team', 'Conference', 'Record', 'Rating'
+    '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} | {:<9} |'.format(
+        'Rank', 'Team', 'Conference', 'Record', 'Rating', 'Deviation'
     )
 )
 print(
-    '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(
-        '---:', '---:', '---:', '---:', '---:'
+    '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} | {:<9} |'.format(
+        '---:', '---:', '---:', '---:', '---:', '---:'
     )
 )
 for i in range(1, 25 + 1):
-    t, c, r, w, l = ranks[i - 1]
+    t, c, r, w, l, rd = ranks[i - 1]
     rec = str(int(w)) + '-' + str(int(l))
     print(
-        '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(
-            i, t, c, rec, int(r)
+        '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} | {:<9} |'.format(
+            i, t, c, rec, int(r), int(rd)
         )
     )
 
 with open('./README.md', 'w') as f:
     print(
-        '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(
-            'Rank', 'Team', 'Conference', 'Record', 'Rating'
+        '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} | {:<9} |'.format(
+            'Rank', 'Team', 'Conference', 'Record', 'Rating', 'Deviation'
         ),
         file=f,
     )
     print(
-        '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(
-            '---:', '---:', '---:', '---:', '---:'
+        '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} | {:<9} |'.format(
+            '---:', '---:', '---:', '---:', '---:', '---:'
         ),
         file=f,
     )
     for i in range(1, 25 + 1):
-        t, c, r, w, l = ranks[i - 1]
+        t, c, r, w, l, rd = ranks[i - 1]
         rec = str(int(w)) + '-' + str(int(l))
         print(
-            '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(
-                i, t, c, rec, int(r)
+            '| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} | {:<9} |'.format(
+                i, t, c, rec, int(r), int(rd)
             ),
             file=f,
         )
