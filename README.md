@@ -13,9 +13,9 @@
 | 11    | Ole Miss             | SEC                  | 6-1      | 2571   | 78        |
 | 12    | Texas                | Big 12               | 7-1      | 2559   | 81        |
 | 13    | Liberty              | Conference USA       | 8-0      | 2537   | 185       |
-| 14    | LSU                  | SEC                  | 6-2      | 2495   | 82        |
+| 14    | LSU                  | SEC                  | 6-2      | 2496   | 82        |
 | 15    | Missouri             | SEC                  | 7-1      | 2444   | 79        |
-| 16    | Oregon State         | Pac-12               | 6-1      | 2390   | 76        |
+| 16    | Oregon State         | Pac-12               | 6-1      | 2391   | 76        |
 | 17    | Utah                 | Pac-12               | 6-2      | 2388   | 74        |
 | 18    | Oklahoma             | Big 12               | 7-1      | 2378   | 89        |
 | 19    | Notre Dame           | FBS Independents     | 7-2      | 2357   | 79        |
@@ -26,4 +26,4 @@
 | 24    | UNLV                 | Mountain West        | 6-1      | 2238   | 146       |
 | 25    | UCLA                 | Pac-12               | 5-2      | 2208   | 73        |
 
-Updated 10/28/2023 19:35:08
+Updated 10/28/2023 19:40:09
