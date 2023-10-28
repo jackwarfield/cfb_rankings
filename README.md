@@ -14,7 +14,7 @@
 | 12    | Texas                | Big 12               | 6-1      | 2548   | 77        |
 | 13    | Liberty              | Conference USA       | 8-0      | 2533   | 185       |
 | 14    | LSU                  | SEC                  | 6-2      | 2488   | 82        |
-| 15    | Missouri             | SEC                  | 7-1      | 2444   | 79        |
+| 15    | Missouri             | SEC                  | 7-1      | 2445   | 79        |
 | 16    | Utah                 | Pac-12               | 6-1      | 2419   | 74        |
 | 17    | Oregon State         | Pac-12               | 6-1      | 2405   | 77        |
 | 18    | Oklahoma             | Big 12               | 7-1      | 2369   | 89        |
@@ -26,4 +26,4 @@
 | 24    | UNLV                 | Mountain West        | 6-1      | 2227   | 146       |
 | 25    | UCLA                 | Pac-12               | 5-2      | 2224   | 73        |
 
-Updated 10/28/2023 18:00:21
+Updated 10/28/2023 18:05:09
