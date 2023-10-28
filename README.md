@@ -14,16 +14,16 @@
 | 12    | Texas                | Big 12               | 6-1      | 2548   | 77        |
 | 13    | Liberty              | Conference USA       | 8-0      | 2532   | 185       |
 | 14    | LSU                  | SEC                  | 6-2      | 2488   | 82        |
-| 15    | Missouri             | SEC                  | 7-1      | 2444   | 79        |
+| 15    | Missouri             | SEC                  | 7-1      | 2445   | 79        |
 | 16    | Utah                 | Pac-12               | 6-1      | 2419   | 74        |
 | 17    | Oregon State         | Pac-12               | 6-1      | 2405   | 77        |
 | 18    | Oklahoma             | Big 12               | 7-1      | 2369   | 89        |
 | 19    | Notre Dame           | FBS Independents     | 6-2      | 2345   | 76        |
 | 20    | Kentucky             | SEC                  | 5-2      | 2266   | 84        |
 | 21    | Wyoming              | Mountain West        | 5-2      | 2262   | 89        |
-| 22    | Duke                 | ACC                  | 5-2      | 2234   | 79        |
+| 22    | Duke                 | ACC                  | 5-2      | 2235   | 79        |
 | 23    | Tulane               | American Athletic    | 6-1      | 2232   | 96        |
 | 24    | UNLV                 | Mountain West        | 6-1      | 2228   | 146       |
 | 25    | UCLA                 | Pac-12               | 5-2      | 2224   | 73        |
 
-Updated 10/28/2023 17:45:10
+Updated 10/28/2023 17:50:11
