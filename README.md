@@ -21,9 +21,9 @@
 | 19    | Oklahoma             | Big 12               | 7-1      | 2372   | 89        |
 | 20    | Louisville           | ACC                  | 7-1      | 2328   | 80        |
 | 21    | Wyoming              | Mountain West        | 5-2      | 2262   | 90        |
-| 22    | Kentucky             | SEC                  | 5-2      | 2258   | 84        |
+| 22    | Kentucky             | SEC                  | 5-2      | 2259   | 84        |
 | 23    | UNLV                 | Mountain West        | 6-1      | 2239   | 146       |
 | 24    | Tulane               | American Athletic    | 7-1      | 2235   | 101       |
 | 25    | UCLA                 | Pac-12               | 5-2      | 2214   | 73        |
 
-Updated 10/28/2023 20:20:10
+Updated 10/28/2023 20:25:09
