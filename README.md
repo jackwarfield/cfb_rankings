@@ -5,7 +5,7 @@
 | 3     | Ohio State           | Big Ten              | 8-0      | 3415   | 170       |
 | 4     | Florida State        | ACC                  | 8-0      | 3152   | 170       |
 | 5     | Michigan             | Big Ten              | 8-0      | 3073   | 186       |
-| 6     | Oregon               | Pac-12               | 7-1      | 2872   | 116       |
+| 6     | Oregon               | Pac-12               | 7-1      | 2873   | 116       |
 | 7     | James Madison        | Sun Belt             | 7-0      | 2856   | 163       |
 | 8     | Penn State           | Big Ten              | 7-1      | 2729   | 132       |
 | 9     | Air Force            | Mountain West        | 8-0      | 2661   | 182       |
@@ -26,4 +26,4 @@
 | 24    | Tennessee            | SEC                  | 6-2      | 2178   | 73        |
 | 25    | USC                  | Pac-12               | 7-2      | 2169   | 77        |
 
-Updated 10/28/2023 23:15:09
+Updated 10/28/2023 23:25:09
