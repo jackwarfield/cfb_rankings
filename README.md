@@ -21,9 +21,9 @@
 | 19    | Utah                 | Pac-12               | 6-2      | 2311   | 74        |
 | 20    | Tulane               | American Athletic    | 7-1      | 2269   | 99        |
 | 21    | USC                  | Pac-12               | 7-2      | 2190   | 73        |
-| 22    | Kansas               | Big 12               | 6-2      | 2181   | 81        |
+| 22    | Kansas               | Big 12               | 6-2      | 2182   | 81        |
 | 23    | Tennessee            | SEC                  | 6-2      | 2165   | 74        |
 | 24    | Duke                 | ACC                  | 5-3      | 2155   | 75        |
 | 25    | Oregon State         | Pac-12               | 6-2      | 2134   | 70        |
 
-Updated 10/31/2023 22:40:09
+Updated 10/31/2023 23:05:10
