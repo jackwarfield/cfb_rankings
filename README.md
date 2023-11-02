@@ -9,16 +9,16 @@
 | 7     | Oregon               | Pac-12               | 7-1      | 2806   | 123       |
 | 8     | Penn State           | Big Ten              | 7-1      | 2734   | 136       |
 | 9     | Air Force            | Mountain West        | 8-0      | 2714   | 187       |
-| 10    | Liberty              | Conference USA       | 8-0      | 2590   | 190       |
+| 10    | Liberty              | Conference USA       | 8-0      | 2594   | 190       |
 | 11    | Alabama              | SEC                  | 7-1      | 2588   | 82        |
 | 12    | Ole Miss             | SEC                  | 7-1      | 2579   | 80        |
 | 13    | Texas                | Big 12               | 7-1      | 2517   | 83        |
 | 14    | LSU                  | SEC                  | 6-2      | 2487   | 82        |
 | 15    | Missouri             | SEC                  | 7-1      | 2397   | 80        |
-| 16    | Notre Dame           | FBS Independents     | 7-2      | 2383   | 79        |
-| 17    | Oklahoma             | Big 12               | 7-1      | 2361   | 87        |
-| 18    | Louisville           | ACC                  | 7-1      | 2339   | 80        |
-| 19    | Utah                 | Pac-12               | 6-2      | 2311   | 74        |
+| 16    | Notre Dame           | FBS Independents     | 7-2      | 2384   | 79        |
+| 17    | Oklahoma             | Big 12               | 7-1      | 2362   | 87        |
+| 18    | Louisville           | ACC                  | 7-1      | 2340   | 80        |
+| 19    | Utah                 | Pac-12               | 6-2      | 2312   | 74        |
 | 20    | Tulane               | American Athletic    | 7-1      | 2269   | 99        |
 | 21    | USC                  | Pac-12               | 7-2      | 2190   | 73        |
 | 22    | Kansas               | Big 12               | 6-2      | 2182   | 81        |
@@ -26,4 +26,4 @@
 | 24    | Duke                 | ACC                  | 5-3      | 2155   | 75        |
 | 25    | Oregon State         | Pac-12               | 6-2      | 2134   | 70        |
 
-Updated 10/31/2023 23:05:10
+Updated 11/01/2023 22:15:09
