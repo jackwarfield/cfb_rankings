@@ -26,4 +26,4 @@
 | 24    | Tennessee            | SEC                  | 6-2      | 2166   | 74        |
 | 25    | Oregon State         | Pac-12               | 6-2      | 2130   | 70        |
 
-Updated 11/04/2023 14:35:08
+Updated 11/04/2023 14:55:09
