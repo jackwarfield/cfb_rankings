@@ -21,9 +21,9 @@
 | 19    | Utah                 | Pac-12               | 7-2      | 2226   | 76        |
 | 20    | Kansas               | Big 12               | 6-2      | 2198   | 82        |
 | 21    | Notre Dame           | FBS Independents     | 7-3      | 2127   | 73        |
-| 22    | USC                  | Pac-12               | 7-2      | 2092   | 70        |
+| 22    | USC                  | Pac-12               | 7-2      | 2093   | 70        |
 | 23    | Tennessee            | SEC                  | 7-2      | 2088   | 76        |
 | 24    | Duke                 | ACC                  | 6-3      | 2087   | 72        |
 | 25    | Oregon State         | Pac-12               | 6-2      | 2073   | 70        |
 
-Updated 11/04/2023 17:30:12
+Updated 11/04/2023 17:35:09
