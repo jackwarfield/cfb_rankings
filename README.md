@@ -9,7 +9,7 @@
 | 7     | Oregon               | Pac-12               | 8-1      | 2759   | 134       |
 | 8     | Penn State           | Big Ten              | 8-1      | 2712   | 144       |
 | 9     | Alabama              | SEC                  | 8-1      | 2662   | 81        |
-| 10    | Ole Miss             | SEC                  | 8-1      | 2598   | 83        |
+| 10    | Ole Miss             | SEC                  | 8-1      | 2597   | 83        |
 | 11    | Liberty              | Conference USA       | 9-0      | 2546   | 207       |
 | 12    | Texas                | Big 12               | 8-1      | 2510   | 88        |
 | 13    | LSU                  | SEC                  | 6-3      | 2415   | 79        |
@@ -26,4 +26,4 @@
 | 24    | USC                  | Pac-12               | 7-3      | 2079   | 73        |
 | 25    | Oregon State         | Pac-12               | 7-2      | 2054   | 71        |
 
-Updated 11/05/2023 01:50:10
+Updated 11/05/2023 01:55:11
