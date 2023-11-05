@@ -7,7 +7,7 @@
 | 5     | Michigan             | Big Ten              | 8-0      | 2943   | 212       |
 | 6     | James Madison        | Sun Belt             | 9-0      | 2878   | 199       |
 | 7     | Oregon               | Pac-12               | 8-1      | 2746   | 131       |
-| 8     | Penn State           | Big Ten              | 8-1      | 2718   | 143       |
+| 8     | Penn State           | Big Ten              | 8-1      | 2717   | 143       |
 | 9     | Ole Miss             | SEC                  | 8-1      | 2596   | 82        |
 | 10    | Alabama              | SEC                  | 7-1      | 2573   | 83        |
 | 11    | Liberty              | Conference USA       | 9-0      | 2549   | 206       |
@@ -26,4 +26,4 @@
 | 24    | Duke                 | ACC                  | 6-3      | 2052   | 73        |
 | 25    | Oregon State         | Pac-12               | 6-2      | 2048   | 70        |
 
-Updated 11/04/2023 22:40:11
+Updated 11/04/2023 22:45:11
