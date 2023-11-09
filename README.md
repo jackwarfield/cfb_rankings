@@ -10,12 +10,12 @@
 | 8     | Penn State           | Big Ten              | 8-1      | 2735   | 147       |
 | 9     | Alabama              | SEC                  | 8-1      | 2679   | 81        |
 | 10    | Ole Miss             | SEC                  | 8-1      | 2615   | 83        |
-| 11    | Liberty              | Conference USA       | 9-0      | 2585   | 212       |
+| 11    | Liberty              | Conference USA       | 9-0      | 2586   | 212       |
 | 12    | Texas                | Big 12               | 8-1      | 2522   | 89        |
 | 13    | LSU                  | SEC                  | 6-3      | 2433   | 79        |
 | 14    | Missouri             | SEC                  | 7-2      | 2386   | 81        |
 | 15    | Tulane               | American Athletic    | 8-1      | 2304   | 103       |
-| 16    | Louisville           | ACC                  | 8-1      | 2276   | 78        |
+| 16    | Louisville           | ACC                  | 8-1      | 2277   | 78        |
 | 17    | Utah                 | Pac-12               | 7-2      | 2212   | 77        |
 | 18    | Kansas               | Big 12               | 7-2      | 2195   | 76        |
 | 19    | Oklahoma             | Big 12               | 7-2      | 2161   | 77        |
@@ -26,4 +26,4 @@
 | 24    | Duke                 | ACC                  | 6-3      | 2103   | 73        |
 | 25    | Oregon State         | Pac-12               | 7-2      | 2066   | 71        |
 
-Updated 11/08/2023 22:20:10
+Updated 11/08/2023 22:25:09
