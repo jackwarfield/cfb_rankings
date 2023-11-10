@@ -15,15 +15,15 @@
 | 13    | LSU                  | SEC                  | 6-3      | 2433   | 79        |
 | 14    | Missouri             | SEC                  | 7-2      | 2387   | 81        |
 | 15    | Tulane               | American Athletic    | 8-1      | 2304   | 103       |
-| 16    | Louisville           | ACC                  | 8-1      | 2277   | 78        |
-| 17    | Utah                 | Pac-12               | 7-2      | 2212   | 77        |
+| 16    | Louisville           | ACC                  | 9-1      | 2283   | 81        |
+| 17    | Utah                 | Pac-12               | 7-2      | 2213   | 77        |
 | 18    | Kansas               | Big 12               | 7-2      | 2195   | 76        |
 | 19    | Oklahoma             | Big 12               | 7-2      | 2161   | 77        |
-| 20    | Notre Dame           | FBS Independents     | 7-3      | 2151   | 74        |
+| 20    | Notre Dame           | FBS Independents     | 7-3      | 2154   | 74        |
 | 21    | Oklahoma State       | Big 12               | 7-2      | 2131   | 73        |
 | 22    | Tennessee            | SEC                  | 7-2      | 2117   | 77        |
-| 23    | USC                  | Pac-12               | 7-3      | 2107   | 73        |
-| 24    | Duke                 | ACC                  | 6-3      | 2103   | 73        |
+| 23    | USC                  | Pac-12               | 7-3      | 2108   | 73        |
+| 24    | Duke                 | ACC                  | 6-3      | 2106   | 73        |
 | 25    | Oregon State         | Pac-12               | 7-2      | 2066   | 71        |
 
-Updated 11/08/2023 22:50:10
+Updated 11/09/2023 23:10:10
