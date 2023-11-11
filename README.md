@@ -5,7 +5,7 @@
 | 3     | Michigan             | Big Ten              | 10-0     | 3430   | 205       |
 | 4     | Ohio State           | Big Ten              | 9-0      | 3424   | 196       |
 | 5     | Florida State        | ACC                  | 9-0      | 3218   | 197       |
-| 6     | James Madison        | Sun Belt             | 9-0      | 2907   | 205       |
+| 6     | James Madison        | Sun Belt             | 9-0      | 2908   | 205       |
 | 7     | Oregon               | Pac-12               | 8-1      | 2791   | 137       |
 | 8     | Alabama              | SEC                  | 9-1      | 2671   | 83        |
 | 9     | Penn State           | Big Ten              | 8-2      | 2657   | 134       |
@@ -15,8 +15,8 @@
 | 13    | LSU                  | SEC                  | 6-3      | 2432   | 79        |
 | 14    | Missouri             | SEC                  | 7-2      | 2391   | 81        |
 | 15    | Tulane               | American Athletic    | 9-1      | 2306   | 105       |
-| 16    | Louisville           | ACC                  | 9-1      | 2284   | 81        |
-| 17    | Utah                 | Pac-12               | 7-2      | 2217   | 77        |
+| 16    | Louisville           | ACC                  | 9-1      | 2285   | 81        |
+| 17    | Utah                 | Pac-12               | 7-2      | 2218   | 77        |
 | 18    | Notre Dame           | FBS Independents     | 7-3      | 2171   | 73        |
 | 19    | Duke                 | ACC                  | 6-3      | 2125   | 73        |
 | 20    | Tennessee            | SEC                  | 7-2      | 2118   | 77        |
@@ -26,4 +26,4 @@
 | 24    | Oregon State         | Pac-12               | 7-2      | 2070   | 71        |
 | 25    | Arizona              | Pac-12               | 6-3      | 2063   | 71        |
 
-Updated 11/11/2023 16:40:08
+Updated 11/11/2023 16:45:09
