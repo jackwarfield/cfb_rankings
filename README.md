@@ -5,7 +5,7 @@
 | 3     | Washington           | Pac-12               | 9-0      | 3473   | 182       |
 | 4     | Florida State        | ACC                  | 9-0      | 3210   | 197       |
 | 5     | Michigan             | Big Ten              | 9-0      | 3003   | 228       |
-| 6     | James Madison        | Sun Belt             | 9-0      | 2898   | 206       |
+| 6     | James Madison        | Sun Belt             | 9-0      | 2899   | 206       |
 | 7     | Oregon               | Pac-12               | 8-1      | 2782   | 138       |
 | 8     | Penn State           | Big Ten              | 8-1      | 2732   | 147       |
 | 9     | Alabama              | SEC                  | 8-1      | 2676   | 81        |
@@ -21,9 +21,9 @@
 | 19    | Oklahoma             | Big 12               | 7-2      | 2157   | 77        |
 | 20    | Notre Dame           | FBS Independents     | 7-3      | 2153   | 74        |
 | 21    | Oklahoma State       | Big 12               | 7-2      | 2126   | 72        |
-| 22    | Tennessee            | SEC                  | 7-2      | 2115   | 77        |
+| 22    | Tennessee            | SEC                  | 7-2      | 2116   | 77        |
 | 23    | USC                  | Pac-12               | 7-3      | 2107   | 73        |
 | 24    | Duke                 | ACC                  | 6-3      | 2104   | 73        |
 | 25    | Oregon State         | Pac-12               | 7-2      | 2065   | 71        |
 
-Updated 11/11/2023 01:55:08
+Updated 11/11/2023 14:40:09
