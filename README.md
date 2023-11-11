@@ -26,4 +26,4 @@
 | 24    | Oregon State         | Pac-12               | 7-2      | 2072   | 71        |
 | 25    | Oklahoma State       | Big 12               | 7-2      | 2065   | 70        |
 
-Updated 11/11/2023 17:30:10
+Updated 11/11/2023 17:35:08
