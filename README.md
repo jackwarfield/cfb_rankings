@@ -2,7 +2,7 @@
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Georgia              | SEC                  | 9-0      | 3574   | 363       |
 | 2     | Washington           | Pac-12               | 9-0      | 3466   | 183       |
-| 3     | Michigan             | Big Ten              | 10-0     | 3422   | 206       |
+| 3     | Michigan             | Big Ten              | 10-0     | 3421   | 206       |
 | 4     | Ohio State           | Big Ten              | 9-0      | 3416   | 197       |
 | 5     | Florida State        | ACC                  | 9-0      | 3211   | 198       |
 | 6     | James Madison        | Sun Belt             | 10-0     | 2886   | 219       |
@@ -26,4 +26,4 @@
 | 24    | Oklahoma State       | Big 12               | 7-2      | 2048   | 71        |
 | 25    | Oregon State         | Pac-12               | 7-2      | 2043   | 71        |
 
-Updated 11/11/2023 18:25:08
+Updated 11/11/2023 18:30:10
