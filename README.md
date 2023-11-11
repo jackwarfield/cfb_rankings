@@ -11,7 +11,7 @@
 | 9     | Alabama              | SEC                  | 8-1      | 2678   | 81        |
 | 10    | Ole Miss             | SEC                  | 8-1      | 2614   | 83        |
 | 11    | Liberty              | Conference USA       | 9-0      | 2584   | 212       |
-| 12    | Texas                | Big 12               | 8-1      | 2521   | 89        |
+| 12    | Texas                | Big 12               | 8-1      | 2522   | 89        |
 | 13    | LSU                  | SEC                  | 6-3      | 2432   | 79        |
 | 14    | Missouri             | SEC                  | 7-2      | 2385   | 81        |
 | 15    | Tulane               | American Athletic    | 8-1      | 2303   | 103       |
@@ -26,4 +26,4 @@
 | 24    | Duke                 | ACC                  | 6-3      | 2104   | 73        |
 | 25    | Oregon State         | Pac-12               | 7-2      | 2065   | 71        |
 
-Updated 11/11/2023 00:30:11
+Updated 11/11/2023 00:50:08
