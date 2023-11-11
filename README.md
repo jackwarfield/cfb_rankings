@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Georgia              | SEC                  | 9-0      | 3574   | 360       |
-| 2     | Ohio State           | Big Ten              | 9-0      | 3482   | 193       |
-| 3     | Washington           | Pac-12               | 9-0      | 3473   | 182       |
-| 4     | Florida State        | ACC                  | 9-0      | 3211   | 196       |
-| 5     | Michigan             | Big Ten              | 9-0      | 3003   | 228       |
-| 6     | James Madison        | Sun Belt             | 9-0      | 2899   | 206       |
-| 7     | Oregon               | Pac-12               | 8-1      | 2782   | 138       |
-| 8     | Penn State           | Big Ten              | 8-1      | 2732   | 147       |
-| 9     | Alabama              | SEC                  | 8-1      | 2678   | 81        |
-| 10    | Ole Miss             | SEC                  | 8-1      | 2614   | 83        |
-| 11    | Liberty              | Conference USA       | 9-0      | 2585   | 212       |
-| 12    | Texas                | Big 12               | 8-1      | 2518   | 89        |
+| 2     | Ohio State           | Big Ten              | 9-0      | 3485   | 192       |
+| 3     | Washington           | Pac-12               | 9-0      | 3474   | 182       |
+| 4     | Florida State        | ACC                  | 9-0      | 3209   | 196       |
+| 5     | Michigan             | Big Ten              | 9-0      | 3010   | 227       |
+| 6     | James Madison        | Sun Belt             | 9-0      | 2903   | 205       |
+| 7     | Oregon               | Pac-12               | 8-1      | 2784   | 138       |
+| 8     | Penn State           | Big Ten              | 8-1      | 2736   | 147       |
+| 9     | Alabama              | SEC                  | 8-1      | 2677   | 81        |
+| 10    | Ole Miss             | SEC                  | 8-1      | 2613   | 84        |
+| 11    | Liberty              | Conference USA       | 9-0      | 2583   | 213       |
+| 12    | Texas                | Big 12               | 8-1      | 2520   | 89        |
 | 13    | LSU                  | SEC                  | 6-3      | 2432   | 79        |
 | 14    | Missouri             | SEC                  | 7-2      | 2386   | 81        |
-| 15    | Tulane               | American Athletic    | 8-1      | 2302   | 103       |
-| 16    | Louisville           | ACC                  | 9-1      | 2282   | 81        |
-| 17    | Utah                 | Pac-12               | 7-2      | 2213   | 77        |
-| 18    | Kansas               | Big 12               | 7-2      | 2191   | 76        |
-| 19    | Oklahoma             | Big 12               | 7-2      | 2157   | 77        |
-| 20    | Notre Dame           | FBS Independents     | 7-3      | 2153   | 74        |
-| 21    | Oklahoma State       | Big 12               | 7-2      | 2127   | 72        |
-| 22    | Tennessee            | SEC                  | 7-2      | 2120   | 77        |
-| 23    | USC                  | Pac-12               | 7-3      | 2107   | 73        |
-| 24    | Duke                 | ACC                  | 6-3      | 2104   | 73        |
-| 25    | Oregon State         | Pac-12               | 7-2      | 2066   | 71        |
+| 15    | Tulane               | American Athletic    | 8-1      | 2303   | 103       |
+| 16    | Louisville           | ACC                  | 9-1      | 2273   | 81        |
+| 17    | Utah                 | Pac-12               | 7-2      | 2214   | 77        |
+| 18    | Kansas               | Big 12               | 7-2      | 2194   | 76        |
+| 19    | Oklahoma             | Big 12               | 7-2      | 2160   | 77        |
+| 20    | Notre Dame           | FBS Independents     | 7-3      | 2149   | 74        |
+| 21    | Oklahoma State       | Big 12               | 7-2      | 2130   | 72        |
+| 22    | Tennessee            | SEC                  | 7-2      | 2117   | 77        |
+| 23    | USC                  | Pac-12               | 7-3      | 2108   | 73        |
+| 24    | Duke                 | ACC                  | 6-3      | 2101   | 73        |
+| 25    | Oregon State         | Pac-12               | 7-2      | 2068   | 71        |
 
-Updated 11/11/2023 15:10:10
+Updated 11/11/2023 15:15:09
