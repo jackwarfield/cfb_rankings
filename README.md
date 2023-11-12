@@ -19,11 +19,11 @@
 | 17    | Utah                 | Pac-12               | 7-3      | 2189   | 79        |
 | 18    | Notre Dame           | FBS Independents     | 7-3      | 2166   | 73        |
 | 19    | Duke                 | ACC                  | 6-3      | 2125   | 73        |
-| 20    | USC                  | Pac-12               | 7-3      | 2092   | 73        |
+| 20    | USC                  | Pac-12               | 7-3      | 2093   | 73        |
 | 21    | Tennessee            | SEC                  | 7-3      | 2067   | 76        |
 | 22    | Iowa                 | Big Ten              | 8-2      | 2052   | 76        |
 | 23    | Arizona              | Pac-12               | 7-3      | 2044   | 72        |
 | 24    | Oregon State         | Pac-12               | 7-2      | 2036   | 71        |
 | 25    | NC State             | ACC                  | 7-3      | 2035   | 71        |
 
-Updated 11/11/2023 20:10:08
+Updated 11/11/2023 20:25:09
