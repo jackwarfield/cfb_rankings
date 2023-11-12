@@ -14,7 +14,7 @@
 | 12    | LSU                  | SEC                  | 7-3      | 2457   | 81        |
 | 13    | Texas                | Big 12               | 9-1      | 2453   | 96        |
 | 14    | Missouri             | SEC                  | 8-2      | 2431   | 83        |
-| 15    | Tulane               | American Athletic    | 9-1      | 2307   | 107       |
+| 15    | Tulane               | American Athletic    | 9-1      | 2306   | 107       |
 | 16    | Louisville           | ACC                  | 9-1      | 2228   | 80        |
 | 17    | Utah                 | Pac-12               | 7-3      | 2188   | 79        |
 | 18    | Notre Dame           | FBS Independents     | 7-3      | 2115   | 73        |
@@ -23,7 +23,7 @@
 | 21    | Oklahoma             | Big 12               | 8-2      | 2051   | 76        |
 | 22    | Oregon State         | Pac-12               | 8-2      | 2050   | 72        |
 | 23    | Iowa                 | Big Ten              | 8-2      | 2050   | 76        |
-| 24    | Arizona              | Pac-12               | 7-3      | 2038   | 72        |
+| 24    | Arizona              | Pac-12               | 7-3      | 2039   | 72        |
 | 25    | Fresno State         | Mountain West        | 8-1      | 2020   | 78        |
 
-Updated 11/11/2023 23:55:10
+Updated 11/12/2023 00:10:10
