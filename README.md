@@ -1,6 +1,6 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Georgia              | SEC                  | 9-0      | 3586   | 354       |
+| 1     | Georgia              | SEC                  | 9-0      | 3586   | 355       |
 | 2     | Washington           | Pac-12               | 10-0     | 3507   | 193       |
 | 3     | Michigan             | Big Ten              | 10-0     | 3431   | 205       |
 | 4     | Ohio State           | Big Ten              | 9-0      | 3425   | 196       |
@@ -26,4 +26,4 @@
 | 24    | Oregon State         | Pac-12               | 7-2      | 2036   | 71        |
 | 25    | NC State             | ACC                  | 7-3      | 2035   | 71        |
 
-Updated 11/11/2023 19:20:10
+Updated 11/11/2023 19:25:09
