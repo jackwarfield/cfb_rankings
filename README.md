@@ -17,7 +17,7 @@
 | 15    | Tulane               | American Athletic    | 9-1      | 2298   | 106       |
 | 16    | Louisville           | ACC                  | 9-1      | 2280   | 81        |
 | 17    | Utah                 | Pac-12               | 7-3      | 2195   | 79        |
-| 18    | Notre Dame           | FBS Independents     | 7-3      | 2165   | 73        |
+| 18    | Notre Dame           | FBS Independents     | 7-3      | 2166   | 73        |
 | 19    | Duke                 | ACC                  | 6-3      | 2124   | 73        |
 | 20    | USC                  | Pac-12               | 7-3      | 2094   | 73        |
 | 21    | Tennessee            | SEC                  | 7-3      | 2066   | 76        |
@@ -26,4 +26,4 @@
 | 24    | Arizona              | Pac-12               | 7-3      | 2047   | 72        |
 | 25    | NC State             | ACC                  | 7-3      | 2034   | 71        |
 
-Updated 11/11/2023 21:15:10
+Updated 11/11/2023 22:00:14
