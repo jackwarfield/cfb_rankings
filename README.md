@@ -9,7 +9,7 @@
 | 7     | Oregon               | Pac-12               | 9-1      | 2858   | 148       |
 | 8     | Alabama              | SEC                  | 9-1      | 2681   | 84        |
 | 9     | Penn State           | Big Ten              | 8-2      | 2668   | 137       |
-| 10    | Ole Miss             | SEC                  | 8-2      | 2625   | 86        |
+| 10    | Ole Miss             | SEC                  | 8-2      | 2626   | 86        |
 | 11    | Liberty              | Conference USA       | 10-0     | 2624   | 232       |
 | 12    | LSU                  | SEC                  | 7-3      | 2462   | 81        |
 | 13    | Texas                | Big 12               | 9-1      | 2455   | 96        |
@@ -26,4 +26,4 @@
 | 24    | Arizona              | Pac-12               | 7-3      | 2018   | 72        |
 | 25    | Kansas State         | Big 12               | 7-3      | 2003   | 76        |
 
-Updated 11/15/2023 22:30:11
+Updated 11/16/2023 21:50:10
