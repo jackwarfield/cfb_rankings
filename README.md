@@ -12,7 +12,7 @@
 | 10    | Liberty              | Conference USA       | 11-0     | 2628   | 244       |
 | 11    | Ole Miss             | SEC                  | 9-2      | 2580   | 89        |
 | 12    | Texas                | Big 12               | 9-1      | 2451   | 94        |
-| 13    | LSU                  | SEC                  | 7-3      | 2425   | 80        |
+| 13    | LSU                  | SEC                  | 7-3      | 2424   | 80        |
 | 14    | Missouri             | SEC                  | 8-2      | 2392   | 83        |
 | 15    | Louisville           | ACC                  | 10-1     | 2244   | 82        |
 | 16    | Tulane               | American Athletic    | 10-1     | 2186   | 118       |
@@ -26,4 +26,4 @@
 | 24    | Kansas State         | Big 12               | 7-3      | 2004   | 75        |
 | 25    | Arizona              | Pac-12               | 7-3      | 2003   | 72        |
 
-Updated 11/18/2023 16:30:12
+Updated 11/18/2023 16:35:09
