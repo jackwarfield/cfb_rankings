@@ -1,7 +1,7 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Georgia              | SEC                  | 10-0     | 3702   | 303       |
-| 2     | Washington           | Pac-12               | 10-0     | 3595   | 196       |
+| 2     | Washington           | Pac-12               | 10-0     | 3596   | 196       |
 | 3     | Ohio State           | Big Ten              | 10-0     | 3468   | 211       |
 | 4     | Michigan             | Big Ten              | 10-0     | 3459   | 210       |
 | 5     | Florida State        | ACC                  | 10-0     | 3280   | 215       |
@@ -17,7 +17,7 @@
 | 15    | Tulane               | American Athletic    | 9-1      | 2311   | 107       |
 | 16    | Louisville           | ACC                  | 9-1      | 2216   | 81        |
 | 17    | Utah                 | Pac-12               | 7-3      | 2184   | 80        |
-| 18    | Notre Dame           | FBS Independents     | 7-3      | 2111   | 73        |
+| 18    | Notre Dame           | FBS Independents     | 7-3      | 2112   | 73        |
 | 19    | Tennessee            | SEC                  | 7-3      | 2085   | 76        |
 | 20    | USC                  | Pac-12               | 7-4      | 2081   | 74        |
 | 21    | Oklahoma             | Big 12               | 8-2      | 2072   | 76        |
@@ -26,4 +26,4 @@
 | 24    | Arizona              | Pac-12               | 7-3      | 2020   | 72        |
 | 25    | Kansas State         | Big 12               | 7-3      | 2010   | 76        |
 
-Updated 11/18/2023 14:45:09
+Updated 11/18/2023 14:50:09
