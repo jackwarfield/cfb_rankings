@@ -11,19 +11,19 @@
 | 9     | Alabama              | SEC                  | 10-1     | 2622   | 86        |
 | 10    | Ole Miss             | SEC                  | 9-2      | 2549   | 89        |
 | 11    | Texas                | Big 12               | 9-1      | 2443   | 93        |
-| 12    | LSU                  | SEC                  | 7-3      | 2389   | 82        |
+| 12    | LSU                  | SEC                  | 7-3      | 2388   | 82        |
 | 13    | Missouri             | SEC                  | 8-2      | 2370   | 83        |
 | 14    | Louisville           | ACC                  | 10-1     | 2211   | 81        |
-| 15    | Tulane               | American Athletic    | 10-1     | 2192   | 114       |
+| 15    | Tulane               | American Athletic    | 10-1     | 2191   | 114       |
 | 16    | Oklahoma             | Big 12               | 9-2      | 2098   | 77        |
 | 17    | Iowa                 | Big Ten              | 9-2      | 2074   | 78        |
 | 18    | Notre Dame           | FBS Independents     | 8-3      | 2071   | 74        |
-| 19    | Arizona              | Pac-12               | 8-3      | 2064   | 71        |
+| 19    | Arizona              | Pac-12               | 8-3      | 2063   | 71        |
 | 20    | Utah                 | Pac-12               | 7-4      | 2029   | 72        |
 | 21    | Tennessee            | SEC                  | 7-4      | 2023   | 77        |
 | 22    | Oregon State         | Pac-12               | 8-2      | 2012   | 71        |
 | 23    | Kansas State         | Big 12               | 7-3      | 1994   | 75        |
-| 24    | NC State             | ACC                  | 8-3      | 1985   | 69        |
+| 24    | NC State             | ACC                  | 8-3      | 1984   | 69        |
 | 25    | James Madison        | Sun Belt             | 10-1     | 1964   | 81        |
 
-Updated 11/18/2023 21:20:10
+Updated 11/18/2023 21:55:09
