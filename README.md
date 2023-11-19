@@ -1,11 +1,11 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Georgia              | SEC                  | 11-0     | 3681   | 330       |
-| 2     | Washington           | Pac-12               | 10-0     | 3542   | 200       |
+| 2     | Washington           | Pac-12               | 11-0     | 3574   | 210       |
 | 3     | Ohio State           | Big Ten              | 11-0     | 3522   | 219       |
 | 4     | Michigan             | Big Ten              | 11-0     | 3516   | 218       |
 | 5     | Florida State        | ACC                  | 11-0     | 3248   | 229       |
-| 6     | Oregon               | Pac-12               | 10-1     | 2785   | 156       |
+| 6     | Oregon               | Pac-12               | 10-1     | 2796   | 159       |
 | 7     | Penn State           | Big Ten              | 9-2      | 2715   | 142       |
 | 8     | Liberty              | Conference USA       | 11-0     | 2682   | 242       |
 | 9     | Alabama              | SEC                  | 10-1     | 2620   | 86        |
@@ -21,9 +21,9 @@
 | 19    | Arizona              | Pac-12               | 8-3      | 2063   | 72        |
 | 20    | Kansas State         | Big 12               | 8-3      | 2062   | 74        |
 | 21    | Utah                 | Pac-12               | 7-4      | 2033   | 72        |
-| 22    | Oregon State         | Pac-12               | 8-2      | 2015   | 71        |
+| 22    | Oregon State         | Pac-12               | 8-3      | 2015   | 73        |
 | 23    | Tennessee            | SEC                  | 7-4      | 2004   | 77        |
 | 24    | NC State             | ACC                  | 8-3      | 1989   | 69        |
 | 25    | James Madison        | Sun Belt             | 10-1     | 1970   | 82        |
 
-Updated 11/18/2023 22:55:09
+Updated 11/18/2023 23:05:09
