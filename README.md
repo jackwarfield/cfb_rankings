@@ -1,8 +1,8 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Georgia              | SEC                  | 11-0     | 3679   | 318       |
-| 2     | Washington           | Pac-12               | 11-0     | 3607   | 215       |
-| 3     | Ohio State           | Big Ten              | 11-0     | 3551   | 224       |
+| 1     | Georgia              | SEC                  | 11-0     | 3680   | 318       |
+| 2     | Washington           | Pac-12               | 11-0     | 3608   | 215       |
+| 3     | Ohio State           | Big Ten              | 11-0     | 3552   | 224       |
 | 4     | Michigan             | Big Ten              | 11-0     | 3545   | 223       |
 | 5     | Florida State        | ACC                  | 11-0     | 3286   | 236       |
 | 6     | Oregon               | Pac-12               | 10-1     | 2808   | 162       |
@@ -13,7 +13,7 @@
 | 11    | Texas                | Big 12               | 10-1     | 2462   | 95        |
 | 12    | LSU                  | SEC                  | 8-3      | 2409   | 84        |
 | 13    | Missouri             | SEC                  | 9-2      | 2388   | 85        |
-| 14    | Louisville           | ACC                  | 10-1     | 2224   | 81        |
+| 14    | Louisville           | ACC                  | 10-1     | 2225   | 81        |
 | 15    | Tulane               | American Athletic    | 10-1     | 2206   | 115       |
 | 16    | Oklahoma             | Big 12               | 9-2      | 2090   | 77        |
 | 17    | Notre Dame           | FBS Independents     | 8-3      | 2080   | 74        |
@@ -26,4 +26,4 @@
 | 24    | NC State             | ACC                  | 8-3      | 1996   | 70        |
 | 25    | James Madison        | Sun Belt             | 10-1     | 1972   | 82        |
 
-Updated 11/21/2023 23:05:08
+Updated 11/23/2023 18:10:08
