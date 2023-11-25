@@ -2,7 +2,7 @@
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Michigan             | Big Ten              | 12-0     | 4003   | 208       |
 | 2     | Georgia              | SEC                  | 11-0     | 3706   | 306       |
-| 3     | Washington           | Pac-12               | 11-0     | 3653   | 214       |
+| 3     | Washington           | Pac-12               | 11-0     | 3654   | 214       |
 | 4     | Florida State        | ACC                  | 11-0     | 3326   | 234       |
 | 5     | Ohio State           | Big Ten              | 11-1     | 3250   | 157       |
 | 6     | Oregon               | Pac-12               | 11-1     | 2862   | 165       |
@@ -14,7 +14,7 @@
 | 12    | LSU                  | SEC                  | 9-3      | 2468   | 85        |
 | 13    | Missouri             | SEC                  | 10-2     | 2438   | 87        |
 | 14    | Tulane               | American Athletic    | 11-1     | 2249   | 118       |
-| 15    | Oklahoma             | Big 12               | 10-2     | 2113   | 79        |
+| 15    | Oklahoma             | Big 12               | 10-2     | 2114   | 79        |
 | 16    | Kansas State         | Big 12               | 8-3      | 2077   | 75        |
 | 17    | Tennessee            | SEC                  | 7-4      | 2071   | 78        |
 | 18    | Iowa                 | Big Ten              | 10-2     | 2067   | 80        |
@@ -26,4 +26,4 @@
 | 24    | James Madison        | Sun Belt             | 10-1     | 1965   | 82        |
 | 25    | Kentucky             | SEC                  | 7-5      | 1960   | 75        |
 
-Updated 11/25/2023 16:15:10
+Updated 11/25/2023 16:20:19
