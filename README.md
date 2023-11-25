@@ -26,4 +26,4 @@
 | 24    | James Madison        | Sun Belt             | 10-1     | 1965   | 82        |
 | 25    | Kentucky             | SEC                  | 7-5      | 1960   | 75        |
 
-Updated 11/25/2023 16:00:14
+Updated 11/25/2023 16:15:10
