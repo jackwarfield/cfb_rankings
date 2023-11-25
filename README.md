@@ -12,11 +12,11 @@
 | 10    | Ole Miss             | SEC                  | 10-2     | 2617   | 91        |
 | 11    | Texas                | Big 12               | 11-1     | 2497   | 98        |
 | 12    | LSU                  | SEC                  | 9-3      | 2468   | 85        |
-| 13    | Missouri             | SEC                  | 10-2     | 2438   | 87        |
+| 13    | Missouri             | SEC                  | 10-2     | 2439   | 87        |
 | 14    | Tulane               | American Athletic    | 11-1     | 2249   | 118       |
 | 15    | Oklahoma             | Big 12               | 10-2     | 2114   | 79        |
 | 16    | Kansas State         | Big 12               | 8-3      | 2077   | 75        |
-| 17    | Tennessee            | SEC                  | 7-4      | 2071   | 78        |
+| 17    | Tennessee            | SEC                  | 7-4      | 2072   | 78        |
 | 18    | Iowa                 | Big Ten              | 10-2     | 2067   | 80        |
 | 19    | Arizona              | Pac-12               | 8-3      | 2065   | 72        |
 | 20    | Louisville           | ACC                  | 10-2     | 2058   | 72        |
@@ -26,4 +26,4 @@
 | 24    | James Madison        | Sun Belt             | 10-1     | 1965   | 82        |
 | 25    | Kentucky             | SEC                  | 7-5      | 1960   | 75        |
 
-Updated 11/25/2023 16:20:19
+Updated 11/25/2023 16:35:09
