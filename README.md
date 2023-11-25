@@ -21,9 +21,9 @@
 | 19    | Arizona              | Pac-12               | 8-3      | 2065   | 72        |
 | 20    | Louisville           | ACC                  | 10-2     | 2058   | 72        |
 | 21    | Utah                 | Pac-12               | 7-4      | 2037   | 72        |
-| 22    | Notre Dame           | FBS Independents     | 8-3      | 2026   | 73        |
+| 22    | Notre Dame           | FBS Independents     | 8-3      | 2027   | 73        |
 | 23    | Oregon State         | Pac-12               | 8-4      | 2014   | 75        |
 | 24    | James Madison        | Sun Belt             | 10-1     | 1965   | 82        |
 | 25    | Kentucky             | SEC                  | 7-5      | 1960   | 75        |
 
-Updated 11/25/2023 16:35:09
+Updated 11/25/2023 17:05:09
