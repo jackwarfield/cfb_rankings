@@ -18,7 +18,7 @@
 | 16    | Louisville           | ACC                  | 10-2     | 2082   | 72        |
 | 17    | Iowa                 | Big Ten              | 10-2     | 2081   | 80        |
 | 18    | Arizona              | Pac-12               | 9-3      | 2080   | 73        |
-| 19    | Notre Dame           | FBS Independents     | 9-3      | 2068   | 74        |
+| 19    | Notre Dame           | FBS Independents     | 9-3      | 2069   | 74        |
 | 20    | Tennessee            | SEC                  | 8-4      | 2059   | 80        |
 | 21    | Utah                 | Pac-12               | 8-4      | 2058   | 73        |
 | 22    | Oregon State         | Pac-12               | 8-4      | 2031   | 75        |
@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 8-4      | 1979   | 68        |
 | 25    | James Madison        | Sun Belt             | 11-1     | 1966   | 82        |
 
-Updated 11/26/2023 02:30:11
+Updated 11/26/2023 19:55:08
