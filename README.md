@@ -12,7 +12,7 @@
 | 10    | Ole Miss             | SEC                  | 10-2     | 2620   | 92        |
 | 11    | Texas                | Big 12               | 12-1     | 2513   | 100       |
 | 12    | LSU                  | SEC                  | 9-3      | 2467   | 85        |
-| 13    | Missouri             | SEC                  | 10-2     | 2425   | 88        |
+| 13    | Missouri             | SEC                  | 10-2     | 2424   | 88        |
 | 14    | Tulane               | American Athletic    | 11-1     | 2237   | 120       |
 | 15    | Oklahoma             | Big 12               | 10-2     | 2129   | 79        |
 | 16    | Louisville           | ACC                  | 10-2     | 2092   | 72        |
@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 8-4      | 1990   | 68        |
 | 25    | James Madison        | Sun Belt             | 11-1     | 1971   | 82        |
 
-Updated 12/02/2023 17:15:09
+Updated 12/02/2023 18:10:09
