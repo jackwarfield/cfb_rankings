@@ -7,7 +7,7 @@
 | 5     | Oregon               | Pac-12               | 11-2     | 2889   | 171       |
 | 6     | Alabama              | SEC                  | 12-1     | 2838   | 89        |
 | 7     | Liberty              | Conference USA       | 13-0     | 2824   | 276       |
-| 8     | Georgia              | SEC                  | 12-1     | 2749   | 91        |
+| 8     | Georgia              | SEC                  | 12-1     | 2750   | 91        |
 | 9     | Penn State           | Big Ten              | 10-2     | 2705   | 140       |
 | 10    | Texas                | Big 12               | 12-1     | 2587   | 106       |
 | 11    | Ole Miss             | SEC                  | 10-2     | 2554   | 88        |
@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 8-4      | 1987   | 68        |
 | 25    | Oklahoma State       | Big 12               | 9-4      | 1979   | 72        |
 
-Updated 12/02/2023 19:50:11
+Updated 12/02/2023 20:55:10
