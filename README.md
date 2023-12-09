@@ -16,7 +16,7 @@
 | 14    | Oklahoma             | Big 12               | 10-2     | 2175   | 79        |
 | 15    | Iowa                 | Big Ten              | 10-3     | 2094   | 82        |
 | 16    | Louisville           | ACC                  | 10-3     | 2094   | 74        |
-| 17    | Arizona              | Pac-12               | 9-3      | 2089   | 73        |
+| 17    | Arizona              | Pac-12               | 9-3      | 2088   | 73        |
 | 18    | Notre Dame           | FBS Independents     | 9-3      | 2080   | 74        |
 | 19    | Utah                 | Pac-12               | 8-4      | 2066   | 73        |
 | 20    | Tennessee            | SEC                  | 8-4      | 2064   | 79        |
@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 8-4      | 1991   | 68        |
 | 25    | Oklahoma State       | Big 12               | 9-4      | 1983   | 72        |
 
-Updated 12/09/2023 00:50:08
+Updated 12/09/2023 15:00:10
