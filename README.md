@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 8-4      | 1991   | 68        |
 | 25    | Oklahoma State       | Big 12               | 9-4      | 1983   | 72        |
 
-Updated 12/09/2023 15:45:09
+Updated 12/09/2023 16:05:09
