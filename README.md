@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 8-4      | 1992   | 68        |
 | 25    | James Madison        | Sun Belt             | 11-1     | 1986   | 83        |
 
-Updated 12/15/2023 22:00:10
+Updated 12/15/2023 22:30:09
