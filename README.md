@@ -11,7 +11,7 @@
 | 9     | Penn State           | Big Ten              | 10-2     | 2728   | 143       |
 | 10    | Texas                | Big 12               | 12-1     | 2587   | 105       |
 | 11    | Ole Miss             | SEC                  | 10-2     | 2545   | 88        |
-| 12    | LSU                  | SEC                  | 9-3      | 2451   | 86        |
+| 12    | LSU                  | SEC                  | 9-3      | 2452   | 86        |
 | 13    | Missouri             | SEC                  | 10-2     | 2364   | 84        |
 | 14    | Oklahoma             | Big 12               | 10-2     | 2175   | 79        |
 | 15    | Iowa                 | Big Ten              | 10-3     | 2095   | 82        |
@@ -22,8 +22,8 @@
 | 20    | Tennessee            | SEC                  | 8-4      | 2055   | 79        |
 | 21    | Oregon State         | Pac-12               | 8-4      | 2030   | 75        |
 | 22    | NC State             | ACC                  | 9-3      | 2027   | 68        |
-| 23    | Kansas State         | Big 12               | 8-4      | 1998   | 70        |
+| 23    | Kansas State         | Big 12               | 8-4      | 1999   | 70        |
 | 24    | Clemson              | ACC                  | 8-4      | 1993   | 68        |
-| 25    | Oklahoma State       | Big 12               | 9-4      | 1983   | 72        |
+| 25    | Oklahoma State       | Big 12               | 9-4      | 1984   | 72        |
 
-Updated 12/16/2023 14:35:09
+Updated 12/16/2023 15:50:11
