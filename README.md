@@ -4,7 +4,7 @@
 | 2     | Washington           | Pac-12               | 13-0     | 3894   | 238       |
 | 3     | Florida State        | ACC                  | 13-0     | 3424   | 273       |
 | 4     | Ohio State           | Big Ten              | 11-1     | 3330   | 163       |
-| 5     | Oregon               | Pac-12               | 11-2     | 2906   | 174       |
+| 5     | Oregon               | Pac-12               | 11-2     | 2905   | 175       |
 | 6     | Liberty              | Conference USA       | 13-0     | 2846   | 283       |
 | 7     | Alabama              | SEC                  | 12-1     | 2830   | 89        |
 | 8     | Georgia              | SEC                  | 12-1     | 2738   | 91        |
@@ -14,7 +14,7 @@
 | 12    | LSU                  | SEC                  | 9-3      | 2451   | 86        |
 | 13    | Missouri             | SEC                  | 10-2     | 2364   | 84        |
 | 14    | Oklahoma             | Big 12               | 10-2     | 2174   | 79        |
-| 15    | Iowa                 | Big Ten              | 10-3     | 2095   | 82        |
+| 15    | Iowa                 | Big Ten              | 10-3     | 2094   | 82        |
 | 16    | Louisville           | ACC                  | 10-3     | 2094   | 74        |
 | 17    | Arizona              | Pac-12               | 9-3      | 2081   | 73        |
 | 18    | Notre Dame           | FBS Independents     | 9-3      | 2079   | 74        |
@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 8-4      | 1992   | 68        |
 | 25    | James Madison        | Sun Belt             | 11-1     | 1986   | 83        |
 
-Updated 12/10/2023 01:50:09
+Updated 12/15/2023 22:00:10
