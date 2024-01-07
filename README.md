@@ -8,10 +8,10 @@
 | 6     | Florida State        | ACC                  | 13-1     | 2758   | 103       |
 | 7     | Ole Miss             | SEC                  | 11-2     | 2713   | 90        |
 | 8     | Texas                | Big 12               | 12-2     | 2633   | 116       |
-| 9     | Missouri             | SEC                  | 11-2     | 2577   | 86        |
+| 9     | Missouri             | SEC                  | 11-2     | 2576   | 86        |
 | 10    | LSU                  | SEC                  | 10-3     | 2544   | 88        |
 | 11    | Ohio State           | Big Ten              | 11-2     | 2520   | 90        |
-| 12    | Liberty              | Conference USA       | 13-1     | 2447   | 163       |
+| 12    | Liberty              | Conference USA       | 13-1     | 2446   | 163       |
 | 13    | Penn State           | Big Ten              | 10-3     | 2360   | 88        |
 | 14    | Tennessee            | SEC                  | 9-4      | 2140   | 81        |
 | 15    | Arizona              | Pac-12               | 10-3     | 2139   | 73        |
@@ -26,4 +26,4 @@
 | 24    | Kansas               | Big 12               | 9-4      | 1976   | 70        |
 | 25    | Utah                 | Pac-12               | 8-5      | 1974   | 70        |
 
-Updated 01/02/2024 00:55:10
+Updated 01/07/2024 17:10:09
