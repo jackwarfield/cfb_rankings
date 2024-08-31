@@ -1,16 +1,17 @@
-#include "glicko2.h"
+#include <rapidcsv.h>
+
 #include <fstream>
 #include <iostream>
-#include <rapidcsv.h>
 #include <string>
 #include <vector>
+
+#include "glicko2.h"
 
 int find_index(std::vector<std::string> schools, std::string school);
 void loop_schedule(std::string sched_fn, std::string teams_fnin,
                    std::string teams_fnout, int n_loops, bool reset_rd);
 
 int main(int argc, char *argv[]) {
-
   // int max_week = 15;
   // int week = 7;
 
@@ -22,11 +23,11 @@ int main(int argc, char *argv[]) {
   // loop_schedule("sched3.csv", "teams_2023_rankings.csv",
   //               "teams_2023_rankings.csv", 31 + 10 * week, false);
 
-  loop_schedule("sched1.csv", "teams.csv", "teams_2023_rankings.csv", 1, true);
-  loop_schedule("sched2.csv", "teams_2023_rankings.csv",
-                "teams_2023_rankings.csv", 1, true);
-  loop_schedule("sched3.csv", "teams_2023_rankings.csv",
-                "teams_2023_rankings.csv", 1, false);
+  loop_schedule("sched1.csv", "teams.csv", "teams_2024_rankings.csv", 1, true);
+  loop_schedule("sched2.csv", "teams_2024_rankings.csv",
+                "teams_2024_rankings.csv", 1, true);
+  loop_schedule("sched3.csv", "teams_2024_rankings.csv",
+                "teams_2024_rankings.csv", 1, false);
 
   return 0;
 }

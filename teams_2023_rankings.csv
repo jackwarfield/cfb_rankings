@@ -1,134 +1,719 @@
 school,id,conference,division,level,rating,rd,volatility,wins,losses
-Air Force,2005,Mountain West,Mountain,fbs,1655.63,68.189,0.0604373,9,4
-Akron,2006,Mid-American,East,fbs,631.138,86.1091,0.0597925,2,10
-Alabama,333,SEC,West,fbs,2985.81,93.6965,0.0601371,12,2
-Appalachian State,2026,Sun Belt,East,fbs,1685.76,67.0637,0.0600675,9,5
-Arizona,12,Pac-12,,fbs,2138.05,73.7114,0.0601092,10,3
-Arizona State,9,Pac-12,,fbs,1609.83,73.6883,0.0600837,3,9
-Arkansas,8,SEC,West,fbs,1509.75,80.9944,0.0599944,4,8
-Arkansas State,2032,Sun Belt,West,fbs,1354.28,66.9077,0.059755,6,7
-Army,349,FBS Independents,,fbs,1471.23,72.3561,0.0607404,6,6
-Auburn,2,SEC,West,fbs,1714.12,73.9131,0.0599547,6,7
-Ball State,2050,Mid-American,West,fbs,1153.83,74.8001,0.0599424,4,8
-Baylor,239,Big 12,,fbs,1397.45,74.5285,0.0600411,3,9
-Boise State,68,Mountain West,Mountain,fbs,1706.08,64.7093,0.0600034,8,6
-Boston College,103,ACC,Atlantic,fbs,1655.77,67.8041,0.0603947,7,6
-Bowling Green,189,Mid-American,East,fbs,1505.97,75.7178,0.059992,7,6
-Buffalo,2084,Mid-American,East,fbs,890.574,84.0995,0.0602185,3,9
-BYU,252,Big 12,,fbs,1638.17,71.4014,0.0597958,5,7
-California,25,Pac-12,,fbs,1773.65,67.0796,0.0596915,6,7
-Central Michigan,2117,Mid-American,West,fbs,1183.91,70.9871,0.0603523,5,7
-Charlotte,2429,American Athletic,,fbs,987.968,73.6314,0.0598197,3,9
-Cincinnati,2132,Big 12,,fbs,1391.37,72.9241,0.0598066,3,9
-Clemson,228,ACC,Atlantic,fbs,2010.78,68.8517,0.0600801,9,4
-Coastal Carolina,324,Sun Belt,East,fbs,1630.12,64.512,0.0600719,8,5
-Colorado,38,Pac-12,,fbs,1601.42,67.8685,0.0598379,4,8
-Colorado State,36,Mountain West,Mountain,fbs,1405.75,67.1837,0.0598485,5,7
-Connecticut,41,FBS Independents,,fbs,1144.47,76.9185,0.0600845,3,9
-Duke,150,ACC,Coastal,fbs,1906.79,69.0648,0.0601822,8,5
-East Carolina,151,American Athletic,,fbs,927.843,73.412,0.0600582,2,10
-Eastern Michigan,2199,Mid-American,West,fbs,1132.14,70.4998,0.0596974,6,7
-Florida,57,SEC,East,fbs,1756.61,81.371,0.0603335,5,7
-Florida Atlantic,2226,American Athletic,,fbs,1078.06,70.8342,0.0600405,4,8
-Florida International,2229,Conference USA,,fbs,1017.6,70.9082,0.0600781,4,8
-Florida State,52,ACC,Atlantic,fbs,2762.3,103.389,0.0598881,13,1
-Fresno State,278,Mountain West,West,fbs,1656.26,66.5482,0.0604034,9,4
-Georgia,61,SEC,East,fbs,2977.26,89.2644,0.0598872,13,1
-Georgia Southern,290,Sun Belt,East,fbs,1393.14,66.9727,0.059937,6,7
-Georgia State,2247,Sun Belt,East,fbs,1527.12,67.425,0.0599146,7,6
-Georgia Tech,59,ACC,Coastal,fbs,1807.67,68.6824,0.0601439,7,6
-Hawai'i,62,Mountain West,West,fbs,1435.41,65.3563,0.0601892,5,8
-Houston,248,Big 12,,fbs,1452.7,71.8723,0.0603947,4,8
-Illinois,356,Big Ten,West,fbs,1675.08,66.7108,0.0600773,5,7
-Indiana,84,Big Ten,East,fbs,1424.6,81.4784,0.060037,3,9
-Iowa,2294,Big Ten,West,fbs,2036.65,73.2012,0.0598697,10,4
-Iowa State,66,Big 12,,fbs,1847.02,69.2794,0.0602492,7,6
-Jacksonville State,55,Conference USA,,fbs,1530.82,73.1176,0.05971,9,4
-James Madison,256,Sun Belt,East,fbs,1828.67,72.7632,0.0600175,11,2
-Kansas,2305,Big 12,,fbs,1975.33,70.5867,0.0599157,9,4
-Kansas State,2306,Big 12,,fbs,2054.92,71.9253,0.0599196,9,4
-Kent State,2309,Mid-American,East,fbs,211.104,115.365,0.0599441,1,11
-Kentucky,96,SEC,East,fbs,1888.35,74.7231,0.060007,7,6
-Liberty,2335,Conference USA,,fbs,2383.12,148.484,0.059942,13,1
-Louisiana,309,Sun Belt,West,fbs,1292.12,68.5066,0.0599866,6,7
-Louisiana Monroe,2433,Sun Belt,West,fbs,1004.8,81.6411,0.0600402,2,10
-Louisiana Tech,2348,Conference USA,,fbs,931.027,75.3383,0.0599372,3,9
-Louisville,97,ACC,Atlantic,fbs,2010.44,70.4189,0.0602364,10,4
-LSU,99,SEC,West,fbs,2547.79,88.2587,0.0598691,10,3
-Marshall,276,Sun Belt,East,fbs,1485.81,63.9791,0.0598966,6,7
-Maryland,120,Big Ten,East,fbs,1885.83,72.7087,0.0599282,8,5
-Memphis,235,American Athletic,,fbs,1803.62,77.3007,0.0599247,10,3
-Miami,2390,ACC,Coastal,fbs,1814.2,66.6485,0.0599309,7,6
-Miami (OH),193,Mid-American,East,fbs,1709.81,72.2382,0.0598357,11,3
-Michigan,130,Big Ten,East,fbs,4480.48,229.218,0.0599847,15,0
-Michigan State,127,Big Ten,East,fbs,1629.5,75.8829,0.0597652,4,8
-Middle Tennessee,2393,Conference USA,,fbs,1104.67,73.4662,0.0598834,4,8
-Minnesota,135,Big Ten,West,fbs,1677.81,67.6971,0.0600244,6,7
-Mississippi State,344,SEC,West,fbs,1659.29,75.0287,0.0600373,5,7
-Missouri,142,SEC,East,fbs,2578.88,86.2912,0.0599777,11,2
-Navy,2426,American Athletic,,fbs,1176.25,71.9768,0.0599563,5,7
-NC State,152,ACC,Atlantic,fbs,1966.91,66.9629,0.0597415,9,4
-Nebraska,158,Big Ten,West,fbs,1619.95,66.8393,0.060041,5,7
-Nevada,2440,Mountain West,West,fbs,1225.86,71.2137,0.0599337,2,10
-New Mexico,167,Mountain West,Mountain,fbs,1342.25,69.8621,0.0600725,4,8
-New Mexico State,166,Conference USA,,fbs,1589.86,73.451,0.0603776,10,5
-North Carolina,153,ACC,Coastal,fbs,1810.52,64.9751,0.0599603,8,5
-Northern Illinois,2459,Mid-American,West,fbs,1315.11,68.7378,0.060818,7,6
-North Texas,249,American Athletic,,fbs,1158.78,70.865,0.0598066,5,7
-Northwestern,77,Big Ten,West,fbs,1902.66,66.6528,0.0600846,8,5
-Notre Dame,87,FBS Independents,,fbs,2109.75,72.6725,0.0599305,10,3
-Ohio,195,Mid-American,East,fbs,1567.39,74.4267,0.0603368,10,3
-Ohio State,194,Big Ten,East,fbs,2521.79,90.5059,0.05986,11,2
-Oklahoma,201,Big 12,,fbs,2081.73,73.4148,0.0601969,10,3
-Oklahoma State,197,Big 12,,fbs,2016.84,72.066,0.0606624,10,4
-Old Dominion,295,Sun Belt,East,fbs,1495.33,66.1143,0.0598588,6,7
-Ole Miss,145,SEC,West,fbs,2717.09,90.5307,0.059818,11,2
-Oregon,2483,Pac-12,,fbs,2968.23,146.544,0.0598622,12,2
-Oregon State,204,Pac-12,,fbs,1967.23,72.0144,0.0599056,8,5
-Penn State,213,Big Ten,East,fbs,2361.36,88.5929,0.0597239,10,3
-Pittsburgh,221,ACC,Coastal,fbs,1449.91,74.9733,0.0603502,3,9
-Purdue,2509,Big Ten,West,fbs,1627.34,66.7986,0.060037,4,8
-Rice,242,American Athletic,,fbs,1251.11,70.4078,0.0599363,6,7
-Rutgers,164,Big Ten,East,fbs,1865.28,70.581,0.0598368,7,6
-Sam Houston State,2534,Conference USA,,fbs,994.003,74.6852,0.0599483,3,9
-San Diego State,21,Mountain West,West,fbs,1380.32,67.6924,0.0603052,4,8
-San José State,23,Mountain West,West,fbs,1643.25,64.7831,0.0597659,7,6
-SMU,2567,American Athletic,,fbs,1742.08,77.0668,0.0600334,11,3
-South Alabama,6,Sun Belt,West,fbs,1444.63,69.5178,0.0604109,7,6
-South Carolina,2579,SEC,East,fbs,1748.21,68.8185,0.0598481,5,7
-Southern Mississippi,2572,Sun Belt,West,fbs,1185.78,75.104,0.0597949,3,9
-South Florida,58,American Athletic,,fbs,1348.8,69.3303,0.060144,7,6
-Stanford,24,Pac-12,,fbs,1583.57,72.1324,0.0600047,3,9
-Syracuse,183,ACC,Atlantic,fbs,1545.88,66.9541,0.0598859,6,7
-TCU,2628,Big 12,,fbs,1657.09,68.9361,0.0598788,5,7
-Temple,218,American Athletic,,fbs,927.146,78.6254,0.0599047,3,9
-Tennessee,2633,SEC,East,fbs,2140.53,82.0037,0.0600464,9,4
-Texas,251,Big 12,,fbs,2633.49,116.908,0.0604276,12,2
-Texas A&M,245,SEC,West,fbs,1859.02,74.1068,0.0597675,7,6
-Texas State,326,Sun Belt,West,fbs,1455.97,65.689,0.0599212,8,5
-Texas Tech,2641,Big 12,,fbs,1847.3,68.7216,0.0600602,7,6
-Toledo,2649,Mid-American,West,fbs,1704.81,71.8427,0.0598211,11,3
-Troy,2653,Sun Belt,West,fbs,1826.34,73.3749,0.0595998,11,3
-Tulane,2655,American Athletic,,fbs,1756.02,77.6823,0.0599603,11,3
-Tulsa,202,American Athletic,,fbs,1015.17,70.6796,0.0600536,4,8
-UAB,5,American Athletic,,fbs,1124.67,69.9711,0.059934,4,8
-UCF,2116,Big 12,,fbs,1668.89,69.3409,0.0601251,6,7
-UCLA,26,Pac-12,,fbs,1826.9,65.9977,0.059997,8,5
-UMass,113,FBS Independents,,fbs,1149.51,76.3715,0.0603856,3,9
-UNLV,2439,Mountain West,West,fbs,1682.88,68.4963,0.0598375,9,5
-USC,30,Pac-12,,fbs,2010.74,70.9239,0.0599777,8,5
-Utah,254,Pac-12,,fbs,1973.27,70.4832,0.0598337,8,5
-Utah State,328,Mountain West,Mountain,fbs,1461.95,65.5082,0.0594987,6,7
-UTEP,2638,Conference USA,,fbs,1015.36,73.9029,0.0599066,3,9
-UT San Antonio,2636,American Athletic,,fbs,1562.19,70.4587,0.0597704,9,4
-Vanderbilt,238,SEC,East,fbs,1301.73,86.0409,0.0599116,2,10
-Virginia,258,ACC,Coastal,fbs,1585.73,71.3135,0.0601286,3,9
-Virginia Tech,259,ACC,Coastal,fbs,1753.96,65.6967,0.0599223,7,6
-Wake Forest,154,ACC,Atlantic,fbs,1507.43,71.3626,0.059707,4,8
-Washington,264,Pac-12,,fbs,3697.55,168.982,0.0599551,14,1
-Washington State,265,Pac-12,,fbs,1658.78,69.1646,0.0602557,5,7
-Western Kentucky,98,Conference USA,,fbs,1511.64,74.2203,0.0597168,8,5
-Western Michigan,2711,Mid-American,West,fbs,1241.81,69.8383,0.0596834,4,8
-West Virginia,277,Big 12,,fbs,1899.67,70.626,0.0599356,9,4
-Wisconsin,275,Big Ten,West,fbs,1774.49,68.6207,0.0601053,7,6
-Wyoming,2751,Mountain West,Mountain,fbs,1787.46,68.7538,0.0600367,9,4
+Air Force,2005,Mountain West,,fbs,1640.99,68.3452,0.0603957,0,0
+Akron,2006,Mid-American,,fbs,638.817,86.6295,0.0598179,0,0
+Alabama,333,SEC,,fbs,2848.06,92.4729,0.0600539,0,0
+Appalachian State,2026,Sun Belt,East,fbs,1682.47,67.1853,0.0600558,0,0
+Arizona,12,Big 12,,fbs,2128.79,73.7683,0.0601167,0,0
+Arizona State,9,Big 12,,fbs,1601.87,73.6991,0.060033,0,0
+Arkansas,8,SEC,,fbs,1489.97,106.377,0.0600099,41,0
+Arkansas State,2032,Sun Belt,West,fbs,1346.78,67.0704,0.0598097,0,0
+Army,349,American Athletic,,fbs,1462.69,100.182,0.060636,41,0
+Auburn,2,SEC,,fbs,1691.51,73.7478,0.0599354,0,0
+Ball State,2050,Mid-American,,fbs,1146.95,74.8619,0.0599994,0,0
+Baylor,239,Big 12,,fbs,1399.78,74.7265,0.0600243,0,0
+Boise State,68,Mountain West,,fbs,1690.75,64.9992,0.0600203,0,0
+Boston College,103,ACC,,fbs,1660.88,68.3576,0.0604081,0,0
+Bowling Green,189,Mid-American,,fbs,1519.87,99.5069,0.0600328,41,0
+Buffalo,2084,Mid-American,,fbs,1171.98,75.6984,0.0601919,41,0
+BYU,252,Big 12,,fbs,1638.44,71.5675,0.0598262,0,0
+California,25,ACC,,fbs,1757.29,67.4703,0.0597738,0,0
+Central Michigan,2117,Mid-American,,fbs,1182.6,98.3938,0.0602768,41,0
+Charlotte,2429,American Athletic,,fbs,965.239,73.9518,0.059821,0,0
+Cincinnati,2132,Big 12,,fbs,1389.91,73.2349,0.0598619,0,0
+Clemson,228,ACC,,fbs,2007.28,67.6631,0.0600312,0,0
+Coastal Carolina,324,Sun Belt,East,fbs,1786.27,74.1301,0.0600376,41,0
+Colorado,38,Big 12,,fbs,1795.15,73.2655,0.0598481,41,0
+Colorado State,36,Mountain West,,fbs,1388.48,67.5384,0.0598824,0,0
+Connecticut,41,FBS Independents,,fbs,1128.73,77.0655,0.0600755,0,0
+Duke,150,ACC,,fbs,1906.77,95.2719,0.0601117,41,0
+East Carolina,151,American Athletic,,fbs,887.621,74.2665,0.0599583,0,0
+Eastern Michigan,2199,Mid-American,,fbs,1128.41,69.7343,0.0597367,0,0
+Florida,57,SEC,,fbs,1727.78,80.2209,0.0602691,0,0
+Florida Atlantic,2226,American Athletic,,fbs,1005.36,89.4275,0.0600696,0,41
+Florida International,2229,Conference USA,,fbs,998.565,70.4322,0.0600772,0,0
+Florida State,52,ACC,,fbs,1861.2,72.4294,0.0601167,0,41
+Fresno State,278,Mountain West,,fbs,1638.08,66.6765,0.0603195,0,0
+Georgia,61,SEC,,fbs,2798.12,90.7991,0.0598834,0,0
+Georgia Southern,290,Sun Belt,East,fbs,1387.67,67.0412,0.0599347,0,0
+Georgia State,2247,Sun Belt,East,fbs,1519.6,67.5348,0.0599353,0,0
+Georgia Tech,59,ACC,,fbs,2257.67,70.4411,0.0604362,41,0
+Hawai'i,62,Mountain West,,fbs,1410.49,94.862,0.0601853,41,0
+Houston,248,Big 12,,fbs,1453.42,72.1993,0.0603439,0,0
+Illinois,356,Big Ten,,fbs,1679.3,92.0805,0.0600394,41,0
+Indiana,84,Big Ten,,fbs,1412.21,81.4689,0.0600625,0,0
+Iowa,2294,Big Ten,,fbs,2018.74,72.8263,0.0599186,0,0
+Iowa State,66,Big 12,,fbs,1844.62,69.0358,0.0601829,0,0
+Jacksonville State,55,Conference USA,,fbs,1319.07,75.3628,0.0596743,0,41
+James Madison,256,Sun Belt,East,fbs,1823.47,72.759,0.0600127,0,0
+Kansas,2305,Big 12,,fbs,1971.01,98.3657,0.0599609,41,0
+Kansas State,2306,Big 12,,fbs,2049.84,71.2371,0.0599364,0,0
+Kennesaw State,338,Conference USA,,fbs,254.863,82.1869,0.0598853,0,0
+Kent State,2309,Mid-American,,fbs,215.912,116.686,0.0599452,0,0
+Kentucky,96,SEC,,fbs,1868.87,74.6666,0.0600283,0,0
+Liberty,2335,Conference USA,,fbs,2365.52,149.924,0.0600116,0,0
+Louisiana,309,Sun Belt,West,fbs,1282.97,67.9505,0.0599741,0,0
+Louisiana Monroe,2433,Sun Belt,West,fbs,1042.72,97.385,0.0600167,41,0
+Louisiana Tech,2348,Conference USA,,fbs,908.658,75.3158,0.0599644,0,0
+Louisville,97,ACC,,fbs,2002.41,68.9272,0.0602263,0,0
+LSU,99,SEC,,fbs,2364.76,85.8501,0.0599925,0,0
+Marshall,276,Sun Belt,East,fbs,1479.78,64.1048,0.0599223,0,0
+Maryland,120,Big Ten,,fbs,1871.41,72.4316,0.0599375,0,0
+Memphis,235,American Athletic,,fbs,1797.2,77.3239,0.0599429,0,0
+Miami,2390,ACC,,fbs,1818.87,66.0892,0.0598461,0,0
+Miami (OH),193,Mid-American,,fbs,1706.72,72.26,0.0598164,0,0
+Michigan,130,Big Ten,,fbs,4488.69,233.067,0.059981,0,0
+Michigan State,127,Big Ten,,fbs,1671.05,91.3091,0.0597989,41,0
+Middle Tennessee,2393,Conference USA,,fbs,1081.66,73.2331,0.0598775,0,0
+Minnesota,135,Big Ten,,fbs,1502.89,75.0842,0.0599713,0,41
+Mississippi State,344,SEC,,fbs,1638.2,74.7295,0.0600395,0,0
+Missouri,142,SEC,,fbs,2479.81,108.685,0.0599762,41,0
+Navy,2426,American Athletic,,fbs,1158.24,72.3655,0.0599884,0,0
+NC State,152,ACC,,fbs,1972.45,94.2496,0.0597838,41,0
+Nebraska,158,Big Ten,,fbs,1608.81,66.807,0.0600568,0,0
+Nevada,2440,Mountain West,,fbs,1144.8,89.1707,0.0599262,0,41
+New Mexico,167,Mountain West,,fbs,1140.75,76.0397,0.0600679,0,41
+New Mexico State,166,Conference USA,,fbs,1560.63,73.5015,0.0602655,0,0
+North Carolina,153,ACC,,fbs,1974.38,74.5138,0.0598815,41,0
+Northern Illinois,2459,Mid-American,,fbs,1302.48,68.7904,0.0607357,0,0
+North Texas,249,American Athletic,,fbs,1140.84,71.1849,0.0598763,0,0
+Northwestern,77,Big Ten,,fbs,1888.11,66.6052,0.0600304,0,0
+Notre Dame,87,FBS Independents,,fbs,2099.04,72.4167,0.0599508,0,0
+Ohio,195,Mid-American,,fbs,1561.35,74.4402,0.0602828,0,0
+Ohio State,194,Big Ten,,fbs,2464.3,88.965,0.0598947,0,0
+Oklahoma,201,SEC,,fbs,2083.99,99.8135,0.0601814,41,0
+Oklahoma State,197,Big 12,,fbs,2011.47,71.9023,0.0605608,0,0
+Old Dominion,295,Sun Belt,East,fbs,1489.21,66.24,0.0598934,0,0
+Ole Miss,145,SEC,,fbs,2585.45,87.9406,0.0598079,0,0
+Oregon,2483,Big Ten,,fbs,2958.47,147.639,0.0599312,0,0
+Oregon State,204,Pac-12,,fbs,1955.45,72.1031,0.0599241,0,0
+Penn State,213,Big Ten,,fbs,2315.46,85.1679,0.0597739,0,0
+Pittsburgh,221,ACC,,fbs,1450.92,74.8637,0.0603071,0,0
+Purdue,2509,Big Ten,,fbs,1613.84,66.717,0.0600287,0,0
+Rice,242,American Athletic,,fbs,1235.45,70.9434,0.0599499,0,0
+Rutgers,164,Big Ten,,fbs,1856.59,97.7155,0.0598965,41,0
+Sam Houston State,2534,Conference USA,,fbs,972.07,74.6776,0.059967,0,0
+San Diego State,21,Mountain West,,fbs,1361.39,68.0085,0.0602351,0,0
+San José State,23,Mountain West,,fbs,1743.27,77.8833,0.0597497,41,0
+SMU,2567,ACC,,fbs,1804.7,91.7853,0.0600138,41,0
+South Alabama,6,Sun Belt,West,fbs,1438.32,69.4616,0.0603496,0,0
+South Carolina,2579,SEC,,fbs,1729.11,69.1377,0.0598712,0,0
+Southern Mississippi,2572,Sun Belt,West,fbs,1178.53,75.0168,0.0598398,0,0
+South Florida,58,American Athletic,,fbs,1335.35,69.5305,0.0601562,0,0
+Stanford,24,ACC,,fbs,1368.59,76.0403,0.0600769,0,41
+Syracuse,183,ACC,,fbs,1546.84,67.6086,0.0598775,0,0
+TCU,2628,Big 12,,fbs,1840.33,74.8747,0.0597648,41,0
+Temple,218,American Athletic,,fbs,910.536,103.664,0.0599354,0,41
+Tennessee,2633,SEC,,fbs,2109.73,80.3507,0.0600192,0,0
+Texas,251,SEC,,fbs,2580.48,108.591,0.0603458,0,0
+Texas A&M,245,SEC,,fbs,1837.72,73.6605,0.0597742,0,0
+Texas State,326,Sun Belt,West,fbs,1448.64,65.8403,0.0598959,0,0
+Texas Tech,2641,Big 12,,fbs,1846.35,68.5384,0.0600275,0,0
+Toledo,2649,Mid-American,,fbs,1700.93,98.7404,0.0598594,41,0
+Troy,2653,Sun Belt,West,fbs,1818.71,73.4984,0.0596903,0,0
+Tulane,2655,American Athletic,,fbs,1750.68,103.814,0.0599476,41,0
+Tulsa,202,American Athletic,,fbs,993.416,98.7638,0.0600382,41,0
+UAB,5,American Athletic,,fbs,1130.21,94.079,0.0599609,41,0
+UCF,2116,Big 12,,fbs,1696.21,93.9983,0.0601076,41,0
+UCLA,26,Big Ten,,fbs,1816.26,66.0112,0.0599986,0,0
+UMass,113,FBS Independents,,fbs,1130.56,76.2303,0.0603212,0,0
+UNLV,2439,Mountain West,,fbs,1666.14,68.79,0.0598856,0,0
+USC,30,Big Ten,,fbs,2000.63,70.9502,0.0600166,0,0
+Utah,254,Big 12,,fbs,1968.91,96.8895,0.0598741,41,0
+Utah State,328,Mountain West,,fbs,1442.31,65.9337,0.0596164,0,0
+UTEP,2638,Conference USA,,fbs,991.566,73.8456,0.0599329,0,0
+UT San Antonio,2636,American Athletic,,fbs,1551.73,70.6537,0.0598253,0,0
+Vanderbilt,238,SEC,,fbs,1283.99,86.0159,0.0599138,0,0
+Virginia,258,ACC,,fbs,1594.32,71.3149,0.0601063,0,0
+Virginia Tech,259,ACC,,fbs,1749.65,65.4447,0.0599324,0,0
+Wake Forest,154,ACC,,fbs,1511.95,98.6467,0.0597463,41,0
+Washington,264,Big Ten,,fbs,3693.82,171.049,0.0599824,0,0
+Washington State,265,Pac-12,,fbs,1645.91,69.3077,0.0602167,0,0
+Western Kentucky,98,Conference USA,,fbs,1488.61,74.304,0.0598256,0,0
+Western Michigan,2711,Mid-American,,fbs,1176.07,87.3769,0.0597293,0,41
+West Virginia,277,Big 12,,fbs,1904.42,70.2954,0.0599406,0,0
+Wisconsin,275,Big Ten,,fbs,1814.85,86.8127,0.0600666,41,0
+Wyoming,2751,Mountain West,,fbs,1773.29,68.9668,0.0600473,0,0
+Austin Peay,2046,,,fcs,1149.75,74.2844,0.0598518,0,0
+Florida Memorial University,125762,,,,72.4813,61.5086,0.0599509,0,0
+Edward Waters,2206,,,ii,-47.3615,72.4644,0.0599001,0,0
+Stephen F. Austin,2617,,,fcs,350.618,108.019,0.0598975,41,0
+Idaho State,304,,,fcs,1020.24,70.7802,0.0598523,0,0
+Duquesne,2184,,,fcs,464.632,105.76,0.059916,0,41
+Alabama State,2011,,,fcs,316.501,68.3492,0.0599452,0,0
+Howard,47,,,fcs,648.179,100.667,0.0601671,0,41
+Mercer,2382,,,fcs,1130.32,101.639,0.0598307,41,0
+Morehead State,2413,,,fcs,290.179,88.147,0.0599274,41,0
+Florida A&M,50,,,fcs,1156.78,117.954,0.0598599,41,0
+New Mexico Highlands,2424,,,ii,-293.124,90.6137,0.0599639,0,41
+Eastern New Mexico,2201,,,ii,305.16,87.0805,0.05998,41,0
+Southern Connecticut State,2583,,,ii,-243.736,66.8129,0.060188,0,0
+Shepherd,2974,,,ii,687.072,77.8244,0.0601439,0,0
+Bluefield,124180,,,ii,-575.66,80.1158,0.0600367,0,0
+Johnson C Smith,2304,,,ii,-103.376,71.2137,0.0599122,0,0
+Wagner,2681,,,fcs,94.7777,70.9051,0.0601205,0,0
+Fordham,2230,,,fcs,620.85,96.5739,0.0600533,0,41
+Saginaw Valley,129,,,ii,756.643,73.9052,0.0597699,0,0
+WV Wesleyan,455,,,ii,-1763.86,229.264,0.0599654,0,0
+Ashland,308,,,ii,576.475,77.5181,0.0599046,0,0
+Notre Dame College,587,,,ii,420.032,70.1471,0.0598711,0,0
+Clarion,2134,,,ii,197.19,71.2238,0.0598018,41,0
+West Liberty,2699,,,ii,-204.291,72.1471,0.060174,0,41
+Chowan,2804,,,ii,-1555.3,214.159,0.0599859,0,0
+Barton College,122666,,,ii,273.159,70.9412,0.0598585,0,0
+Indiana State,282,,,fcs,-401.267,195.056,0.0599603,0,0
+North Alabama,2453,,,fcs,459.108,73.2457,0.0599245,0,41
+St Francis (PA),2598,,,fcs,208.174,67.9198,0.0600493,0,0
+Campbell,2097,,,fcs,695.176,69.7859,0.0597092,0,0
+The Citadel,2643,,,fcs,-855.625,305.348,0.0599878,0,0
+Michigan Tech,2392,,,ii,568.751,95.2808,0.0600538,0,41
+Wisconsin-Platteville,272,,,iii,922.035,76.7187,0.0600985,0,0
+Tusculum,2839,,,ii,268.933,69.9458,0.0604017,0,0
+St. Augustine's,395,,,ii,-1523.37,257.047,0.0599758,0,0
+California (PA),2858,,,ii,686.571,73.4426,0.0599901,0,0
+Fairmont State,2986,,,ii,613.432,75.2129,0.060209,41,0
+Lakeland University,6353,,,iii,-504.011,72.2016,0.0597384,0,0
+Illinois College,2286,,,iii,358.368,88.2484,0.0601049,0,0
+Trine,2651,,,iii,354.961,80.5569,0.0600188,0,0
+Anderson (IN),2023,,,iii,-2182.79,199.873,0.0599659,0,0
+Frostburg State,341,,,ii,459.972,67.1965,0.0599539,0,0
+American International,2022,,,ii,-407.154,68.7493,0.0598981,0,0
+Stony Brook,2619,,,fcs,-727.338,303.596,0.0599835,0,0
+Rhode Island,227,,,fcs,881.61,70.5592,0.0598436,0,0
+Long Island University,2341,,,fcs,196.929,67.659,0.0597908,0,0
+New Hampshire,160,,,fcs,870.369,95.502,0.0600757,0,41
+Monmouth,2405,,,fcs,542.857,84.5369,0.0598439,0,41
+Southeastern Oklahoma,199,,,ii,60.7404,85.7187,0.0600136,0,0
+Arkansas Tech,2033,,,ii,80.7964,85.9165,0.0598908,0,0
+Oklahoma Baptist,319,,,ii,225.036,85.2674,0.0598691,0,0
+Ouachita Baptist,2888,,,ii,960.904,91.3464,0.0599786,0,0
+Gannon,367,,,ii,254.358,67.0896,0.0601169,0,0
+Charleston (WV),2128,,,ii,675.53,77.5975,0.0598933,0,0
+Southern Arkansas,2568,,,ii,986.73,92.2038,0.0599676,0,0
+Northwestern Oklahoma State,2823,,,ii,-1537.54,148.608,0.0599421,0,0
+Southern Nazarene,200,,,ii,247.134,85.3236,0.060023,0,0
+Arkansas-Monticello,2028,,,ii,-1005.06,131.753,0.0599301,0,0
+Northern Michigan,128,,,ii,-1934.52,244.727,0.059974,0,41
+McKendree,2816,,,ii,497.444,74.8019,0.0601369,0,0
+Missouri S&T,2402,,,ii,226.844,96.321,0.0599304,0,41
+South Dakota Mines,613,,,ii,309.06,99.9069,0.0599731,0,41
+Virginia Union,2676,,,ii,489.356,83.7025,0.0599211,0,0
+Virginia Lynchburg,2355,,,,-809.675,99.3671,0.0598908,0,0
+East Central,2191,,,ii,-540.499,121.256,0.0598954,0,0
+Harding,2264,,,ii,3353.08,214.421,0.0599559,0,0
+Grand Valley State,125,,,ii,2091.27,134.351,0.0598855,0,0
+Colorado Mines,2146,,,ii,2620.01,161.433,0.0599194,0,0
+Washburn,2687,,,ii,-412.605,180.19,0.0599347,0,41
+Lincoln (MO),2876,,,ii,-2005.66,233.104,0.0599694,0,0
+Wheeling Jesuit,112335,,,ii,-77.7535,71.2,0.0602136,0,41
+Seton Hill College,611,,,ii,146.483,74.5645,0.0598589,0,41
+Bemidji State,132,,,ii,1269.23,90.071,0.0598003,41,0
+Minnesota State,2364,,,ii,1321.28,80.521,0.059862,41,0
+Minnesota-Duluth,134,,,ii,1101.69,106.406,0.0599577,41,0
+Southwest Minnesota State,2587,,,ii,158.061,78.7043,0.0600491,0,0
+Northern State,425,,,ii,505.831,106.776,0.0602519,0,41
+Upper Iowa,389,,,ii,10.0543,74.3302,0.0601333,0,0
+Bryant,2803,,,fcs,656.956,80.251,0.0597401,0,41
+Pace,2487,,,ii,-328.176,70.0903,0.0600124,0,0
+East Stroudsburg,2188,,,ii,748.894,92.2666,0.0597827,41,0
+South Carolina State,2569,,,fcs,391.414,75.1477,0.0599982,0,0
+Minnesota St-Moorhead,2817,,,ii,890.829,79.3131,0.0596973,0,0
+Sioux Falls,2894,,,ii,753.949,72.0307,0.0601154,41,0
+Quincy,2825,,,ii,187.543,72.3492,0.0597942,0,0
+Glenville State,2249,,,ii,326.726,69.0518,0.0602676,0,0
+St. Anselm,2830,,,ii,-43.2284,69.032,0.060349,0,0
+Millersville,210,,,ii,-221.333,71.4798,0.0602084,0,41
+UVA-Wise,2842,,,ii,-517.011,110.644,0.0598612,0,0
+Ferrum,366,,,iii,-381.32,92.5465,0.0598117,0,0
+Millsaps,2398,,,iii,-743.289,80.8054,0.059994,0,0
+Belhaven College,2056,,,iii,308.961,88.703,0.0600092,0,0
+Valdosta State,2673,,,ii,1009.45,76.6517,0.0598375,0,0
+Keiser University,126110,,,,-974.307,142.911,0.0599862,0,0
+Gardner-Webb,2241,,,fcs,529.087,69.431,0.0602903,0,41
+Limestone,2336,,,ii,602.739,73.1514,0.0597914,0,0
+Samford,2535,,,fcs,896.558,72.3728,0.0598213,0,0
+Furman,231,,,fcs,1252.09,81.1734,0.0600488,0,0
+North Greenville,2822,,,ii,454.575,76.9949,0.0598729,0,0
+VMI,2678,,,fcs,524.301,75.9977,0.06002,0,41
+East Tennessee State,2193,,,fcs,484.729,82.1313,0.059806,0,0
+Mars Hill,2369,,,ii,408.322,87.6069,0.0599443,0,41
+Concordia-St. Paul,3066,,,ii,304.576,78.7364,0.0601206,0,0
+Augustana (SD),2043,,,ii,1406.75,84.9927,0.0600362,0,0
+UT Martin,2630,,,fcs,970.727,70.515,0.0599043,0,0
+Western Illinois,2710,,,fcs,-1368.33,255.712,0.059979,0,0
+Ferris State,2222,,,ii,1445.18,100.529,0.0598472,0,0
+Central Washington,2120,,,ii,1262.52,76.7336,0.0599909,0,0
+Pittsburg State,90,,,ii,1369.51,88.9907,0.0600523,0,0
+Central Missouri State,2118,,,ii,1396.62,89.144,0.0598495,0,0
+Central Arkansas,2110,,,fcs,1030.05,72.0453,0.0598374,0,0
+Missouri State,2623,,,fcs,854.206,78.1546,0.0600636,0,0
+Abilene Christian,2000,,,fcs,698.514,70.8515,0.0597034,0,0
+Lamar,2320,,,fcs,486.896,89.2322,0.0598525,0,0
+Missouri Western,137,,,ii,1064.25,104.807,0.0604784,41,0
+Central Oklahoma,2122,,,ii,630.276,82.8861,0.05982,0,0
+Eastern Illinois,2197,,,fcs,857.389,96.0689,0.0598739,0,41
+William Jewell College,2911,,,ii,-129.739,80.9908,0.0599153,0,0
+Colorado Mesa,11,,,ii,895.333,72.3899,0.0599078,41,0
+Emporia State,2214,,,ii,1075.15,102.813,0.0598122,41,0
+Northeastern State,196,,,ii,-1134.84,194.81,0.0599498,0,41
+Missouri Southern State,2403,,,ii,270.659,74.1495,0.0601306,0,41
+Nebraska-Kearney,2438,,,ii,583.903,76.6609,0.0598721,41,0
+Henderson State,2271,,,ii,966.097,88.9979,0.0599448,0,0
+Southwestern Oklahoma,2927,,,ii,-2256.65,197.085,0.0599607,0,0
+Alabama A&M,2010,,,fcs,51.4943,71.1518,0.0599373,0,0
+Southern Utah,253,,,fcs,950.511,100.918,0.0598102,0,41
+St. Thomas (MN),2900,,,fcs,340.791,71.6126,0.0598766,0,41
+Northwest Missouri State,138,,,ii,795.752,81.3086,0.0598694,0,41
+Fort Hays State,2231,,,ii,1150.29,75.5642,0.0597615,41,0
+Angelo State,2025,,,ii,681.228,76.3657,0.0597524,0,41
+Chadron State,2123,,,ii,125.417,74.7714,0.0598634,0,41
+Dickinson State,316,,,,1479.05,115.785,0.059989,0,0
+Black Hills State,2069,,,ii,508.37,78.3941,0.0599967,0,0
+Texas A&M-Commerce,2837,,,fcs,-703.339,138.878,0.0599451,0,0
+Lincoln University (CA),124179,,,,-1304.87,303.903,0.0599754,0,41
+Tarleton State,2627,,,fcs,943.777,102.289,0.0599778,41,0
+Mississippi Valley State,2400,,,fcs,-358.244,84.6142,0.0600266,0,0
+Weber State,2692,,,fcs,1232.68,68.0215,0.0600994,0,0
+Western Oregon,2848,,,ii,200.659,80.9436,0.0598974,0,0
+Northern Arizona,2464,,,fcs,1210.97,69.5225,0.0605586,0,0
+Portland State,2502,,,fcs,1116.29,75.4699,0.0599848,0,0
+Cal Poly,13,,,fcs,537.333,108.044,0.0599122,0,0
+Villanova,222,,,fcs,1553.98,82.0849,0.059814,41,0
+Lehigh,2329,,,fcs,314.965,100.381,0.0598771,0,41
+Salisbury,2532,,,iii,597.665,75.6333,0.0601316,0,0
+Albright,2015,,,iii,-1967.36,199.926,0.0599671,0,0
+West Chester,223,,,ii,353.456,73.2101,0.0599179,0,0
+Bentley,2060,,,ii,-38.7636,67.7301,0.0597439,0,0
+Curry,40,,,iii,159.15,83.5125,0.0598766,0,0
+MIT,109,,,iii,141.202,72.9641,0.0598947,0,0
+Eastern Kentucky,2198,,,fcs,858.86,68.083,0.0598012,0,0
+Franklin & Marshall,2234,,,iii,1040.68,87.3384,0.0599333,0,0
+Lebanon Valley,388,,,iii,459.732,80.03,0.0601626,0,0
+Fitchburg State,114,,,iii,-2836.06,165.125,0.0599571,0,0
+Dean College,110438,,,iii,-943.007,92.6022,0.0598714,0,0
+Westfield State,2909,,,iii,-1519.62,100.469,0.0598716,0,0
+Nichols,2884,,,iii,-207.664,87.7327,0.0598051,0,0
+Springfield,81,,,iii,1601.88,112.673,0.0598713,0,0
+Western New England,2702,,,iii,1223.34,107.055,0.0598732,0,0
+Merchant Marine,2383,,,iii,653.186,93.3836,0.0598446,0,0
+FDU-Florham,2221,,,iii,108.827,90.0658,0.0601797,0,0
+William & Mary,2729,,,fcs,994.464,74.6104,0.0596616,41,0
+Alvernia University,111674,,,iii,-1217.83,151.102,0.0599396,0,0
+Ursinus,2667,,,iii,1032.87,88.0149,0.0599388,0,0
+Hobart,174,,,iii,1676.05,99.6899,0.0598674,0,0
+Alfred,365,,,iii,429.428,85.5594,0.0598931,0,0
+Carnegie Mellon,2102,,,iii,2101.25,170.723,0.059944,0,0
+Whitworth,2721,,,iii,1629.81,138.699,0.0599343,0,0
+Worcester State College,402,,,iii,-2261.26,122.582,0.0599102,0,0
+Worcester Polytechnic,2749,,,iii,-133.647,82.49,0.0598412,0,0
+Merrimack,2771,,,fcs,183.6,68.3281,0.0599037,0,0
+Holy Cross,107,,,fcs,926.107,72.7267,0.0598005,0,0
+Tennessee Tech,2635,,,fcs,545.107,67.9783,0.0598914,0,0
+Morrisville State,3110,,,iii,296.872,80.7394,0.0600441,0,0
+Kean,2871,,,iii,-1462.68,233.668,0.0599741,0,0
+Central Connecticut,2115,,,fcs,-133.965,100.261,0.0598429,0,41
+Case Western Reserve,2963,,,iii,929.25,127.072,0.0599175,0,0
+Johns Hopkins,118,,,iii,2548.89,104.263,0.0598645,0,0
+Wayland Baptist,630,,,,-1034.65,127.124,0.0599911,0,0
+Hardin-Simmons,2810,,,iii,1495.15,93.9627,0.0601183,0,0
+Charleston Southern,2127,,,fcs,560.493,67.9692,0.0597642,0,0
+Western Carolina,2717,,,fcs,960.443,97.8991,0.0599981,0,41
+Brockport State (NY),2781,,,iii,2110.21,157.478,0.0599389,0,0
+Framingham State,2967,,,iii,-696.404,125.331,0.0598932,0,0
+UMass Dartmouth,379,,,iii,171.997,86.0997,0.0599991,0,0
+Husson,2280,,,iii,872.64,103.59,0.0598658,0,0
+Delaware Valley,2808,,,iii,1384.73,148.32,0.0599117,0,0
+Westminster PA,2849,,,iii,459.614,121.107,0.0598979,0,0
+Greensboro,2256,,,iii,-1157.05,103.697,0.0598608,0,0
+Guilford,2258,,,iii,-756.194,109.995,0.0598925,0,0
+Plymouth State,2972,,,iii,-1278.81,92.5273,0.0598986,0,0
+Castleton State College,293,,,iii,-1147.58,88.5555,0.0599012,0,0
+Robert Morris,2523,,,fcs,544.057,69.8086,0.0599695,0,0
+Dayton,2168,,,fcs,88.7525,69.6451,0.0600198,0,0
+Bridgewater State,18,,,iii,-149.304,83.3769,0.0599813,0,0
+Ithaca,175,,,iii,2296.94,95.4068,0.059792,0,0
+College of New Jersey,2442,,,iii,368.25,79.7524,0.0600021,0,0
+Moravian,323,,,iii,58.3049,75.5516,0.0598612,0,0
+Marietta,317,,,iii,1120.32,98.9879,0.0598542,0,0
+Dubuque,49,,,iii,318.849,97.2744,0.0598521,0,0
+Albion,2790,,,iii,490.104,85.7215,0.059997,0,0
+Carthage,2106,,,iii,-3.65371,81.9939,0.0600292,0,0
+Southwestern University,2588,,,iii,-513.325,69.0878,0.0598331,0,0
+Cal Lutheran,2094,,,iii,-174.904,74.9513,0.0601755,0,0
+Ohio Wesleyan,2980,,,iii,130.307,95.778,0.059877,0,0
+Otterbein,359,,,iii,-1716.65,233.71,0.0599844,0,0
+Ohio Dominican,2477,,,ii,59.2119,71.4643,0.0598609,0,0
+Findlay,2224,,,ii,376.66,71.9083,0.0598393,0,0
+South Dakota State,2571,,,fcs,2895.17,301.19,0.0599751,0,0
+Assumption,2038,,,ii,-118.579,68.1205,0.0601839,0,0
+Kutztown,2315,,,ii,985.718,78.9845,0.0603129,0,0
+Delaware,48,,,fcs,1211.7,84.7222,0.0598735,41,0
+Salve Regina,2776,,,iii,886.068,93.3173,0.0598952,0,0
+Norwich,2467,,,iii,-664.399,123.56,0.0599085,0,0
+Allegheny,2018,,,iii,-291.935,78.7196,0.059906,0,0
+Union,237,,,iii,2018.23,96.8109,0.0598178,0,0
+Marist,2368,,,fcs,182.84,67.6643,0.0598251,0,0
+Georgetown,46,,,fcs,488.793,68.3934,0.0600315,0,0
+SUNY Cortland,2782,,,iii,3122.77,91.0524,0.0599328,0,0
+Wittenberg,2746,,,iii,629.07,84.4852,0.0599662,0,0
+Richmond,257,,,fcs,974.382,71.8712,0.0602231,0,0
+Lafayette,322,,,fcs,715.516,74.0951,0.0598592,0,41
+Sacred Heart,2529,,,fcs,-15.6152,73.5173,0.0599102,0,0
+Washington & Jefferson,2686,,,iii,1456.43,138.895,0.0599349,0,0
+John Carroll,2302,,,iii,1396.46,98.7478,0.0598603,0,0
+Bethany (WV),2062,,,iii,-1551.72,261.046,0.0599849,0,0
+Hiram,2274,,,iii,-821.901,93.6225,0.0598953,0,0
+Keystone,122774,,,iii,-427.314,80.6185,0.0599858,0,0
+Wilkes,398,,,iii,211.886,75.5873,0.0599262,0,0
+West Virginia State,2707,,,ii,167.521,70.8408,0.0601422,0,0
+Shippensburg,2559,,,ii,115.449,67.7126,0.0598886,0,0
+McDaniel College,2700,,,iii,-1517,244.847,0.0599713,0,0
+Catholic University,2108,,,iii,170.833,73.5986,0.0600486,0,0
+Grove City College,146,,,iii,3024.93,93.0677,0.0599437,0,0
+Juniata,246,,,iii,-568.017,84.9822,0.0599061,0,0
+Ohio Northern,427,,,iii,351.155,89.291,0.0598333,0,0
+Alma College,2800,,,iii,2466.98,149.632,0.0599279,0,0
+Widener,2725,,,iii,519.892,77.7215,0.0600151,0,0
+Rowan,2827,,,iii,459.86,74.0692,0.0598455,0,0
+Hartwick,173,,,iii,-555.086,88.5279,0.0600474,0,0
+SUNY Maritime,2951,,,iii,193.017,81.9329,0.0599518,0,0
+Emory & Henry,2213,,,ii,-17.9954,78.2969,0.0599498,0,0
+Concord,2148,,,ii,-885.084,178.441,0.0599742,0,0
+Kentucky State,2310,,,ii,-701.609,100.101,0.0598694,0,0
+Delta State,2170,,,ii,1030.53,88.7282,0.0599768,41,0
+Kalamazoo,126,,,iii,-195.974,88.2638,0.0598346,0,0
+Oberlin,391,,,iii,-1008.91,87.9901,0.0598831,0,0
+Northern Iowa,2460,,,fcs,1181.65,74.6146,0.060135,0,0
+Lycoming,2354,,,iii,245.737,78.7628,0.0598888,0,0
+Susquehanna,216,,,iii,3011.66,94.0172,0.0600587,0,0
+Erskine,101784,,,ii,-1635.57,231.639,0.0599824,0,0
+UFTL,124110,,,,-675.677,134.789,0.060001,0,0
+Luther,67,,,iii,-1663.31,229.595,0.0599656,0,0
+Presentation College,597,,,,161.778,600,0.0599948,0,0
+Rensselaer,2528,,,iii,1386.32,94.5463,0.0598528,0,0
+Dickinson,2175,,,iii,1005.15,83.064,0.0599271,0,0
+Montclair State,2818,,,iii,514.932,76.6285,0.0600106,0,0
+Thiel College,2644,,,iii,-303.761,76.517,0.0598993,0,0
+Butler,2086,,,fcs,491.736,74.112,0.0599396,0,0
+St. Thomas University (Fl),125730,,,,-821.258,117.842,0.0599892,0,0
+Ripon,2891,,,iii,-181.595,78.495,0.0599615,0,0
+St. Norbert,2832,,,iii,-73.0764,74.4363,0.0600809,0,0
+Rockford,2524,,,iii,-880.421,76.7662,0.0599145,0,0
+Beloit College,266,,,iii,-953.646,85.9906,0.0599288,0,0
+Wabash College,89,,,iii,545.083,77.2745,0.0599865,0,0
+Hampden-Sydney,297,,,iii,311.568,78.6562,0.0597499,0,0
+Bowie State,2075,,,ii,-92.5906,75.8374,0.0598803,0,0
+New Haven,2441,,,ii,155.016,75.5279,0.0598723,0,0
+Methodist,291,,,iii,-1529.74,111.691,0.0598829,0,0
+Shenandoah,2828,,,iii,65.2293,79.5935,0.0597984,0,0
+St. John Fisher,374,,,iii,429.821,84.3847,0.0600247,0,0
+Buffalo State,2085,,,iii,-644.528,104.617,0.0598937,0,0
+Kenyon,352,,,iii,-645.447,86.0527,0.0598271,0,0
+Bluffton,2074,,,iii,-504.684,83.6264,0.0601265,0,0
+Gallaudet,417,,,iii,-456.016,77.6456,0.0600822,0,0
+Waynesburg,2845,,,iii,-446.598,82.8167,0.059982,0,0
+Alfred State College,3162,,,iii,-202.436,81.2883,0.060145,0,0
+Misericordia,2969,,,iii,-39.1348,89.1338,0.060067,0,0
+St. Vincent,2614,,,iii,-317.819,78.5214,0.0601765,0,0
+Stevenson,471,,,iii,537.198,76.0888,0.0599007,0,0
+DePauw,83,,,iii,1562.35,188.901,0.0599609,0,0
+Rose-Hulman,86,,,iii,492.783,84.3949,0.0598546,0,0
+Post University,126086,,,ii,-601.811,77.1377,0.0599573,0,0
+Lock Haven,209,,,ii,146.389,67.6681,0.0598422,0,0
+Brevard College,2913,,,iii,-34.2004,82.8995,0.0600423,0,0
+Shorter,2560,,,ii,-755.378,148.732,0.0599373,0,0
+Sewanee Univ. of the South,2553,,,iii,-597.653,73.6312,0.059894,0,0
+St. Scholastica,375,,,iii,-757.448,87.4748,0.0601327,0,0
+Augustana (IL),2042,,,iii,1130.52,113.681,0.0599191,0,0
+Rhodes,2519,,,iii,-321.638,75.7514,0.0599155,0,0
+Hope,2812,,,iii,1308,103.251,0.0598926,0,0
+Aurora,2044,,,iii,1573.18,96.2818,0.0598805,0,0
+Gettysburg,2248,,,iii,-164.601,118.668,0.0599159,0,0
+Bridgewater (VA),2079,,,iii,534.112,89.5924,0.05987,0,0
+Truman State,2654,,,ii,725.723,76.3269,0.0600489,0,0
+Davenport,110254,,,ii,1151.42,99.7402,0.0598636,0,0
+Coe,2141,,,iii,1222.37,111.416,0.0598949,0,0
+Cornell College (IA),2155,,,iii,30.5873,77.1216,0.0598405,0,0
+Franklin Pierce,112334,,,ii,-381.078,68.2357,0.0601129,0,0
+Edinboro,2205,,,ii,54.5316,89.304,0.0599427,0,41
+William Paterson,2970,,,iii,-581.446,156.876,0.059942,0,0
+Western Connecticut State,2843,,,iii,18.1919,96.6879,0.0601658,0,0
+St Lawrence,2779,,,iii,224.614,176.599,0.0599443,0,0
+Endicott College,452,,,iii,1897.96,114.409,0.0598854,0,0
+Northwood (MI),2886,,,ii,236.467,68.1119,0.0599508,0,0
+Kentucky Wesleyan,2316,,,ii,67.7676,70.9931,0.0597634,0,0
+Mount St. Joseph,2419,,,iii,1026.25,97.5204,0.0598442,0,0
+Baldwin-Wallace,188,,,iii,781.672,86.8959,0.0598077,0,0
+Mount Union,426,,,iii,1903.13,135.64,0.0599107,0,0
+Defiance,190,,,iii,-436.023,83.3214,0.0602188,0,0
+Coast Guard,2557,,,iii,186.323,76.6256,0.0598093,0,0
+University of New England,111675,,,iii,545.179,95.0568,0.059829,0,0
+Lake Forest,262,,,iii,4.8881,76.4566,0.0602725,0,0
+Wisconsin Lutheran,2741,,,iii,-411.71,73.1671,0.0597263,0,0
+Youngstown State,2754,,,fcs,1027.2,81.7832,0.059864,0,41
+Bethel (MN),2802,,,iii,1171.27,88.5304,0.0598129,0,0
+Pacific Lutheran,2486,,,iii,-32.3182,73.5067,0.0599048,0,0
+Bloomsburg,2071,,,ii,80.4239,69.122,0.0600929,0,0
+Stonehill,284,,,fcs,282.695,67.4172,0.0603527,0,0
+Texas Lutheran,2639,,,iii,-486.088,81.7842,0.0598224,0,0
+Howard Payne,2758,,,iii,-122.375,73.0225,0.0599551,0,0
+Maryville TN,2373,,,iii,220.202,77.6351,0.060121,0,0
+Berry College,2757,,,iii,875.161,136.69,0.0599242,0,0
+Olivet College,354,,,iii,-41.1168,74.6817,0.0598511,0,0
+Franklin,2233,,,iii,-206.854,85.1517,0.0598098,0,0
+Elmhurst,72,,,iii,-489.799,103.924,0.059876,0,0
+UW-River Falls,2723,,,iii,1037.39,80.5427,0.0598553,0,0
+Walsh,2682,,,ii,214.76,71.1844,0.0598251,41,0
+Tiffin,2838,,,ii,879.662,89.4339,0.059845,0,0
+Minot State,568,,,ii,58.8767,101.158,0.0599973,41,0
+Winona State,2851,,,ii,661.485,75.5336,0.0597119,0,0
+Delaware State,2169,,,fcs,-534.858,125.47,0.0598719,0,41
+Lincoln (PA),2339,,,ii,-248.816,70.2626,0.0597151,0,0
+Concordia (IL),2151,,,iii,-1063.03,82.389,0.0601435,0,0
+Chicago,80,,,iii,14.7801,75.1813,0.0598338,0,0
+Martin Luther College,446,,,iii,-1028.99,81.0373,0.0601172,0,0
+Concordia (WI),409,,,iii,-195.305,74.2488,0.0598569,0,0
+Central,2964,,,iii,843.017,114.614,0.0599071,0,0
+St. Olaf College,133,,,iii,242.494,90.2998,0.0598077,0,0
+Millikin,74,,,iii,-1415.09,247.154,0.0599729,0,0
+Greenville,2257,,,iii,-849.777,74.9191,0.0599304,0,0
+St. Johns (MN),2600,,,iii,1286.24,88.358,0.0601995,0,0
+UW-Whitewater,2745,,,iii,1720.24,86.4993,0.0598334,0,0
+Knox College,255,,,iii,-689.358,84.0059,0.0598325,0,0
+Westminster,433,,,iii,-1216.44,84.1463,0.0600535,0,0
+Hendrix College,418,,,iii,-474.862,73.246,0.0600491,0,0
+Austin College,2045,,,iii,-981.278,101.774,0.0598972,0,0
+UW-Oshkosh,271,,,iii,1029.23,79.8847,0.0599721,0,0
+East Texas Baptist,2194,,,iii,-95.4074,81.0332,0.0598638,0,0
+McMurry,241,,,iii,-45.2306,80.4357,0.0601154,0,0
+Birmingham-Southern,3,,,iii,-482.642,72.3715,0.0603615,0,0
+Southeast Missouri State,2546,,,fcs,902.628,72.7514,0.0600185,41,0
+Wisconsin-Eau Claire,2738,,,iii,528.043,82.4531,0.0598281,0,0
+Loras College,263,,,iii,73.9722,98.2123,0.0598737,0,0
+Eureka College,101,,,iii,-630.137,71.9828,0.0602971,0,0
+Nebraska Wesleyan University,6845,,,iii,-524.057,82.6377,0.0599611,0,0
+Davidson,2166,,,fcs,306.799,66.8569,0.0600831,0,0
+Willamette,2930,,,iii,-582.692,79.5632,0.0599708,0,0
+Pomona-Pitzer,2923,,,iii,267.032,69.4991,0.0597523,0,0
+Lake Erie College,437,,,ii,-1085.57,172.353,0.0599366,0,0
+Hillsdale,2273,,,ii,369.613,70.7067,0.0597041,0,0
+Montana,149,,,fcs,1769.48,86.3762,0.0600338,0,0
+Northwestern State,2466,,,fcs,-1469.08,214.173,0.0599762,0,41
+North Dakota,155,,,fcs,1286.86,75.3457,0.0600347,0,0
+Norfolk State,2450,,,fcs,244.666,98.033,0.0602917,0,41
+Bethune-Cookman,2065,,,fcs,-83.5436,76.2659,0.0599058,0,0
+North Dakota State,2449,,,fcs,1342.92,74.5189,0.059934,0,41
+Drake,2181,,,fcs,961.64,95.0359,0.0598735,0,0
+Clark Atlanta,2805,,,ii,-2127.44,189.557,0.0599854,0,0
+UC Davis,302,,,fcs,1311.06,69.9755,0.0600519,0,0
+Shaw,2551,,,ii,-323.493,74.0745,0.0600213,0,0
+Wingate,351,,,ii,501.816,74.2926,0.0602591,0,0
+Lewis & Clark,2333,,,iii,-130.927,72.7782,0.0598889,0,0
+Puget Sound,2508,,,iii,-318.473,68.5866,0.0600887,0,0
+Eastern Washington,331,,,fcs,1131.04,84.8592,0.0600739,41,0
+Tennessee State,2634,,,fcs,567.284,72.0199,0.0600422,0,0
+Northern Colorado,2458,,,fcs,-692.116,327.352,0.0599879,0,0
+Houston Christian,2277,,,fcs,376.583,83.5145,0.0598398,0,0
+Wisconsin-La Crosse,2740,,,iii,1759.46,90.8533,0.0600729,0,0
+Dakota State,512,,,,-46.0074,457.283,0.0599972,0,0
+Nicholls,2447,,,fcs,798.978,80.8878,0.0599156,0,0
+Alderson-Broaddus,2017,,,ii,-462.761,600,0.0599791,0,0
+Mercyhurst,2385,,,ii,340.537,71.3814,0.059841,41,0
+Slippery Rock,215,,,ii,955.933,76.2732,0.0598229,0,0
+Wayne State (MI),131,,,ii,542.244,79.1285,0.0598447,0,0
+Indianapolis,2292,,,ii,852.99,82.1435,0.0600275,0,0
+St. Xavier (IL),2615,,,,-342.012,190.176,0.0599953,0,0
+Stetson,56,,,fcs,-59.1548,78.9673,0.0598775,0,0
+Concordia College (MI),2985,,,,1212.81,107.157,0.0599848,0,0
+Hampton,2261,,,fcs,585.582,68.3663,0.0602103,0,0
+Miles,2396,,,ii,124.362,74.4573,0.0602295,0,0
+Chattanooga,236,,,fcs,1036.45,72.6154,0.0601917,0,0
+Wofford,2747,,,fcs,916.999,71.3721,0.0606026,41,0
+West Georgia,2698,,,ii,657.173,70.8393,0.0598153,0,0
+Carson-Newman,2105,,,ii,171.098,88.5023,0.0597583,41,0
+Morgan State,2415,,,fcs,559.459,70.5765,0.0599974,0,0
+Newberry,2444,,,ii,134.773,70.1052,0.0598221,0,0
+Allen,2019,,,ii,74.4268,72.6225,0.0599092,0,0
+Benedict College,490,,,ii,687.33,109.659,0.0598866,0,0
+Elizabeth City State,2207,,,ii,-412.8,73.0473,0.0600781,0,0
+Livingstone,2940,,,ii,-209.259,72.7351,0.0601339,0,0
+Catawba,2107,,,ii,198.159,68.9255,0.0598581,0,0
+Bucknell,2083,,,fcs,512.685,67.5186,0.0602067,0,0
+Towson,119,,,fcs,842.672,72.1306,0.0603605,0,0
+Randolph-Macon,2516,,,iii,2823.34,105.87,0.0598772,0,0
+NC Wesleyan,286,,,iii,-730.518,112.528,0.0598863,0,0
+Finlandia University,109418,,,iii,-533.156,600,0.0599779,0,0
+Benedictine (IL),2283,,,iii,-273.839,71.9066,0.0597767,0,0
+Buena Vista,63,,,iii,-627.124,83.8148,0.0599795,0,0
+Gustavus Adolphus,2968,,,iii,787.588,77.9484,0.0602978,0,0
+Lenoir-Rhyne,2331,,,ii,1029.36,90.6025,0.0601343,0,0
+Virginia State,330,,,ii,245.33,78.5012,0.0601466,0,0
+Morehouse,60,,,ii,-1297.38,157.361,0.0599552,0,0
+West Alabama,2695,,,ii,561.793,74.4744,0.0601051,0,0
+Washington & Lee,2688,,,iii,666.11,85.0172,0.0599574,0,0
+Christopher Newport,3112,,,iii,654.982,80.2151,0.0599595,0,0
+University of Mary,559,,,ii,240.617,93.9938,0.0597888,41,0
+Wayne State (NE),2844,,,ii,1111,100.602,0.0603344,41,0
+Midwestern State,2395,,,ii,706.286,73.1502,0.0599223,41,0
+Colorado State-Pueblo,2570,,,ii,1094.17,110.869,0.0598489,41,0
+Mary Hardin-Baylor,2371,,,iii,572.55,120.158,0.0598953,0,0
+Muhlenberg,2422,,,iii,1825,154.068,0.0599293,0,0
+Trinity (TX),386,,,iii,1445.7,96.2032,0.0600135,0,0
+Sul Ross State,2834,,,iii,-314.792,86.896,0.0598675,0,41
+North Park,75,,,iii,190.026,84.0573,0.0598724,0,0
+Manchester,2362,,,iii,-1438.53,148.849,0.0599363,0,0
+University of Texas of the Permian Basin,110243,,,ii,1191.86,79.5088,0.0598739,0,0
+Southwest Baptist,2586,,,ii,204.285,75.0247,0.0604296,0,0
+Incarnate Word,2916,,,fcs,765.232,79.9484,0.0598652,0,0
+Southern Illinois,79,,,fcs,1230.7,76.355,0.0599238,0,0
+Southern,2582,,,fcs,210.256,67.3399,0.0596802,0,0
+Huntingdon,2938,,,iii,314.171,84.1902,0.0598762,0,0
+Linfield,203,,,iii,1103.81,127.082,0.0599234,0,0
+Alcorn State,2016,,,fcs,313.029,93.5819,0.0601334,0,41
+Wisconsin-Stevens Point,2743,,,iii,67.7345,91.368,0.0598725,0,0
+Mayville State,561,,,,-731.304,67.9908,0.0599214,0,0
+Arkansas-Pine Bluff,2029,,,fcs,-136.327,102.169,0.0602261,0,41
+Lane,2323,,,ii,-1070.08,89.7483,0.0598967,0,0
+Fayetteville State,2220,,,ii,381.619,81.1778,0.059924,0,0
+UNC Pembroke,2882,,,ii,451.66,69.4971,0.0600329,0,0
+Valparaiso,2674,,,fcs,135.473,69.8046,0.0597705,0,0
+Indiana Wesleyan,111756,,,,1004.62,144.054,0.0599922,0,0
+Prairie View,2504,,,fcs,366.083,72.6001,0.0599572,0,0
+Texas Southern,2640,,,fcs,-27.3631,75.8249,0.0601387,0,0
+Elon,2210,,,fcs,917.159,95.1064,0.0599952,0,41
+Denison,2171,,,iii,603.477,85.1769,0.0598938,0,0
+Capital,424,,,iii,-821.428,178.504,0.0599551,0,0
+Southern Virginia,2896,,,iii,-1965.54,128.243,0.0599207,0,0
+Wilmington (OH),2733,,,iii,-59.5447,87.075,0.0598739,0,0
+West Florida,110242,,,ii,775.325,74.4323,0.060039,0,0
+Warner,2683,,,,976.621,158.347,0.0599931,0,0
+Southeastern Louisiana,2545,,,fcs,-180.602,148.006,0.0599408,0,41
+South Dakota,233,,,fcs,1658.84,108.832,0.0599301,41,0
+Illinois State,2287,,,fcs,824.121,79.5555,0.0598353,0,0
+Utica,390,,,iii,1530.44,130.216,0.0599052,0,0
+Rochester,184,,,iii,1075.77,91.5464,0.0598287,0,0
+Heidelberg,191,,,iii,571.653,89.7817,0.0598336,0,0
+Adrian,2003,,,iii,-804.263,87.3007,0.0600921,0,0
+Albany,399,,,fcs,1340.24,79.1086,0.0601397,0,0
+Grambling,2755,,,fcs,151.83,66.2489,0.059911,0,0
+Presbyterian College,2506,,,fcs,115.921,95.9941,0.0601788,0,41
+Minnesota-Morris,2399,,,iii,-358.859,86.3431,0.0600465,0,0
+Macalester,2359,,,iii,-502.318,85.2173,0.0601166,0,0
+Albany State (GA),2013,,,ii,55.6117,73.9789,0.0599698,0,0
+Mississippi College,2401,,,ii,-201.475,125.007,0.0599137,0,0
+Geneva College,2242,,,iii,-131.956,81.4556,0.0599352,0,0
+Wooster,2748,,,iii,-109.786,83.5552,0.0599457,0,0
+North Carolina Central,2428,,,fcs,845.235,77.6144,0.0600678,0,0
+North Carolina A&T,2448,,,fcs,293.228,109.351,0.0598511,0,41
+Crown College,509,,,iii,-1259.88,79.8912,0.0598675,0,0
+Hamline,162,,,iii,-112.062,88.4488,0.0597961,0,0
+Texas A&M-Kingsville,2658,,,ii,474.378,71.7104,0.0598317,0,41
+North American University,123086,,,,-740.538,218.525,0.0599854,0,41
+Montana State,147,,,fcs,1619.02,76.0671,0.0597387,41,0
+McNeese,2377,,,fcs,-1489.53,226.233,0.0599666,0,41
+Monmouth (IL),2919,,,iii,346.876,84.6946,0.059879,0,0
+Wartburg,2685,,,iii,2201.01,123.236,0.0598815,0,0
+Western State,2714,,,ii,1272.39,88.1831,0.0599489,0,0
+West Texas A&M,2704,,,ii,291.555,87.6975,0.0600361,41,0
+Western New Mexico,2703,,,ii,-43.4971,79.8856,0.0601303,0,0
+Adams State,2001,,,ii,-89.3541,89.9723,0.059849,0,0
+Colgate,2142,,,fcs,428.048,69.5644,0.0602642,0,41
+Maine,311,,,fcs,819.916,70.5885,0.0599411,41,0
+Northwestern (MN),583,,,iii,-276.669,89.6536,0.06006,0,0
+Augsburg,124,,,iii,546.35,79.6972,0.0600115,0,0
+Murray State,93,,,fcs,379.01,123.621,0.059879,0,41
+San Diego,301,,,fcs,237.147,68.1572,0.0597883,0,0
+La Verne,2318,,,iii,-307.785,77.1068,0.0601631,0,0
+Idaho,70,,,fcs,1409.57,70.6817,0.0599774,0,0
+Chapman,411,,,iii,422.738,73.1011,0.0603403,0,0
+Pacific (OR),205,,,iii,-386.28,72.0224,0.0598267,0,0
+George Fox University,415,,,iii,-200.452,70.0324,0.0599947,0,0
+Redlands,29,,,iii,173.467,69.5221,0.0598933,0,0
+Sacramento State,16,,,fcs,1224.49,79.3843,0.0598747,0,41
+Utah Tech,3101,,,fcs,552.362,75.7323,0.0600624,0,0
+Hanover,2262,,,iii,218.149,81.4199,0.0601629,0,0
+Centre,2121,,,iii,-8.14318,83.9241,0.0597828,0,0
+Jackson State,2296,,,fcs,317.017,92.8671,0.0598488,0,41
+Central State,2119,,,ii,-382.388,93.659,0.0597575,0,41
+Winston-Salem,2736,,,ii,-324.375,69.7207,0.0598111,0,0
+Tuskegee,2657,,,ii,-136.31,76.1908,0.0598637,0,0
+Fort Valley State,2232,,,ii,-6.66599,76.6595,0.0600595,0,0
+Trinity International (IL),2907,,,,69.0455,600,0.0600025,0,0
+Mass Maritime,110,,,iii,-1846.91,107.526,0.059873,0,0
+Hilbert College,125974,,,iii,-1636.08,221.077,0.0599744,0,0
+Anna Maria College,15,,,iii,-311.917,85.8775,0.0598917,0,0
+Thomas More,2646,,,,157.645,70.7461,0.059739,0,0
+Madonna University,126146,,,,77.5727,600,0.0600012,0,0
+Muskingum,332,,,iii,128.573,88.186,0.0598221,0,0
+North Central,3071,,,iii,2632.55,132.439,0.0598977,0,0
+King's College (PA),247,,,iii,665.539,80.7722,0.0599538,0,0
+Washington (MO),143,,,iii,733.049,110.916,0.0598882,0,0
+Illinois Wesleyan,306,,,iii,8.08395,82.7832,0.0598676,0,0
+Grinnell,65,,,iii,-885.747,87.0521,0.0598661,0,0
+Iowa Wesleyan,2295,,,,258.574,600,0.0599965,0,0
+Carleton,2101,,,iii,739.255,78.304,0.0597968,0,0
+Fort Lewis,2237,,,ii,-1477.39,313.52,0.059976,0,0
+Arizona Christian,108358,,,,414.781,428.233,0.0599981,0,0
+Claremont,17,,,iii,399.165,70.9301,0.0598216,0,0
+Whittier,2850,,,iii,-296.825,600,0.0599802,0,0
+Eastern Oregon,2202,,,,-132.512,430.269,0.0599971,0,0
+Savannah State,2542,,,ii,-1263.94,96.2705,0.0599505,0,0
+Louisiana College,2347,,,,927.073,163.07,0.0599934,0,0
+Bluefield College,495,,,,-8.03843,600,0.0599974,0,0
+Taylor,620,,,,-764.224,151.629,0.0599905,0,0
+LaGrange College,548,,,iii,-2569.8,165.494,0.0599637,0,0
+Indiana (PA),2291,,,ii,355.444,69.1675,0.0599822,0,0
+Wheaton College (Ill),396,,,iii,1498.57,98.3179,0.0598474,0,0
+Lawrence,268,,,iii,-1886.93,226.658,0.0599715,0,0
+Carroll (WI),32,,,iii,172.504,84.1522,0.0600216,0,0
+Averett,2047,,,iii,5.53314,77.8275,0.0598313,0,0
+Lindenwood,2815,,,fcs,369.874,101.716,0.0598593,0,41
+UW-Stout,2744,,,iii,768.309,75.6674,0.0598251,0,0
+Concordia (MN),2152,,,iii,506.438,82.2097,0.059929,0,0
+Harvard,108,,,fcs,965.654,68.9199,0.0600104,0,0
+Ave Maria,3178,,,,692.108,211.163,0.0599958,0,0
+Bowdoin,340,,,iii,124.072,68.1142,0.0598032,0,0
+Hamilton,348,,,iii,41.2747,71.4346,0.0601114,0,0
+Brown,225,,,fcs,696.204,64.5402,0.0600002,0,0
+Princeton,163,,,fcs,715.393,64.0075,0.0599857,0,0
+Pennsylvania,219,,,fcs,745.937,63.724,0.0599156,0,0
+Wesleyan,336,,,iii,352.899,70.875,0.060229,0,0
+Bates College,121,,,iii,-1222.2,266.186,0.0599754,0,0
+Colby,33,,,iii,12.451,70.7282,0.0602121,0,0
+Williams,2731,,,iii,9.24442,70.7679,0.0598371,0,0
+Tufts,112,,,iii,355.174,70.9568,0.0600029,0,0
+Trinity (CT),2977,,,iii,651.091,81.367,0.0598602,0,0
+Dartmouth,159,,,fcs,797.146,63.8741,0.0597865,0,0
+Cornell,172,,,fcs,486.904,66.3141,0.0601081,0,0
+Yale,43,,,fcs,883.069,66.3151,0.0601351,0,0
+Amherst College,7,,,iii,140.513,67.963,0.0598926,0,0
+Middlebury,2394,,,iii,669.406,82.0594,0.0600867,0,0
+Simon Fraser,2829,,,ii,-70.2954,600,0.0599929,0,0
+Columbia,171,,,fcs,496.613,68.06,0.0597255,0,0
+Kentucky Christian,3077,,,,108.693,600,0.0599981,0,0
+Simpson College,2564,,,iii,-563.426,89.8155,0.0599143,0,0
+St. Andrews,111610,,,,-592.612,146.39,0.0599936,0,0
+Waldorf,3080,,,,182.734,600,0.0599988,0,0
+Point University,3179,,,,-268.869,336.468,0.0599967,0,0
+Apprentice School,3111,,,iii,-366.733,80.6741,0.0599062,0,0
+Faulkner,2219,,,,197.474,600,0.0599997,0,0
+Valley City State,628,,,,-741.243,121.831,0.0599839,0,41
+Texas College,2637,,,,39.7668,158.191,0.0599949,0,0
+Lyon College,101161,,,,-589.379,92.4253,0.0598726,0,0
+Eastern University,127954,,,iii,-649.158,133.62,0.0599279,0,0
+Roosevelt,127991,,,,197.374,165.509,0.06,0,0
+St. Ambrose,2591,,,,-689.69,121.713,0.0599815,0,0
+OK Panhandle St,2824,,,ii,-423.048,94.1448,0.0599784,0,0
+Union College,2841,,,,-878.412,72.6843,0.0599856,0,0
+Southeastern University,267,,,,-1499.79,66.2314,0.0599843,0,0
+Arkansas Baptist,124386,,,,-195.281,90.5947,0.0599787,0,0
+Montana Tech,148,,,,1620.39,72.5727,0.0600209,0,0
+Madonna University (Mich.),127078,,,,-393.999,87.786,0.0599746,0,0
+Columbus State,127946,,,,-361.477,79.095,0.0599695,0,0
+Southwestern Assemblies of God,2904,,,,-564.363,78.8268,0.0599705,0,0
+Northwestern (IA),2471,,,,1367.45,75.2058,0.0600016,0,0
+Webber International,2691,,,,-578.936,83.2602,0.0599807,0,0
+Montana-Western,2701,,,,595.846,106.923,0.0599859,0,0
+Southern Oregon,2584,,,,356.438,130.403,0.0599956,0,0
+College of Idaho,108382,,,,226.026,151.409,0.0599992,41,0
+Reinhardt,2890,,,,-468.788,92.8065,0.0599683,0,41
+Jamestown,2939,,,,-473.59,101.406,0.0599846,0,41

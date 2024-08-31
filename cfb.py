@@ -1,6 +1,7 @@
 """
 Game data from https://collegefootballdata.com
 """
+
 import random
 from datetime import datetime
 from datetime import timezone
@@ -293,4 +294,4 @@ with open('./README_python.md', 'w') as f:
     print(f'Updated {todayprint}', file=f)
 
 
-df.to_csv('teams_2023_rankings.csv', index=False)
+df.to_csv('teams_2024_rankings.csv', index=False)
