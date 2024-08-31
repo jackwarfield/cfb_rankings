@@ -26,4 +26,4 @@
 | 24    | North Carolina       | ACC                  | 1-0      | 2022   | 74        |
 | 25    | NC State             | ACC                  | 1-0      | 2020   | 94        |
 
-Updated 08/31/2024 14:13:45
+Updated 08/31/2024 14:16:17
