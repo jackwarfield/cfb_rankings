@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Michigan             | Big Ten              | 0-0      | 4546   | 233       |
-| 2     | Washington           | Big Ten              | 0-0      | 3750   | 171       |
-| 3     | Oregon               | Big Ten              | 0-0      | 3013   | 148       |
-| 4     | Alabama              | SEC                  | 0-0      | 2904   | 92        |
-| 5     | Georgia              | SEC                  | 1-0      | 2880   | 108       |
-| 6     | Ole Miss             | SEC                  | 0-0      | 2640   | 88        |
-| 7     | Texas                | SEC                  | 0-0      | 2632   | 109       |
-| 8     | Missouri             | SEC                  | 1-0      | 2533   | 108       |
-| 9     | Ohio State           | Big Ten              | 0-0      | 2514   | 89        |
-| 10    | LSU                  | SEC                  | 0-0      | 2418   | 85        |
-| 11    | Liberty              | Conference USA       | 0-0      | 2417   | 150       |
-| 12    | Penn State           | Big Ten              | 0-0      | 2363   | 85        |
-| 13    | Georgia Tech         | ACC                  | 1-0      | 2301   | 70        |
-| 14    | Arizona              | Big 12               | 0-0      | 2179   | 73        |
-| 15    | Tennessee            | SEC                  | 1-0      | 2170   | 104       |
-| 16    | Notre Dame           | FBS Independents     | 0-0      | 2145   | 72        |
-| 17    | Oklahoma             | SEC                  | 1-0      | 2132   | 99        |
-| 18    | Kansas State         | Big 12               | 0-0      | 2096   | 71        |
-| 19    | Iowa                 | Big Ten              | 1-0      | 2066   | 99        |
-| 20    | Oklahoma State       | Big 12               | 0-0      | 2060   | 71        |
-| 21    | Louisville           | ACC                  | 1-0      | 2057   | 95        |
-| 22    | USC                  | Big Ten              | 0-0      | 2050   | 70        |
-| 23    | Clemson              | ACC                  | 0-1      | 2036   | 92        |
-| 24    | Kansas               | Big 12               | 1-0      | 2020   | 98        |
-| 25    | Utah                 | Big 12               | 1-0      | 2019   | 97        |
+| 1     | Michigan             | Big Ten              | 1-0      | 4577   | 247       |
+| 2     | Washington           | Big Ten              | 0-0      | 3776   | 171       |
+| 3     | Oregon               | Big Ten              | 1-0      | 3039   | 164       |
+| 4     | Alabama              | SEC                  | 1-0      | 2932   | 115       |
+| 5     | Georgia              | SEC                  | 1-0      | 2906   | 108       |
+| 6     | Ole Miss             | SEC                  | 1-0      | 2670   | 111       |
+| 7     | Texas                | SEC                  | 1-0      | 2668   | 128       |
+| 8     | Missouri             | SEC                  | 1-0      | 2558   | 109       |
+| 9     | Ohio State           | Big Ten              | 1-0      | 2551   | 112       |
+| 10    | Penn State           | Big Ten              | 1-0      | 2503   | 90        |
+| 11    | LSU                  | SEC                  | 0-0      | 2440   | 86        |
+| 12    | Liberty              | Conference USA       | 1-0      | 2437   | 168       |
+| 13    | Georgia Tech         | ACC                  | 2-0      | 2387   | 84        |
+| 14    | Notre Dame           | FBS Independents     | 1-0      | 2310   | 80        |
+| 15    | Oklahoma State       | Big 12               | 1-0      | 2303   | 75        |
+| 16    | Arizona              | Big 12               | 0-0      | 2210   | 73        |
+| 17    | Tennessee            | SEC                  | 1-0      | 2185   | 105       |
+| 18    | Oklahoma             | SEC                  | 1-0      | 2165   | 100       |
+| 19    | Kansas State         | Big 12               | 1-0      | 2121   | 98        |
+| 20    | Northwestern         | Big Ten              | 1-0      | 2098   | 77        |
+| 21    | Iowa                 | Big Ten              | 1-0      | 2097   | 99        |
+| 22    | Louisville           | ACC                  | 1-0      | 2083   | 95        |
+| 23    | USC                  | Big Ten              | 0-0      | 2082   | 70        |
+| 24    | Clemson              | ACC                  | 0-1      | 2065   | 92        |
+| 25    | Miami                | ACC                  | 1-0      | 2058   | 74        |
 
-Updated 08/31/2024 16:15:12
+Updated 08/31/2024 23:42:32
