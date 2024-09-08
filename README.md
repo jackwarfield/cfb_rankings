@@ -26,4 +26,4 @@
 | 24    | Michigan State       | Big Ten              | 2-0      | 2130   | 90        |
 | 25    | Clemson              | ACC                  | 1-1      | 2129   | 97        |
 
-Updated 09/08/2024 06:15:12
+Updated 09/08/2024 09:27:01
