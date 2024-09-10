@@ -4,7 +4,7 @@
 | 2     | Washington           | Big Ten              | 2-0      | 3118   | 142       |
 | 3     | Alabama              | SEC                  | 2-0      | 2901   | 137       |
 | 4     | Georgia              | SEC                  | 2-0      | 2876   | 127       |
-| 5     | Oregon               | Big Ten              | 2-0      | 2789   | 133       |
+| 5     | Oregon               | Big Ten              | 2-0      | 2790   | 133       |
 | 6     | Michigan             | Big Ten              | 1-1      | 2770   | 96        |
 | 7     | Ole Miss             | SEC                  | 2-0      | 2597   | 140       |
 | 8     | Penn State           | Big Ten              | 2-0      | 2529   | 104       |
@@ -26,4 +26,4 @@
 | 24    | Michigan State       | Big Ten              | 2-0      | 2130   | 90        |
 | 25    | Clemson              | ACC                  | 1-1      | 2129   | 97        |
 
-Updated 09/08/2024 09:27:01
+Updated 09/10/2024 16:01:12
