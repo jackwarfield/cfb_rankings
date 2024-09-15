@@ -4,8 +4,8 @@
 | 2     | Georgia              | SEC                  | 3-0      | 2859   | 138       |
 | 3     | Alabama              | SEC                  | 3-0      | 2847   | 140       |
 | 4     | Oregon               | Big Ten              | 3-0      | 2737   | 118       |
-| 5     | Missouri             | SEC                  | 3-0      | 2654   | 124       |
-| 6     | Washington State     | Pac-12               | 3-0      | 2597   | 100       |
+| 5     | Missouri             | SEC                  | 3-0      | 2655   | 124       |
+| 6     | Washington State     | Pac-12               | 3-0      | 2598   | 100       |
 | 7     | Michigan             | Big Ten              | 2-1      | 2565   | 102       |
 | 8     | Ole Miss             | SEC                  | 3-0      | 2549   | 165       |
 | 9     | USC                  | Big Ten              | 2-0      | 2542   | 86        |
@@ -24,6 +24,6 @@
 | 22    | Liberty              | Conference USA       | 3-0      | 2297   | 153       |
 | 23    | North Carolina       | ACC                  | 3-0      | 2251   | 104       |
 | 24    | Pittsburgh           | ACC                  | 3-0      | 2249   | 97        |
-| 25    | UCF                  | Big 12               | 3-0      | 2244   | 97        |
+| 25    | UCF                  | Big 12               | 3-0      | 2245   | 97        |
 
-Updated 09/15/2024 02:24:29
+Updated 09/15/2024 06:15:10
