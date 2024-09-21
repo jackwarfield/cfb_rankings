@@ -3,7 +3,7 @@
 | 1     | Texas                | SEC                  | 3-0      | 3164   | 119       |
 | 2     | Georgia              | SEC                  | 3-0      | 2914   | 134       |
 | 3     | Alabama              | SEC                  | 3-0      | 2864   | 143       |
-| 4     | Oregon               | Big Ten              | 3-0      | 2768   | 121       |
+| 4     | Oregon               | Big Ten              | 3-0      | 2769   | 121       |
 | 5     | Washington State     | Pac-12               | 4-0      | 2736   | 113       |
 | 6     | Missouri             | SEC                  | 3-0      | 2669   | 128       |
 | 7     | USC                  | Big Ten              | 2-0      | 2600   | 87        |
@@ -24,6 +24,6 @@
 | 22    | Duke                 | ACC                  | 3-0      | 2366   | 111       |
 | 23    | Utah                 | Big 12               | 3-0      | 2339   | 113       |
 | 24    | Pittsburgh           | ACC                  | 3-0      | 2328   | 99        |
-| 25    | Liberty              | Conference USA       | 3-0      | 2308   | 157       |
+| 25    | Liberty              | Conference USA       | 3-0      | 2309   | 157       |
 
-Updated 09/21/2024 16:25:12
+Updated 09/21/2024 16:30:10
