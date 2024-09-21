@@ -12,7 +12,7 @@
 | 10    | Ole Miss             | SEC                  | 3-0      | 2543   | 174       |
 | 11    | Ohio State           | Big Ten              | 3-0      | 2489   | 170       |
 | 12    | Illinois             | Big Ten              | 4-0      | 2479   | 109       |
-| 13    | Oklahoma State       | Big 12               | 3-0      | 2467   | 118       |
+| 13    | Oklahoma State       | Big 12               | 3-0      | 2468   | 118       |
 | 14    | Penn State           | Big Ten              | 2-0      | 2463   | 124       |
 | 15    | Michigan State       | Big Ten              | 3-0      | 2439   | 98        |
 | 16    | UCF                  | Big 12               | 3-0      | 2421   | 90        |
@@ -26,4 +26,4 @@
 | 24    | Pittsburgh           | ACC                  | 3-0      | 2327   | 99        |
 | 25    | Liberty              | Conference USA       | 3-0      | 2307   | 157       |
 
-Updated 09/21/2024 16:55:08
+Updated 09/21/2024 17:00:12
