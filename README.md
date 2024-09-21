@@ -7,12 +7,12 @@
 | 5     | Washington State     | Pac-12               | 4-0      | 2738   | 112       |
 | 6     | Missouri             | SEC                  | 3-0      | 2673   | 128       |
 | 7     | USC                  | Big Ten              | 2-0      | 2596   | 88        |
-| 8     | Michigan             | Big Ten              | 2-1      | 2564   | 103       |
+| 8     | Michigan             | Big Ten              | 2-1      | 2565   | 103       |
 | 9     | Kansas State         | Big 12               | 3-0      | 2557   | 115       |
-| 10    | Ole Miss             | SEC                  | 3-0      | 2551   | 172       |
+| 10    | Ole Miss             | SEC                  | 3-0      | 2552   | 172       |
 | 11    | Penn State           | Big Ten              | 2-0      | 2512   | 116       |
 | 12    | Michigan State       | Big Ten              | 3-0      | 2497   | 94        |
-| 13    | Iowa State           | Big 12               | 3-0      | 2494   | 105       |
+| 13    | Iowa State           | Big 12               | 3-0      | 2495   | 105       |
 | 14    | Ohio State           | Big Ten              | 3-0      | 2493   | 170       |
 | 15    | Oklahoma State       | Big 12               | 3-0      | 2463   | 118       |
 | 16    | Illinois             | Big Ten              | 4-0      | 2463   | 109       |
@@ -26,4 +26,4 @@
 | 24    | Utah                 | Big 12               | 3-0      | 2313   | 115       |
 | 25    | Liberty              | Conference USA       | 3-0      | 2306   | 157       |
 
-Updated 09/21/2024 18:15:11
+Updated 09/21/2024 18:25:17
