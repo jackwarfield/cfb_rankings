@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Texas                | SEC                  | 3-0      | 3138   | 114       |
-| 2     | Georgia              | SEC                  | 3-0      | 2859   | 138       |
-| 3     | Alabama              | SEC                  | 3-0      | 2847   | 140       |
-| 4     | Oregon               | Big Ten              | 3-0      | 2736   | 118       |
-| 5     | Missouri             | SEC                  | 3-0      | 2654   | 124       |
-| 6     | Washington State     | Pac-12               | 3-0      | 2597   | 100       |
-| 7     | Michigan             | Big Ten              | 2-1      | 2564   | 102       |
-| 8     | Ole Miss             | SEC                  | 3-0      | 2548   | 165       |
-| 9     | USC                  | Big Ten              | 2-0      | 2541   | 86        |
-| 10    | Kansas State         | Big 12               | 3-0      | 2523   | 111       |
-| 11    | Ohio State           | Big Ten              | 2-0      | 2483   | 142       |
-| 12    | Penn State           | Big Ten              | 2-0      | 2457   | 120       |
-| 13    | Tennessee            | SEC                  | 3-0      | 2441   | 118       |
-| 14    | Oklahoma State       | Big 12               | 3-0      | 2440   | 113       |
-| 15    | Iowa State           | Big 12               | 2-0      | 2381   | 91        |
-| 16    | Michigan State       | Big Ten              | 3-0      | 2358   | 97        |
-| 17    | Oklahoma             | SEC                  | 3-0      | 2353   | 123       |
-| 18    | Syracuse             | ACC                  | 2-0      | 2344   | 78        |
-| 19    | Duke                 | ACC                  | 3-0      | 2341   | 107       |
-| 20    | Northern Illinois    | Mid-American         | 2-0      | 2321   | 81        |
-| 21    | Utah                 | Big 12               | 3-0      | 2307   | 109       |
-| 22    | Liberty              | Conference USA       | 3-0      | 2297   | 153       |
-| 23    | North Carolina       | ACC                  | 3-0      | 2251   | 104       |
-| 24    | Pittsburgh           | ACC                  | 3-0      | 2248   | 97        |
-| 25    | UCF                  | Big 12               | 3-0      | 2244   | 97        |
+| 1     | Texas                | SEC                  | 3-0      | 3163   | 119       |
+| 2     | Alabama              | SEC                  | 3-0      | 2862   | 143       |
+| 3     | Georgia              | SEC                  | 3-0      | 2838   | 150       |
+| 4     | Oregon               | Big Ten              | 3-0      | 2768   | 121       |
+| 5     | Washington State     | Pac-12               | 4-0      | 2738   | 113       |
+| 6     | Missouri             | SEC                  | 3-0      | 2667   | 128       |
+| 7     | USC                  | Big Ten              | 2-0      | 2578   | 89        |
+| 8     | Michigan             | Big Ten              | 2-1      | 2566   | 103       |
+| 9     | Kansas State         | Big 12               | 3-0      | 2550   | 116       |
+| 10    | Ole Miss             | SEC                  | 3-0      | 2541   | 174       |
+| 11    | Illinois             | Big Ten              | 4-0      | 2480   | 109       |
+| 12    | Ohio State           | Big Ten              | 2-0      | 2477   | 149       |
+| 13    | Oklahoma State       | Big 12               | 3-0      | 2466   | 118       |
+| 14    | Penn State           | Big Ten              | 2-0      | 2462   | 124       |
+| 15    | Tennessee            | SEC                  | 3-0      | 2456   | 123       |
+| 16    | UCF                  | Big 12               | 3-0      | 2429   | 90        |
+| 17    | Iowa State           | Big 12               | 2-0      | 2407   | 94        |
+| 18    | Michigan State       | Big Ten              | 3-0      | 2395   | 101       |
+| 19    | Oklahoma             | SEC                  | 3-0      | 2373   | 128       |
+| 20    | Duke                 | ACC                  | 3-0      | 2362   | 112       |
+| 21    | Northern Illinois    | Mid-American         | 2-0      | 2361   | 84        |
+| 22    | Utah                 | Big 12               | 3-0      | 2339   | 113       |
+| 23    | Liberty              | Conference USA       | 3-0      | 2309   | 157       |
+| 24    | North Carolina       | ACC                  | 3-0      | 2282   | 106       |
+| 25    | Pittsburgh           | ACC                  | 3-0      | 2280   | 101       |
 
-Updated 09/19/2024 12:56:11
+Updated 09/21/2024 11:54:24
