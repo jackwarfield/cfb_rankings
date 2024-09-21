@@ -26,4 +26,4 @@
 | 24    | Utah                 | Big 12               | 3-0      | 2311   | 115       |
 | 25    | Liberty              | Conference USA       | 3-0      | 2305   | 157       |
 
-Updated 09/21/2024 18:00:13
+Updated 09/21/2024 18:05:10
