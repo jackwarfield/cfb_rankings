@@ -20,10 +20,10 @@
 | 18    | James Madison        | Sun Belt             | 3-0      | 2415   | 100       |
 | 19    | Oklahoma             | SEC                  | 3-0      | 2394   | 125       |
 | 20    | Pittsburgh           | ACC                  | 3-0      | 2391   | 97        |
-| 21    | Tennessee            | SEC                  | 3-0      | 2386   | 132       |
+| 21    | Tennessee            | SEC                  | 3-0      | 2387   | 132       |
 | 22    | Northern Illinois    | Mid-American         | 2-0      | 2381   | 83        |
 | 23    | Duke                 | ACC                  | 3-0      | 2369   | 112       |
 | 24    | Utah                 | Big 12               | 3-0      | 2313   | 115       |
-| 25    | Liberty              | Conference USA       | 3-0      | 2306   | 157       |
+| 25    | Liberty              | Conference USA       | 3-0      | 2307   | 157       |
 
-Updated 09/21/2024 18:35:12
+Updated 09/21/2024 18:45:12
