@@ -2,7 +2,7 @@
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Texas                | SEC                  | 3-0      | 3165   | 119       |
 | 2     | Georgia              | SEC                  | 3-0      | 2912   | 135       |
-| 3     | Alabama              | SEC                  | 3-0      | 2864   | 143       |
+| 3     | Alabama              | SEC                  | 3-0      | 2865   | 143       |
 | 4     | Oregon               | Big Ten              | 3-0      | 2769   | 121       |
 | 5     | Washington State     | Pac-12               | 4-0      | 2737   | 113       |
 | 6     | Missouri             | SEC                  | 3-0      | 2671   | 128       |
@@ -18,12 +18,12 @@
 | 16    | UCF                  | Big 12               | 3-0      | 2428   | 90        |
 | 17    | Iowa State           | Big 12               | 2-0      | 2409   | 94        |
 | 18    | Oklahoma             | SEC                  | 3-0      | 2391   | 125       |
-| 19    | Tennessee            | SEC                  | 3-0      | 2383   | 132       |
+| 19    | Tennessee            | SEC                  | 3-0      | 2384   | 132       |
 | 20    | Northern Illinois    | Mid-American         | 2-0      | 2383   | 83        |
 | 21    | Duke                 | ACC                  | 3-0      | 2372   | 111       |
-| 22    | Utah                 | Big 12               | 3-0      | 2340   | 113       |
+| 22    | Utah                 | Big 12               | 3-0      | 2341   | 113       |
 | 23    | Pittsburgh           | ACC                  | 3-0      | 2332   | 99        |
 | 24    | Liberty              | Conference USA       | 3-0      | 2308   | 157       |
 | 25    | North Carolina       | ACC                  | 3-0      | 2287   | 106       |
 
-Updated 09/21/2024 15:45:09
+Updated 09/21/2024 15:50:10
