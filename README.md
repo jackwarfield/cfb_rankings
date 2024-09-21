@@ -26,4 +26,4 @@
 | 24    | North Carolina       | ACC                  | 3-0      | 2282   | 106       |
 | 25    | Pittsburgh           | ACC                  | 3-0      | 2280   | 101       |
 
-Updated 09/21/2024 11:54:24
+Updated 09/21/2024 12:15:10
