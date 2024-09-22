@@ -15,7 +15,7 @@
 | 13    | Ohio State           | Big Ten              | 3-0      | 2493   | 169       |
 | 14    | Iowa State           | Big 12               | 3-0      | 2490   | 103       |
 | 15    | Illinois             | Big Ten              | 4-0      | 2462   | 108       |
-| 16    | USC                  | Big Ten              | 2-1      | 2446   | 78        |
+| 16    | USC                  | Big Ten              | 2-1      | 2445   | 78        |
 | 17    | Pittsburgh           | ACC                  | 4-0      | 2431   | 109       |
 | 18    | BYU                  | Big 12               | 3-0      | 2416   | 94        |
 | 19    | Duke                 | ACC                  | 4-0      | 2401   | 125       |
@@ -26,4 +26,4 @@
 | 24    | Texas Tech           | Big 12               | 3-1      | 2315   | 88        |
 | 25    | Liberty              | Conference USA       | 3-0      | 2299   | 159       |
 
-Updated 09/21/2024 21:15:08
+Updated 09/21/2024 21:20:09
