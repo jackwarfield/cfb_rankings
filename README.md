@@ -26,4 +26,4 @@
 | 24    | Texas Tech           | Big 12               | 3-1      | 2315   | 88        |
 | 25    | Liberty              | Conference USA       | 3-0      | 2299   | 159       |
 
-Updated 09/21/2024 21:45:09
+Updated 09/21/2024 21:50:08
