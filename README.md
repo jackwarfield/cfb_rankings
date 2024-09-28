@@ -1,6 +1,6 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Texas                | SEC                  | 4-0      | 3267   | 115       |
+| 1     | Texas                | SEC                  | 4-0      | 3268   | 115       |
 | 2     | Missouri             | SEC                  | 4-0      | 2972   | 111       |
 | 3     | Georgia              | SEC                  | 3-0      | 2949   | 123       |
 | 4     | BYU                  | Big 12               | 5-0      | 2916   | 111       |
@@ -26,4 +26,4 @@
 | 24    | UCF                  | Big 12               | 3-0      | 2429   | 92        |
 | 25    | Louisville           | ACC                  | 3-0      | 2425   | 116       |
 
-Updated 09/28/2024 16:45:11
+Updated 09/28/2024 16:50:16
