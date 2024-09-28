@@ -13,7 +13,7 @@
 | 11    | Rutgers              | Big Ten              | 4-0      | 2660   | 121       |
 | 12    | Iowa State           | Big 12               | 3-0      | 2604   | 99        |
 | 13    | Ole Miss             | SEC                  | 4-0      | 2587   | 183       |
-| 14    | Illinois             | Big Ten              | 4-0      | 2550   | 107       |
+| 14    | Illinois             | Big Ten              | 4-0      | 2551   | 107       |
 | 15    | Penn State           | Big Ten              | 3-0      | 2533   | 139       |
 | 16    | Ohio State           | Big Ten              | 3-0      | 2487   | 176       |
 | 17    | Boston College       | ACC                  | 3-1      | 2486   | 87        |
@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 3-0      | 2366   | 99        |
 | 25    | Miami                | ACC                  | 5-0      | 2360   | 145       |
 
-Updated 09/28/2024 14:43:31
+Updated 09/28/2024 14:50:16
