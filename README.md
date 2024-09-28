@@ -7,12 +7,12 @@
 | 5     | Alabama              | SEC                  | 3-0      | 2865   | 128       |
 | 6     | Michigan             | Big Ten              | 4-1      | 2819   | 93        |
 | 7     | Washington State     | Pac-12               | 4-0      | 2810   | 106       |
-| 8     | Tennessee            | SEC                  | 4-0      | 2776   | 119       |
+| 8     | Tennessee            | SEC                  | 4-0      | 2777   | 119       |
 | 9     | Oregon               | Big Ten              | 3-0      | 2756   | 116       |
 | 10    | Rutgers              | Big Ten              | 4-0      | 2659   | 121       |
 | 11    | Iowa State           | Big 12               | 3-0      | 2609   | 99        |
 | 12    | Illinois             | Big Ten              | 4-0      | 2604   | 106       |
-| 13    | Utah                 | Big 12               | 4-0      | 2594   | 122       |
+| 13    | Utah                 | Big 12               | 4-0      | 2595   | 122       |
 | 14    | Indiana              | Big Ten              | 5-0      | 2568   | 119       |
 | 15    | Boston College       | ACC                  | 4-1      | 2561   | 88        |
 | 16    | Penn State           | Big Ten              | 3-0      | 2509   | 136       |
@@ -26,4 +26,4 @@
 | 24    | UCF                  | Big 12               | 3-0      | 2431   | 92        |
 | 25    | Louisville           | ACC                  | 3-0      | 2428   | 116       |
 
-Updated 09/28/2024 18:05:10
+Updated 09/28/2024 18:10:10
