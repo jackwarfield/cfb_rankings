@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 3-0      | 2366   | 99        |
 | 25    | Miami                | ACC                  | 5-0      | 2360   | 145       |
 
-Updated 09/28/2024 14:50:16
+Updated 09/28/2024 15:05:13
