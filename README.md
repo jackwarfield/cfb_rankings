@@ -20,10 +20,10 @@
 | 18    | James Madison        | Sun Belt             | 4-0      | 2483   | 117       |
 | 19    | Ohio State           | Big Ten              | 3-0      | 2475   | 174       |
 | 20    | Pittsburgh           | ACC                  | 4-0      | 2466   | 115       |
-| 21    | Duke                 | ACC                  | 4-0      | 2444   | 124       |
+| 21    | Duke                 | ACC                  | 4-0      | 2443   | 124       |
 | 22    | Kansas State         | Big 12               | 4-1      | 2442   | 93        |
 | 23    | Navy                 | American Athletic    | 4-0      | 2436   | 110       |
 | 24    | UCF                  | Big 12               | 3-0      | 2431   | 92        |
 | 25    | Louisville           | ACC                  | 3-0      | 2428   | 116       |
 
-Updated 09/28/2024 18:00:12
+Updated 09/28/2024 18:05:10
