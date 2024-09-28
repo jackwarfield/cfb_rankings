@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 3-0      | 2366   | 99        |
 | 25    | Texas Tech           | Big 12               | 3-1      | 2329   | 87        |
 
-Updated 09/28/2024 15:10:14
+Updated 09/28/2024 15:15:12
