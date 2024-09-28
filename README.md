@@ -1,7 +1,7 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Texas                | SEC                  | 4-0      | 3271   | 115       |
-| 2     | Missouri             | SEC                  | 4-0      | 2975   | 111       |
+| 2     | Missouri             | SEC                  | 4-0      | 2976   | 111       |
 | 3     | Georgia              | SEC                  | 3-0      | 2952   | 123       |
 | 4     | BYU                  | Big 12               | 5-0      | 2920   | 111       |
 | 5     | Alabama              | SEC                  | 3-0      | 2865   | 129       |
@@ -18,7 +18,7 @@
 | 16    | Penn State           | Big Ten              | 3-0      | 2509   | 136       |
 | 17    | USC                  | Big Ten              | 2-1      | 2493   | 75        |
 | 18    | James Madison        | Sun Belt             | 4-0      | 2486   | 117       |
-| 19    | Ohio State           | Big Ten              | 3-0      | 2475   | 174       |
+| 19    | Ohio State           | Big Ten              | 3-0      | 2476   | 174       |
 | 20    | Pittsburgh           | ACC                  | 4-0      | 2466   | 115       |
 | 21    | Duke                 | ACC                  | 4-0      | 2443   | 124       |
 | 22    | Kansas State         | Big 12               | 4-1      | 2442   | 93        |
@@ -26,4 +26,4 @@
 | 24    | UCF                  | Big 12               | 3-0      | 2432   | 92        |
 | 25    | Louisville           | ACC                  | 3-0      | 2429   | 116       |
 
-Updated 09/28/2024 17:30:11
+Updated 09/28/2024 17:35:12
