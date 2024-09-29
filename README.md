@@ -24,6 +24,6 @@
 | 22    | Pittsburgh           | ACC                  | 4-0      | 2431   | 115       |
 | 23    | Navy                 | American Athletic    | 4-0      | 2407   | 112       |
 | 24    | Clemson              | ACC                  | 2-1      | 2378   | 91        |
-| 25    | Nebraska             | Big Ten              | 4-1      | 2362   | 83        |
+| 25    | Nebraska             | Big Ten              | 4-1      | 2361   | 83        |
 
-Updated 09/28/2024 21:30:11
+Updated 09/28/2024 21:40:19
