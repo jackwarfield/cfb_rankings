@@ -16,7 +16,7 @@
 | 14    | Utah                 | Big 12               | 4-0      | 2575   | 122       |
 | 15    | USC                  | Big Ten              | 3-1      | 2565   | 77        |
 | 16    | Indiana              | Big Ten              | 5-0      | 2554   | 119       |
-| 17    | Boston College       | ACC                  | 4-1      | 2541   | 88        |
+| 17    | Boston College       | ACC                  | 4-1      | 2542   | 88        |
 | 18    | Ohio State           | Big Ten              | 3-0      | 2463   | 175       |
 | 19    | Penn State           | Big Ten              | 3-0      | 2459   | 142       |
 | 20    | James Madison        | Sun Belt             | 4-0      | 2434   | 118       |
@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 2-1      | 2378   | 91        |
 | 25    | Nebraska             | Big Ten              | 4-1      | 2361   | 83        |
 
-Updated 09/28/2024 20:40:12
+Updated 09/28/2024 20:45:15
