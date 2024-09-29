@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Texas                | SEC                  | 5-0      | 3321   | 124       |
-| 2     | Missouri             | SEC                  | 4-0      | 2960   | 111       |
-| 3     | Georgia              | SEC                  | 3-0      | 2948   | 120       |
-| 4     | BYU                  | Big 12               | 5-0      | 2909   | 112       |
-| 5     | Michigan             | Big Ten              | 4-1      | 2862   | 93        |
-| 6     | Alabama              | SEC                  | 3-0      | 2813   | 136       |
-| 7     | Tennessee            | SEC                  | 4-0      | 2793   | 116       |
-| 8     | Washington State     | Pac-12               | 4-0      | 2787   | 107       |
-| 9     | Oregon               | Big Ten              | 3-0      | 2761   | 114       |
-| 10    | Illinois             | Big Ten              | 4-0      | 2689   | 99        |
-| 11    | Rutgers              | Big Ten              | 4-0      | 2656   | 120       |
-| 12    | Iowa State           | Big 12               | 3-0      | 2596   | 99        |
-| 13    | Duke                 | ACC                  | 5-0      | 2587   | 127       |
-| 14    | Utah                 | Big 12               | 4-0      | 2574   | 123       |
-| 15    | USC                  | Big Ten              | 3-1      | 2565   | 77        |
-| 16    | Indiana              | Big Ten              | 5-0      | 2557   | 119       |
-| 17    | Boston College       | ACC                  | 4-1      | 2545   | 88        |
-| 18    | Ohio State           | Big Ten              | 3-0      | 2464   | 175       |
-| 19    | Penn State           | Big Ten              | 3-0      | 2460   | 142       |
-| 20    | James Madison        | Sun Belt             | 4-0      | 2436   | 118       |
-| 21    | Kansas State         | Big 12               | 4-1      | 2431   | 93        |
-| 22    | Pittsburgh           | ACC                  | 4-0      | 2431   | 115       |
-| 23    | Navy                 | American Athletic    | 4-0      | 2407   | 112       |
-| 24    | Clemson              | ACC                  | 2-1      | 2378   | 91        |
-| 25    | Nebraska             | Big Ten              | 4-1      | 2361   | 83        |
+| 1     | Texas                | SEC                  | 5-0      | 3333   | 124       |
+| 2     | Alabama              | SEC                  | 4-0      | 3217   | 119       |
+| 3     | Missouri             | SEC                  | 4-0      | 2938   | 111       |
+| 4     | BYU                  | Big 12               | 5-0      | 2937   | 112       |
+| 5     | Penn State           | Big Ten              | 4-0      | 2873   | 107       |
+| 6     | Michigan             | Big Ten              | 4-1      | 2871   | 93        |
+| 7     | Washington State     | Pac-12               | 4-0      | 2824   | 105       |
+| 8     | Tennessee            | SEC                  | 4-0      | 2789   | 116       |
+| 9     | Oregon               | Big Ten              | 3-0      | 2762   | 113       |
+| 10    | Ohio State           | Big Ten              | 4-0      | 2733   | 130       |
+| 11    | Georgia              | SEC                  | 3-1      | 2705   | 93        |
+| 12    | Rutgers              | Big Ten              | 4-0      | 2652   | 120       |
+| 13    | Iowa State           | Big 12               | 4-0      | 2647   | 110       |
+| 14    | Duke                 | ACC                  | 5-0      | 2581   | 127       |
+| 15    | Utah                 | Big 12               | 4-0      | 2578   | 121       |
+| 16    | USC                  | Big Ten              | 3-1      | 2573   | 77        |
+| 17    | Indiana              | Big Ten              | 5-0      | 2548   | 119       |
+| 18    | Boston College       | ACC                  | 4-1      | 2521   | 88        |
+| 19    | Illinois             | Big Ten              | 4-1      | 2477   | 87        |
+| 20    | Kansas State         | Big 12               | 4-1      | 2451   | 94        |
+| 21    | James Madison        | Sun Belt             | 4-0      | 2441   | 116       |
+| 22    | Navy                 | American Athletic    | 4-0      | 2398   | 111       |
+| 23    | Pittsburgh           | ACC                  | 4-0      | 2397   | 117       |
+| 24    | Texas Tech           | Big 12               | 4-1      | 2383   | 90        |
+| 25    | LSU                  | SEC                  | 4-1      | 2350   | 80        |
 
-Updated 09/28/2024 21:55:12
+Updated 09/29/2024 00:36:17
