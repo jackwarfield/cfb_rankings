@@ -9,13 +9,13 @@
 | 7     | Tennessee            | SEC                  | 4-0      | 2793   | 116       |
 | 8     | Washington State     | Pac-12               | 4-0      | 2786   | 107       |
 | 9     | Oregon               | Big Ten              | 3-0      | 2762   | 113       |
-| 10    | Illinois             | Big Ten              | 4-0      | 2687   | 99        |
+| 10    | Illinois             | Big Ten              | 4-0      | 2688   | 99        |
 | 11    | Rutgers              | Big Ten              | 4-0      | 2655   | 120       |
 | 12    | Iowa State           | Big 12               | 3-0      | 2600   | 98        |
-| 13    | Duke                 | ACC                  | 5-0      | 2583   | 128       |
+| 13    | Duke                 | ACC                  | 5-0      | 2584   | 128       |
 | 14    | Utah                 | Big 12               | 4-0      | 2575   | 122       |
-| 15    | USC                  | Big Ten              | 3-1      | 2564   | 77        |
-| 16    | Indiana              | Big Ten              | 5-0      | 2553   | 119       |
+| 15    | USC                  | Big Ten              | 3-1      | 2565   | 77        |
+| 16    | Indiana              | Big Ten              | 5-0      | 2554   | 119       |
 | 17    | Boston College       | ACC                  | 4-1      | 2541   | 88        |
 | 18    | Ohio State           | Big Ten              | 3-0      | 2463   | 175       |
 | 19    | Penn State           | Big Ten              | 3-0      | 2459   | 142       |
@@ -23,7 +23,7 @@
 | 21    | Kansas State         | Big 12               | 4-1      | 2432   | 93        |
 | 22    | Pittsburgh           | ACC                  | 4-0      | 2430   | 115       |
 | 23    | Navy                 | American Athletic    | 4-0      | 2406   | 112       |
-| 24    | Clemson              | ACC                  | 2-1      | 2377   | 91        |
-| 25    | Nebraska             | Big Ten              | 4-1      | 2360   | 83        |
+| 24    | Clemson              | ACC                  | 2-1      | 2378   | 91        |
+| 25    | Nebraska             | Big Ten              | 4-1      | 2361   | 83        |
 
-Updated 09/28/2024 20:25:09
+Updated 09/28/2024 20:30:11
