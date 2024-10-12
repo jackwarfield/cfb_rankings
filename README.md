@@ -1,7 +1,7 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Oregon               | Big Ten              | 5-0      | 3233   | 114       |
-| 2     | Penn State           | Big Ten              | 5-0      | 3133   | 115       |
+| 2     | Penn State           | Big Ten              | 5-0      | 3134   | 115       |
 | 3     | BYU                  | Big 12               | 5-0      | 3096   | 116       |
 | 4     | Texas                | SEC                  | 5-0      | 3072   | 131       |
 | 5     | Ohio State           | Big Ten              | 5-0      | 2979   | 132       |
@@ -26,4 +26,4 @@
 | 24    | West Virginia        | Big 12               | 3-2      | 2244   | 98        |
 | 25    | Liberty              | Conference USA       | 5-0      | 2236   | 206       |
 
-Updated 10/12/2024 17:35:12
+Updated 10/12/2024 17:40:12
