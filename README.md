@@ -13,9 +13,9 @@
 | 11    | Indiana              | Big Ten              | 6-0      | 2670   | 145       |
 | 12    | Washington State     | Pac-12               | 4-1      | 2622   | 77        |
 | 13    | Navy                 | American Athletic    | 5-0      | 2567   | 128       |
-| 14    | Kansas State         | Big 12               | 4-1      | 2552   | 98        |
+| 14    | Kansas State         | Big 12               | 4-1      | 2553   | 98        |
 | 15    | UL Monroe            | Sun Belt             | 4-1      | 2544   | 98        |
-| 16    | SMU                  | ACC                  | 5-1      | 2509   | 108       |
+| 16    | SMU                  | ACC                  | 5-1      | 2510   | 108       |
 | 17    | Texas Tech           | Big 12               | 5-1      | 2484   | 76        |
 | 18    | Nebraska             | Big Ten              | 5-1      | 2475   | 81        |
 | 19    | Iowa                 | Big Ten              | 4-2      | 2434   | 91        |
@@ -23,7 +23,7 @@
 | 21    | Missouri             | SEC                  | 5-1      | 2268   | 74        |
 | 22    | Colorado             | Big 12               | 4-1      | 2251   | 78        |
 | 23    | Alabama              | SEC                  | 5-1      | 2250   | 72        |
-| 24    | West Virginia        | Big 12               | 3-2      | 2248   | 98        |
+| 24    | West Virginia        | Big 12               | 3-2      | 2249   | 98        |
 | 25    | Liberty              | Conference USA       | 5-0      | 2234   | 207       |
 
-Updated 10/12/2024 18:05:11
+Updated 10/12/2024 18:10:11
