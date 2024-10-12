@@ -24,6 +24,6 @@
 | 22    | Colorado             | Big 12               | 4-1      | 2243   | 78        |
 | 23    | Alabama              | SEC                  | 5-1      | 2240   | 72        |
 | 24    | West Virginia        | Big 12               | 3-2      | 2239   | 98        |
-| 25    | Liberty              | Conference USA       | 5-0      | 2237   | 205       |
+| 25    | Liberty              | Conference USA       | 5-0      | 2238   | 205       |
 
-Updated 10/12/2024 16:25:14
+Updated 10/12/2024 16:30:15
