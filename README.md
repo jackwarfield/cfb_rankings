@@ -8,7 +8,7 @@
 | 6     | Ohio State           | Big Ten              | 5-0      | 2859   | 142       |
 | 7     | Illinois             | Big Ten              | 4-1      | 2802   | 85        |
 | 8     | Pittsburgh           | ACC                  | 5-0      | 2796   | 123       |
-| 9     | Iowa State           | Big 12               | 5-0      | 2782   | 130       |
+| 9     | Iowa State           | Big 12               | 5-0      | 2781   | 130       |
 | 10    | Miami                | ACC                  | 6-0      | 2722   | 145       |
 | 11    | Washington State     | Pac-12               | 4-1      | 2675   | 75        |
 | 12    | Indiana              | Big Ten              | 6-0      | 2674   | 145       |
@@ -26,4 +26,4 @@
 | 24    | West Virginia        | Big 12               | 3-2      | 2248   | 99        |
 | 25    | James Madison        | Sun Belt             | 5-1      | 2245   | 88        |
 
-Updated 10/12/2024 14:45:12
+Updated 10/12/2024 14:50:16
