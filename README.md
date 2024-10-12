@@ -19,11 +19,11 @@
 | 17    | Texas Tech           | Big 12               | 5-1      | 2478   | 76        |
 | 18    | Nebraska             | Big Ten              | 5-1      | 2471   | 81        |
 | 19    | Iowa                 | Big Ten              | 4-2      | 2440   | 91        |
-| 20    | Texas A&M            | SEC                  | 5-1      | 2326   | 73        |
+| 20    | Texas A&M            | SEC                  | 5-1      | 2327   | 73        |
 | 21    | Missouri             | SEC                  | 5-1      | 2257   | 74        |
 | 22    | Colorado             | Big 12               | 4-1      | 2243   | 78        |
-| 23    | Alabama              | SEC                  | 5-1      | 2240   | 72        |
+| 23    | Alabama              | SEC                  | 5-1      | 2241   | 72        |
 | 24    | West Virginia        | Big 12               | 3-2      | 2240   | 98        |
 | 25    | Liberty              | Conference USA       | 5-0      | 2238   | 205       |
 
-Updated 10/12/2024 16:45:11
+Updated 10/12/2024 16:50:13
