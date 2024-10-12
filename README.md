@@ -4,11 +4,11 @@
 | 2     | Penn State           | Big Ten              | 5-0      | 3134   | 115       |
 | 3     | BYU                  | Big 12               | 5-0      | 3096   | 116       |
 | 4     | Texas                | SEC                  | 5-0      | 3072   | 131       |
-| 5     | Ohio State           | Big Ten              | 5-0      | 2979   | 132       |
+| 5     | Ohio State           | Big Ten              | 5-0      | 2980   | 132       |
 | 6     | Iowa State           | Big 12               | 5-0      | 2927   | 125       |
 | 7     | Boise State          | Mountain West        | 4-1      | 2840   | 87        |
 | 8     | Pittsburgh           | ACC                  | 5-0      | 2791   | 123       |
-| 9     | Miami                | ACC                  | 6-0      | 2712   | 146       |
+| 9     | Miami                | ACC                  | 6-0      | 2713   | 145       |
 | 10    | Illinois             | Big Ten              | 4-1      | 2706   | 89        |
 | 11    | Indiana              | Big Ten              | 6-0      | 2669   | 145       |
 | 12    | Washington State     | Pac-12               | 4-1      | 2620   | 77        |
@@ -21,9 +21,9 @@
 | 19    | Iowa                 | Big Ten              | 4-2      | 2432   | 91        |
 | 20    | Texas A&M            | SEC                  | 5-1      | 2333   | 73        |
 | 21    | Missouri             | SEC                  | 5-1      | 2266   | 74        |
-| 22    | Alabama              | SEC                  | 5-1      | 2246   | 72        |
-| 23    | Colorado             | Big 12               | 4-1      | 2246   | 78        |
+| 22    | Colorado             | Big 12               | 4-1      | 2247   | 78        |
+| 23    | Alabama              | SEC                  | 5-1      | 2247   | 72        |
 | 24    | West Virginia        | Big 12               | 3-2      | 2244   | 98        |
-| 25    | Liberty              | Conference USA       | 5-0      | 2236   | 206       |
+| 25    | Liberty              | Conference USA       | 5-0      | 2236   | 205       |
 
-Updated 10/12/2024 17:40:12
+Updated 10/12/2024 17:45:09
