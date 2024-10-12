@@ -26,4 +26,4 @@
 | 24    | West Virginia        | Big 12               | 3-2      | 2239   | 98        |
 | 25    | Liberty              | Conference USA       | 5-0      | 2237   | 205       |
 
-Updated 10/12/2024 16:20:15
+Updated 10/12/2024 16:25:14
