@@ -26,4 +26,4 @@
 | 24    | West Virginia        | Big 12               | 3-2      | 2248   | 99        |
 | 25    | James Madison        | Sun Belt             | 5-1      | 2245   | 88        |
 
-Updated 10/12/2024 12:15:12
+Updated 10/12/2024 14:30:12
