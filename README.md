@@ -7,7 +7,7 @@
 | 5     | Ohio State           | Big Ten              | 5-0      | 2982   | 132       |
 | 6     | Iowa State           | Big 12               | 5-0      | 2931   | 124       |
 | 7     | Boise State          | Mountain West        | 4-1      | 2839   | 87        |
-| 8     | Pittsburgh           | ACC                  | 5-0      | 2783   | 123       |
+| 8     | Pittsburgh           | ACC                  | 5-0      | 2784   | 123       |
 | 9     | Miami                | ACC                  | 6-0      | 2710   | 146       |
 | 10    | Illinois             | Big Ten              | 4-1      | 2705   | 89        |
 | 11    | Indiana              | Big Ten              | 6-0      | 2661   | 146       |
@@ -23,7 +23,7 @@
 | 21    | Missouri             | SEC                  | 5-1      | 2257   | 74        |
 | 22    | Colorado             | Big 12               | 4-1      | 2243   | 78        |
 | 23    | Alabama              | SEC                  | 5-1      | 2240   | 72        |
-| 24    | West Virginia        | Big 12               | 3-2      | 2239   | 98        |
+| 24    | West Virginia        | Big 12               | 3-2      | 2240   | 98        |
 | 25    | Liberty              | Conference USA       | 5-0      | 2238   | 205       |
 
-Updated 10/12/2024 16:30:15
+Updated 10/12/2024 16:35:13
