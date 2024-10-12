@@ -19,11 +19,11 @@
 | 17    | Texas Tech           | Big 12               | 5-1      | 2507   | 77        |
 | 18    | SMU                  | ACC                  | 5-1      | 2487   | 110       |
 | 19    | Rutgers              | Big Ten              | 4-1      | 2423   | 76        |
-| 20    | Colorado             | Big 12               | 4-1      | 2320   | 82        |
+| 20    | Colorado             | Big 12               | 4-1      | 2321   | 82        |
 | 21    | Texas A&M            | SEC                  | 5-1      | 2312   | 72        |
 | 22    | Washington           | Big Ten              | 4-2      | 2299   | 72        |
 | 23    | Liberty              | Conference USA       | 5-0      | 2252   | 208       |
 | 24    | West Virginia        | Big 12               | 3-2      | 2248   | 99        |
 | 25    | James Madison        | Sun Belt             | 5-1      | 2245   | 88        |
 
-Updated 10/12/2024 14:30:12
+Updated 10/12/2024 14:35:12
