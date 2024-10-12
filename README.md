@@ -4,7 +4,7 @@
 | 2     | Penn State           | Big Ten              | 5-0      | 3134   | 115       |
 | 3     | BYU                  | Big 12               | 5-0      | 3096   | 116       |
 | 4     | Texas                | SEC                  | 5-0      | 3072   | 131       |
-| 5     | Ohio State           | Big Ten              | 5-0      | 2980   | 132       |
+| 5     | Ohio State           | Big Ten              | 5-0      | 2979   | 132       |
 | 6     | Iowa State           | Big 12               | 5-0      | 2927   | 125       |
 | 7     | Boise State          | Mountain West        | 4-1      | 2840   | 87        |
 | 8     | Pittsburgh           | ACC                  | 5-0      | 2791   | 123       |
@@ -24,6 +24,6 @@
 | 22    | Colorado             | Big 12               | 4-1      | 2247   | 78        |
 | 23    | Alabama              | SEC                  | 5-1      | 2247   | 72        |
 | 24    | West Virginia        | Big 12               | 3-2      | 2244   | 98        |
-| 25    | Liberty              | Conference USA       | 5-0      | 2236   | 205       |
+| 25    | Liberty              | Conference USA       | 5-0      | 2236   | 206       |
 
-Updated 10/12/2024 17:45:09
+Updated 10/12/2024 17:50:13
