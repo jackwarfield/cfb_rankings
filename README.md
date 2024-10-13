@@ -26,4 +26,4 @@
 | 24    | Notre Dame           | FBS Independents     | 5-1      | 2277   | 78        |
 | 25    | Liberty              | Conference USA       | 5-0      | 2259   | 196       |
 
-Updated 10/12/2024 21:20:11
+Updated 10/12/2024 21:25:09
