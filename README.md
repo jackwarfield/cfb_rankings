@@ -21,9 +21,9 @@
 | 19    | Iowa                 | Big Ten              | 4-2      | 2430   | 91        |
 | 20    | Oregon State         | Pac-12               | 4-1      | 2350   | 124       |
 | 21    | Texas A&M            | SEC                  | 5-1      | 2343   | 73        |
-| 22    | West Virginia        | Big 12               | 3-2      | 2288   | 102       |
-| 23    | Colorado             | Big 12               | 4-1      | 2280   | 77        |
+| 22    | West Virginia        | Big 12               | 3-2      | 2289   | 102       |
+| 23    | Colorado             | Big 12               | 4-1      | 2281   | 77        |
 | 24    | Notre Dame           | FBS Independents     | 5-1      | 2276   | 78        |
 | 25    | Liberty              | Conference USA       | 5-0      | 2259   | 196       |
 
-Updated 10/12/2024 22:02:05
+Updated 10/12/2024 22:05:57
