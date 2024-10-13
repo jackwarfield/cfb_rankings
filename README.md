@@ -24,6 +24,6 @@
 | 22    | Colorado             | Big 12               | 4-1      | 2294   | 77        |
 | 23    | West Virginia        | Big 12               | 3-2      | 2290   | 102       |
 | 24    | Notre Dame           | FBS Independents     | 5-1      | 2277   | 78        |
-| 25    | Liberty              | Conference USA       | 5-0      | 2259   | 196       |
+| 25    | Liberty              | Conference USA       | 5-0      | 2260   | 196       |
 
-Updated 10/12/2024 20:31:10
+Updated 10/12/2024 20:35:11
