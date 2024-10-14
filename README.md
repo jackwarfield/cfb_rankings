@@ -26,4 +26,4 @@
 | 24    | Missouri             | SEC                  | 5-1      | 2255   | 75        |
 | 25    | James Madison        | Sun Belt             | 5-1      | 2249   | 90        |
 
-Updated 10/13/2024 11:49:57
+Updated 10/14/2024 14:16:46
