@@ -8,7 +8,7 @@
 | 6     | Pittsburgh           | ACC                  | 7-0      | 2985   | 156       |
 | 7     | Iowa State           | Big 12               | 7-0      | 2973   | 158       |
 | 8     | Boise State          | Mountain West        | 6-1      | 2946   | 115       |
-| 9     | Ohio State           | Big Ten              | 6-1      | 2931   | 114       |
+| 9     | Ohio State           | Big Ten              | 6-1      | 2932   | 114       |
 | 10    | Kansas State         | Big 12               | 6-1      | 2845   | 111       |
 | 11    | Illinois             | Big Ten              | 6-1      | 2827   | 105       |
 | 12    | SMU                  | ACC                  | 6-1      | 2752   | 122       |
@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 6-1      | 2244   | 88        |
 | 25    | Alabama              | SEC                  | 5-2      | 2241   | 67        |
 
-Updated 10/26/2024 17:55:10
+Updated 10/26/2024 18:00:15
