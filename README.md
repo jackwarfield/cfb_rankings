@@ -26,4 +26,4 @@
 | 24    | Tennessee            | SEC                  | 6-1      | 2269   | 74        |
 | 25    | Memphis              | American Athletic    | 6-1      | 2243   | 113       |
 
-Updated 10/26/2024 11:51:19
+Updated 10/26/2024 12:15:13
