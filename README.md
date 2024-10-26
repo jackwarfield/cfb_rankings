@@ -7,8 +7,8 @@
 | 5     | Miami                | ACC                  | 7-0      | 2984   | 160       |
 | 6     | Iowa State           | Big 12               | 7-0      | 2980   | 159       |
 | 7     | Pittsburgh           | ACC                  | 7-0      | 2959   | 158       |
-| 8     | Ohio State           | Big Ten              | 6-1      | 2956   | 118       |
-| 9     | Boise State          | Mountain West        | 6-1      | 2937   | 122       |
+| 8     | Ohio State           | Big Ten              | 6-1      | 2957   | 118       |
+| 9     | Boise State          | Mountain West        | 6-1      | 2938   | 122       |
 | 10    | Kansas State         | Big 12               | 6-1      | 2841   | 114       |
 | 11    | Illinois             | Big Ten              | 6-2      | 2811   | 106       |
 | 12    | SMU                  | ACC                  | 6-1      | 2753   | 124       |
@@ -22,8 +22,8 @@
 | 20    | Alabama              | SEC                  | 6-2      | 2304   | 69        |
 | 21    | Tennessee            | SEC                  | 6-1      | 2288   | 76        |
 | 22    | Clemson              | ACC                  | 6-1      | 2272   | 85        |
-| 23    | Louisville           | ACC                  | 5-3      | 2254   | 80        |
+| 23    | Louisville           | ACC                  | 5-3      | 2255   | 80        |
 | 24    | LSU                  | SEC                  | 6-1      | 2239   | 73        |
 | 25    | Army                 | American Athletic    | 7-0      | 2232   | 184       |
 
-Updated 10/26/2024 19:40:11
+Updated 10/26/2024 19:45:10
