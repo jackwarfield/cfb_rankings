@@ -13,12 +13,12 @@
 | 11    | Illinois             | Big Ten              | 6-1      | 2825   | 105       |
 | 12    | SMU                  | ACC                  | 6-1      | 2750   | 122       |
 | 13    | Washington State     | Pac-12               | 6-1      | 2530   | 100       |
-| 14    | Notre Dame           | FBS Independents     | 7-1      | 2480   | 78        |
+| 14    | Notre Dame           | FBS Independents     | 7-1      | 2479   | 78        |
 | 15    | Nebraska             | Big Ten              | 5-3      | 2475   | 87        |
 | 16    | Texas A&M            | SEC                  | 6-1      | 2457   | 78        |
 | 17    | Georgia              | SEC                  | 6-1      | 2408   | 76        |
 | 18    | Texas                | SEC                  | 6-1      | 2332   | 77        |
-| 19    | Colorado             | Big 12               | 5-2      | 2326   | 77        |
+| 19    | Colorado             | Big 12               | 5-2      | 2327   | 77        |
 | 20    | Missouri             | SEC                  | 6-1      | 2311   | 82        |
 | 21    | Louisville           | ACC                  | 5-3      | 2272   | 80        |
 | 22    | Tennessee            | SEC                  | 6-1      | 2267   | 75        |
@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 6-1      | 2240   | 88        |
 | 25    | Alabama              | SEC                  | 5-2      | 2238   | 67        |
 
-Updated 10/26/2024 17:05:14
+Updated 10/26/2024 17:10:15
