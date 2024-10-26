@@ -15,7 +15,7 @@
 | 13    | Washington State     | Pac-12               | 6-1      | 2532   | 100       |
 | 14    | Notre Dame           | FBS Independents     | 7-1      | 2482   | 78        |
 | 15    | Nebraska             | Big Ten              | 5-3      | 2477   | 87        |
-| 16    | Texas A&M            | SEC                  | 6-1      | 2459   | 78        |
+| 16    | Texas A&M            | SEC                  | 6-1      | 2460   | 78        |
 | 17    | Georgia              | SEC                  | 6-1      | 2410   | 76        |
 | 18    | Texas                | SEC                  | 6-1      | 2335   | 77        |
 | 19    | Colorado             | Big 12               | 5-2      | 2330   | 77        |
@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 6-1      | 2244   | 88        |
 | 25    | Alabama              | SEC                  | 5-2      | 2241   | 67        |
 
-Updated 10/26/2024 18:05:10
+Updated 10/26/2024 18:10:14
