@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 6-1      | 2246   | 88        |
 | 25    | Alabama              | SEC                  | 5-2      | 2243   | 67        |
 
-Updated 10/26/2024 18:30:14
+Updated 10/26/2024 18:35:11
