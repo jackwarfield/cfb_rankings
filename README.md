@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 6-1      | 2253   | 83        |
 | 25    | Navy                 | American Athletic    | 6-1      | 2244   | 88        |
 
-Updated 10/27/2024 11:43:33
+Updated 10/27/2024 11:48:52
