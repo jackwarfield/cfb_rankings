@@ -21,9 +21,9 @@
 | 19    | Texas                | SEC                  | 7-1      | 2368   | 79        |
 | 20    | West Virginia        | Big 12               | 4-4      | 2325   | 106       |
 | 21    | Alabama              | SEC                  | 6-2      | 2292   | 69        |
-| 22    | Tennessee            | SEC                  | 6-1      | 2292   | 75        |
+| 22    | Tennessee            | SEC                  | 6-1      | 2291   | 75        |
 | 23    | Louisville           | ACC                  | 5-3      | 2280   | 82        |
-| 24    | Clemson              | ACC                  | 6-1      | 2269   | 83        |
+| 24    | Clemson              | ACC                  | 6-1      | 2268   | 83        |
 | 25    | Navy                 | American Athletic    | 6-1      | 2258   | 88        |
 
-Updated 11/02/2024 14:40:47
+Updated 11/02/2024 14:45:16
