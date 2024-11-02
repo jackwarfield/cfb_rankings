@@ -13,17 +13,17 @@
 | 11    | Penn State           | Big Ten              | 7-1      | 2778   | 102       |
 | 12    | Washington State     | Pac-12               | 7-1      | 2520   | 114       |
 | 13    | Notre Dame           | FBS Independents     | 7-1      | 2497   | 79        |
-| 14    | Texas A&M            | SEC                  | 7-1      | 2473   | 79        |
-| 15    | Georgia              | SEC                  | 6-1      | 2440   | 76        |
+| 14    | Texas A&M            | SEC                  | 7-1      | 2474   | 79        |
+| 15    | Georgia              | SEC                  | 6-1      | 2441   | 76        |
 | 16    | Texas                | SEC                  | 7-1      | 2367   | 79        |
 | 17    | Colorado             | Big 12               | 6-2      | 2304   | 76        |
 | 18    | Nebraska             | Big Ten              | 5-3      | 2299   | 82        |
 | 19    | Alabama              | SEC                  | 6-2      | 2294   | 69        |
 | 20    | Louisville           | ACC                  | 5-3      | 2292   | 82        |
 | 21    | Tennessee            | SEC                  | 6-1      | 2289   | 75        |
-| 22    | Army                 | American Athletic    | 8-0      | 2284   | 203       |
+| 22    | Army                 | American Athletic    | 8-0      | 2285   | 203       |
 | 23    | Illinois             | Big Ten              | 6-3      | 2284   | 79        |
 | 24    | Clemson              | ACC                  | 6-1      | 2281   | 83        |
-| 25    | Navy                 | American Athletic    | 6-1      | 2264   | 88        |
+| 25    | Navy                 | American Athletic    | 6-1      | 2265   | 88        |
 
-Updated 11/02/2024 15:50:10
+Updated 11/02/2024 15:55:11
