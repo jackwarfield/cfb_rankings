@@ -1,7 +1,7 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Oregon               | Big Ten              | 8-0      | 3711   | 147       |
-| 2     | BYU                  | Big 12               | 8-0      | 3577   | 150       |
+| 2     | BYU                  | Big 12               | 8-0      | 3578   | 150       |
 | 3     | Penn State           | Big Ten              | 7-0      | 3436   | 143       |
 | 4     | Indiana              | Big Ten              | 8-0      | 3161   | 160       |
 | 5     | Miami                | ACC                  | 8-0      | 3050   | 177       |
@@ -12,7 +12,7 @@
 | 10    | Kansas State         | Big 12               | 7-1      | 2947   | 121       |
 | 11    | Illinois             | Big Ten              | 6-2      | 2900   | 108       |
 | 12    | SMU                  | ACC                  | 7-1      | 2849   | 133       |
-| 13    | Nebraska             | Big Ten              | 5-3      | 2543   | 87        |
+| 13    | Nebraska             | Big Ten              | 5-3      | 2544   | 87        |
 | 14    | Washington State     | Pac-12               | 7-1      | 2509   | 112       |
 | 15    | Notre Dame           | FBS Independents     | 7-1      | 2491   | 79        |
 | 16    | Texas A&M            | SEC                  | 7-1      | 2475   | 79        |
@@ -26,4 +26,4 @@
 | 24    | Clemson              | ACC                  | 6-1      | 2269   | 83        |
 | 25    | Navy                 | American Athletic    | 6-1      | 2259   | 88        |
 
-Updated 11/02/2024 14:55:11
+Updated 11/02/2024 15:00:25
