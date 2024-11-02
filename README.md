@@ -9,7 +9,7 @@
 | 7     | Pittsburgh           | ACC                  | 7-0      | 3025   | 163       |
 | 8     | Boise State          | Mountain West        | 7-1      | 3025   | 134       |
 | 9     | Kansas State         | Big 12               | 7-1      | 2895   | 125       |
-| 10    | SMU                  | ACC                  | 7-1      | 2833   | 133       |
+| 10    | SMU                  | ACC                  | 7-1      | 2832   | 133       |
 | 11    | Penn State           | Big Ten              | 7-1      | 2775   | 102       |
 | 12    | Washington State     | Pac-12               | 7-1      | 2515   | 114       |
 | 13    | Texas A&M            | SEC                  | 7-1      | 2449   | 79        |
@@ -26,4 +26,4 @@
 | 24    | Louisville           | ACC                  | 5-3      | 2264   | 81        |
 | 25    | West Virginia        | Big 12               | 4-4      | 2250   | 100       |
 
-Updated 11/02/2024 16:35:13
+Updated 11/02/2024 16:40:11
