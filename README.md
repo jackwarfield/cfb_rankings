@@ -12,7 +12,7 @@
 | 10    | SMU                  | ACC                  | 7-1      | 2832   | 133       |
 | 11    | Penn State           | Big Ten              | 7-1      | 2775   | 102       |
 | 12    | Washington State     | Pac-12               | 7-1      | 2515   | 114       |
-| 13    | Texas A&M            | SEC                  | 7-1      | 2448   | 79        |
+| 13    | Texas A&M            | SEC                  | 7-1      | 2449   | 79        |
 | 14    | Notre Dame           | FBS Independents     | 7-1      | 2438   | 80        |
 | 15    | Georgia              | SEC                  | 6-1      | 2435   | 76        |
 | 16    | Texas                | SEC                  | 7-1      | 2365   | 79        |
@@ -22,8 +22,8 @@
 | 20    | Alabama              | SEC                  | 6-2      | 2290   | 68        |
 | 21    | Tennessee            | SEC                  | 6-1      | 2282   | 75        |
 | 22    | Illinois             | Big Ten              | 6-3      | 2280   | 79        |
-| 23    | Clemson              | ACC                  | 6-1      | 2270   | 83        |
-| 24    | Louisville           | ACC                  | 5-3      | 2263   | 81        |
+| 23    | Clemson              | ACC                  | 6-1      | 2271   | 83        |
+| 24    | Louisville           | ACC                  | 5-3      | 2264   | 81        |
 | 25    | West Virginia        | Big 12               | 4-4      | 2250   | 100       |
 
-Updated 11/02/2024 16:20:09
+Updated 11/02/2024 16:25:09
