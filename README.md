@@ -26,4 +26,4 @@
 | 24    | Louisville           | ACC                  | 5-3      | 2264   | 81        |
 | 25    | West Virginia        | Big 12               | 4-4      | 2250   | 100       |
 
-Updated 11/02/2024 16:30:12
+Updated 11/02/2024 16:35:13
