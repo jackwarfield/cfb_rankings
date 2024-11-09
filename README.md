@@ -13,7 +13,7 @@
 | 11    | Georgia              | SEC                  | 7-1      | 2427   | 78        |
 | 12    | Army                 | American Athletic    | 8-0      | 2364   | 206       |
 | 13    | Texas                | SEC                  | 7-1      | 2355   | 79        |
-| 14    | Notre Dame           | FBS Independents     | 7-1      | 2351   | 80        |
+| 14    | Notre Dame           | FBS Independents     | 7-1      | 2352   | 80        |
 | 15    | Louisville           | ACC                  | 6-3      | 2323   | 79        |
 | 16    | Tennessee            | SEC                  | 7-1      | 2289   | 78        |
 | 17    | Alabama              | SEC                  | 6-2      | 2287   | 68        |
@@ -24,6 +24,6 @@
 | 22    | Illinois             | Big Ten              | 6-3      | 2207   | 78        |
 | 23    | Colorado             | Big 12               | 6-2      | 2176   | 67        |
 | 24    | Syracuse             | ACC                  | 6-2      | 2167   | 74        |
-| 25    | UCLA                 | Big Ten              | 4-5      | 2154   | 69        |
+| 25    | UCLA                 | Big Ten              | 4-5      | 2155   | 69        |
 
-Updated 11/09/2024 14:35:12
+Updated 11/09/2024 14:40:11
