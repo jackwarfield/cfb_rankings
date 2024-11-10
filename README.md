@@ -11,7 +11,7 @@
 | 9     | Washington State     | Pac-12               | 7-1      | 2574   | 116       |
 | 10    | Army                 | American Athletic    | 9-0      | 2484   | 215       |
 | 11    | Notre Dame           | FBS Independents     | 7-1      | 2349   | 79        |
-| 12    | Texas                | SEC                  | 8-1      | 2317   | 78        |
+| 12    | Texas                | SEC                  | 8-1      | 2318   | 78        |
 | 13    | Miami                | ACC                  | 9-1      | 2309   | 80        |
 | 14    | Tennessee            | SEC                  | 7-1      | 2270   | 78        |
 | 15    | Texas A&M            | SEC                  | 7-2      | 2267   | 71        |
@@ -24,6 +24,6 @@
 | 22    | Colorado             | Big 12               | 7-2      | 2214   | 68        |
 | 23    | Illinois             | Big Ten              | 6-3      | 2201   | 78        |
 | 24    | South Carolina       | SEC                  | 6-3      | 2185   | 67        |
-| 25    | UCLA                 | Big Ten              | 4-5      | 2157   | 69        |
+| 25    | UCLA                 | Big Ten              | 4-5      | 2158   | 69        |
 
-Updated 11/09/2024 21:00:16
+Updated 11/09/2024 21:15:11
