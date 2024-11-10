@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 6-3      | 2185   | 67        |
 | 25    | UCLA                 | Big Ten              | 4-5      | 2158   | 69        |
 
-Updated 11/09/2024 21:45:16
+Updated 11/09/2024 22:05:14
