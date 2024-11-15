@@ -8,7 +8,7 @@
 | 6     | SMU                  | ACC                  | 8-1      | 2934   | 134       |
 | 7     | Penn State           | Big Ten              | 8-1      | 2808   | 114       |
 | 8     | Washington State     | Pac-12               | 8-1      | 2605   | 125       |
-| 9     | Army                 | American Athletic    | 9-0      | 2514   | 221       |
+| 9     | Army                 | American Athletic    | 9-0      | 2515   | 221       |
 | 10    | Notre Dame           | FBS Independents     | 8-1      | 2378   | 82        |
 | 11    | Alabama              | SEC                  | 7-2      | 2349   | 67        |
 | 12    | Miami                | ACC                  | 9-1      | 2334   | 80        |
@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 6-3      | 2197   | 67        |
 | 25    | Missouri             | SEC                  | 7-2      | 2196   | 72        |
 
-Updated 11/14/2024 09:29:21
+Updated 11/15/2024 11:23:06
