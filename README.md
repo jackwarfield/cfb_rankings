@@ -12,7 +12,7 @@
 | 10    | Notre Dame           | FBS Independents     | 8-1      | 2361   | 82        |
 | 11    | Texas                | SEC                  | 9-1      | 2346   | 80        |
 | 12    | Alabama              | SEC                  | 7-2      | 2327   | 68        |
-| 13    | Miami                | ACC                  | 9-1      | 2320   | 81        |
+| 13    | Miami                | ACC                  | 9-1      | 2319   | 81        |
 | 14    | Georgia              | SEC                  | 7-2      | 2302   | 71        |
 | 15    | Louisville           | ACC                  | 6-3      | 2288   | 70        |
 | 16    | Tennessee            | SEC                  | 8-1      | 2281   | 82        |
@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 6-3      | 2178   | 67        |
 | 25    | Missouri             | SEC                  | 7-2      | 2173   | 72        |
 
-Updated 11/16/2024 16:15:14
+Updated 11/16/2024 16:20:09
