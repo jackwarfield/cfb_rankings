@@ -15,7 +15,7 @@
 | 13    | Miami                | ACC                  | 9-1      | 2318   | 81        |
 | 14    | Georgia              | SEC                  | 7-2      | 2300   | 71        |
 | 15    | Louisville           | ACC                  | 6-3      | 2286   | 70        |
-| 16    | Tennessee            | SEC                  | 8-1      | 2279   | 82        |
+| 16    | Tennessee            | SEC                  | 8-1      | 2280   | 82        |
 | 17    | Texas A&M            | SEC                  | 7-2      | 2262   | 71        |
 | 18    | Clemson              | ACC                  | 8-2      | 2242   | 72        |
 | 19    | Ole Miss             | SEC                  | 8-2      | 2230   | 71        |
@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 6-3      | 2177   | 67        |
 | 25    | Missouri             | SEC                  | 7-2      | 2172   | 72        |
 
-Updated 11/16/2024 16:35:10
+Updated 11/16/2024 16:40:11
