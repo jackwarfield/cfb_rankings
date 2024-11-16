@@ -1,135 +1,135 @@
 school,id,conference,division,level,rating,rd,volatility,wins,losses
-Air Force,2005,Mountain West,,fbs,942.993,79.1682,0.0601345,2,7
-Akron,2006,Mid-American,,fbs,1139.79,79.8297,0.0598553,2,8
-Alabama,333,SEC,,fbs,2324.92,70.4627,0.0601751,8,2
-App State,2026,Sun Belt,East,fbs,1482.71,67.3541,0.0599916,4,5
-Arizona,12,Big 12,,fbs,1747.82,71.2422,0.0598907,4,6
-Arizona State,9,Big 12,,fbs,1951.67,68.7138,0.0598439,7,2
-Arkansas,8,SEC,,fbs,1852.87,80.0633,0.0602255,5,5
-Arkansas State,2032,Sun Belt,West,fbs,1490.69,77.1491,0.0597686,5,4
-Army,349,American Athletic,,fbs,2468.27,225.62,0.0600012,9,0
-Auburn,2,SEC,,fbs,1632.98,73.4839,0.0598518,4,6
-Ball State,2050,Mid-American,,fbs,1200.74,76.1006,0.0601248,3,7
-Baylor,239,Big 12,,fbs,1924.69,71.2291,0.0600795,5,4
-Boise State,68,Mountain West,,fbs,3183.54,148.03,0.0599257,8,1
-Boston College,103,ACC,,fbs,1932.66,66.8641,0.0600217,5,4
-Bowling Green,189,Mid-American,,fbs,1539.71,72.561,0.0599206,6,4
-Buffalo,2084,Mid-American,,fbs,1500.9,68.392,0.0600157,6,4
-BYU,252,Big 12,,fbs,3569.34,179.073,0.0599573,9,0
-California,25,ACC,,fbs,1715.07,69.1548,0.0599129,5,4
-Central Michigan,2117,Mid-American,,fbs,1045.33,74.2966,0.0600782,3,7
-Charlotte,2429,American Athletic,,fbs,1449.9,71.2631,0.0597371,3,6
-Cincinnati,2132,Big 12,,fbs,1921.09,64.9424,0.0597325,5,4
-Clemson,228,ACC,,fbs,2239.52,72.2294,0.059782,8,2
-Coastal Carolina,324,Sun Belt,East,fbs,1499.21,69.8175,0.0599803,5,5
-Colorado,38,Big 12,,fbs,2187.1,70.6079,0.0597806,8,2
-Colorado State,36,Mountain West,,fbs,1450.47,79.2687,0.0599424,7,3
-Duke,150,ACC,,fbs,2059.51,75.6668,0.0597815,7,3
-East Carolina,151,American Athletic,,fbs,1396.67,69.1188,0.0599938,6,4
-Eastern Michigan,2199,Mid-American,,fbs,1195.86,73.8385,0.059967,5,5
-Florida,57,SEC,,fbs,1933.43,74.4389,0.0597938,4,5
-Florida Atlantic,2226,American Athletic,,fbs,898.441,81.6687,0.0598115,2,8
-Florida International,2229,Conference USA,,fbs,880.294,68.2584,0.0604192,3,7
-Florida State,52,ACC,,fbs,1528.17,83.2503,0.0600139,1,9
-Fresno State,278,Mountain West,,fbs,1239.3,72.0804,0.0603282,5,5
-Georgia,61,SEC,,fbs,2299.86,71.9565,0.0599499,7,2
-Georgia Southern,290,Sun Belt,East,fbs,1835.07,76.1353,0.0599827,6,3
-Georgia State,2247,Sun Belt,East,fbs,1333.5,76.3524,0.0600642,2,7
-Georgia Tech,59,ACC,,fbs,2066.08,69.5519,0.0602381,6,4
-Hawai'i,62,Mountain West,,fbs,1258.37,79.599,0.0600763,4,6
-Houston,248,Big 12,,fbs,1772.34,65.5566,0.0602653,4,6
-Illinois,356,Big Ten,,fbs,2236.98,78.6957,0.060079,7,3
-Indiana,84,Big Ten,,fbs,3170.63,217.065,0.0601319,10,0
-Iowa,2294,Big Ten,,fbs,2040.74,66.743,0.0600018,6,4
-Iowa State,66,Big 12,,fbs,2050.89,68.4226,0.0601343,7,2
-Jacksonville State,55,Conference USA,,fbs,1329.5,73.3354,0.0598618,7,3
-James Madison,256,Sun Belt,East,fbs,1736.91,74.5067,0.0602366,7,2
-Kansas,2305,Big 12,,fbs,1794.2,68.9351,0.0600608,3,6
-Kansas State,2306,Big 12,,fbs,2226.5,79.2452,0.0600912,7,2
-Kennesaw State,338,Conference USA,,fbs,714.173,79.7321,0.0601717,1,8
-Kent State,2309,Mid-American,,fbs,-612.626,241.998,0.0599851,0,10
-Kentucky,96,SEC,,fbs,1714.81,76.3754,0.0602544,4,6
-Liberty,2335,Conference USA,,fbs,1225.67,73.5753,0.0601902,7,2
-Louisiana,309,Sun Belt,West,fbs,1965.22,81.2153,0.0599199,8,1
-Louisiana Tech,2348,Conference USA,,fbs,985.746,70.4774,0.0601953,4,6
-Louisville,97,ACC,,fbs,2283.03,70.4707,0.0598792,6,3
-LSU,99,SEC,,fbs,2182.71,66.92,0.0600708,6,3
-Marshall,276,Sun Belt,East,fbs,1773.81,74.7251,0.0597643,7,3
-Maryland,120,Big Ten,,fbs,1884.59,68.9997,0.059992,4,5
-Massachusetts,113,FBS Independents,,fbs,776.021,90.0852,0.0598716,2,8
-Memphis,235,American Athletic,,fbs,1607.3,70.333,0.0600681,8,2
-Miami,2390,ACC,,fbs,2315.79,81.1251,0.0600258,9,1
-Miami (OH),193,Mid-American,,fbs,1553.79,74.7976,0.0597769,6,4
-Michigan,130,Big Ten,,fbs,2096.71,71.0297,0.0599189,5,5
-Michigan State,127,Big Ten,,fbs,1947.52,74.3689,0.0599595,4,6
-Middle Tennessee,2393,Conference USA,,fbs,951.256,72.408,0.0597157,3,7
-Minnesota,135,Big Ten,,fbs,2023.08,64.9911,0.0601794,6,4
-Mississippi State,344,SEC,,fbs,1264.6,92.8497,0.0598191,2,8
-Missouri,142,SEC,,fbs,2169.81,72.78,0.0598131,7,2
-Navy,2426,American Athletic,,fbs,1640.71,76.5403,0.0600653,7,3
-NC State,152,ACC,,fbs,1740.73,70.5438,0.0597991,5,5
-Nebraska,158,Big Ten,,fbs,2094.39,75.4428,0.0599526,5,4
-Nevada,2440,Mountain West,,fbs,1136.84,71.6544,0.0599419,3,8
-New Mexico,167,Mountain West,,fbs,1101.56,68.4022,0.0598513,4,6
-New Mexico State,166,Conference USA,,fbs,897.344,69.9966,0.06007,2,7
-North Carolina,153,ACC,,fbs,1886.1,68.2668,0.060041,5,4
-Northern Illinois,2459,Mid-American,,fbs,1498.88,69.6192,0.0608307,6,4
-North Texas,249,American Athletic,,fbs,1340.15,76.2216,0.0598342,5,5
-Northwestern,77,Big Ten,,fbs,1788.84,75.4588,0.0597726,4,6
-Notre Dame,87,FBS Independents,,fbs,2357.31,82.471,0.0601917,8,1
-Ohio,195,Mid-American,,fbs,1565.16,72.3539,0.0598393,7,3
-Ohio State,194,Big Ten,,fbs,3308.23,138.576,0.05989,9,1
-Oklahoma,201,SEC,,fbs,1939.28,71.1353,0.0598146,5,5
-Oklahoma State,197,Big 12,,fbs,1615.33,72.4567,0.0601455,3,7
-Old Dominion,295,Sun Belt,East,fbs,1565.17,65.3544,0.0601921,4,5
-Ole Miss,145,SEC,,fbs,2230.01,71.9789,0.0602383,8,2
-Oregon,2483,Big Ten,,fbs,3997.65,172.369,0.0599685,10,0
-Oregon State,204,Pac-12,,fbs,1243.76,72.011,0.0600795,4,5
-Penn State,213,Big Ten,,fbs,2810.31,116.025,0.0597706,8,1
-Pittsburgh,221,ACC,,fbs,2114.03,71.0353,0.0599796,7,3
-Purdue,2509,Big Ten,,fbs,954.529,101.679,0.0599908,1,8
-Rice,242,American Athletic,,fbs,1385.93,71.9489,0.0600152,3,7
-Rutgers,164,Big Ten,,fbs,1951.48,64.6399,0.0601277,5,4
-Sam Houston,2534,Conference USA,,fbs,1603.4,74.1764,0.0598855,7,2
-San Diego State,21,Mountain West,,fbs,1035.84,72.1172,0.0601109,3,6
-San José State,23,Mountain West,,fbs,1319.29,70.4234,0.0598501,6,3
-SMU,2567,ACC,,fbs,2900.97,135.637,0.0599506,8,1
-South Alabama,6,Sun Belt,West,fbs,1406.49,68.8338,0.0600313,4,5
-South Carolina,2579,SEC,,fbs,2176.09,67.3371,0.0598311,6,3
-Southern Miss,2572,Sun Belt,West,fbs,952.554,85.3611,0.0598439,1,8
-South Florida,58,American Athletic,,fbs,1339.6,81.542,0.0598726,4,5
-Stanford,24,ACC,,fbs,1565.85,78.7427,0.0602053,2,7
-Syracuse,183,ACC,,fbs,1983.27,66.6814,0.0602543,6,3
-TCU,2628,Big 12,,fbs,1865.19,66.4882,0.0600764,6,4
-Temple,218,American Athletic,,fbs,1215.83,75.4916,0.0597453,3,7
-Tennessee,2633,SEC,,fbs,2278.57,82.6721,0.0602421,8,1
-Texas,251,SEC,,fbs,2343.79,80.9192,0.059898,9,1
-Texas A&M,245,SEC,,fbs,2261.02,71.1223,0.0599211,7,2
-Texas State,326,Sun Belt,West,fbs,1535.0,68.1306,0.0598216,5,4
-Texas Tech,2641,Big 12,,fbs,1994.4,67.2821,0.060103,6,4
-Toledo,2649,Mid-American,,fbs,1529.82,66.5602,0.0599215,7,3
-Troy,2653,Sun Belt,West,fbs,1104.51,78.3648,0.0601137,2,7
-Tulane,2655,American Athletic,,fbs,1987.97,80.285,0.0597676,9,2
-Tulsa,202,American Athletic,,fbs,1052.55,71.665,0.0600091,3,7
-UAB,5,American Athletic,,fbs,1101.34,81.5296,0.0597959,2,7
-UCF,2116,Big 12,,fbs,1793.59,67.3021,0.0597847,4,6
-UCLA,26,Big Ten,,fbs,2065.36,67.7963,0.0600019,4,6
-UConn,41,FBS Independents,,fbs,1668.85,74.1443,0.0597151,7,3
-UL Monroe,2433,Sun Belt,West,fbs,1399.24,71.9178,0.060084,5,5
-UNLV,2439,Mountain West,,fbs,1978.91,82.9028,0.0598544,7,2
-USC,30,Big Ten,,fbs,1944.35,65.5883,0.0600856,4,5
-Utah,254,Big 12,,fbs,1656.44,71.2576,0.0600005,4,6
-Utah State,328,Mountain West,,fbs,964.928,80.1045,0.0598726,2,7
-UTEP,2638,Conference USA,,fbs,803.541,71.2712,0.0598802,2,8
-UTSA,2636,American Athletic,,fbs,1282.22,71.0099,0.0603488,5,5
-Vanderbilt,238,SEC,,fbs,1987.2,73.9474,0.0604193,6,4
-Virginia,258,ACC,,fbs,1955.96,67.2524,0.0599982,5,4
-Virginia Tech,259,ACC,,fbs,1942.86,65.0436,0.0598759,5,5
-Wake Forest,154,ACC,,fbs,1744.11,67.3602,0.0598115,4,5
-Washington,264,Big Ten,,fbs,2115.13,71.4932,0.060224,6,5
-Washington State,265,Pac-12,,fbs,2629.42,124.526,0.0600561,8,1
-Western Kentucky,98,Conference USA,,fbs,1561.84,82.1348,0.0602015,7,3
-Western Michigan,2711,Mid-American,,fbs,1423.22,71.824,0.0597276,5,5
-West Virginia,277,Big 12,,fbs,2001.68,68.2999,0.0597475,5,4
-Wisconsin,275,Big Ten,,fbs,1935.08,71.1653,0.0597597,5,4
-Wyoming,2751,Mountain West,,fbs,949.224,71.7744,0.0601002,2,8
+Air Force,2005,Mountain West,,fbs,943.403,79.1734,0.0601345,2,7
+Akron,2006,Mid-American,,fbs,1140.04,79.8305,0.0598554,2,8
+Alabama,333,SEC,,fbs,2325.15,70.4624,0.0601751,8,2
+App State,2026,Sun Belt,East,fbs,1483.06,67.354,0.0599914,4,5
+Arizona,12,Big 12,,fbs,1748.09,71.2405,0.0598907,4,6
+Arizona State,9,Big 12,,fbs,1951.95,68.7126,0.0598438,7,2
+Arkansas,8,SEC,,fbs,1853.15,80.0586,0.0602254,5,5
+Arkansas State,2032,Sun Belt,West,fbs,1491.22,77.1369,0.0597684,5,4
+Army,349,American Athletic,,fbs,2468.56,225.587,0.0600012,9,0
+Auburn,2,SEC,,fbs,1633.32,73.4786,0.0598518,4,6
+Ball State,2050,Mid-American,,fbs,1200.99,76.1001,0.0601249,3,7
+Baylor,239,Big 12,,fbs,1924.96,71.2273,0.0600795,5,4
+Boise State,68,Mountain West,,fbs,3183.67,148.024,0.0599257,8,1
+Boston College,103,ACC,,fbs,1932.9,66.8633,0.0600217,5,4
+Bowling Green,189,Mid-American,,fbs,1539.97,72.561,0.0599206,6,4
+Buffalo,2084,Mid-American,,fbs,1501.16,68.3926,0.0600158,6,4
+BYU,252,Big 12,,fbs,3569.46,179.065,0.0599573,9,0
+California,25,ACC,,fbs,1715.43,69.1516,0.0599129,5,4
+Central Michigan,2117,Mid-American,,fbs,1045.64,74.2955,0.0600782,3,7
+Charlotte,2429,American Athletic,,fbs,1450.28,71.2633,0.0597371,3,6
+Cincinnati,2132,Big 12,,fbs,1921.34,64.9423,0.0597325,5,4
+Clemson,228,ACC,,fbs,2239.76,72.2286,0.059782,8,2
+Coastal Carolina,324,Sun Belt,East,fbs,1499.57,69.8146,0.0599802,5,5
+Colorado,38,Big 12,,fbs,2187.36,70.6072,0.0597806,8,2
+Colorado State,36,Mountain West,,fbs,1450.96,79.2673,0.0599424,7,3
+Duke,150,ACC,,fbs,2059.75,75.6656,0.0597815,7,3
+East Carolina,151,American Athletic,,fbs,1397.04,69.1178,0.0599938,6,4
+Eastern Michigan,2199,Mid-American,,fbs,1196.14,73.8395,0.0599671,5,5
+Florida,57,SEC,,fbs,1933.67,74.4375,0.0597938,4,5
+Florida Atlantic,2226,American Athletic,,fbs,898.82,81.6738,0.0598115,2,8
+Florida International,2229,Conference USA,,fbs,880.641,68.2584,0.0604191,3,7
+Florida State,52,ACC,,fbs,1528.49,83.2482,0.0600138,1,9
+Fresno State,278,Mountain West,,fbs,1239.79,72.0794,0.0603282,5,5
+Georgia,61,SEC,,fbs,2300.1,71.9559,0.0599499,7,2
+Georgia Southern,290,Sun Belt,East,fbs,1835.41,76.1324,0.0599826,6,3
+Georgia State,2247,Sun Belt,East,fbs,1333.81,76.3546,0.0600642,2,7
+Georgia Tech,59,ACC,,fbs,2066.32,69.5513,0.0602381,6,4
+Hawai'i,62,Mountain West,,fbs,1258.85,79.5963,0.0600763,4,6
+Houston,248,Big 12,,fbs,1772.61,65.5557,0.0602653,4,6
+Illinois,356,Big Ten,,fbs,2237.18,78.6948,0.060079,7,3
+Indiana,84,Big Ten,,fbs,3170.77,217.049,0.0601319,10,0
+Iowa,2294,Big Ten,,fbs,2040.95,66.7428,0.0600018,6,4
+Iowa State,66,Big 12,,fbs,2051.14,68.4216,0.0601343,7,2
+Jacksonville State,55,Conference USA,,fbs,1329.89,73.3326,0.0598618,7,3
+James Madison,256,Sun Belt,East,fbs,1737.26,74.5028,0.0602365,7,2
+Kansas,2305,Big 12,,fbs,1794.45,68.9354,0.0600608,3,6
+Kansas State,2306,Big 12,,fbs,2226.76,79.2444,0.0600912,7,2
+Kennesaw State,338,Conference USA,,fbs,714.331,79.7323,0.0601717,1,8
+Kent State,2309,Mid-American,,fbs,-612.605,241.994,0.0599851,0,10
+Kentucky,96,SEC,,fbs,1715.09,76.3722,0.0602543,4,6
+Liberty,2335,Conference USA,,fbs,1225.97,73.5793,0.0601903,7,2
+Louisiana,309,Sun Belt,West,fbs,1965.57,81.2125,0.0599199,8,1
+Louisiana Tech,2348,Conference USA,,fbs,986.179,70.4701,0.0601952,4,6
+Louisville,97,ACC,,fbs,2283.26,70.4702,0.0598792,6,3
+LSU,99,SEC,,fbs,2182.93,66.9197,0.0600708,6,3
+Marshall,276,Sun Belt,East,fbs,1774.15,74.7219,0.0597643,7,3
+Maryland,120,Big Ten,,fbs,1884.81,68.9993,0.059992,4,5
+Massachusetts,113,FBS Independents,,fbs,776.189,90.0994,0.0598716,2,8
+Memphis,235,American Athletic,,fbs,1607.72,70.3312,0.060068,8,2
+Miami,2390,ACC,,fbs,2316.03,81.1238,0.0600258,9,1
+Miami (OH),193,Mid-American,,fbs,1554.05,74.7968,0.0597769,6,4
+Michigan,130,Big Ten,,fbs,2096.92,71.0291,0.0599189,5,5
+Michigan State,127,Big Ten,,fbs,1947.73,74.3686,0.0599595,4,6
+Middle Tennessee,2393,Conference USA,,fbs,951.456,72.4124,0.0597156,3,7
+Minnesota,135,Big Ten,,fbs,2023.29,64.9909,0.0601794,6,4
+Mississippi State,344,SEC,,fbs,1265.02,92.8376,0.0598191,2,8
+Missouri,142,SEC,,fbs,2170.04,72.779,0.0598131,7,2
+Navy,2426,American Athletic,,fbs,1641.12,76.5369,0.0600652,7,3
+NC State,152,ACC,,fbs,1741.0,70.5433,0.0597991,5,5
+Nebraska,158,Big Ten,,fbs,2094.59,75.443,0.0599526,5,4
+Nevada,2440,Mountain West,,fbs,1137.43,71.6473,0.0599418,3,8
+New Mexico,167,Mountain West,,fbs,1101.97,68.4035,0.0598513,4,6
+New Mexico State,166,Conference USA,,fbs,897.629,69.9981,0.0600699,2,7
+North Carolina,153,ACC,,fbs,1886.36,68.2647,0.0600409,5,4
+Northern Illinois,2459,Mid-American,,fbs,1499.13,69.6201,0.0608306,6,4
+North Texas,249,American Athletic,,fbs,1340.63,76.2164,0.0598342,5,5
+Northwestern,77,Big Ten,,fbs,1789.05,75.4582,0.0597726,4,6
+Notre Dame,87,FBS Independents,,fbs,2357.54,82.4698,0.0601917,8,1
+Ohio,195,Mid-American,,fbs,1565.45,72.3528,0.0598393,7,3
+Ohio State,194,Big Ten,,fbs,3308.35,138.571,0.05989,9,1
+Oklahoma,201,SEC,,fbs,1939.54,71.1339,0.0598147,5,5
+Oklahoma State,197,Big 12,,fbs,1615.64,72.4538,0.0601455,3,7
+Old Dominion,295,Sun Belt,East,fbs,1565.51,65.3537,0.0601921,4,5
+Ole Miss,145,SEC,,fbs,2230.25,71.9776,0.0602382,8,2
+Oregon,2483,Big Ten,,fbs,3997.75,172.364,0.0599685,10,0
+Oregon State,204,Pac-12,,fbs,1244.33,72.0031,0.0600793,4,5
+Penn State,213,Big Ten,,fbs,2810.47,116.019,0.0597706,8,1
+Pittsburgh,221,ACC,,fbs,2114.27,71.0344,0.0599796,7,3
+Purdue,2509,Big Ten,,fbs,954.969,101.685,0.0599908,1,8
+Rice,242,American Athletic,,fbs,1386.37,71.9392,0.0600149,3,7
+Rutgers,164,Big Ten,,fbs,1951.68,64.6399,0.0601277,5,4
+Sam Houston,2534,Conference USA,,fbs,1603.77,74.1738,0.0598855,7,2
+San Diego State,21,Mountain West,,fbs,1036.33,72.111,0.0601109,3,6
+San José State,23,Mountain West,,fbs,1319.81,70.4226,0.0598501,6,3
+SMU,2567,ACC,,fbs,2901.15,135.628,0.0599505,8,1
+South Alabama,6,Sun Belt,West,fbs,1406.96,68.8288,0.0600312,4,5
+South Carolina,2579,SEC,,fbs,2176.32,67.3364,0.0598311,6,3
+Southern Miss,2572,Sun Belt,West,fbs,953.86,85.298,0.0598439,1,8
+South Florida,58,American Athletic,,fbs,1340.13,81.5314,0.0598725,4,5
+Stanford,24,ACC,,fbs,1566.11,78.7418,0.0602053,2,7
+Syracuse,183,ACC,,fbs,1983.52,66.681,0.0602542,6,3
+TCU,2628,Big 12,,fbs,1865.46,66.4878,0.0600764,6,4
+Temple,218,American Athletic,,fbs,1216.2,75.49,0.0597452,3,7
+Tennessee,2633,SEC,,fbs,2278.8,82.6704,0.0602421,8,1
+Texas,251,SEC,,fbs,2344.03,80.918,0.059898,9,1
+Texas A&M,245,SEC,,fbs,2261.25,71.1217,0.0599211,7,2
+Texas State,326,Sun Belt,West,fbs,1535.46,68.1249,0.0598216,5,4
+Texas Tech,2641,Big 12,,fbs,1994.66,67.2812,0.0601029,6,4
+Toledo,2649,Mid-American,,fbs,1530.09,66.5595,0.0599215,7,3
+Troy,2653,Sun Belt,West,fbs,1105.31,78.3134,0.060113,2,7
+Tulane,2655,American Athletic,,fbs,1988.31,80.2807,0.0597676,9,2
+Tulsa,202,American Athletic,,fbs,1053.03,71.6632,0.060009,3,7
+UAB,5,American Athletic,,fbs,1101.98,81.5053,0.0597954,2,7
+UCF,2116,Big 12,,fbs,1793.86,67.3015,0.0597847,4,6
+UCLA,26,Big Ten,,fbs,2065.57,67.7962,0.0600019,4,6
+UConn,41,FBS Independents,,fbs,1669.15,74.1402,0.0597151,7,3
+UL Monroe,2433,Sun Belt,West,fbs,1399.82,71.9,0.0600836,5,5
+UNLV,2439,Mountain West,,fbs,1979.17,82.9005,0.0598544,7,2
+USC,30,Big Ten,,fbs,1944.56,65.5883,0.0600856,4,5
+Utah,254,Big 12,,fbs,1656.72,71.2564,0.0600005,4,6
+Utah State,328,Mountain West,,fbs,965.285,80.1086,0.0598726,2,7
+UTEP,2638,Conference USA,,fbs,803.911,71.2735,0.0598801,2,8
+UTSA,2636,American Athletic,,fbs,1282.68,71.007,0.0603488,5,5
+Vanderbilt,238,SEC,,fbs,1987.44,73.9458,0.0604192,6,4
+Virginia,258,ACC,,fbs,1956.2,67.2519,0.0599982,5,4
+Virginia Tech,259,ACC,,fbs,1943.1,65.0427,0.0598759,5,5
+Wake Forest,154,ACC,,fbs,1744.4,67.3599,0.0598115,4,5
+Washington,264,Big Ten,,fbs,2115.33,71.4928,0.060224,6,5
+Washington State,265,Pac-12,,fbs,2629.59,124.519,0.0600561,8,1
+Western Kentucky,98,Conference USA,,fbs,1562.16,82.1317,0.0602015,7,3
+Western Michigan,2711,Mid-American,,fbs,1423.45,71.8263,0.0597277,5,5
+West Virginia,277,Big 12,,fbs,2001.93,68.2993,0.0597474,5,4
+Wisconsin,275,Big Ten,,fbs,1935.28,71.165,0.0597597,5,4
+Wyoming,2751,Mountain West,,fbs,949.663,71.7767,0.0601002,2,8
