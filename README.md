@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 6-3      | 2177   | 67        |
 | 25    | Missouri             | SEC                  | 7-2      | 2172   | 72        |
 
-Updated 11/16/2024 16:50:10
+Updated 11/16/2024 16:55:09
