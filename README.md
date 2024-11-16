@@ -2,14 +2,14 @@
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Oregon               | Big Ten              | 10-0     | 3990   | 172       |
 | 2     | BYU                  | Big 12               | 9-0      | 3593   | 177       |
-| 3     | Ohio State           | Big Ten              | 8-1      | 3297   | 133       |
+| 3     | Ohio State           | Big Ten              | 8-1      | 3298   | 133       |
 | 4     | Boise State          | Mountain West        | 8-1      | 3188   | 146       |
 | 5     | Indiana              | Big Ten              | 10-0     | 3184   | 215       |
 | 6     | SMU                  | ACC                  | 8-1      | 2932   | 134       |
 | 7     | Penn State           | Big Ten              | 8-1      | 2807   | 115       |
 | 8     | Washington State     | Pac-12               | 8-1      | 2642   | 123       |
 | 9     | Army                 | American Athletic    | 9-0      | 2478   | 224       |
-| 10    | Notre Dame           | FBS Independents     | 8-1      | 2372   | 82        |
+| 10    | Notre Dame           | FBS Independents     | 8-1      | 2373   | 82        |
 | 11    | Alabama              | SEC                  | 7-2      | 2340   | 67        |
 | 12    | Miami                | ACC                  | 9-1      | 2331   | 80        |
 | 13    | Texas                | SEC                  | 8-1      | 2330   | 78        |
@@ -26,4 +26,4 @@
 | 24    | Missouri             | SEC                  | 7-2      | 2186   | 72        |
 | 25    | Clemson              | ACC                  | 7-2      | 2185   | 72        |
 
-Updated 11/16/2024 14:45:12
+Updated 11/16/2024 14:50:11
