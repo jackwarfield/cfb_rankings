@@ -22,8 +22,8 @@
 | 20    | Pittsburgh           | ACC                  | 7-2      | 2197   | 76        |
 | 21    | Illinois             | Big Ten              | 6-3      | 2192   | 78        |
 | 22    | Colorado             | Big 12               | 7-2      | 2189   | 68        |
-| 23    | LSU                  | SEC                  | 6-3      | 2175   | 66        |
+| 23    | LSU                  | SEC                  | 6-3      | 2176   | 66        |
 | 24    | South Carolina       | SEC                  | 6-3      | 2167   | 67        |
 | 25    | Clemson              | ACC                  | 7-2      | 2165   | 72        |
 
-Updated 11/16/2024 15:20:10
+Updated 11/16/2024 15:25:08
