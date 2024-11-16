@@ -5,7 +5,7 @@
 | 3     | Ohio State           | Big Ten              | 9-1      | 3301   | 138       |
 | 4     | Boise State          | Mountain West        | 8-1      | 3185   | 147       |
 | 5     | Indiana              | Big Ten              | 10-0     | 3174   | 216       |
-| 6     | SMU                  | ACC                  | 8-1      | 2917   | 135       |
+| 6     | SMU                  | ACC                  | 8-1      | 2918   | 135       |
 | 7     | Penn State           | Big Ten              | 8-1      | 2801   | 116       |
 | 8     | Washington State     | Pac-12               | 8-1      | 2633   | 124       |
 | 9     | Army                 | American Athletic    | 9-0      | 2479   | 224       |
@@ -14,7 +14,7 @@
 | 12    | Alabama              | SEC                  | 7-2      | 2314   | 68        |
 | 13    | Miami                | ACC                  | 9-1      | 2311   | 80        |
 | 14    | Georgia              | SEC                  | 7-2      | 2276   | 72        |
-| 15    | Tennessee            | SEC                  | 8-1      | 2269   | 82        |
+| 15    | Tennessee            | SEC                  | 8-1      | 2270   | 82        |
 | 16    | Louisville           | ACC                  | 6-3      | 2268   | 70        |
 | 17    | Texas A&M            | SEC                  | 7-2      | 2253   | 71        |
 | 18    | Kansas State         | Big 12               | 7-2      | 2239   | 79        |
@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 6-3      | 2167   | 67        |
 | 25    | Clemson              | ACC                  | 7-2      | 2165   | 72        |
 
-Updated 11/16/2024 15:45:10
+Updated 11/16/2024 15:50:09
