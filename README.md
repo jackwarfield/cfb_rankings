@@ -26,4 +26,4 @@
 | 24    | South Carolina       | SEC                  | 6-3      | 2167   | 67        |
 | 25    | Clemson              | ACC                  | 7-2      | 2165   | 72        |
 
-Updated 11/16/2024 15:15:12
+Updated 11/16/2024 15:20:10
