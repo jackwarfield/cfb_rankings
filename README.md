@@ -19,11 +19,11 @@
 | 17    | Texas A&M            | SEC                  | 7-2      | 2253   | 71        |
 | 18    | Kansas State         | Big 12               | 7-2      | 2239   | 79        |
 | 19    | Ole Miss             | SEC                  | 8-2      | 2219   | 71        |
-| 20    | Colorado             | Big 12               | 8-2      | 2198   | 70        |
+| 20    | Colorado             | Big 12               | 8-2      | 2197   | 70        |
 | 21    | Pittsburgh           | ACC                  | 7-2      | 2197   | 76        |
 | 22    | Illinois             | Big Ten              | 6-3      | 2193   | 78        |
 | 23    | LSU                  | SEC                  | 6-3      | 2176   | 66        |
 | 24    | South Carolina       | SEC                  | 6-3      | 2167   | 67        |
 | 25    | Clemson              | ACC                  | 7-2      | 2165   | 72        |
 
-Updated 11/16/2024 15:50:09
+Updated 11/16/2024 15:55:09
