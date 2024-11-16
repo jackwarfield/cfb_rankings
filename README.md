@@ -21,9 +21,9 @@
 | 19    | Ole Miss             | SEC                  | 8-2      | 2230   | 71        |
 | 20    | Kansas State         | Big 12               | 7-2      | 2224   | 79        |
 | 21    | Illinois             | Big Ten              | 6-3      | 2188   | 78        |
-| 22    | Colorado             | Big 12               | 8-2      | 2184   | 70        |
+| 22    | Colorado             | Big 12               | 8-2      | 2183   | 70        |
 | 23    | LSU                  | SEC                  | 6-3      | 2182   | 66        |
 | 24    | South Carolina       | SEC                  | 6-3      | 2176   | 67        |
 | 25    | Missouri             | SEC                  | 7-2      | 2171   | 72        |
 
-Updated 11/16/2024 17:30:12
+Updated 11/16/2024 17:35:08
