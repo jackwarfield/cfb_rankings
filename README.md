@@ -26,4 +26,4 @@
 | 24    | Louisville           | ACC                  | 6-4      | 2101   | 70        |
 | 25    | Michigan             | Big Ten              | 5-5      | 2101   | 70        |
 
-Updated 11/16/2024 23:50:10
+Updated 11/16/2024 23:55:10
