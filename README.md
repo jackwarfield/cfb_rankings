@@ -26,4 +26,4 @@
 | 24    | Kansas State         | Big 12               | 7-3      | 2066   | 67        |
 | 25    | Michigan             | Big Ten              | 5-5      | 2063   | 70        |
 
-Updated 11/18/2024 11:39:15
+Updated 11/19/2024 12:24:10
