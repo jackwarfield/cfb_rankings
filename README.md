@@ -12,7 +12,7 @@
 | 10    | BYU                  | Big 12               | 9-1      | 2331   | 85        |
 | 11    | Notre Dame           | FBS Independents     | 9-1      | 2305   | 82        |
 | 12    | Alabama              | SEC                  | 8-2      | 2290   | 71        |
-| 13    | Miami                | ACC                  | 10-1     | 2278   | 81        |
+| 13    | Miami                | ACC                  | 10-1     | 2277   | 81        |
 | 14    | Illinois             | Big Ten              | 8-3      | 2240   | 79        |
 | 15    | Texas A&M            | SEC                  | 8-2      | 2236   | 72        |
 | 16    | Tennessee            | SEC                  | 8-2      | 2209   | 74        |
@@ -21,9 +21,9 @@
 | 19    | Colorado             | Big 12               | 8-2      | 2147   | 68        |
 | 20    | Ole Miss             | SEC                  | 8-3      | 2113   | 69        |
 | 21    | Florida              | SEC                  | 6-5      | 2111   | 67        |
-| 22    | Iowa State           | Big 12               | 8-2      | 2103   | 68        |
+| 22    | Iowa State           | Big 12               | 8-2      | 2102   | 68        |
 | 23    | LSU                  | SEC                  | 6-4      | 2082   | 65        |
 | 24    | Missouri             | SEC                  | 7-3      | 2079   | 69        |
 | 25    | Louisville           | ACC                  | 6-4      | 2078   | 68        |
 
-Updated 11/23/2024 16:25:10
+Updated 11/23/2024 16:35:09
