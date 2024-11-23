@@ -14,7 +14,7 @@
 | 12    | Alabama              | SEC                  | 8-2      | 2297   | 71        |
 | 13    | Miami                | ACC                  | 9-1      | 2258   | 79        |
 | 14    | Texas A&M            | SEC                  | 8-2      | 2233   | 72        |
-| 15    | Ole Miss             | SEC                  | 8-2      | 2211   | 73        |
+| 15    | Ole Miss             | SEC                  | 8-2      | 2212   | 73        |
 | 16    | Illinois             | Big Ten              | 7-3      | 2206   | 78        |
 | 17    | Tennessee            | SEC                  | 8-2      | 2203   | 75        |
 | 18    | South Carolina       | SEC                  | 7-3      | 2196   | 66        |
@@ -22,8 +22,8 @@
 | 20    | Colorado             | Big 12               | 8-2      | 2152   | 68        |
 | 21    | Iowa State           | Big 12               | 8-2      | 2104   | 68        |
 | 22    | LSU                  | SEC                  | 6-4      | 2091   | 65        |
-| 23    | Missouri             | SEC                  | 7-3      | 2081   | 69        |
+| 23    | Missouri             | SEC                  | 7-3      | 2082   | 69        |
 | 24    | Kansas State         | Big 12               | 7-3      | 2077   | 67        |
-| 25    | Michigan             | Big Ten              | 5-5      | 2074   | 70        |
+| 25    | Michigan             | Big Ten              | 5-5      | 2075   | 70        |
 
-Updated 11/23/2024 14:30:11
+Updated 11/23/2024 14:40:12
