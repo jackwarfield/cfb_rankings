@@ -2,7 +2,7 @@
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Oregon               | Big Ten              | 11-0     | 4135   | 185       |
 | 2     | Ohio State           | Big Ten              | 10-1     | 3475   | 139       |
-| 3     | Boise State          | Mountain West        | 9-1      | 2939   | 202       |
+| 3     | Boise State          | Mountain West        | 9-1      | 2939   | 201       |
 | 4     | Penn State           | Big Ten              | 9-1      | 2860   | 135       |
 | 5     | Indiana              | Big Ten              | 10-1     | 2833   | 143       |
 | 6     | Army                 | American Athletic    | 9-0      | 2507   | 231       |
@@ -20,10 +20,10 @@
 | 18    | South Carolina       | SEC                  | 7-3      | 2179   | 66        |
 | 19    | Colorado             | Big 12               | 8-2      | 2145   | 68        |
 | 20    | Ole Miss             | SEC                  | 8-3      | 2113   | 69        |
-| 21    | Florida              | SEC                  | 6-5      | 2112   | 67        |
+| 21    | Florida              | SEC                  | 6-5      | 2111   | 67        |
 | 22    | Iowa State           | Big 12               | 8-2      | 2101   | 68        |
 | 23    | LSU                  | SEC                  | 6-4      | 2083   | 65        |
 | 24    | Missouri             | SEC                  | 7-3      | 2080   | 69        |
 | 25    | Louisville           | ACC                  | 6-4      | 2079   | 68        |
 
-Updated 11/23/2024 15:50:10
+Updated 11/23/2024 15:55:10
