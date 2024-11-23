@@ -1,6 +1,6 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Oregon               | Big Ten              | 11-0     | 4141   | 184       |
+| 1     | Oregon               | Big Ten              | 11-0     | 4142   | 184       |
 | 2     | Ohio State           | Big Ten              | 10-1     | 3483   | 139       |
 | 3     | Boise State          | Mountain West        | 9-1      | 2942   | 202       |
 | 4     | Penn State           | Big Ten              | 9-1      | 2873   | 135       |
@@ -15,7 +15,7 @@
 | 13    | Miami                | ACC                  | 10-1     | 2279   | 81        |
 | 14    | Illinois             | Big Ten              | 8-3      | 2241   | 79        |
 | 15    | Texas A&M            | SEC                  | 8-2      | 2238   | 72        |
-| 16    | Tennessee            | SEC                  | 8-2      | 2211   | 74        |
+| 16    | Tennessee            | SEC                  | 9-2      | 2211   | 77        |
 | 17    | Clemson              | ACC                  | 8-2      | 2184   | 72        |
 | 18    | South Carolina       | SEC                  | 7-3      | 2180   | 66        |
 | 19    | Colorado             | Big 12               | 8-2      | 2148   | 68        |
@@ -26,4 +26,4 @@
 | 24    | Missouri             | SEC                  | 7-3      | 2080   | 69        |
 | 25    | Louisville           | ACC                  | 6-4      | 2079   | 68        |
 
-Updated 11/23/2024 16:40:15
+Updated 11/23/2024 16:45:17
