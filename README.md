@@ -26,4 +26,4 @@
 | 24    | Michigan             | Big Ten              | 6-5      | 2069   | 72        |
 | 25    | UNLV                 | Mountain West        | 9-2      | 2061   | 86        |
 
-Updated 11/23/2024 23:50:10
+Updated 11/23/2024 23:53:33
