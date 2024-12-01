@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Oregon               | Big Ten              | 11-0     | 4143   | 185       |
-| 2     | Ohio State           | Big Ten              | 10-1     | 3482   | 139       |
-| 3     | Boise State          | Mountain West        | 10-1     | 2909   | 214       |
-| 4     | Penn State           | Big Ten              | 10-1     | 2877   | 138       |
-| 5     | Indiana              | Big Ten              | 10-1     | 2822   | 146       |
-| 6     | SMU                  | ACC                  | 10-1     | 2357   | 81        |
-| 7     | Texas                | SEC                  | 10-1     | 2356   | 82        |
-| 8     | Georgia              | SEC                  | 9-2      | 2304   | 73        |
-| 9     | Notre Dame           | FBS Independents     | 10-1     | 2302   | 82        |
-| 10    | Miami                | ACC                  | 10-1     | 2279   | 81        |
-| 11    | Illinois             | Big Ten              | 8-3      | 2239   | 79        |
-| 12    | BYU                  | Big 12               | 9-2      | 2176   | 75        |
-| 13    | Tennessee            | SEC                  | 9-2      | 2171   | 75        |
-| 14    | Clemson              | ACC                  | 9-2      | 2161   | 74        |
-| 15    | Alabama              | SEC                  | 8-3      | 2142   | 68        |
-| 16    | Arizona State        | Big 12               | 9-2      | 2137   | 72        |
-| 17    | South Carolina       | SEC                  | 8-3      | 2127   | 67        |
-| 18    | Louisville           | ACC                  | 7-4      | 2108   | 67        |
-| 19    | Ole Miss             | SEC                  | 8-3      | 2099   | 68        |
-| 20    | Iowa State           | Big 12               | 9-2      | 2096   | 70        |
-| 21    | Kansas State         | Big 12               | 8-3      | 2080   | 66        |
-| 22    | Michigan             | Big Ten              | 6-5      | 2076   | 71        |
-| 23    | Texas A&M            | SEC                  | 8-3      | 2074   | 71        |
-| 24    | Florida              | SEC                  | 6-5      | 2069   | 67        |
-| 25    | UNLV                 | Mountain West        | 9-2      | 2062   | 86        |
+| 1     | Oregon               | Big Ten              | 12-0     | 3728   | 236       |
+| 2     | Boise State          | Mountain West        | 11-1     | 2818   | 185       |
+| 3     | Ohio State           | Big Ten              | 10-2     | 2568   | 87        |
+| 4     | Penn State           | Big Ten              | 11-1     | 2515   | 89        |
+| 5     | Indiana              | Big Ten              | 11-1     | 2480   | 90        |
+| 6     | Texas                | SEC                  | 11-1     | 2428   | 84        |
+| 7     | SMU                  | ACC                  | 11-1     | 2349   | 83        |
+| 8     | Georgia              | SEC                  | 10-2     | 2346   | 74        |
+| 9     | Notre Dame           | FBS Independents     | 11-1     | 2332   | 83        |
+| 10    | Illinois             | Big Ten              | 9-3      | 2248   | 78        |
+| 11    | Tennessee            | SEC                  | 10-2     | 2213   | 76        |
+| 12    | Michigan             | Big Ten              | 7-5      | 2210   | 74        |
+| 13    | South Carolina       | SEC                  | 9-3      | 2191   | 67        |
+| 14    | Alabama              | SEC                  | 9-3      | 2181   | 70        |
+| 15    | BYU                  | Big 12               | 10-2     | 2175   | 76        |
+| 16    | Miami                | ACC                  | 10-2     | 2151   | 72        |
+| 17    | Iowa State           | Big 12               | 10-2     | 2139   | 71        |
+| 18    | Arizona State        | Big 12               | 10-2     | 2128   | 73        |
+| 19    | Ole Miss             | SEC                  | 9-3      | 2119   | 71        |
+| 20    | LSU                  | SEC                  | 8-4      | 2108   | 64        |
+| 21    | Clemson              | ACC                  | 9-3      | 2084   | 71        |
+| 22    | Texas A&M            | SEC                  | 8-4      | 2083   | 71        |
+| 23    | UNLV                 | Mountain West        | 10-2     | 2083   | 87        |
+| 24    | Louisville           | ACC                  | 8-4      | 2082   | 68        |
+| 25    | Florida              | SEC                  | 7-5      | 2080   | 69        |
 
-Updated 11/26/2024 14:15:43
+Updated 12/01/2024 08:53:05
