@@ -92,12 +92,18 @@ std::vector<double> update_ratings(double r1, double rd1, double sig1,
   double muPr2 = mu2 + phiPr2 * phiPr2 * g(phi1) * (s2 - Ej(mu2, mu1, phi1));
 
   double rPr1 = 173.7178 * muPr1 + 1500.0;
+  if (rPr1 < 200) {
+    rPr1 = 200.0;
+  }
   double rdPr1 = 173.7178 * phiPr1;
   double rPr2 = 173.7178 * muPr2 + 1500.0;
+  if (rPr2 < 200) {
+    rPr2 = 200.0;
+  }
   double rdPr2 = 173.7178 * phiPr2;
 
   std::vector<double> results{rPr1, rdPr1, sigPr1, rPr2, rdPr2, sigPr2};
   return results;
 }
 
-} // namespace glicko2
+}  // namespace glicko2
