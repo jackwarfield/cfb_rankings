@@ -23,11 +23,11 @@ int main(int argc, char *argv[]) {
   // loop_schedule("sched3.csv", "teams_2023_rankings.csv",
   //               "teams_2023_rankings.csv", 31 + 10 * week, false);
 
-  loop_schedule("sched1.csv", "teams.csv", "teams_2024_rankings.csv", 1, true);
-  loop_schedule("sched2.csv", "teams_2024_rankings.csv",
-                "teams_2024_rankings.csv", 1, true);
-  loop_schedule("sched3.csv", "teams_2024_rankings.csv",
-                "teams_2024_rankings.csv", 1, false);
+  loop_schedule("sched1.csv", "teams.csv", "teams_2025_rankings.csv", 1, true);
+  loop_schedule("sched2.csv", "teams_2025_rankings.csv",
+                "teams_2025_rankings.csv", 1, true);
+  loop_schedule("sched3.csv", "teams_2025_rankings.csv",
+                "teams_2025_rankings.csv", 1, false);
 
   return 0;
 }

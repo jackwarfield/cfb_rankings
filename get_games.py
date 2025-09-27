@@ -111,8 +111,8 @@ def build_games_table(
         away_id += [row.away_id]
         away_team += [row.away_team]
         away_points += [row.away_points]
-        home_level += [row.home_division]
-        away_level += [row.away_division]
+        home_level += [row.home_classification]
+        away_level += [row.away_classification]
 
     data = {
         'id': id,
@@ -149,8 +149,8 @@ def build_games_table(
 def main():
     config = pd.read_json('config.json')
     configuration = cfbd.Configuration()
-    configuration.api_key['Authorization'] = config.api.key
-    configuration.api_key_prefix['Authorization'] = 'Bearer'
+    configuration = cfbd.Configuration(access_token=config.api.key)
+
     year = int(config.season.year)
 
     build_teams_table(

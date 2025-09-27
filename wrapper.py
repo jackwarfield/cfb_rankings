@@ -81,7 +81,7 @@ sched.to_csv('./sched3.csv', index=False)
 
 sp.run('./cfb', shell=True)
 
-df = pd.read_csv('./teams_2024_rankings.csv')
+df = pd.read_csv('./teams_2025_rankings.csv')
 df = df[df.conference.notna()].reset_index(drop=True)
 df['wins'] = (df['wins'] / (31 + 10 * run_week - 1)).astype(int)
 df['losses'] = (df['losses'] / (31 + 10 * run_week - 1)).astype(int)
@@ -140,6 +140,6 @@ with open('./README.md', 'w') as f:
     print(f'Updated {todayprint}', file=f)
 
 
-df.to_csv('teams_2024_rankings.csv', index=False)
+df.to_csv('teams_2025_rankings.csv', index=False)
 
 sp.run('rm -f sched1.csv sched2.csv sched3.csv', shell=True)
