@@ -26,4 +26,4 @@
 | 24    | Penn State           | Big Ten              | 3-0      | 2551   | 169       |
 | 25    | Tennessee            | SEC                  | 3-1      | 2550   | 89        |
 
-Updated 09/27/2025 12:44:51
+Updated 09/27/2025 14:31:50
