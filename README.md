@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Ohio State           | Big Ten              | 3-0      | 3073   | 136       |
-| 2     | Indiana              | Big Ten              | 4-0      | 3046   | 115       |
-| 3     | Georgia              | SEC                  | 3-0      | 3001   | 104       |
-| 4     | Oklahoma             | SEC                  | 4-0      | 2999   | 104       |
-| 5     | Ole Miss             | SEC                  | 4-0      | 2972   | 108       |
-| 6     | Miami                | ACC                  | 4-0      | 2963   | 116       |
-| 7     | Mississippi State    | SEC                  | 4-0      | 2958   | 102       |
-| 8     | Missouri             | SEC                  | 4-0      | 2932   | 111       |
-| 9     | Oregon               | Big Ten              | 4-0      | 2916   | 198       |
-| 10    | Iowa State           | Big 12               | 4-0      | 2885   | 111       |
-| 11    | LSU                  | SEC                  | 4-0      | 2781   | 115       |
-| 12    | Texas A&M            | SEC                  | 3-0      | 2767   | 109       |
-| 13    | USC                  | Big Ten              | 4-0      | 2741   | 113       |
-| 14    | Georgia Tech         | ACC                  | 4-0      | 2709   | 114       |
-| 15    | Houston              | Big 12               | 4-0      | 2667   | 109       |
-| 16    | Vanderbilt           | SEC                  | 4-0      | 2655   | 129       |
-| 17    | North Texas          | American Athletic    | 4-0      | 2616   | 102       |
-| 18    | Arizona State        | Big 12               | 4-1      | 2601   | 83        |
-| 19    | Memphis              | American Athletic    | 4-0      | 2600   | 128       |
-| 20    | Texas Tech           | Big 12               | 4-0      | 2583   | 120       |
-| 21    | Illinois             | Big Ten              | 3-1      | 2570   | 88        |
-| 22    | Washington           | Big Ten              | 3-0      | 2566   | 100       |
-| 23    | BYU                  | Big 12               | 3-0      | 2555   | 121       |
-| 24    | Penn State           | Big Ten              | 3-0      | 2551   | 169       |
-| 25    | Tennessee            | SEC                  | 3-1      | 2550   | 89        |
+| 1     | Michigan             | Big Ten              | 2-0      | 2961   | 112       |
+| 2     | Washington           | Big Ten              | 1-0      | 2676   | 95        |
+| 3     | Georgia              | SEC                  | 1-0      | 2509   | 84        |
+| 4     | Alabama              | SEC                  | 1-0      | 2486   | 84        |
+| 5     | Florida State        | ACC                  | 1-0      | 2358   | 92        |
+| 6     | Oregon               | Big Ten              | 1-0      | 2351   | 90        |
+| 7     | Texas                | SEC                  | 1-0      | 2296   | 89        |
+| 8     | Ole Miss             | SEC                  | 1-0      | 2293   | 82        |
+| 9     | Ohio State           | Big Ten              | 1-0      | 2275   | 85        |
+| 10    | Missouri             | SEC                  | 1-0      | 2260   | 80        |
+| 11    | LSU                  | SEC                  | 1-0      | 2158   | 81        |
+| 12    | Penn State           | Big Ten              | 1-0      | 2132   | 79        |
+| 13    | Liberty              | Conference USA       | 1-0      | 2068   | 108       |
+| 14    | Arizona              | Big 12               | 1-0      | 2006   | 74        |
+| 15    | Notre Dame           | FBS Independents     | 1-0      | 1981   | 72        |
+| 16    | Tennessee            | SEC                  | 1-0      | 1953   | 77        |
+| 17    | Oklahoma             | SEC                  | 1-0      | 1947   | 72        |
+| 18    | Kansas State         | Big 12               | 1-0      | 1911   | 69        |
+| 19    | Iowa                 | Big Ten              | 1-0      | 1908   | 71        |
+| 20    | Louisville           | ACC                  | 1-0      | 1887   | 69        |
+| 21    | Clemson              | ACC                  | 1-0      | 1887   | 68        |
+| 22    | USC                  | Big Ten              | 1-0      | 1874   | 70        |
+| 23    | Oklahoma State       | Big 12               | 1-0      | 1872   | 70        |
+| 24    | NC State             | ACC                  | 1-0      | 1855   | 66        |
+| 25    | Kansas               | Big 12               | 1-0      | 1838   | 69        |
 
-Updated 09/27/2025 14:31:50
+Updated 09/27/2025 16:14:18
