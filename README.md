@@ -26,4 +26,4 @@
 | 24    | Old Dominion         | Sun Belt             | 3-1      | 2529   | 98        |
 | 25    | USC                  | Big Ten              | 4-1      | 2476   | 86        |
 
-Updated 10/01/2025 20:00:23
+Updated 10/01/2025 21:00:32
