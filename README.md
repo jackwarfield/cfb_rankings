@@ -26,4 +26,4 @@
 | 24    | Memphis              | American Athletic    | 5-0      | 2551   | 162       |
 | 25    | USC                  | Big Ten              | 4-1      | 2494   | 87        |
 
-Updated 10/03/2025 03:00:29
+Updated 10/03/2025 04:00:19
