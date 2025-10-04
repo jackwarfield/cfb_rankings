@@ -26,4 +26,4 @@
 | 24    | Memphis              | American Athletic    | 5-0      | 2550   | 163       |
 | 25    | South Carolina       | SEC                  | 3-2      | 2500   | 83        |
 
-Updated 10/04/2025 02:00:21
+Updated 10/04/2025 03:00:27
