@@ -134,7 +134,9 @@ def build_games_table(
     games = pd.DataFrame(data=data)
 
     games = games[
-        (games.home_points.notna()) & (games.home_points != games.away_points)
+        (games.home_points.notna())
+        & (games.away_points.notna())
+        & (games.home_points != games.away_points)
     ]
     games = games.sort_values('start_date', ascending=True)
     games = games.reset_index(drop=True)
