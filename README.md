@@ -26,4 +26,4 @@
 | 24    | Cincinnati           | Big 12               | 4-1      | 2551   | 73        |
 | 25    | Notre Dame           | FBS Independents     | 3-2      | 2503   | 92        |
 
-Updated 10/04/2025 21:55:07
+Updated 10/04/2025 22:05:07
