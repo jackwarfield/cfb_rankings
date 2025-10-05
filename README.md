@@ -6,14 +6,14 @@
 | 4     | Ohio State           | Big Ten              | 4-0      | 3222   | 122       |
 | 5     | Miami                | ACC                  | 4-0      | 3132   | 111       |
 | 6     | Texas A&M            | SEC                  | 4-0      | 3058   | 110       |
-| 7     | Oregon               | Big Ten              | 5-0      | 3025   | 181       |
-| 8     | Missouri             | SEC                  | 5-0      | 2902   | 132       |
+| 7     | Oregon               | Big Ten              | 5-0      | 3041   | 176       |
+| 8     | Missouri             | SEC                  | 5-0      | 2903   | 132       |
 | 9     | Illinois             | Big Ten              | 5-1      | 2883   | 93        |
 | 10    | Michigan             | Big Ten              | 4-1      | 2847   | 86        |
 | 11    | Georgia Tech         | ACC                  | 5-0      | 2830   | 126       |
 | 12    | North Texas          | American Athletic    | 5-0      | 2814   | 112       |
 | 13    | BYU                  | Big 12               | 5-0      | 2808   | 135       |
-| 14    | Tulane               | American Athletic    | 4-1      | 2796   | 93        |
+| 14    | Tulane               | American Athletic    | 4-1      | 2797   | 93        |
 | 15    | Washington           | Big Ten              | 4-1      | 2729   | 94        |
 | 16    | LSU                  | SEC                  | 4-1      | 2729   | 99        |
 | 17    | Texas Tech           | Big 12               | 4-0      | 2718   | 117       |
@@ -24,6 +24,6 @@
 | 22    | South Florida        | American Athletic    | 4-1      | 2586   | 102       |
 | 23    | Alabama              | SEC                  | 4-1      | 2577   | 69        |
 | 24    | Cincinnati           | Big 12               | 4-1      | 2549   | 73        |
-| 25    | Notre Dame           | FBS Independents     | 3-2      | 2502   | 92        |
+| 25    | Notre Dame           | FBS Independents     | 3-2      | 2501   | 92        |
 
-Updated 10/04/2025 20:30:20
+Updated 10/04/2025 20:35:08
