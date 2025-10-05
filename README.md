@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 5-0      | 2499   | 152       |
 | 25    | USC                  | Big Ten              | 4-1      | 2498   | 87        |
 
-Updated 10/04/2025 22:55:12
+Updated 10/04/2025 23:00:35
