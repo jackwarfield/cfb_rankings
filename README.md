@@ -1,7 +1,7 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Indiana              | Big Ten              | 5-0      | 3322   | 116       |
-| 2     | Ole Miss             | SEC                  | 5-0      | 3304   | 112       |
+| 2     | Ole Miss             | SEC                  | 5-0      | 3305   | 112       |
 | 3     | Oklahoma             | SEC                  | 5-0      | 3234   | 109       |
 | 4     | Ohio State           | Big Ten              | 4-0      | 3223   | 122       |
 | 5     | Miami                | ACC                  | 4-0      | 3133   | 111       |
@@ -26,4 +26,4 @@
 | 24    | Cincinnati           | Big 12               | 4-1      | 2550   | 73        |
 | 25    | Notre Dame           | FBS Independents     | 3-2      | 2502   | 92        |
 
-Updated 10/04/2025 20:55:08
+Updated 10/04/2025 21:05:23
