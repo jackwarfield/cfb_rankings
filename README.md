@@ -16,14 +16,14 @@
 | 14    | Tulane               | American Athletic    | 4-1      | 2797   | 93        |
 | 15    | BYU                  | Big 12               | 5-0      | 2783   | 137       |
 | 16    | Washington           | Big Ten              | 4-1      | 2745   | 95        |
-| 17    | LSU                  | SEC                  | 4-1      | 2731   | 98        |
+| 17    | LSU                  | SEC                  | 4-1      | 2734   | 98        |
 | 18    | Nebraska             | Big Ten              | 4-1      | 2653   | 76        |
 | 19    | Memphis              | American Athletic    | 5-0      | 2621   | 149       |
 | 20    | South Florida        | American Athletic    | 4-1      | 2587   | 102       |
 | 21    | Alabama              | SEC                  | 4-1      | 2574   | 69        |
-| 22    | Cincinnati           | Big 12               | 4-1      | 2561   | 72        |
-| 23    | Notre Dame           | FBS Independents     | 3-2      | 2535   | 93        |
-| 24    | USC                  | Big Ten              | 4-1      | 2499   | 87        |
-| 25    | Navy                 | American Athletic    | 5-0      | 2499   | 152       |
+| 22    | Cincinnati           | Big 12               | 4-1      | 2560   | 72        |
+| 23    | Notre Dame           | FBS Independents     | 3-2      | 2534   | 93        |
+| 24    | Navy                 | American Athletic    | 5-0      | 2499   | 152       |
+| 25    | USC                  | Big Ten              | 4-1      | 2499   | 87        |
 
-Updated 10/04/2025 23:05:07
+Updated 10/04/2025 23:10:08
