@@ -11,19 +11,19 @@
 | 9     | Illinois             | Big Ten              | 5-1      | 2887   | 93        |
 | 10    | Michigan             | Big Ten              | 4-1      | 2848   | 86        |
 | 11    | Georgia Tech         | ACC                  | 5-0      | 2832   | 126       |
-| 12    | North Texas          | American Athletic    | 5-0      | 2814   | 112       |
+| 12    | North Texas          | American Athletic    | 5-0      | 2815   | 112       |
 | 13    | BYU                  | Big 12               | 5-0      | 2807   | 135       |
 | 14    | Tulane               | American Athletic    | 4-1      | 2799   | 93        |
-| 15    | LSU                  | SEC                  | 4-1      | 2734   | 98        |
+| 15    | LSU                  | SEC                  | 4-1      | 2735   | 98        |
 | 16    | Washington           | Big Ten              | 4-1      | 2730   | 94        |
 | 17    | Texas Tech           | Big 12               | 4-0      | 2719   | 117       |
 | 18    | Houston              | Big 12               | 4-0      | 2665   | 115       |
-| 19    | Nebraska             | Big Ten              | 4-1      | 2646   | 76        |
-| 20    | Memphis              | American Athletic    | 5-0      | 2607   | 150       |
+| 19    | Nebraska             | Big Ten              | 4-1      | 2647   | 76        |
+| 20    | Memphis              | American Athletic    | 5-0      | 2608   | 150       |
 | 21    | Navy                 | American Athletic    | 5-0      | 2606   | 143       |
 | 22    | South Florida        | American Athletic    | 4-1      | 2588   | 102       |
-| 23    | Alabama              | SEC                  | 4-1      | 2579   | 69        |
+| 23    | Alabama              | SEC                  | 4-1      | 2580   | 69        |
 | 24    | Cincinnati           | Big 12               | 4-1      | 2550   | 73        |
 | 25    | Notre Dame           | FBS Independents     | 3-2      | 2503   | 92        |
 
-Updated 10/04/2025 21:45:07
+Updated 10/04/2025 21:50:10
