@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 5-0      | 2518   | 157       |
 | 25    | Duke                 | ACC                  | 4-2      | 2512   | 83        |
 
-Updated 10/11/2025 19:20:14
+Updated 10/11/2025 19:25:13
