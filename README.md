@@ -17,7 +17,7 @@
 | 15    | BYU                  | Big 12               | 5-0      | 2789   | 143       |
 | 16    | LSU                  | SEC                  | 4-1      | 2722   | 111       |
 | 17    | Memphis              | American Athletic    | 6-0      | 2716   | 158       |
-| 18    | Nebraska             | Big Ten              | 4-1      | 2642   | 80        |
+| 18    | Nebraska             | Big Ten              | 4-1      | 2643   | 80        |
 | 19    | Alabama              | SEC                  | 5-1      | 2610   | 72        |
 | 20    | Notre Dame           | FBS Independents     | 3-2      | 2604   | 98        |
 | 21    | UNLV                 | Mountain West        | 5-0      | 2587   | 150       |
@@ -26,4 +26,4 @@
 | 24    | Cincinnati           | Big 12               | 5-1      | 2531   | 78        |
 | 25    | Duke                 | ACC                  | 4-2      | 2525   | 80        |
 
-Updated 10/11/2025 18:00:35
+Updated 10/11/2025 18:05:09
