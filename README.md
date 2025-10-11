@@ -6,7 +6,7 @@
 | 4     | Ohio State           | Big Ten              | 5-0      | 3323   | 133       |
 | 5     | Oklahoma             | SEC                  | 5-0      | 3293   | 111       |
 | 6     | Texas A&M            | SEC                  | 5-0      | 3207   | 122       |
-| 7     | Oregon               | Big Ten              | 5-0      | 3069   | 173       |
+| 7     | Oregon               | Big Ten              | 5-0      | 3068   | 173       |
 | 8     | Texas Tech           | Big 12               | 5-0      | 2974   | 123       |
 | 9     | Illinois             | Big Ten              | 5-1      | 2954   | 94        |
 | 10    | Missouri             | SEC                  | 5-0      | 2910   | 138       |
@@ -15,7 +15,7 @@
 | 13    | Michigan             | Big Ten              | 4-1      | 2885   | 88        |
 | 14    | Georgia Tech         | ACC                  | 5-0      | 2880   | 126       |
 | 15    | Washington           | Big Ten              | 5-1      | 2795   | 104       |
-| 16    | BYU                  | Big 12               | 5-0      | 2780   | 142       |
+| 16    | BYU                  | Big 12               | 5-0      | 2779   | 142       |
 | 17    | Memphis              | American Athletic    | 6-0      | 2700   | 160       |
 | 18    | LSU                  | SEC                  | 4-1      | 2695   | 109       |
 | 19    | Nebraska             | Big Ten              | 4-1      | 2660   | 77        |
@@ -26,4 +26,4 @@
 | 24    | USC                  | Big Ten              | 4-1      | 2534   | 89        |
 | 25    | Old Dominion         | Sun Belt             | 4-1      | 2533   | 117       |
 
-Updated 10/11/2025 15:05:13
+Updated 10/11/2025 15:10:19
