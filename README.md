@@ -18,12 +18,12 @@
 | 16    | Washington           | Big Ten              | 4-1      | 2775   | 96        |
 | 17    | Memphis              | American Athletic    | 6-0      | 2691   | 161       |
 | 18    | Nebraska             | Big Ten              | 4-1      | 2687   | 77        |
-| 19    | LSU                  | SEC                  | 4-1      | 2675   | 111       |
+| 19    | LSU                  | SEC                  | 4-1      | 2676   | 111       |
 | 20    | South Florida        | American Athletic    | 4-1      | 2626   | 109       |
 | 21    | Alabama              | SEC                  | 4-1      | 2596   | 69        |
 | 22    | Notre Dame           | FBS Independents     | 3-2      | 2583   | 96        |
-| 23    | Cincinnati           | Big 12               | 4-1      | 2581   | 73        |
+| 23    | Cincinnati           | Big 12               | 4-1      | 2580   | 73        |
 | 24    | Duke                 | ACC                  | 4-2      | 2546   | 81        |
 | 25    | USC                  | Big Ten              | 4-1      | 2538   | 88        |
 
-Updated 10/10/2025 22:00:23
+Updated 10/10/2025 23:00:23
