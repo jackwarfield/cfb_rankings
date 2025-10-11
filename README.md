@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 5-0      | 2509   | 158       |
 | 25    | Michigan             | Big Ten              | 4-1      | 2505   | 75        |
 
-Updated 10/11/2025 19:05:10
+Updated 10/11/2025 19:10:16
