@@ -3,7 +3,7 @@
 | 1     | Indiana              | Big Ten              | 5-0      | 3398   | 117       |
 | 2     | Ole Miss             | SEC                  | 5-0      | 3375   | 115       |
 | 3     | Miami                | ACC                  | 5-0      | 3365   | 115       |
-| 4     | Ohio State           | Big Ten              | 5-0      | 3322   | 133       |
+| 4     | Ohio State           | Big Ten              | 5-0      | 3323   | 133       |
 | 5     | Oklahoma             | SEC                  | 5-0      | 3293   | 111       |
 | 6     | Texas A&M            | SEC                  | 5-0      | 3207   | 122       |
 | 7     | Oregon               | Big Ten              | 5-0      | 3068   | 173       |
@@ -19,11 +19,11 @@
 | 17    | Memphis              | American Athletic    | 6-0      | 2700   | 160       |
 | 18    | LSU                  | SEC                  | 4-1      | 2694   | 109       |
 | 19    | Nebraska             | Big Ten              | 4-1      | 2659   | 77        |
-| 20    | Notre Dame           | FBS Independents     | 3-2      | 2604   | 97        |
+| 20    | Notre Dame           | FBS Independents     | 3-2      | 2605   | 97        |
 | 21    | Alabama              | SEC                  | 4-1      | 2596   | 69        |
-| 22    | North Texas          | American Athletic    | 5-1      | 2579   | 85        |
+| 22    | North Texas          | American Athletic    | 5-1      | 2580   | 85        |
 | 23    | Duke                 | ACC                  | 4-2      | 2546   | 81        |
 | 24    | USC                  | Big Ten              | 4-1      | 2533   | 89        |
 | 25    | Old Dominion         | Sun Belt             | 4-1      | 2532   | 117       |
 
-Updated 10/11/2025 14:25:19
+Updated 10/11/2025 14:30:22
