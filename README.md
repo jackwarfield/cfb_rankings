@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Ohio State           | Big Ten              | 6-0      | 3502   | 133       |
-| 2     | Ole Miss             | SEC                  | 5-0      | 3377   | 115       |
-| 3     | Indiana              | Big Ten              | 5-0      | 3354   | 120       |
-| 4     | Miami                | ACC                  | 5-0      | 3346   | 116       |
+| 1     | Ohio State           | Big Ten              | 6-0      | 3503   | 133       |
+| 2     | Ole Miss             | SEC                  | 6-0      | 3425   | 124       |
+| 3     | Indiana              | Big Ten              | 5-0      | 3355   | 119       |
+| 4     | Miami                | ACC                  | 5-0      | 3348   | 116       |
 | 5     | Oklahoma             | SEC                  | 5-0      | 3292   | 112       |
 | 6     | Texas A&M            | SEC                  | 5-0      | 3212   | 121       |
-| 7     | Oregon               | Big Ten              | 5-0      | 3094   | 170       |
+| 7     | Oregon               | Big Ten              | 5-0      | 3096   | 170       |
 | 8     | Texas Tech           | Big 12               | 5-0      | 3013   | 121       |
-| 9     | Tulane               | American Athletic    | 5-1      | 2890   | 98        |
-| 10    | South Florida        | American Athletic    | 5-1      | 2887   | 96        |
-| 11    | Illinois             | Big Ten              | 5-2      | 2876   | 95        |
+| 9     | Tulane               | American Athletic    | 5-1      | 2908   | 99        |
+| 10    | South Florida        | American Athletic    | 5-1      | 2890   | 96        |
+| 11    | Illinois             | Big Ten              | 5-2      | 2878   | 95        |
 | 12    | Michigan             | Big Ten              | 4-1      | 2874   | 89        |
 | 13    | Georgia Tech         | ACC                  | 5-0      | 2872   | 128       |
-| 14    | Washington           | Big Ten              | 5-1      | 2867   | 110       |
+| 14    | Washington           | Big Ten              | 5-1      | 2870   | 110       |
 | 15    | BYU                  | Big 12               | 5-0      | 2780   | 143       |
-| 16    | Memphis              | American Athletic    | 6-0      | 2704   | 159       |
-| 17    | LSU                  | SEC                  | 4-1      | 2698   | 109       |
-| 18    | Nebraska             | Big Ten              | 4-1      | 2633   | 80        |
-| 19    | Alabama              | SEC                  | 5-1      | 2603   | 72        |
-| 20    | Notre Dame           | FBS Independents     | 3-2      | 2601   | 97        |
-| 21    | UNLV                 | Mountain West        | 5-0      | 2576   | 152       |
-| 22    | North Texas          | American Athletic    | 5-1      | 2564   | 86        |
+| 16    | LSU                  | SEC                  | 4-1      | 2713   | 111       |
+| 17    | Memphis              | American Athletic    | 6-0      | 2705   | 159       |
+| 18    | Nebraska             | Big Ten              | 4-1      | 2634   | 80        |
+| 19    | Alabama              | SEC                  | 5-1      | 2604   | 72        |
+| 20    | Notre Dame           | FBS Independents     | 3-2      | 2601   | 98        |
+| 21    | UNLV                 | Mountain West        | 5-0      | 2577   | 152       |
+| 22    | North Texas          | American Athletic    | 5-1      | 2569   | 86        |
 | 23    | Auburn               | SEC                  | 3-2      | 2539   | 102       |
 | 24    | Cincinnati           | Big 12               | 5-1      | 2520   | 78        |
-| 25    | Duke                 | ACC                  | 4-2      | 2511   | 80        |
+| 25    | Duke                 | ACC                  | 4-2      | 2516   | 81        |
 
-Updated 10/11/2025 16:00:38
+Updated 10/11/2025 16:05:11
