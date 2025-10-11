@@ -21,9 +21,9 @@
 | 19    | Alabama              | SEC                  | 5-1      | 2608   | 72        |
 | 20    | Notre Dame           | FBS Independents     | 3-2      | 2602   | 98        |
 | 21    | UNLV                 | Mountain West        | 5-0      | 2586   | 151       |
-| 22    | North Texas          | American Athletic    | 5-1      | 2583   | 85        |
+| 22    | North Texas          | American Athletic    | 5-1      | 2584   | 85        |
 | 23    | Auburn               | SEC                  | 3-2      | 2545   | 102       |
 | 24    | Cincinnati           | Big 12               | 5-1      | 2529   | 78        |
 | 25    | Duke                 | ACC                  | 4-2      | 2523   | 80        |
 
-Updated 10/11/2025 17:05:24
+Updated 10/11/2025 17:10:17
