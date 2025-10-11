@@ -19,11 +19,11 @@
 | 17    | Memphis              | American Athletic    | 6-0      | 2700   | 160       |
 | 18    | LSU                  | SEC                  | 4-1      | 2694   | 109       |
 | 19    | Nebraska             | Big Ten              | 4-1      | 2659   | 77        |
-| 20    | Notre Dame           | FBS Independents     | 3-2      | 2605   | 97        |
+| 20    | Notre Dame           | FBS Independents     | 3-2      | 2604   | 97        |
 | 21    | Alabama              | SEC                  | 4-1      | 2596   | 69        |
 | 22    | North Texas          | American Athletic    | 5-1      | 2580   | 85        |
 | 23    | Duke                 | ACC                  | 4-2      | 2546   | 81        |
 | 24    | USC                  | Big Ten              | 4-1      | 2533   | 89        |
 | 25    | Old Dominion         | Sun Belt             | 4-1      | 2532   | 117       |
 
-Updated 10/11/2025 14:30:22
+Updated 10/11/2025 14:35:12
