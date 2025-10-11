@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Ohio State           | Big Ten              | 6-0      | 3519   | 132       |
-| 2     | Ole Miss             | SEC                  | 6-0      | 3480   | 120       |
-| 3     | Miami                | ACC                  | 5-0      | 3411   | 111       |
-| 4     | Indiana              | Big Ten              | 5-0      | 3361   | 119       |
-| 5     | Texas A&M            | SEC                  | 5-0      | 3174   | 125       |
+| 1     | Ohio State           | Big Ten              | 6-0      | 3504   | 133       |
+| 2     | Ole Miss             | SEC                  | 6-0      | 3477   | 121       |
+| 3     | Miami                | ACC                  | 5-0      | 3426   | 111       |
+| 4     | Indiana              | Big Ten              | 5-0      | 3333   | 121       |
+| 5     | Texas A&M            | SEC                  | 5-0      | 3221   | 122       |
 | 6     | Oregon               | Big Ten              | 5-0      | 3119   | 162       |
-| 7     | Texas Tech           | Big 12               | 5-0      | 3025   | 121       |
-| 8     | South Florida        | American Athletic    | 5-1      | 2987   | 91        |
-| 9     | Tulane               | American Athletic    | 5-1      | 2942   | 100       |
-| 10    | Georgia Tech         | ACC                  | 6-0      | 2927   | 139       |
-| 11    | LSU                  | SEC                  | 4-1      | 2897   | 97        |
-| 12    | Illinois             | Big Ten              | 5-2      | 2887   | 95        |
-| 13    | Washington           | Big Ten              | 5-1      | 2879   | 111       |
-| 14    | BYU                  | Big 12               | 5-0      | 2790   | 143       |
-| 15    | Memphis              | American Athletic    | 6-0      | 2718   | 158       |
-| 16    | North Texas          | American Athletic    | 5-1      | 2626   | 88        |
-| 17    | Alabama              | SEC                  | 5-1      | 2609   | 72        |
-| 18    | Notre Dame           | FBS Independents     | 3-2      | 2595   | 98        |
-| 19    | UNLV                 | Mountain West        | 5-0      | 2592   | 149       |
-| 20    | Florida              | SEC                  | 2-3      | 2588   | 77        |
-| 21    | Oklahoma             | SEC                  | 5-1      | 2546   | 73        |
-| 22    | Duke                 | ACC                  | 4-2      | 2531   | 81        |
-| 23    | Texas                | SEC                  | 4-2      | 2529   | 78        |
-| 24    | Navy                 | American Athletic    | 5-0      | 2515   | 157       |
-| 25    | Old Dominion         | Sun Belt             | 4-1      | 2511   | 118       |
+| 7     | Texas Tech           | Big 12               | 5-0      | 3095   | 116       |
+| 8     | South Florida        | American Athletic    | 5-1      | 2993   | 92        |
+| 9     | Georgia Tech         | ACC                  | 6-0      | 2944   | 142       |
+| 10    | Tulane               | American Athletic    | 5-1      | 2929   | 101       |
+| 11    | LSU                  | SEC                  | 4-1      | 2899   | 97        |
+| 12    | Illinois             | Big Ten              | 5-2      | 2871   | 95        |
+| 13    | BYU                  | Big 12               | 5-0      | 2863   | 138       |
+| 14    | Washington           | Big Ten              | 5-1      | 2836   | 114       |
+| 15    | Memphis              | American Athletic    | 6-0      | 2727   | 157       |
+| 16    | Notre Dame           | FBS Independents     | 4-2      | 2692   | 97        |
+| 17    | North Texas          | American Athletic    | 5-1      | 2621   | 89        |
+| 18    | UNLV                 | Mountain West        | 5-0      | 2607   | 147       |
+| 19    | Florida              | SEC                  | 2-3      | 2593   | 76        |
+| 20    | Alabama              | SEC                  | 5-1      | 2575   | 72        |
+| 21    | Houston              | Big 12               | 5-1      | 2573   | 103       |
+| 22    | Oklahoma             | SEC                  | 5-1      | 2556   | 73        |
+| 23    | Texas                | SEC                  | 4-2      | 2536   | 78        |
+| 24    | Navy                 | American Athletic    | 5-0      | 2509   | 158       |
+| 25    | Michigan             | Big Ten              | 4-1      | 2505   | 75        |
 
-Updated 10/11/2025 19:00:33
+Updated 10/11/2025 19:05:10
