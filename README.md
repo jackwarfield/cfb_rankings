@@ -7,23 +7,23 @@
 | 5     | Texas A&M            | SEC                  | 5-0      | 3213   | 122       |
 | 6     | Texas Tech           | Big 12               | 5-0      | 3071   | 118       |
 | 7     | South Florida        | American Athletic    | 5-1      | 2996   | 91        |
-| 8     | Illinois             | Big Ten              | 5-2      | 2927   | 100       |
+| 8     | Illinois             | Big Ten              | 5-2      | 2928   | 100       |
 | 9     | Tulane               | American Athletic    | 5-1      | 2920   | 102       |
 | 10    | Georgia Tech         | ACC                  | 6-0      | 2919   | 144       |
 | 11    | LSU                  | SEC                  | 4-1      | 2897   | 97        |
 | 12    | Washington           | Big Ten              | 5-1      | 2845   | 114       |
-| 13    | Oregon               | Big Ten              | 5-1      | 2838   | 117       |
+| 13    | Oregon               | Big Ten              | 5-1      | 2839   | 117       |
 | 14    | BYU                  | Big 12               | 5-0      | 2835   | 141       |
 | 15    | Memphis              | American Athletic    | 6-0      | 2700   | 160       |
 | 16    | Notre Dame           | FBS Independents     | 4-2      | 2688   | 97        |
 | 17    | Navy                 | American Athletic    | 6-0      | 2673   | 155       |
 | 18    | North Texas          | American Athletic    | 5-1      | 2630   | 88        |
-| 19    | UNLV                 | Mountain West        | 6-0      | 2625   | 161       |
-| 20    | Florida              | SEC                  | 2-3      | 2591   | 77        |
-| 21    | Alabama              | SEC                  | 5-1      | 2576   | 72        |
+| 19    | UNLV                 | Mountain West        | 6-0      | 2626   | 161       |
+| 20    | Florida              | SEC                  | 2-3      | 2592   | 77        |
+| 21    | Alabama              | SEC                  | 5-1      | 2577   | 72        |
 | 22    | Oklahoma             | SEC                  | 5-1      | 2552   | 73        |
-| 23    | Texas                | SEC                  | 4-2      | 2533   | 78        |
+| 23    | Texas                | SEC                  | 4-2      | 2534   | 78        |
 | 24    | Houston              | Big 12               | 5-1      | 2523   | 106       |
 | 25    | Duke                 | ACC                  | 4-2      | 2509   | 83        |
 
-Updated 10/11/2025 21:50:15
+Updated 10/11/2025 21:55:08
