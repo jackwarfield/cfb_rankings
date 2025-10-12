@@ -14,9 +14,9 @@
 | 12    | Washington           | Big Ten              | 5-1      | 2841   | 114       |
 | 13    | BYU                  | Big 12               | 5-0      | 2838   | 140       |
 | 14    | Oregon               | Big Ten              | 5-1      | 2836   | 117       |
-| 15    | Memphis              | American Athletic    | 6-0      | 2691   | 161       |
+| 15    | Memphis              | American Athletic    | 6-0      | 2692   | 161       |
 | 16    | Notre Dame           | FBS Independents     | 4-2      | 2689   | 97        |
-| 17    | Navy                 | American Athletic    | 6-0      | 2684   | 154       |
+| 17    | Navy                 | American Athletic    | 6-0      | 2685   | 154       |
 | 18    | North Texas          | American Athletic    | 5-1      | 2633   | 88        |
 | 19    | UNLV                 | Mountain West        | 6-0      | 2627   | 160       |
 | 20    | Florida              | SEC                  | 2-3      | 2591   | 77        |
@@ -26,4 +26,4 @@
 | 24    | Houston              | Big 12               | 5-1      | 2521   | 106       |
 | 25    | Duke                 | ACC                  | 4-2      | 2509   | 83        |
 
-Updated 10/11/2025 20:50:15
+Updated 10/11/2025 20:55:07
