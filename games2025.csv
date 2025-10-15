@@ -970,17 +970,17 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401777161,2025,4,regular,2025-09-20 19:00:00+00:00,False,False,2486,Pacific Lutheran,8.0,386,Trinity University TX,45.0,iii,iii
 401788907,2025,4,regular,2025-09-20 19:00:00+00:00,False,False,2222,Ferris State,76.0,131239,University of Rio Grande,0.0,ii,
 401767389,2025,4,regular,2025-09-20 19:00:00+00:00,False,False,2065,Bethune-Cookman,35.0,2206,Edward Waters,9.0,fcs,ii
-401754541,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,52,Florida State,66.0,2309,Kent State,10.0,fbs,fbs
 401773761,2025,4,regular,2025-09-20 19:30:00+00:00,False,True,425,Northern State,31.0,3066,Concordia University St Paul,10.0,ii,ii
+401752846,2025,4,regular,2025-09-20 19:30:00+00:00,False,True,158,Nebraska,27.0,130,Michigan,30.0,fbs,fbs
 401757262,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,2335,Liberty,13.0,256,James Madison,31.0,fbs,fbs
 401761610,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,2199,Eastern Michigan,34.0,309,Louisiana,31.0,fbs,fbs
 401762823,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,195,Ohio,52.0,2241,Gardner-Webb,35.0,fbs,fcs
 401752848,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,87,Notre Dame,56.0,2509,Purdue,30.0,fbs,fbs
-401762820,2025,4,regular,2025-09-20 19:30:00+00:00,False,True,2711,Western Michigan,14.0,2649,Toledo,13.0,fbs,fbs
+401752714,2025,4,regular,2025-09-20 19:30:00+00:00,False,True,201,Oklahoma,24.0,2,Auburn,17.0,fbs,fbs
 401752711,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,145,Ole Miss,45.0,2655,Tulane,10.0,fbs,fbs
 401761613,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,2084,Buffalo,17.0,2653,Troy,21.0,fbs,fbs
-401752714,2025,4,regular,2025-09-20 19:30:00+00:00,False,True,201,Oklahoma,24.0,2,Auburn,17.0,fbs,fbs
-401752846,2025,4,regular,2025-09-20 19:30:00+00:00,False,True,158,Nebraska,27.0,130,Michigan,30.0,fbs,fbs
+401754541,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,52,Florida State,66.0,2309,Kent State,10.0,fbs,fbs
+401762820,2025,4,regular,2025-09-20 19:30:00+00:00,False,True,2711,Western Michigan,14.0,2649,Toledo,13.0,fbs,fbs
 401757169,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,41,UConn,31.0,2050,Ball State,25.0,fbs,fbs
 401754640,2025,4,regular,2025-09-20 19:30:00+00:00,False,False,2116,UCF,34.0,153,North Carolina,9.0,fbs,fbs
 401754538,2025,4,regular,2025-09-20 20:00:00+00:00,False,True,150,Duke,45.0,152,NC State,33.0,fbs,fbs
@@ -1427,8 +1427,8 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401762479,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,218,Temple,27.0,2636,UTSA,21.0,fbs,fbs
 401766684,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,336,Wesleyan University (CT),56.0,348,Hamilton,14.0,iii,iii
 401773473,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,131,Wayne State (MI),24.0,2392,Michigan Tech,48.0,ii,ii
+401773095,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2207,Elizabeth City State,39.0,2940,Livingstone,27.0,ii,ii
 401773051,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2075,Bowie State,10.0,2220,Fayetteville State,38.0,ii,ii
-401773671,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2249,Glenville State,36.0,2986,Fairmont State,24.0,ii,ii
 401773386,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2888,Ouachita Baptist,35.0,319,Oklahoma Baptist,13.0,ii,ii
 401773145,2025,6,regular,2025-10-04 17:00:00+00:00,False,False,366,Ferrum,28.0,2560,Shorter,25.0,ii,ii
 401773117,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2804,Chowan,16.0,2822,North Greenville,31.0,ii,ii
@@ -1441,9 +1441,9 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401773307,2025,6,regular,2025-10-04 17:00:00+00:00,False,False,2779,St. Lawrence,45.0,125974,Hilbert College,14.0,iii,iii
 401777244,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2828,Shenandoah,24.0,2079,Bridgewater (VA),21.0,iii,iii
 401774124,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2651,Trine University,35.0,2812,Hope College,55.0,iii,iii
-401773095,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2207,Elizabeth City State,39.0,2940,Livingstone,27.0,ii,ii
+401773671,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2249,Glenville State,36.0,2986,Fairmont State,24.0,ii,ii
 401773660,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,341,Frostburg State,33.0,2148,Concord University,7.0,ii,ii
-401767698,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,219,Pennsylvania,36.0,159,Dartmouth,24.0,fcs,fcs
+401776970,2025,6,regular,2025-10-04 17:00:00+00:00,False,False,274,Maine Maritime,20.0,2884,Nichols College,49.0,iii,iii
 401774150,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2467,Norwich,7.0,2749,Worcester Polytechnic Institute,14.0,iii,iii
 401754556,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,259,Virginia Tech,23.0,154,Wake Forest,30.0,fbs,fbs
 401774085,2025,6,regular,2025-10-04 17:00:00+00:00,False,False,246,Juniata College,15.0,2843,Western Connecticut St,63.0,iii,iii
@@ -1471,8 +1471,8 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401778007,2025,6,regular,2025-10-04 17:00:00+00:00,False,False,417,Gallaudet,0.0,2258,Guilford College,55.0,iii,iii
 401777089,2025,6,regular,2025-10-04 17:00:00+00:00,False,False,2274,Hiram College,13.0,2686,Washington & Jefferson,70.0,iii,iii
 401774065,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2248,Gettysburg,28.0,2234,Franklin & Marshall,35.0,iii,iii
-401776970,2025,6,regular,2025-10-04 17:00:00+00:00,False,False,274,Maine Maritime,20.0,2884,Nichols College,49.0,iii,iii
 401777269,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2614,Saint Vincent,14.0,2963,Case Western Reserve,42.0,iii,iii
+401767698,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,219,Pennsylvania,36.0,159,Dartmouth,24.0,fcs,fcs
 401774001,2025,6,regular,2025-10-04 17:00:00+00:00,False,True,2232,Fort Valley State,14.0,2119,Central State (OH),18.0,ii,ii
 401773125,2025,6,regular,2025-10-04 17:30:00+00:00,False,False,101784,ERSKINE,7.0,2882,UNC Pembroke,44.0,ii,ii
 401767164,2025,6,regular,2025-10-04 17:30:00+00:00,False,True,2241,Gardner-Webb,30.0,2127,Charleston Southern,27.0,fcs,fcs
@@ -1603,16 +1603,16 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401767371,2025,6,regular,2025-10-04 20:00:00+00:00,False,True,2016,Alcorn State,12.0,2504,Prairie View A&M,13.0,fcs,fcs
 401773588,2025,6,regular,2025-10-04 20:05:00+00:00,False,True,2848,Western Oregon,41.0,2703,Western New Mexico,20.0,ii,ii
 401777140,2025,6,regular,2025-10-04 20:30:00+00:00,False,True,415,NEWBERG,17.0,203,Linfield College,35.0,iii,iii
-401767503,2025,6,regular,2025-10-04 21:00:00+00:00,False,True,2460,Northern Iowa,7.0,155,North Dakota,35.0,fcs,fcs
-401773169,2025,6,regular,2025-10-04 21:00:00+00:00,False,True,2316,Kentucky Wesleyan,0.0,308,Ashland,55.0,ii,ii
+401769869,2025,6,regular,2025-10-04 21:00:00+00:00,False,True,2110,Central Arkansas,23.0,3101,Utah Tech,17.0,fcs,fcs
 401767312,2025,6,regular,2025-10-04 21:00:00+00:00,True,True,2010,Alabama A&M,24.0,2296,Jackson State,57.0,fcs,fcs
 401767108,2025,6,regular,2025-10-04 21:00:00+00:00,False,True,2464,Northern Arizona,10.0,147,Montana State,34.0,fcs,fcs
-401769869,2025,6,regular,2025-10-04 21:00:00+00:00,False,True,2110,Central Arkansas,23.0,3101,Utah Tech,17.0,fcs,fcs
+401773169,2025,6,regular,2025-10-04 21:00:00+00:00,False,True,2316,Kentucky Wesleyan,0.0,308,Ashland,55.0,ii,ii
+401767503,2025,6,regular,2025-10-04 21:00:00+00:00,False,True,2460,Northern Iowa,7.0,155,North Dakota,35.0,fcs,fcs
+401774409,2025,6,regular,2025-10-04 22:00:00+00:00,False,False,332,Muskingum University,33.0,2233,Franklin,34.0,iii,iii
+401773400,2025,6,regular,2025-10-04 22:00:00+00:00,False,True,2292,Indianapolis,63.0,2911,William Jewell,17.0,ii,ii
+401761619,2025,6,regular,2025-10-04 22:00:00+00:00,False,True,295,Old Dominion,47.0,324,Coastal Carolina,7.0,fbs,fbs
 401773931,2025,6,regular,2025-10-04 22:00:00+00:00,False,True,2107,Catawba,42.0,2369,Mars Hill,28.0,ii,ii
 401767546,2025,6,regular,2025-10-04 22:00:00+00:00,False,True,2754,Youngstown State,30.0,2571,South Dakota State,35.0,fcs,fcs
-401774409,2025,6,regular,2025-10-04 22:00:00+00:00,False,False,332,Muskingum University,33.0,2233,Franklin,34.0,iii,iii
-401761619,2025,6,regular,2025-10-04 22:00:00+00:00,False,True,295,Old Dominion,47.0,324,Coastal Carolina,7.0,fbs,fbs
-401773400,2025,6,regular,2025-10-04 22:00:00+00:00,False,True,2292,Indianapolis,63.0,2911,William Jewell,17.0,ii,ii
 401762477,2025,6,regular,2025-10-04 23:00:00+00:00,False,True,242,Rice,21.0,2226,Florida Atlantic,27.0,fbs,fbs
 401766686,2025,6,regular,2025-10-04 23:00:00+00:00,False,True,121,Bates,6.0,33,Colby College,13.0,iii,iii
 401767460,2025,6,regular,2025-10-04 23:00:00+00:00,False,True,2466,Northwestern State,10.0,2837,East Texas A&M,40.0,fcs,fcs
@@ -1787,8 +1787,8 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401776746,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,133,St. Olaf,21.0,2968,Gustavus Adolphus,35.0,iii,iii
 401773737,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2844,Wayne State (NE),21.0,132,Bemidji State,26.0,ii,ii
 401774178,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2744,Wisconsin-Stout,27.0,271,Wisconsin-Oshkosh,16.0,iii,iii
+401773641,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2118,Central Missouri,32.0,138,Northwest Missouri St,49.0,ii,ii
 401766688,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2919,Monmouth (IL),48.0,2286,Illinois College,15.0,iii,iii
-401774020,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2310,Kentucky State,42.0,2206,Edward Waters,14.0,ii,ii
 401773651,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,112335,Wheeling,13.0,2128,University Of Charleston (WV),20.0,ii,ii
 401776763,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,162,Hamline University,12.0,2152,Concordia Moorhead,58.0,iii,iii
 401773771,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2043,Augustana University (SD),50.0,3066,Concordia University St Paul,10.0,ii,ii
@@ -1798,9 +1798,9 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401773814,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2205,Edinboro University,35.0,2858,PennWest California,29.0,ii,ii
 401773486,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,129,Saginaw Valley State,55.0,127991,Roosevelt,10.0,ii,ii
 401773785,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2364,Minnesota State Mankato,47.0,2851,Winona State,21.0,ii,ii
-401773641,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2118,Central Missouri,32.0,138,Northwest Missouri St,49.0,ii,ii
+401774020,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2310,Kentucky State,42.0,2206,Edward Waters,14.0,ii,ii
 401773895,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,613,South Dakota Mines,14.0,2146,Colorado School Of Mines,24.0,ii,ii
-401774370,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2106,Carthage,23.0,143,Washington University (St. Louis),31.0,iii,iii
+401774376,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,306,Illinois Wesleyan,21.0,396,Wheaton,65.0,iii,iii
 401767744,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2523,Robert Morris,12.0,2115,Central Connecticut,24.0,fcs,fcs
 401776738,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,375,St. Scholastica,14.0,2101,Carleton,41.0,iii,iii
 401767154,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2210,Elon,21.0,222,Villanova,29.0,fcs,fcs
@@ -1815,8 +1815,8 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401773672,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2986,Fairmont State,45.0,455,West Virginia Wesleyan,10.0,ii,ii
 401777603,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,446,Martin Luther,7.0,509,Crown College,17.0,iii,iii
 401774191,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2743,Wisconsin-Stevens Pt,14.0,2745,Wisconsin-Whitewater,45.0,iii,iii
+401774370,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2106,Carthage,23.0,143,Washington University (St. Louis),31.0,iii,iii
 401773048,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2564,Simpson College (IA),7.0,2141,Coe College,34.0,iii,iii
-401774376,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,306,Illinois Wesleyan,21.0,396,Wheaton,65.0,iii,iii
 401774459,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,241,McMurry,65.0,101161,LYONCOLL,7.0,iii,iii
 401777977,2025,7,regular,2025-10-11 18:00:00+00:00,False,True,2060,Bentley,59.0,126086,Post University,0.0,ii,ii
 401778026,2025,7,regular,2025-10-11 18:00:00+00:00,False,False,2079,Bridgewater (VA),14.0,131109,Roanoke College,24.0,iii,
@@ -1857,56 +1857,56 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401773889,2025,7,regular,2025-10-11 19:00:00+00:00,False,True,2123,Chadron St,37.0,2424,New Mexico Highlands,20.0,ii,ii
 401767084,2025,7,regular,2025-10-11 19:00:00+00:00,False,True,147,Montana State,48.0,304,Idaho State,14.0,fcs,fcs
 401761624,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2247,Georgia State,20.0,2026,App State,41.0,fbs,fbs
-401752870,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2483,Oregon,20.0,84,Indiana,30.0,fbs,fbs
+401773394,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2568,Southern Arkansas,14.0,2927,Southwestern Oklahoma State,12.0,ii,ii
 401756918,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,38,Colorado,24.0,66,Iowa State,17.0,fbs,fbs
 401754562,2025,7,regular,2025-10-11 19:30:00+00:00,False,False,87,Notre Dame,36.0,152,NC State,7.0,fbs,fbs
 401767511,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2449,North Dakota State,45.0,79,Southern Illinois,17.0,fcs,fcs
 401767560,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2193,East Tennessee State,45.0,2678,VMI,10.0,fcs,fcs
 401767363,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2296,Jackson State,38.0,2011,Alabama State,34.0,fcs,fcs
 401761626,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,276,Marshall,48.0,295,Old Dominion,24.0,fbs,fbs
-401773394,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2568,Southern Arkansas,14.0,2927,Southwestern Oklahoma State,12.0,ii,ii
+401752870,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2483,Oregon,20.0,84,Indiana,30.0,fbs,fbs
 401752867,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,120,Maryland,31.0,158,Nebraska,34.0,fbs,fbs
 401760386,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2439,UNLV,51.0,2005,Air Force,48.0,fbs,fbs
 401773262,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2758,Howard Payne,36.0,2194,East Texas Baptist University,18.0,iii,iii
 401762834,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2711,Western Michigan,42.0,2050,Ball State,0.0,fbs,fbs
 401754563,2025,7,regular,2025-10-11 19:30:00+00:00,False,False,204,Oregon State,14.0,154,Wake Forest,39.0,fbs,fbs
 401752736,2025,7,regular,2025-10-11 19:30:00+00:00,True,True,251,Texas,23.0,201,Oklahoma,6.0,fbs,fbs
-401752866,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,213,Penn State,21.0,77,Northwestern,22.0,fbs,fbs
-401756919,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2306,Kansas State,41.0,2628,TCU,28.0,fbs,fbs
 401754560,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,59,Georgia Tech,35.0,259,Virginia Tech,20.0,fbs,fbs
-401767079,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,149,Montana,28.0,13,Cal Poly,9.0,fcs,fcs
+401756919,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,2306,Kansas State,41.0,2628,TCU,28.0,fbs,fbs
+401752866,2025,7,regular,2025-10-11 19:30:00+00:00,False,True,213,Penn State,21.0,77,Northwestern,22.0,fbs,fbs
 401767165,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2127,Charleston Southern,13.0,2635,Tennessee Tech,27.0,fcs,fcs
 401774255,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,17,Claremont-Mudd-Scripps College,10.0,29,Redlands,17.0,iii,iii
 401773434,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2911,William Jewell,33.0,2825,Quincy,34.0,ii,ii
 401777141,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2721,Whitworth,40.0,415,NEWBERG,16.0,iii,iii
+401773903,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2570,CSU Pueblo,49.0,2237,Fort Lewis,13.0,ii,ii
 401777624,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,391,Oberlin,2.0,352,Kenyon,57.0,iii,iii
 401773401,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2402,Missouri S&T,13.0,2292,Indianapolis,56.0,ii,ii
-401773903,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2570,CSU Pueblo,49.0,2237,Fort Lewis,13.0,ii,ii
+401767079,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,149,Montana,28.0,13,Cal Poly,9.0,fcs,fcs
 401767287,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2453,North Alabama,21.0,2110,Central Arkansas,49.0,fcs,fcs
 401767504,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,155,North Dakota,35.0,2754,Youngstown State,17.0,fcs,fcs
+401767220,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2546,Southeast Missouri State,28.0,2634,Tennessee State,12.0,fcs,fcs
 401777147,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,203,Linfield College,23.0,205,Pacific (OR),6.0,iii,iii
 401777163,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2508,Puget Sound,27.0,2486,Pacific Lutheran,41.0,iii,iii
 401783816,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2318,La Verne,19.0,2094,California Lutheran University,23.0,iii,iii
 401778024,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2930,Willamette,20.0,2333,Lewis & Clark College,28.0,iii,iii
 401762484,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,218,Temple,31.0,2426,Navy,32.0,fbs,fbs
-401767220,2025,7,regular,2025-10-11 20:00:00+00:00,False,True,2546,Southeast Missouri State,28.0,2634,Tennessee State,12.0,fcs,fcs
 401752735,2025,7,regular,2025-10-11 20:15:00+00:00,False,True,2633,Tennessee,34.0,8,Arkansas,31.0,fbs,fbs
 401777257,2025,7,regular,2025-10-11 20:30:00+00:00,False,True,2963,Case Western Reserve,62.0,2018,Allegheny,21.0,iii,iii
 401767622,2025,7,regular,2025-10-11 21:00:00+00:00,False,True,301,San Diego,16.0,2181,Drake,19.0,fcs,fcs
 401767122,2025,7,regular,2025-10-11 21:00:00+00:00,False,True,70,Idaho,33.0,2458,Northern Colorado,49.0,fcs,fcs
 401773549,2025,7,regular,2025-10-11 21:00:00+00:00,False,True,2201,Eastern New Mexico,18.0,2848,Western Oregon,21.0,ii,ii
 401773118,2025,7,regular,2025-10-11 21:00:00+00:00,False,True,110242,West Florida,40.0,2804,Chowan,10.0,ii,ii
-401773790,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2587,Southwest Minnesota State,14.0,2894,Sioux Falls,35.0,ii,ii
-401762482,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2226,Florida Atlantic,53.0,5,UAB,33.0,fbs,fbs
 401773719,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2830,St. Anselm,21.0,112334,Franklin Pierce,0.0,ii,ii
 401774339,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2757,Berry College,29.0,386,Trinity University TX,6.0,iii,iii
-401767251,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2198,Eastern Kentucky,34.0,2046,Austin Peay,20.0,fcs,fcs
-401783913,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,101,Eureka College,0.0,2283,Benedictine University,56.0,iii,iii
 401773983,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2019,Allen,20.0,2542,Savannah St,23.0,ii,ii
-401773847,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,209,Lock Haven University,7.0,2315,Kutztown University,34.0,ii,ii
+401783913,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,101,Eureka College,0.0,2283,Benedictine University,56.0,iii,iii
 401773932,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,351,Wingate,41.0,2107,Catawba,28.0,ii,ii
+401773847,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,209,Lock Haven University,7.0,2315,Kutztown University,34.0,ii,ii
+401773790,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2587,Southwest Minnesota State,14.0,2894,Sioux Falls,35.0,ii,ii
+401762482,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2226,Florida Atlantic,53.0,5,UAB,33.0,fbs,fbs
+401767251,2025,7,regular,2025-10-11 22:00:00+00:00,False,True,2198,Eastern Kentucky,34.0,2046,Austin Peay,20.0,fcs,fcs
 401773804,2025,7,regular,2025-10-11 22:05:00+00:00,False,True,2188,East Stroudsburg University,38.0,2071,Bloomsburg,35.0,ii,ii
-401767461,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,2837,East Texas A&M,23.0,2320,Lamar,33.0,fcs,fcs
+401760391,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,2751,Wyoming,35.0,23,San José State,28.0,fbs,fbs
 401777046,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,2741,Wisconsin-Lutheran,14.0,2832,St. Norbert,17.0,iii,iii
 401767418,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,2755,Grambling,20.0,2640,Texas Southern,21.0,fcs,fcs
 401767116,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,302,UC Davis,45.0,2464,Northern Arizona,24.0,fcs,fcs
@@ -1914,9 +1914,9 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401767439,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,93,Murray State,32.0,2287,Illinois State,46.0,fcs,fcs
 401766693,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,112,Tufts,28.0,121,Bates,35.0,iii,iii
 401777072,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,2748,Wooster,7.0,2171,Denison University,28.0,iii,iii
-401760391,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,2751,Wyoming,35.0,23,San José State,28.0,fbs,fbs
 401777285,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,2062,Bethany (WV),35.0,2614,Saint Vincent,57.0,iii,iii
 401774352,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,72,Elmhurst,7.0,2042,Augustana (IL),48.0,iii,iii
+401774381,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,3071,North Central College,59.0,74,Millikin,10.0,iii,iii
 401773763,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,425,Northern State,34.0,134,Minnesota Duluth,31.0,ii,ii
 401752737,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,245,Texas A&M,34.0,57,Florida,17.0,fbs,fbs
 401773574,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,110243,UT Permian Basin,14.0,2120,Central Washington,27.0,ii,ii
@@ -1924,20 +1924,20 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401774275,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,101442,CENTENARY,27.0,2639,Texas Lutheran,55.0,iii,iii
 401761623,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,324,Coastal Carolina,23.0,2433,UL Monroe,8.0,fbs,fbs
 401752869,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,275,Wisconsin,0.0,2294,Iowa,37.0,fbs,fbs
-401774381,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,3071,North Central College,59.0,74,Millikin,10.0,iii,iii
+401767461,2025,7,regular,2025-10-11 23:00:00+00:00,False,True,2837,East Texas A&M,23.0,2320,Lamar,33.0,fcs,fcs
 401752731,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,2,Auburn,10.0,61,Georgia,20.0,fbs,fbs
-401756921,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,2641,Texas Tech,42.0,2305,Kansas,17.0,fbs,fbs
 401754558,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,103,Boston College,10.0,228,Clemson,41.0,fbs,fbs
-401752868,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,30,USC,31.0,130,Michigan,13.0,fbs,fbs
-401762485,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,2636,UTSA,61.0,242,Rice,13.0,fbs,fbs
+401756921,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,2641,Texas Tech,42.0,2305,Kansas,17.0,fbs,fbs
 401752864,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,135,Minnesota,27.0,2509,Purdue,20.0,fbs,fbs
+401762485,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,2636,UTSA,61.0,242,Rice,13.0,fbs,fbs
+401752868,2025,7,regular,2025-10-11 23:30:00+00:00,False,True,30,USC,31.0,130,Michigan,13.0,fbs,fbs
 401752732,2025,7,regular,2025-10-11 23:45:00+00:00,False,True,99,LSU,20.0,2579,South Carolina,10.0,fbs,fbs
-401761627,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,326,Texas State,41.0,2653,Troy,48.0,fbs,fbs
-401773559,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,2834,Sul Ross State,23.0,2395,Midwestern State,69.0,ii,ii
 401767133,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,2692,Weber State,27.0,16,Sacramento State,55.0,fcs,fcs
 401767307,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,3101,Utah Tech,23.0,2627,Tarleton State,41.0,fcs,fcs
 401756916,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,12,Arizona,27.0,252,BYU,33.0,fbs,fbs
 401773539,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,2658,Texas A&M-Kingsville,24.0,2025,Angelo State,19.0,ii,ii
+401761627,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,326,Texas State,41.0,2653,Troy,48.0,fbs,fbs
+401773559,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,2834,Sul Ross State,23.0,2395,Midwestern State,69.0,ii,ii
 401773599,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,2231,Fort Hays State,14.0,2122,Central Oklahoma,21.0,ii,ii
 401773874,2025,7,regular,2025-10-12 00:00:00+00:00,False,True,11,Colorado Mesa,54.0,2001,Adams State,17.0,ii,ii
 401760387,2025,7,regular,2025-10-12 01:45:00+00:00,False,True,68,Boise State,41.0,167,New Mexico,25.0,fbs,fbs
@@ -1947,3 +1947,4 @@ id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_
 401760389,2025,7,regular,2025-10-12 03:59:00+00:00,False,True,62,Hawai'i,44.0,328,Utah State,26.0,fbs,fbs
 401757282,2025,8,regular,2025-10-14 23:00:00+00:00,False,True,2335,Liberty,30.0,166,New Mexico State,27.0,fbs,fbs
 401761628,2025,8,regular,2025-10-14 23:30:00+00:00,False,True,6,South Alabama,14.0,2032,Arkansas State,15.0,fbs,fbs
+401757281,2025,8,regular,2025-10-15 00:00:00+00:00,False,True,98,Western Kentucky,6.0,2229,Florida International,25.0,fbs,fbs
