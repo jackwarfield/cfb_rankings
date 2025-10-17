@@ -23,7 +23,7 @@
 | 21    | UNLV                 | Mountain West        | 6-0      | 2657   | 166       |
 | 22    | Florida              | SEC                  | 2-4      | 2604   | 82        |
 | 23    | Houston              | Big 12               | 5-1      | 2603   | 118       |
-| 24    | Alabama              | SEC                  | 5-1      | 2576   | 74        |
+| 24    | Alabama              | SEC                  | 5-1      | 2577   | 74        |
 | 25    | Duke                 | ACC                  | 4-2      | 2570   | 84        |
 
-Updated 10/16/2025 21:00:26
+Updated 10/16/2025 22:00:34
