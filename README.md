@@ -26,4 +26,4 @@
 | 24    | Notre Dame           | FBS Independents     | 4-2      | 2539   | 79        |
 | 25    | Georgia              | SEC                  | 5-1      | 2538   | 75        |
 
-Updated 10/18/2025 00:25:10
+Updated 10/18/2025 00:30:22
