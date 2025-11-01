@@ -2,7 +2,7 @@
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
 | 1     | Indiana              | Big Ten              | 8-0      | 3523   | 178       |
 | 2     | Texas A&M            | SEC                  | 8-0      | 3409   | 172       |
-| 3     | Ohio State           | Big Ten              | 7-0      | 3405   | 173       |
+| 3     | Ohio State           | Big Ten              | 7-0      | 3405   | 174       |
 | 4     | BYU                  | Big 12               | 8-0      | 3276   | 177       |
 | 5     | Georgia Tech         | ACC                  | 8-0      | 3153   | 178       |
 | 6     | Navy                 | American Athletic    | 7-0      | 2910   | 169       |
@@ -26,4 +26,4 @@
 | 24    | Missouri             | SEC                  | 6-2      | 2492   | 83        |
 | 25    | Illinois             | Big Ten              | 5-3      | 2490   | 79        |
 
-Updated 11/01/2025 14:30:23
+Updated 11/01/2025 15:00:26
