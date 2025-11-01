@@ -26,4 +26,4 @@
 | 24    | Missouri             | SEC                  | 6-2      | 2492   | 83        |
 | 25    | Illinois             | Big Ten              | 5-3      | 2490   | 79        |
 
-Updated 11/01/2025 02:30:13
+Updated 11/01/2025 03:00:27
