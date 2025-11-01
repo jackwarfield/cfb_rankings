@@ -26,4 +26,4 @@
 | 24    | Michigan             | Big Ten              | 6-2      | 2432   | 72        |
 | 25    | Missouri             | SEC                  | 6-2      | 2418   | 78        |
 
-Updated 11/01/2025 18:01:10
+Updated 11/01/2025 18:01:11
