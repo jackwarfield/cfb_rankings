@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Indiana              | Big Ten              | 8-0      | 3530   | 178       |
-| 2     | Ohio State           | Big Ten              | 8-0      | 3479   | 183       |
-| 3     | Texas A&M            | SEC                  | 8-0      | 3353   | 176       |
-| 4     | BYU                  | Big 12               | 8-0      | 3249   | 180       |
-| 5     | Georgia Tech         | ACC                  | 8-0      | 3152   | 179       |
-| 6     | Georgia              | SEC                  | 6-1      | 2808   | 77        |
-| 7     | Alabama              | SEC                  | 7-1      | 2805   | 79        |
-| 8     | Oregon               | Big Ten              | 7-1      | 2795   | 139       |
-| 9     | Ole Miss             | SEC                  | 7-1      | 2750   | 78        |
-| 10    | Texas                | SEC                  | 7-2      | 2639   | 79        |
-| 11    | Vanderbilt           | SEC                  | 7-2      | 2577   | 73        |
-| 12    | Louisville           | ACC                  | 6-1      | 2543   | 76        |
-| 13    | Washington           | Big Ten              | 6-2      | 2538   | 77        |
-| 14    | Notre Dame           | FBS Independents     | 5-2      | 2527   | 74        |
-| 15    | Oklahoma             | SEC                  | 6-2      | 2510   | 73        |
-| 16    | Illinois             | Big Ten              | 6-3      | 2508   | 81        |
-| 17    | Texas Tech           | Big 12               | 7-1      | 2481   | 79        |
-| 18    | North Texas          | American Athletic    | 8-1      | 2480   | 78        |
-| 19    | Virginia             | ACC                  | 7-1      | 2477   | 81        |
-| 20    | Utah                 | Big 12               | 6-2      | 2466   | 78        |
-| 21    | Tennessee            | SEC                  | 6-2      | 2461   | 86        |
-| 22    | Miami                | ACC                  | 6-2      | 2460   | 70        |
-| 23    | LSU                  | SEC                  | 5-3      | 2443   | 76        |
-| 24    | Michigan             | Big Ten              | 6-2      | 2432   | 72        |
-| 25    | Missouri             | SEC                  | 6-2      | 2418   | 78        |
+| 1     | Indiana              | Big Ten              | 8-0      | 3507   | 180       |
+| 2     | Ohio State           | Big Ten              | 8-0      | 3475   | 184       |
+| 3     | Texas A&M            | SEC                  | 8-0      | 3347   | 177       |
+| 4     | BYU                  | Big 12               | 8-0      | 3245   | 180       |
+| 5     | Georgia Tech         | ACC                  | 8-0      | 3147   | 179       |
+| 6     | Georgia              | SEC                  | 6-1      | 2803   | 77        |
+| 7     | Alabama              | SEC                  | 7-1      | 2800   | 79        |
+| 8     | Ole Miss             | SEC                  | 7-1      | 2744   | 78        |
+| 9     | Oregon               | Big Ten              | 7-1      | 2744   | 144       |
+| 10    | Texas                | SEC                  | 7-2      | 2633   | 79        |
+| 11    | Vanderbilt           | SEC                  | 7-2      | 2571   | 73        |
+| 12    | Louisville           | ACC                  | 7-1      | 2553   | 78        |
+| 13    | Washington           | Big Ten              | 6-2      | 2532   | 77        |
+| 14    | Notre Dame           | FBS Independents     | 5-2      | 2517   | 74        |
+| 15    | Oklahoma             | SEC                  | 6-2      | 2506   | 73        |
+| 16    | Illinois             | Big Ten              | 6-3      | 2504   | 81        |
+| 17    | Virginia             | ACC                  | 7-1      | 2478   | 82        |
+| 18    | Texas Tech           | Big 12               | 7-1      | 2476   | 79        |
+| 19    | Utah                 | Big 12               | 6-2      | 2461   | 78        |
+| 20    | Tennessee            | SEC                  | 6-2      | 2456   | 86        |
+| 21    | Miami                | ACC                  | 6-2      | 2453   | 70        |
+| 22    | LSU                  | SEC                  | 5-3      | 2435   | 76        |
+| 23    | North Texas          | American Athletic    | 8-1      | 2432   | 79        |
+| 24    | Michigan             | Big Ten              | 6-2      | 2432   | 71        |
+| 25    | Missouri             | SEC                  | 6-2      | 2413   | 78        |
 
-Updated 11/01/2025 18:01:11
+Updated 11/01/2025 18:30:24
