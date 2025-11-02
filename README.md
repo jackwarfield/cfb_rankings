@@ -26,4 +26,4 @@
 | 24    | Michigan             | Big Ten              | 6-2      | 2411   | 71        |
 | 25    | North Texas          | American Athletic    | 8-1      | 2391   | 79        |
 
-Updated 11/01/2025 21:00:27
+Updated 11/01/2025 21:30:15
