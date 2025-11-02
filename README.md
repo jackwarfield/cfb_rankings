@@ -26,4 +26,4 @@
 | 24    | USC                  | Big Ten              | 6-2      | 2413   | 71        |
 | 25    | North Texas          | American Athletic    | 8-1      | 2401   | 79        |
 
-Updated 11/01/2025 23:00:28
+Updated 11/01/2025 23:00:29
