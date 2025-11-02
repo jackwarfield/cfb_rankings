@@ -26,4 +26,4 @@
 | 24    | Tennessee            | SEC                  | 6-3      | 2368   | 79        |
 | 25    | Georgia Tech         | ACC                  | 8-1      | 2368   | 77        |
 
-Updated 11/02/2025 04:00:27
+Updated 11/02/2025 08:00:17
