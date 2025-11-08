@@ -3,7 +3,7 @@
 | 1     | Indiana              | Big Ten              | 9-0      | 3548   | 196       |
 | 2     | Ohio State           | Big Ten              | 8-0      | 3497   | 189       |
 | 3     | Texas A&M            | SEC                  | 8-0      | 3361   | 182       |
-| 4     | BYU                  | Big 12               | 8-0      | 3300   | 185       |
+| 4     | BYU                  | Big 12               | 8-0      | 3299   | 185       |
 | 5     | Georgia              | SEC                  | 7-1      | 2817   | 80        |
 | 6     | Alabama              | SEC                  | 7-1      | 2796   | 80        |
 | 7     | Ole Miss             | SEC                  | 8-1      | 2770   | 81        |
@@ -11,7 +11,7 @@
 | 9     | Texas                | SEC                  | 7-2      | 2653   | 79        |
 | 10    | Louisville           | ACC                  | 7-1      | 2586   | 78        |
 | 11    | Vanderbilt           | SEC                  | 7-2      | 2575   | 73        |
-| 12    | Oklahoma             | SEC                  | 7-2      | 2566   | 73        |
+| 12    | Oklahoma             | SEC                  | 7-2      | 2565   | 73        |
 | 13    | Utah                 | Big 12               | 7-2      | 2529   | 79        |
 | 14    | Notre Dame           | FBS Independents     | 6-2      | 2528   | 78        |
 | 15    | Texas Tech           | Big 12               | 8-1      | 2521   | 81        |
@@ -26,4 +26,4 @@
 | 24    | Georgia Tech         | ACC                  | 8-1      | 2375   | 77        |
 | 25    | Tennessee            | SEC                  | 6-3      | 2374   | 79        |
 
-Updated 11/08/2025 13:30:17
+Updated 11/08/2025 14:00:32
