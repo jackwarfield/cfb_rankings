@@ -26,4 +26,4 @@
 | 24    | Arizona State        | Big 12               | 6-3      | 2360   | 68        |
 | 25    | North Texas          | American Athletic    | 8-1      | 2324   | 80        |
 
-Updated 11/08/2025 20:00:48
+Updated 11/08/2025 20:00:50
