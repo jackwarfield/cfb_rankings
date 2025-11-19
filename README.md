@@ -26,4 +26,4 @@
 | 24    | North Texas          | American Athletic    | 9-1      | 2322   | 81        |
 | 25    | Georgia Tech         | ACC                  | 9-1      | 2303   | 79        |
 
-Updated 11/19/2025 08:00:24
+Updated 11/19/2025 18:00:21
