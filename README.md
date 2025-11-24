@@ -26,4 +26,4 @@
 | 24    | Iowa                 | Big Ten              | 7-4      | 2259   | 75        |
 | 25    | Washington           | Big Ten              | 8-3      | 2257   | 75        |
 
-Updated 11/23/2025 21:00:34
+Updated 11/23/2025 22:00:19
