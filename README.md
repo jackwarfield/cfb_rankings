@@ -26,4 +26,4 @@
 | 24    | Tulane               | American Athletic    | 9-2      | 2258   | 79        |
 | 25    | Iowa                 | Big Ten              | 7-4      | 2255   | 75        |
 
-Updated 11/28/2025 01:00:32
+Updated 11/28/2025 02:00:28
