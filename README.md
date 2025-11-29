@@ -26,4 +26,4 @@
 | 24    | Arizona State        | Big 12               | 8-4      | 2294   | 68        |
 | 25    | Navy                 | American Athletic    | 9-2      | 2283   | 77        |
 
-Updated 11/29/2025 02:30:17
+Updated 11/29/2025 03:00:41
