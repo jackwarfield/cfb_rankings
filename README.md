@@ -26,4 +26,4 @@
 | 24    | Navy                 | American Athletic    | 9-2      | 2294   | 78        |
 | 25    | Washington           | Big Ten              | 8-3      | 2260   | 75        |
 
-Updated 11/28/2025 21:00:31
+Updated 11/28/2025 22:00:35
