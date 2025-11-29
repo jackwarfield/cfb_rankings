@@ -24,6 +24,6 @@
 | 22    | Miami                | ACC                  | 9-2      | 2325   | 74        |
 | 23    | Iowa                 | Big Ten              | 8-4      | 2301   | 74        |
 | 24    | Arizona State        | Big 12               | 8-4      | 2294   | 68        |
-| 25    | Navy                 | American Athletic    | 9-2      | 2283   | 77        |
+| 25    | Navy                 | American Athletic    | 9-2      | 2282   | 77        |
 
-Updated 11/29/2025 14:00:35
+Updated 11/29/2025 14:30:26
