@@ -26,4 +26,4 @@
 | 24    | Arizona State        | Big 12               | 8-4      | 2287   | 69        |
 | 25    | Illinois             | Big Ten              | 8-4      | 2275   | 75        |
 
-Updated 12/06/2025 12:30:22
+Updated 12/06/2025 13:00:43
