@@ -14,16 +14,16 @@
 | 12    | Vanderbilt           | SEC                  | 10-2     | 2616   | 77        |
 | 13    | Utah                 | Big 12               | 10-2     | 2517   | 82        |
 | 14    | Notre Dame           | FBS Independents     | 10-2     | 2509   | 79        |
-| 15    | Michigan             | Big Ten              | 9-3      | 2450   | 80        |
+| 15    | Michigan             | Big Ten              | 9-3      | 2451   | 80        |
 | 16    | USC                  | Big Ten              | 9-3      | 2448   | 74        |
 | 17    | Tennessee            | SEC                  | 8-4      | 2373   | 81        |
 | 18    | Tulane               | American Athletic    | 11-2     | 2361   | 82        |
-| 19    | Miami                | ACC                  | 10-2     | 2353   | 74        |
+| 19    | Miami                | ACC                  | 10-2     | 2354   | 74        |
 | 20    | Missouri             | SEC                  | 8-4      | 2349   | 81        |
 | 21    | LSU                  | SEC                  | 7-5      | 2329   | 81        |
 | 22    | Arizona              | Big 12               | 9-3      | 2316   | 70        |
 | 23    | Iowa                 | Big Ten              | 8-4      | 2315   | 74        |
 | 24    | Arizona State        | Big 12               | 8-4      | 2294   | 69        |
-| 25    | Illinois             | Big Ten              | 8-4      | 2280   | 75        |
+| 25    | Illinois             | Big Ten              | 8-4      | 2281   | 75        |
 
-Updated 12/06/2025 15:30:43
+Updated 12/06/2025 16:00:52
