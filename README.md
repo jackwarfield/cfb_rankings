@@ -11,7 +11,7 @@
 | 9     | Texas A&M            | SEC                  | 11-1     | 2722   | 86        |
 | 10    | Alabama              | SEC                  | 10-3     | 2697   | 78        |
 | 11    | BYU                  | Big 12               | 11-2     | 2633   | 79        |
-| 12    | Vanderbilt           | SEC                  | 10-2     | 2607   | 77        |
+| 12    | Vanderbilt           | SEC                  | 10-2     | 2608   | 77        |
 | 13    | Utah                 | Big 12               | 10-2     | 2514   | 82        |
 | 14    | Notre Dame           | FBS Independents     | 10-2     | 2507   | 79        |
 | 15    | Michigan             | Big Ten              | 9-3      | 2450   | 80        |
@@ -26,4 +26,4 @@
 | 24    | Arizona State        | Big 12               | 8-4      | 2291   | 69        |
 | 25    | Illinois             | Big Ten              | 8-4      | 2288   | 75        |
 
-Updated 12/13/2025 14:30:25
+Updated 12/13/2025 15:00:57
