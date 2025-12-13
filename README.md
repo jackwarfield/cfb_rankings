@@ -17,7 +17,7 @@
 | 15    | Michigan             | Big Ten              | 9-3      | 2453   | 80        |
 | 16    | USC                  | Big Ten              | 9-3      | 2453   | 74        |
 | 17    | Tennessee            | SEC                  | 8-4      | 2367   | 81        |
-| 18    | Tulane               | American Athletic    | 11-2     | 2367   | 83        |
+| 18    | Tulane               | American Athletic    | 11-2     | 2366   | 83        |
 | 19    | Miami                | ACC                  | 10-2     | 2347   | 75        |
 | 20    | Missouri             | SEC                  | 8-4      | 2340   | 81        |
 | 21    | LSU                  | SEC                  | 7-5      | 2323   | 81        |
@@ -26,4 +26,4 @@
 | 24    | Illinois             | Big Ten              | 8-4      | 2290   | 75        |
 | 25    | Arizona State        | Big 12               | 8-4      | 2289   | 69        |
 
-Updated 12/13/2025 15:30:55
+Updated 12/13/2025 16:00:41
