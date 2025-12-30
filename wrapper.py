@@ -56,9 +56,9 @@ sched = sched.sort_values('start_date', ascending=True)
 sched = sched.reset_index(drop=True)
 sched2 = pd.read_csv(f'games{targyear}.csv')
 sched2 = sched2[
-    (sched.home_points.notna())
-    & (sched.away_points.notna())
-    & (sched.home_points != sched.away_points)
+    (sched2.home_points.notna())
+    & (sched2.away_points.notna())
+    & (sched2.home_points != sched2.away_points)
 ]
 sched2 = sched2.sort_values('start_date', ascending=True).reset_index(
     drop=True
