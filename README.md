@@ -26,4 +26,4 @@
 | 24    | Washington           | Big Ten              | 9-4      | 2306   | 79        |
 | 25    | North Texas          | American Athletic    | 12-2     | 2265   | 77        |
 
-Updated 12/30/2025 21:00:20
+Updated 12/30/2025 22:00:25
