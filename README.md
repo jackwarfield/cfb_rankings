@@ -26,4 +26,4 @@
 | 24    | Tennessee            | SEC                  | 8-4      | 2298   | 80        |
 | 25    | Washington           | Big Ten              | 9-4      | 2287   | 78        |
 
-Updated 12/30/2025 19:00:26
+Updated 12/30/2025 20:00:22
