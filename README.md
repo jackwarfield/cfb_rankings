@@ -26,4 +26,4 @@
 | 24    | North Texas          | American Athletic    | 12-2     | 2273   | 77        |
 | 25    | Iowa State           | Big 12               | 8-4      | 2264   | 70        |
 
-Updated 12/31/2025 23:00:22
+Updated 01/01/2026 01:00:25
