@@ -1,13 +1,13 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Indiana              | Big Ten              | 13-0     | 4282   | 231       |
-| 2     | Oregon               | Big Ten              | 13-1     | 3468   | 173       |
+| 1     | Indiana              | Big Ten              | 14-0     | 4309   | 240       |
+| 2     | Oregon               | Big Ten              | 13-1     | 3476   | 175       |
 | 3     | Georgia              | SEC                  | 12-1     | 2869   | 87        |
-| 4     | Texas Tech           | Big 12               | 12-2     | 2805   | 87        |
+| 4     | Texas Tech           | Big 12               | 12-2     | 2806   | 87        |
 | 5     | Ole Miss             | SEC                  | 12-1     | 2793   | 90        |
-| 6     | Ohio State           | Big Ten              | 12-2     | 2695   | 87        |
-| 7     | BYU                  | Big 12               | 12-2     | 2682   | 79        |
-| 8     | Alabama              | SEC                  | 11-3     | 2614   | 77        |
+| 6     | Ohio State           | Big Ten              | 12-2     | 2694   | 87        |
+| 7     | BYU                  | Big 12               | 12-2     | 2683   | 79        |
+| 8     | Alabama              | SEC                  | 11-4     | 2613   | 79        |
 | 9     | Texas                | SEC                  | 10-3     | 2585   | 75        |
 | 10    | Miami                | ACC                  | 12-2     | 2568   | 80        |
 | 11    | Oklahoma             | SEC                  | 10-3     | 2556   | 73        |
@@ -26,4 +26,4 @@
 | 24    | North Texas          | American Athletic    | 12-2     | 2273   | 77        |
 | 25    | Iowa State           | Big 12               | 8-4      | 2262   | 70        |
 
-Updated 01/01/2026 19:00:28
+Updated 01/01/2026 20:00:24
