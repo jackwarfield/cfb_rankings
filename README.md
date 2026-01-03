@@ -26,4 +26,4 @@
 | 24    | TCU                  | Big 12               | 9-4      | 2292   | 68        |
 | 25    | North Texas          | American Athletic    | 12-2     | 2284   | 78        |
 
-Updated 01/02/2026 22:00:33
+Updated 01/02/2026 23:00:24
