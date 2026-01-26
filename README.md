@@ -26,4 +26,4 @@
 | 24    | Houston              | Big 12               | 10-3     | 2281   | 73        |
 | 25    | Washington           | Big Ten              | 9-4      | 2257   | 76        |
 
-Updated 01/26/2026 08:00:16
+Updated 01/26/2026 18:00:14
