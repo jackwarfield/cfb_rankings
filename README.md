@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Indiana              | Big Ten              | 2-0      | 2595   | 88        |
-| 2     | Oregon               | Big Ten              | 2-0      | 2449   | 86        |
-| 3     | Ohio State           | Big Ten              | 2-0      | 2437   | 81        |
-| 4     | Notre Dame           | FBS Independents     | 2-0      | 2275   | 81        |
-| 5     | Georgia              | SEC                  | 2-0      | 2254   | 72        |
-| 6     | Texas                | SEC                  | 2-0      | 2210   | 73        |
-| 7     | Ole Miss             | SEC                  | 2-0      | 2165   | 73        |
-| 8     | Miami                | ACC                  | 2-0      | 2139   | 75        |
-| 9     | Alabama              | SEC                  | 2-0      | 2104   | 68        |
-| 10    | BYU                  | Big 12               | 2-0      | 2080   | 72        |
-| 11    | Texas A&M            | SEC                  | 2-0      | 2045   | 70        |
-| 12    | Michigan             | Big Ten              | 1-0      | 2045   | 72        |
-| 13    | Illinois             | Big Ten              | 2-0      | 2029   | 72        |
-| 14    | Penn State           | Big Ten              | 2-0      | 2026   | 73        |
-| 15    | Oklahoma             | SEC                  | 1-1      | 2016   | 65        |
-| 16    | Texas Tech           | Big 12               | 2-0      | 1993   | 70        |
-| 17    | Iowa                 | Big Ten              | 1-0      | 1979   | 67        |
-| 18    | Vanderbilt           | SEC                  | 1-0      | 1963   | 66        |
-| 19    | USC                  | Big Ten              | 1-1      | 1961   | 67        |
-| 20    | Tennessee            | SEC                  | 1-0      | 1960   | 70        |
-| 21    | Iowa State           | Big 12               | 2-0      | 1957   | 67        |
-| 22    | SMU                  | ACC                  | 2-0      | 1937   | 68        |
-| 23    | TCU                  | Big 12               | 1-0      | 1928   | 65        |
-| 24    | Arizona State        | Big 12               | 2-0      | 1926   | 66        |
-| 25    | LSU                  | SEC                  | 1-1      | 1921   | 65        |
+| 1     | Indiana              | Big Ten              | 16-0     | 4453   | 254       |
+| 2     | Oregon               | Big Ten              | 13-2     | 3456   | 177       |
+| 3     | Texas Tech           | Big 12               | 12-2     | 2776   | 87        |
+| 4     | Ohio State           | Big Ten              | 12-2     | 2722   | 88        |
+| 5     | Ole Miss             | SEC                  | 13-2     | 2717   | 78        |
+| 6     | Georgia              | SEC                  | 12-2     | 2712   | 77        |
+| 7     | Miami                | ACC                  | 13-3     | 2702   | 81        |
+| 8     | BYU                  | Big 12               | 12-2     | 2652   | 79        |
+| 9     | Texas                | SEC                  | 10-3     | 2562   | 74        |
+| 10    | Alabama              | SEC                  | 11-4     | 2558   | 76        |
+| 11    | Notre Dame           | FBS Independents     | 10-2     | 2536   | 78        |
+| 12    | Utah                 | Big 12               | 11-2     | 2525   | 83        |
+| 13    | Oklahoma             | SEC                  | 10-3     | 2520   | 72        |
+| 14    | Texas A&M            | SEC                  | 11-2     | 2516   | 78        |
+| 15    | Iowa                 | Big Ten              | 9-4      | 2396   | 74        |
+| 16    | Tulane               | American Athletic    | 11-3     | 2369   | 79        |
+| 17    | USC                  | Big Ten              | 9-4      | 2366   | 71        |
+| 18    | Vanderbilt           | SEC                  | 10-3     | 2360   | 72        |
+| 19    | Michigan             | Big Ten              | 9-4      | 2344   | 72        |
+| 20    | Illinois             | Big Ten              | 9-4      | 2331   | 72        |
+| 21    | Navy                 | American Athletic    | 11-2     | 2314   | 77        |
+| 22    | TCU                  | Big 12               | 9-4      | 2288   | 68        |
+| 23    | North Texas          | American Athletic    | 12-2     | 2283   | 77        |
+| 24    | Houston              | Big 12               | 10-3     | 2281   | 73        |
+| 25    | Washington           | Big Ten              | 9-4      | 2257   | 76        |
 
-Updated 01/31/2026 20:00:13
+Updated 01/31/2026 20:30:11
