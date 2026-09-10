@@ -1,266 +1,451 @@
 id,season,week,season_type,start_date,neutral_site,conference_game,home_id,home_team,home_points,away_id,away_team,away_points,home_level,away_level
-401907002,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2128,Charleston (WV),10.0,125,Grand Valley State,38.0,ii,ii
-401906139,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,330,Virginia State,44.0,122666,Barton,17.0,ii,ii
-401906048,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2839,Tusculum,42.0,124180,Bluefield State,7.0,ii,ii
-401896383,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2413,Morehead State,40.0,2477,Ohio Dominican,42.0,fcs,ii
-401867894,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2754,Youngstown State,43.0,2385,Mercyhurst,10.0,fcs,fcs
 401866615,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2169,Delaware State,41.0,2619,Stony Brook,34.0,fcs,fcs
-401866532,2026,1,regular,2026-08-27 22:00:00+00:00,False,True,119,Towson,18.0,311,Maine,21.0,fcs,fcs
+401907195,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2292,Indianapolis,39.0,2366,Marian (IN),7.0,ii,
+401906839,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,3077,Kentucky Christian,44.0,2316,Kentucky Wesleyan,24.0,,ii
+401907002,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2128,Charleston (WV),10.0,125,Grand Valley State,38.0,ii,ii
+401906048,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2839,Tusculum,42.0,124180,Bluefield State,7.0,ii,ii
+401906139,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,330,Virginia State,44.0,122666,Barton,17.0,ii,ii
+401896383,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2413,Morehead State,40.0,2477,Ohio Dominican,42.0,fcs,ii
 401906193,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2882,UNC Pembroke,21.0,351,Wingate,13.0,ii,ii
+401867894,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,2754,Youngstown State,43.0,2385,Mercyhurst,10.0,fcs,fcs
 401907643,2026,1,regular,2026-08-27 22:00:00+00:00,False,False,215,Slippery Rock,45.0,134,Minnesota Duluth,43.0,ii,ii
-401866614,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2210,Elon,42.0,2249,Glenville State,7.0,fcs,ii
-401868060,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2046,Austin Peay,35.0,2241,Gardner-Webb,17.0,fcs,fcs
-401868279,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2900,St. Thomas (MN),15.0,2851,Winona State,9.0,fcs,ii
-401906993,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,132,Bemidji State,29.0,2392,Michigan Tech,31.0,ii,ii
-401907346,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,102626,Texas Wesleyan,7.0,2122,Central Oklahoma,59.0,,ii
-401868240,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2698,West Georgia,10.0,236,Chattanooga,24.0,fcs,fcs
-401868315,2026,1,regular,2026-08-27 23:00:00+00:00,False,True,2545,SE Louisiana,28.0,2277,Houston Christian,34.0,fcs,fcs
-401868273,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2506,Presbyterian,47.0,2842,UVA Wise,37.0,fcs,ii
-401868169,2026,1,regular,2026-08-27 23:00:00+00:00,False,True,2815,Lindenwood,20.0,2127,Charleston Southern,17.0,fcs,fcs
-401868373,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,231,Furman,20.0,129469,Anderson (SC),3.0,fcs,ii
-401907120,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,425,Northern State,42.0,2123,Chadron State,17.0,ii,ii
-401874035,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,110242,West Florida,34.0,79,Southern Illinois,31.0,fcs,fcs
-401868204,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2710,Western Illinois,65.0,2471,Northwestern (IA),14.0,fcs,
-401907110,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2894,Sioux Falls,21.0,2069,Black Hills State,24.0,ii,ii
+401866532,2026,1,regular,2026-08-27 22:00:00+00:00,False,True,119,Towson,18.0,311,Maine,21.0,fcs,fcs
 401906943,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2817,Minnesota St Moorhead,41.0,128,Northern Michigan,19.0,ii,ii
+401866614,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2210,Elon,42.0,2249,Glenville State,7.0,fcs,ii
+401896384,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2166,Davidson,35.0,2148,Concord,41.0,fcs,ii
+401868962,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2447,Nicholls,44.0,2400,Mississippi Valley State,10.0,fcs,fcs
 401867865,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,93,Murray State,14.0,2197,Eastern Illinois,28.0,fcs,fcs
+401868204,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2710,Western Illinois,65.0,2471,Northwestern (IA),14.0,fcs,
+401906620,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2699,West Liberty,27.0,2682,Walsh,30.0,ii,ii
+401907120,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,425,Northern State,42.0,2123,Chadron State,17.0,ii,ii
+401907110,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2894,Sioux Falls,21.0,2069,Black Hills State,24.0,ii,ii
+401906993,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,132,Bemidji State,29.0,2392,Michigan Tech,31.0,ii,ii
+401868373,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,231,Furman,20.0,129469,Anderson (SC),3.0,fcs,ii
+401868273,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2506,Presbyterian,47.0,2842,UVA Wise,37.0,fcs,ii
 401906631,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2105,Carson Newman,41.0,2838,Tiffin,38.0,ii,ii
 401906602,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2673,Valdosta State,38.0,2213,Emory & Henry,10.0,ii,ii
-401906620,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2699,West Liberty,27.0,2682,Walsh,30.0,ii,ii
-401906902,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,129,Saginaw Valley State,48.0,2816,McKendree,24.0,ii,ii
-401907356,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,568,Minot State,30.0,2214,Emporia State,36.0,ii,ii
-401907239,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2586,Southwest Baptist,63.0,129741,William Woods,6.0,ii,
-401868962,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2447,Nicholls,44.0,2400,Mississippi Valley State,10.0,fcs,fcs
-401896384,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2166,Davidson,35.0,2148,Concord,41.0,fcs,ii
 401907381,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2438,Nebraska Kearney,20.0,2844,Wayne State (NE),21.0,ii,ii
+401906902,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,129,Saginaw Valley State,48.0,2816,McKendree,24.0,ii,ii
+401907346,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,102626,Texas Wesleyan,7.0,2122,Central Oklahoma,59.0,,ii
+401868060,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2046,Austin Peay,35.0,2241,Gardner-Webb,17.0,fcs,fcs
+401907239,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2586,Southwest Baptist,63.0,129741,William Woods,6.0,ii,
+401907536,2026,1,regular,2026-08-27 23:00:00+00:00,False,True,611,Seton Hill,20.0,2188,East Stroudsburg,27.0,ii,ii
+401874035,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,110242,West Florida,34.0,79,Southern Illinois,31.0,fcs,fcs
+401907356,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,568,Minot State,30.0,2214,Emporia State,36.0,ii,ii
+401868315,2026,1,regular,2026-08-27 23:00:00+00:00,False,True,2545,SE Louisiana,28.0,2277,Houston Christian,34.0,fcs,fcs
+401868279,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2900,St. Thomas (MN),15.0,2851,Winona State,9.0,fcs,ii
+401868240,2026,1,regular,2026-08-27 23:00:00+00:00,False,False,2698,West Georgia,10.0,236,Chattanooga,24.0,fcs,fcs
+401868169,2026,1,regular,2026-08-27 23:00:00+00:00,False,True,2815,Lindenwood,20.0,2127,Charleston Southern,17.0,fcs,fcs
 401868070,2026,1,regular,2026-08-27 23:30:00+00:00,False,False,2630,UT Martin,24.0,2110,Central Arkansas,36.0,fcs,fcs
-401868254,2026,1,regular,2026-08-27 23:30:00+00:00,False,False,2181,Drake,35.0,613,South Dakota Mines,38.0,fcs,ii
 401907234,2026,1,regular,2026-08-27 23:30:00+00:00,False,False,3066,Concordia St. Paul,38.0,2825,Quincy,21.0,ii,ii
-401907724,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2587,Southwest Minnesota State,10.0,628,Valley City State,7.0,ii,
-401907376,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,137,Missouri Western,58.0,2043,Augustana (SD),63.0,ii,ii
-401907161,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2704,West Texas,21.0,2714,Western Colorado,52.0,ii,ii
-401907099,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2001,Adams State,45.0,2703,Western New Mexico,62.0,ii,ii
-401907007,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,90,Pittsburg State,14.0,2222,Ferris State,42.0,ii,ii
-401907275,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2025,Angelo State,14.0,2231,Fort Hays,35.0,ii,ii
-401907155,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2424,New Mexico Highlands,35.0,2201,Eastern New Mexico,34.0,ii,ii
-401907144,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2570,CSU Pueblo,44.0,2118,Central Missouri,25.0,ii,ii
-401867874,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,155,North Dakota,42.0,2341,Long Island University,21.0,fcs,fcs
+401868254,2026,1,regular,2026-08-27 23:30:00+00:00,False,False,2181,Drake,35.0,613,South Dakota Mines,38.0,fcs,ii
 401869128,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2466,Northwestern State,37.0,2347,Louisiana Christian,42.0,fcs,
 401907129,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,11,Colorado Mesa,14.0,2364,Minnesota State,38.0,ii,ii
+401907144,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2570,CSU Pueblo,44.0,2118,Central Missouri,25.0,ii,ii
+401867874,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,155,North Dakota,42.0,2341,Long Island University,21.0,fcs,fcs
+401907155,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2424,New Mexico Highlands,35.0,2201,Eastern New Mexico,34.0,ii,ii
+401907376,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,137,Missouri Western,58.0,2043,Augustana (SD),63.0,ii,ii
+401907099,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2001,Adams State,45.0,2703,Western New Mexico,62.0,ii,ii
+401907161,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2704,West Texas,21.0,2714,Western Colorado,52.0,ii,ii
+401907724,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2587,Southwest Minnesota State,10.0,628,Valley City State,7.0,ii,
+401907007,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,90,Pittsburg State,14.0,2222,Ferris State,42.0,ii,ii
+401907275,2026,1,regular,2026-08-28 00:00:00+00:00,False,False,2025,Angelo State,14.0,2231,Fort Hays,35.0,ii,ii
 401907702,2026,1,regular,2026-08-28 00:30:00+00:00,True,False,559,University of Mary,10.0,2826,Rocky Mountain,23.0,ii,
-401906145,2026,1,regular,2026-08-28 22:00:00+00:00,False,False,2331,Lenoir Rhyne,45.0,2676,Virginia Union,3.0,ii,ii
-401866617,2026,1,regular,2026-08-28 22:00:00+00:00,False,False,2771,Merrimack,7.0,227,Rhode Island,34.0,fcs,fcs
-401868261,2026,1,regular,2026-08-28 22:00:00+00:00,False,False,2441,New Haven,22.0,2368,Marist,21.0,fcs,fcs
-401868007,2026,1,regular,2026-08-28 22:00:00+00:00,False,True,2230,Fordham,14.0,2142,Colgate,24.0,fcs,fcs
 401868040,2026,1,regular,2026-08-28 22:00:00+00:00,False,True,222,Villanova,32.0,2729,William & Mary,35.0,fcs,fcs
+401906145,2026,1,regular,2026-08-28 22:00:00+00:00,False,False,2331,Lenoir Rhyne,45.0,2676,Virginia Union,3.0,ii,ii
+401868261,2026,1,regular,2026-08-28 22:00:00+00:00,False,False,2441,New Haven,22.0,2368,Marist,21.0,fcs,fcs
+401866617,2026,1,regular,2026-08-28 22:00:00+00:00,False,False,2771,Merrimack,7.0,227,Rhode Island,34.0,fcs,fcs
+401868007,2026,1,regular,2026-08-28 22:00:00+00:00,False,True,2230,Fordham,14.0,2142,Colgate,24.0,fcs,fcs
 401866616,2026,1,regular,2026-08-28 23:00:00+00:00,False,True,399,UAlbany,28.0,160,New Hampshire,14.0,fcs,fcs
 401868129,2026,1,regular,2026-08-29 01:00:00+00:00,False,True,2458,Northern Colorado,29.0,2692,Weber State,30.0,fcs,fcs
 401868073,2026,1,regular,2026-08-29 02:00:00+00:00,False,True,13,Cal Poly,38.0,70,Idaho,34.0,fcs,fcs
-401856766,2026,1,regular,2026-08-29 16:00:00+00:00,True,False,2628,TCU,10.0,153,North Carolina,15.0,fbs,fbs
+401907012,2026,1,regular,2026-08-29 16:00:00+00:00,False,False,110254,Davenport,32.0,367,Gannon,20.0,ii,ii
+401906177,2026,1,regular,2026-08-29 16:00:00+00:00,False,False,2707,West Virginia State,56.0,2804,Chowan,24.0,ii,ii
 401868792,2026,1,regular,2026-08-29 16:00:00+00:00,False,False,2168,Dayton,43.0,2986,Fairmont State,20.0,fcs,ii
 401867916,2026,1,regular,2026-08-29 16:00:00+00:00,False,True,2681,Wagner,7.0,2523,Robert Morris,28.0,fcs,fcs
-401907012,2026,1,regular,2026-08-29 16:00:00+00:00,False,False,110254,Davenport,32.0,367,Gannon,20.0,ii,ii
 401906641,2026,1,regular,2026-08-29 16:00:00+00:00,False,False,112335,Wheeling,27.0,2646,Thomas More,10.0,ii,ii
-401906177,2026,1,regular,2026-08-29 16:00:00+00:00,False,False,2707,West Virginia State,56.0,2804,Chowan,24.0,ii,ii
-401907631,2026,1,regular,2026-08-29 17:00:00+00:00,False,True,2559,Shippensburg,16.0,209,Lock Haven,24.0,ii,ii
-401906205,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2560,Shorter,65.0,134002,Andrew,6.0,ii,
-401907454,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2022,American International,17.0,134001,Monroe,3.0,ii,
-401869156,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2130,Chicago State,28.0,127991,Roosevelt,44.0,fcs,ii
-401868209,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2086,Butler,27.0,2245,Georgetown College Kentucky,23.0,fcs,
+401856766,2026,1,regular,2026-08-29 16:00:00+00:00,True,False,2628,TCU,10.0,153,North Carolina,15.0,fbs,fbs
 401907576,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,455,West Virginia Wesleyan,31.0,126086,Post,13.0,ii,ii
+401906205,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2560,Shorter,20.0,134002,Andrew,24.0,ii,
+401868209,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2086,Butler,27.0,2245,Georgetown College Kentucky,23.0,fcs,
+401907454,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2022,American International,17.0,134001,Monroe,3.0,ii,
+401906126,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2207,Elizabeth City State,14.0,2232,Fort Valley State,17.0,ii,ii
+401906588,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,196,Northeastern State,52.0,2170,Delta State,0.0,ii,ii
+401869156,2026,1,regular,2026-08-29 17:00:00+00:00,False,False,2130,Chicago State,28.0,127991,Roosevelt,44.0,fcs,ii
+401907631,2026,1,regular,2026-08-29 17:00:00+00:00,False,True,2559,Shippensburg,16.0,209,Lock Haven,24.0,ii,ii
+401906185,2026,1,regular,2026-08-29 17:30:00+00:00,False,False,495,BLUEFIELD,20.0,101784,Erskine,37.0,,ii
 401907137,2026,1,regular,2026-08-29 18:00:00+00:00,False,False,2146,Colorado School of Mines,20.0,2848,Western Oregon,22.0,ii,ii
-401867882,2026,1,regular,2026-08-29 18:00:00+00:00,False,False,233,South Dakota,59.0,2115,Central Connecticut,20.0,fcs,fcs
 401868288,2026,1,regular,2026-08-29 18:00:00+00:00,False,False,2674,Valparaiso,59.0,102071,Lawrence Tech,13.0,fcs,
+401867882,2026,1,regular,2026-08-29 18:00:00+00:00,False,False,233,South Dakota,59.0,2115,Central Connecticut,20.0,fcs,fcs
 401868154,2026,1,regular,2026-08-29 19:00:00+00:00,False,True,2502,Portland State,24.0,302,UC Davis,31.0,fcs,fcs
-401907246,2026,1,regular,2026-08-29 19:00:00+00:00,False,False,389,Upper Iowa,30.0,2939,Jamestown,13.0,ii,ii
 401864494,2026,1,regular,2026-08-29 19:00:00+00:00,False,False,30,USC,42.0,23,San José State,26.0,fbs,fbs
-401868324,2026,1,regular,2026-08-29 19:00:00+00:00,True,True,2011,Alabama State,30.0,2582,Southern,17.0,fcs,fcs
+401907246,2026,1,regular,2026-08-29 19:00:00+00:00,False,False,389,Upper Iowa,30.0,2939,Jamestown,13.0,ii,ii
 401906949,2026,1,regular,2026-08-29 19:00:00+00:00,False,True,2119,Central State,14.0,2310,Kentucky State,41.0,ii,ii
-401858202,2026,1,regular,2026-08-29 19:30:00+00:00,False,True,258,Virginia,34.0,152,NC State,8.0,fbs,fbs
+401868324,2026,1,regular,2026-08-29 19:00:00+00:00,True,True,2011,Alabama State,30.0,2582,Southern,17.0,fcs,fcs
 401868022,2026,1,regular,2026-08-29 19:30:00+00:00,False,True,107,Holy Cross,10.0,2329,Lehigh,35.0,fcs,fcs
+401858202,2026,1,regular,2026-08-29 19:30:00+00:00,False,True,258,Virginia,34.0,152,NC State,8.0,fbs,fbs
 401906157,2026,1,regular,2026-08-29 21:00:00+00:00,False,False,490,Benedict,32.0,2304,Johnson C. Smith,10.0,ii,ii
 401868084,2026,1,regular,2026-08-29 21:00:00+00:00,False,True,2464,Northern Arizona,34.0,331,Eastern Washington,27.0,fcs,fcs
-401866620,2026,1,regular,2026-08-29 21:30:00+00:00,False,False,2193,East Tennessee State,37.0,2097,Campbell,49.0,fcs,fcs
 401864577,2026,1,regular,2026-08-29 21:30:00+00:00,False,False,2449,North Dakota State,33.0,55,Jacksonville State,7.0,fbs,fbs
-401866618,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2448,North Carolina A&T,7.0,2415,Morgan State,17.0,fcs,fcs
+401866620,2026,1,regular,2026-08-29 21:30:00+00:00,False,False,2193,East Tennessee State,37.0,2097,Campbell,49.0,fcs,fcs
 401866619,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,284,Stonehill,6.0,2803,Bryant,24.0,fcs,fcs
-401906162,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2940,Livingstone,16.0,2019,Allen,37.0,ii,ii
+401866618,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2448,North Carolina A&T,7.0,2415,Morgan State,17.0,fcs,fcs
+401866613,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2261,Hampton,45.0,2355,Virginia Lynchburg,0.0,fcs,
 401867982,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2569,South Carolina State,87.0,2542,Savannah State,0.0,fcs,ii
+401868394,2026,1,regular,2026-08-29 22:00:00+00:00,False,True,2747,Wofford,42.0,2643,The Citadel,14.0,fcs,fcs
+401906162,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2940,Livingstone,16.0,2019,Allen,37.0,ii,ii
+401907403,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,366,Ferrum,7.0,2107,Catawba,13.0,ii,ii
+401867972,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2450,Norfolk State,56.0,2736,Winston-Salem State,0.0,fcs,ii
 401867855,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,282,Indiana State,21.0,2546,Southeast Missouri State,23.0,fcs,fcs
 401906956,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2206,Edward Waters,42.0,125762,Florida Memorial University,28.0,ii,
-401868394,2026,1,regular,2026-08-29 22:00:00+00:00,False,True,2747,Wofford,42.0,2643,The Citadel,14.0,fcs,fcs
 401906151,2026,1,regular,2026-08-29 22:00:00+00:00,False,True,2220,Fayetteville State,33.0,2551,Shaw,20.0,ii,ii
-401867972,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2450,Norfolk State,56.0,2736,Winston-Salem State,0.0,fcs,ii
-401868101,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,304,Idaho State,38.0,2678,VMI,10.0,fcs,fcs
-401866613,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,2261,Hampton,45.0,2355,Virginia Lynchburg,0.0,fcs,
 401867988,2026,1,regular,2026-08-29 22:00:00+00:00,False,True,257,Richmond,35.0,2083,Bucknell,14.0,fcs,fcs
-401907403,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,366,Ferrum,7.0,2107,Catawba,13.0,ii,ii
+401868101,2026,1,regular,2026-08-29 22:00:00+00:00,False,False,304,Idaho State,38.0,2678,VMI,10.0,fcs,fcs
 401866408,2026,1,regular,2026-08-29 22:30:00+00:00,False,True,2199,Eastern Michigan,28.0,16,Sacramento State,17.0,fbs,fbs
-401858201,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,24,Stanford,37.0,62,Hawai'i,27.0,fbs,fbs
-401896385,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2016,Alcorn State,56.0,2396,Miles,7.0,fcs,ii
-401868139,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2717,Western Carolina,45.0,2198,Eastern Kentucky,21.0,fcs,fcs
-401891332,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2287,Illinois State,76.0,2595,St. Francis (IL),0.0,fcs,
-401864570,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,52,Florida State,34.0,166,New Mexico State,17.0,fbs,fbs
-401868305,2026,1,regular,2026-08-29 23:00:00+00:00,False,True,2377,McNeese,27.0,2617,Stephen F. Austin,38.0,fcs,fcs
-401872615,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2571,South Dakota State,70.0,56,Stetson,7.0,fcs,fcs
-401874042,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2382,Mercer,23.0,2837,East Texas A&M,15.0,fcs,fcs
 401866621,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2635,Tennessee Tech,38.0,2405,Monmouth,14.0,fcs,fcs
-401907204,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2876,Lincoln (MO),27.0,2860,Central Methodist,11.0,ii,
-401868948,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,50,Florida A&M,20.0,2013,Albany State,7.0,fcs,ii
-401868049,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2320,Lamar,21.0,2000,Abilene Christian,14.0,fcs,fcs
-401913104,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2916,Incarnate Word,76.0,2824,Oklahoma Panhandle,14.0,fcs,ii
-401907243,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2654,Truman State,21.0,2687,Washburn,27.0,ii,ii
-401907297,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2395,Midwestern State,30.0,2403,Missouri Southern State,23.0,ii,ii
-401868952,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2755,Grambling,49.0,2805,Clark Atlanta,7.0,fcs,ii
 401868149,2026,1,regular,2026-08-29 23:00:00+00:00,True,False,2453,North Alabama,22.0,2535,Samford,10.0,fcs,fcs
+401868952,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2755,Grambling,49.0,2805,Clark Atlanta,7.0,fcs,ii
 401867977,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2640,Texas Southern,42.0,2428,North Carolina Central,30.0,fcs,fcs
+401864570,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,52,Florida State,34.0,166,New Mexico State,17.0,fbs,fbs
+401874042,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2382,Mercer,23.0,2837,East Texas A&M,15.0,fcs,fcs
+401896385,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2016,Alcorn State,56.0,2396,Miles,7.0,fcs,ii
+401858201,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,24,Stanford,37.0,62,Hawai'i,27.0,fbs,fbs
 401868934,2026,1,regular,2026-08-29 23:00:00+00:00,True,False,2029,Arkansas-Pine Bluff,35.0,60,Morehouse,15.0,fcs,ii
+401913104,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2916,Incarnate Word,76.0,2824,Oklahoma Panhandle,14.0,fcs,ii
+401891332,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2287,Illinois State,76.0,2595,St. Francis (IL),0.0,fcs,
+401868049,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2320,Lamar,21.0,2000,Abilene Christian,14.0,fcs,fcs
+401872615,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2571,South Dakota State,70.0,56,Stetson,7.0,fcs,fcs
+401907243,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2654,Truman State,21.0,2687,Washburn,27.0,ii,ii
+401868948,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,50,Florida A&M,20.0,2013,Albany State,7.0,fcs,ii
+401907204,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2876,Lincoln (MO),27.0,2860,Central Methodist,11.0,ii,
+401868139,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2717,Western Carolina,45.0,2198,Eastern Kentucky,21.0,fcs,fcs
+401868305,2026,1,regular,2026-08-29 23:00:00+00:00,False,True,2377,McNeese,27.0,2617,Stephen F. Austin,38.0,fcs,fcs
+401907297,2026,1,regular,2026-08-29 23:00:00+00:00,False,False,2395,Midwestern State,30.0,2403,Missouri Southern State,23.0,ii,ii
 401867935,2026,1,regular,2026-08-29 23:30:00+00:00,True,False,47,Howard,31.0,2010,Alabama A&M,24.0,fcs,fcs
-401907308,2026,1,regular,2026-08-30 00:00:00+00:00,False,False,2658,Texas A&M-Kingsville,3.0,138,Northwest Missouri State,48.0,ii,ii
+401907324,2026,1,regular,2026-08-30 00:00:00+00:00,False,False,2064,Bethel University Tennessee,16.0,2323,Lane College,3.0,,ii
 401868245,2026,1,regular,2026-08-30 00:00:00+00:00,False,False,292,UT Rio Grande Valley,44.0,110243,UT Permian Basin,0.0,fcs,ii
+401907308,2026,1,regular,2026-08-30 00:00:00+00:00,False,False,2658,Texas A&M-Kingsville,3.0,138,Northwest Missouri State,48.0,ii,ii
+401907334,2026,1,regular,2026-08-30 00:00:00+00:00,False,False,2834,Sul Ross State,20.0,630,Wayland Baptist,34.0,ii,
 401868194,2026,1,regular,2026-08-30 00:30:00+00:00,False,False,2634,Tennessee State,24.0,2296,Jackson State,26.0,fcs,fcs
-401868235,2026,1,regular,2026-08-30 01:00:00+00:00,False,False,2627,Tarleton State,49.0,2504,Prairie View A&M,30.0,fcs,fcs
 401868110,2026,1,regular,2026-08-30 01:00:00+00:00,False,True,149,Montana,28.0,253,Southern Utah,21.0,fcs,fcs
+401868235,2026,1,regular,2026-08-30 01:00:00+00:00,False,False,2627,Tarleton State,49.0,2504,Prairie View A&M,30.0,fcs,fcs
 401868118,2026,1,regular,2026-08-30 02:00:00+00:00,False,True,3101,Utah Tech,0.0,147,Montana State,54.0,fcs,fcs
 401862693,2026,1,regular,2026-08-30 02:00:00+00:00,False,False,2439,UNLV,21.0,235,Memphis,27.0,fbs,fbs
 401906596,2026,1,regular,2026-08-31 00:00:00+00:00,True,False,2657,Tuskegee,17.0,2695,West Alabama,27.0,ii,ii
 401908891,2026,1,regular,2026-09-03 21:00:00+00:00,False,False,2818,Montclair State,24.0,2383,Merchant Marine,41.0,iii,iii
+401907838,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,354,Olivet,39.0,74,Millikin,19.0,iii,iii
 401858423,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,164,Rutgers,21.0,113,Massachusetts,37.0,fbs,fbs
-401868269,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2413,Morehead State,75.0,3077,Kentucky Christian,24.0,fcs,
-401907484,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2038,Assumption,35.0,2315,Kutztown,56.0,ii,ii
-401907610,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2249,Glenville State,24.0,210,Millersville,21.0,ii,ii
-401906880,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,131,Wayne State (MI),0.0,2886,Northwood,52.0,ii,ii
 401907526,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2134,Clarion,52.0,455,West Virginia Wesleyan,14.0,ii,ii
+401907610,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2249,Glenville State,24.0,210,Millersville,21.0,ii,ii
+401907516,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2858,California (PA),49.0,2128,Charleston (WV),24.0,ii,ii
 401907412,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2105,Carson Newman,44.0,134000,Thomas,0.0,ii,
 401907493,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2986,Fairmont State,13.0,2071,Bloomsburg,35.0,ii,ii
+401907484,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2038,Assumption,35.0,2315,Kutztown,56.0,ii,ii
+401906880,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,131,Wayne State (MI),0.0,2886,Northwood,52.0,ii,ii
+401868269,2026,1,regular,2026-09-03 22:00:00+00:00,False,False,2413,Morehead State,75.0,3077,Kentucky Christian,24.0,fcs,
 401906603,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2673,Valdosta State,59.0,2683,Warner,10.0,ii,
-401907666,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2651,Trine,48.0,80,Chicago,34.0,iii,iii
-401907003,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,125,Grand Valley State,56.0,2704,West Texas,14.0,ii,ii
-401907995,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2723,Wisconsin River Falls,73.0,2896,Southern Virginia,7.0,iii,iii
 401906553,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,200,Southern Nazarene,21.0,2271,Henderson State,57.0,ii,ii
-401906526,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,2028,Arkansas Monticello,12.0,199,Southeastern Oklahoma State,21.0,ii,ii
-401906545,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,2264,Harding,76.0,2823,Northwestern (OK),0.0,ii,ii
-401907677,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,2817,Minnesota St Moorhead,48.0,3066,Concordia St. Paul,30.0,ii,ii
-401906877,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,308,Ashland,24.0,2291,IU Pennsylvania,34.0,ii,ii
-401906649,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2205,Edinboro,38.0,2477,Ohio Dominican,36.0,ii,ii
-401907871,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2781,Brockport,68.0,2085,Buffalo State,0.0,iii,iii
-401907644,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,134,Minnesota Duluth,30.0,2043,Augustana (SD),23.0,ii,ii
-401864424,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,48,Delaware,42.0,2771,Merrimack,7.0,fbs,fcs
-401908854,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2748,Wooster,19.0,2733,Wilmington (OH),22.0,iii,iii
-401864425,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,338,Kennesaw State,47.0,2698,West Georgia,0.0,fbs,fcs
-401907697,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,425,Northern State,31.0,2851,Winona State,16.0,ii,ii
-401866622,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2619,Stony Brook,36.0,2815,Lindenwood,32.0,fcs,fcs
-401907727,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,568,Minot State,28.0,2844,Wayne State (NE),35.0,ii,ii
 401867889,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2535,Samford,18.0,79,Southern Illinois,22.0,fcs,fcs
+401907697,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,425,Northern State,31.0,2851,Winona State,16.0,ii,ii
+401907666,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2651,Trine,48.0,80,Chicago,34.0,iii,iii
+401907677,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,2817,Minnesota St Moorhead,48.0,3066,Concordia St. Paul,30.0,ii,ii
+401907003,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,125,Grand Valley State,56.0,2704,West Texas,14.0,ii,ii
+401906545,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,2264,Harding,76.0,2823,Northwestern (OK),0.0,ii,ii
+401907644,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,134,Minnesota Duluth,30.0,2043,Augustana (SD),23.0,ii,ii
+401907871,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2781,Brockport,68.0,2085,Buffalo State,0.0,iii,iii
+401906649,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2205,Edinboro,38.0,2477,Ohio Dominican,36.0,ii,ii
+401906526,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,2028,Arkansas Monticello,12.0,199,Southeastern Oklahoma State,21.0,ii,ii
+401906877,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,308,Ashland,24.0,2291,IU Pennsylvania,34.0,ii,ii
 401908216,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2980,Ohio Wesleyan,54.0,2074,Bluffton,9.0,iii,iii
+401908854,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2748,Wooster,19.0,2733,Wilmington (OH),22.0,iii,iii
+401907727,2026,1,regular,2026-09-03 23:00:00+00:00,False,True,568,Minot State,28.0,2844,Wayne State (NE),35.0,ii,ii
+401908201,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,247,King's,0.0,398,Wilkes,7.0,iii,iii
 401866409,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2084,Buffalo,21.0,399,UAlbany,17.0,fbs,fcs
-401856767,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2116,UCF,73.0,2065,Bethune-Cookman,6.0,fbs,fcs
 401858204,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,154,Wake Forest,38.0,2006,Akron,16.0,fbs,fbs
-401907162,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,2714,Western Colorado,23.0,2025,Angelo State,21.0,ii,ii
-401856663,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,142,Missouri,54.0,2029,Arkansas-Pine Bluff,14.0,fbs,fcs
-401873393,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,266,Beloit,14.0,2524,Rockford,12.0,iii,iii
-401906536,2026,1,regular,2026-09-04 00:00:00+00:00,False,True,2888,Ouachita Baptist,17.0,2191,East Central,27.0,ii,ii
-401907121,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,2123,Chadron State,24.0,2438,Nebraska Kearney,21.0,ii,ii
-401907337,2026,1,regular,2026-09-04 00:00:00+00:00,False,True,2118,Central Missouri,49.0,137,Missouri Western,10.0,ii,ii
-401906566,2026,1,regular,2026-09-04 00:00:00+00:00,False,True,319,Oklahoma Baptist,38.0,2568,Southern Arkansas,20.0,ii,ii
+401856767,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2116,UCF,73.0,2065,Bethune-Cookman,6.0,fbs,fcs
+401907995,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2723,Wisconsin River Falls,73.0,2896,Southern Virginia,7.0,iii,iii
+401908789,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,317,Marietta,34.0,2849,Westminster (PA),24.0,iii,iii
+401864424,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,48,Delaware,42.0,2771,Merrimack,7.0,fbs,fcs
+401864425,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,338,Kennesaw State,47.0,2698,West Georgia,0.0,fbs,fcs
+401908346,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,246,Juniata,7.0,2248,Gettysburg,24.0,iii,iii
+401866622,2026,1,regular,2026-09-03 23:00:00+00:00,False,False,2619,Stony Brook,36.0,2815,Lindenwood,32.0,fcs,fcs
 401908386,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,2398,Millsaps,36.0,2056,Belhaven,20.0,iii,iii
-401907156,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,2703,Western New Mexico,32.0,2424,New Mexico Highlands,55.0,ii,ii
-401858422,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,135,Minnesota,59.0,2197,Eastern Illinois,7.0,fbs,fcs
 401856776,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,59,Georgia Tech,13.0,38,Colorado,14.0,fbs,fbs
-401906515,2026,1,regular,2026-09-04 00:00:00+00:00,False,True,2033,Arkansas Tech,26.0,2927,Southwestern Oklahoma State,20.0,ii,ii
 401907145,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,2231,Fort Hays,17.0,2570,CSU Pueblo,35.0,ii,ii
+401873393,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,266,Beloit,14.0,2524,Rockford,12.0,iii,iii
+401856663,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,142,Missouri,54.0,2029,Arkansas-Pine Bluff,14.0,fbs,fcs
+401907121,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,2123,Chadron State,24.0,2438,Nebraska Kearney,21.0,ii,ii
+401906566,2026,1,regular,2026-09-04 00:00:00+00:00,False,True,319,Oklahoma Baptist,38.0,2568,Southern Arkansas,20.0,ii,ii
+401906515,2026,1,regular,2026-09-04 00:00:00+00:00,False,True,2033,Arkansas Tech,26.0,2927,Southwestern Oklahoma State,20.0,ii,ii
+401858422,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,135,Minnesota,59.0,2197,Eastern Illinois,7.0,fbs,fcs
+401907156,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,2703,Western New Mexico,32.0,2424,New Mexico Highlands,55.0,ii,ii
+401907337,2026,1,regular,2026-09-04 00:00:00+00:00,False,True,2118,Central Missouri,49.0,137,Missouri Western,10.0,ii,ii
+401906536,2026,1,regular,2026-09-04 00:00:00+00:00,False,True,2888,Ouachita Baptist,17.0,2191,East Central,27.0,ii,ii
+401907162,2026,1,regular,2026-09-04 00:00:00+00:00,False,False,2714,Western Colorado,23.0,2025,Angelo State,21.0,ii,ii
 401858424,2026,1,regular,2026-09-04 01:00:00+00:00,False,False,356,Illinois,42.0,5,UAB,23.0,fbs,fbs
 401856768,2026,1,regular,2026-09-04 01:00:00+00:00,False,False,254,Utah,66.0,70,Idaho,14.0,fbs,fcs
-401908162,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,2015,Albright,44.0,417,Gallaudet,7.0,iii,iii
-401908094,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,291,Methodist,3.0,2828,Shenandoah,30.0,iii,iii
-401907008,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,2222,Ferris State,38.0,2060,Bentley,3.0,ii,ii
 401908318,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,2827,Rowan,14.0,2371,Mary Hardin Baylor,35.0,iii,iii
-401908331,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,2175,Dickinson,27.0,2516,Randolph Macon,14.0,iii,iii
 401908537,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,2884,Nichols,7.0,109,MIT,35.0,iii,iii
+401908331,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,2175,Dickinson,27.0,2516,Randolph Macon,14.0,iii,iii
+401908094,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,291,Methodist,3.0,2828,Shenandoah,30.0,iii,iii
+401908162,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,2015,Albright,44.0,417,Gallaudet,7.0,iii,iii
+401907008,2026,1,regular,2026-09-04 22:00:00+00:00,False,False,2222,Ferris State,38.0,2060,Bentley,3.0,ii,ii
 401906610,2026,1,regular,2026-09-04 22:30:00+00:00,False,False,122774,Keystone,25.0,111674,Alvernia,21.0,iii,iii
 401864495,2026,1,regular,2026-09-04 22:30:00+00:00,False,False,2199,Eastern Michigan,21.0,23,San José State,27.0,fbs,fbs
-401907966,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2969,Misericordia,42.0,173,Hartwick,14.0,iii,iii
-401868262,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2368,Marist,27.0,112334,Franklin Pierce,18.0,fcs,ii
-401908606,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,379,UMass Dartmouth,13.0,2776,Salve Regina,21.0,iii,iii
-401907862,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,174,Hobart,24.0,365,Alfred,17.0,iii,iii
 401907537,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2487,Pace,26.0,2188,East Stroudsburg,37.0,ii,ii
+401907862,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,174,Hobart,24.0,365,Alfred,17.0,iii,iii
+401907966,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2969,Misericordia,42.0,173,Hartwick,14.0,iii,iii
 401908181,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2667,Ursinus,17.0,2808,Delaware Valley,14.0,iii,iii
-401908309,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,471,Stevenson,17.0,2079,Bridgewater,0.0,iii,iii
 401908263,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2234,Franklin & Marshall,31.0,388,Lebanon Valley,7.0,iii,iii
-401908517,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,81,Springfield,42.0,2702,Western New England,28.0,iii,iii
-401908690,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2467,Norwich,10.0,2779,St. Lawrence,18.0,iii,iii
 401866623,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2247,Georgia State,59.0,2448,North Carolina A&T,10.0,fbs,fcs
+401908690,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2467,Norwich,10.0,2779,St. Lawrence,18.0,iii,iii
+401908517,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,81,Springfield,42.0,2702,Western New England,28.0,iii,iii
+401908606,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,379,UMass Dartmouth,13.0,2776,Salve Regina,21.0,iii,iii
+401868262,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2368,Marist,27.0,112334,Franklin Pierce,18.0,fcs,ii
 401907736,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,184,Rochester (NY),20.0,2963,Case Western Reserve,38.0,iii,iii
 401858435,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,2509,Purdue,44.0,282,Indiana State,19.0,fbs,fcs
+401908309,2026,1,regular,2026-09-04 23:00:00+00:00,False,False,471,Stevenson,17.0,2079,Bridgewater,0.0,iii,iii
+401908359,2026,1,regular,2026-09-04 23:30:00+00:00,False,False,2700,McDaniel,13.0,2108,Catholic,7.0,iii,iii
 401907818,2026,1,regular,2026-09-05 00:00:00+00:00,False,False,2106,Carthage,23.0,6353,Lakeland,14.0,iii,iii
-401858429,2026,1,regular,2026-09-05 00:00:00+00:00,False,False,127,Michigan State,30.0,2649,Toledo,20.0,fbs,fbs
 401856664,2026,1,regular,2026-09-05 00:00:00+00:00,False,False,201,Oklahoma,51.0,2638,UTEP,0.0,fbs,fbs
+401858429,2026,1,regular,2026-09-05 00:00:00+00:00,False,False,127,Michigan State,30.0,2649,Toledo,20.0,fbs,fbs
 401856769,2026,1,regular,2026-09-05 00:00:00+00:00,False,False,2305,Kansas,51.0,2341,Long Island University,6.0,fbs,fcs
-401858436,2026,1,regular,2026-09-05 01:00:00+00:00,False,False,30,USC,39.0,278,Fresno State,0.0,fbs,fbs
 401858206,2026,1,regular,2026-09-05 01:00:00+00:00,False,True,24,Stanford,6.0,2390,Miami,45.0,fbs,fbs
+401858436,2026,1,regular,2026-09-05 01:00:00+00:00,False,False,30,USC,39.0,278,Fresno State,0.0,fbs,fbs
 401908292,2026,1,regular,2026-09-05 02:00:00+00:00,False,False,205,Pacific (OR),0.0,2758,Howard Payne,49.0,iii,iii
-401908470,2026,1,regular,2026-09-05 15:00:00+00:00,False,False,509,Crown,21.0,162,Hamline,31.0,iii,iii
 401908508,2026,1,regular,2026-09-05 15:00:00+00:00,False,False,446,Martin Luther,21.0,2359,Macalester,34.0,iii,iii
-401868284,2026,1,regular,2026-09-05 15:00:00+00:00,False,False,56,Stetson,45.0,2691,Webber International,10.0,fcs,
 401908514,2026,1,regular,2026-09-05 15:00:00+00:00,False,False,2399,Minnesota Morris,19.0,2151,Concordia Chicago,52.0,iii,iii
-401861962,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,41,UConn,56.0,322,Lafayette,7.0,fbs,fcs
-401858208,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,183,Syracuse,66.0,160,New Hampshire,3.0,fbs,fcs
-401908364,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,323,Moravian,7.0,2422,Muhlenberg,34.0,iii,iii
-401908353,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,118,Johns Hopkins,30.0,175,Ithaca,21.0,iii,iii
-401866410,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,189,Bowling Green,13.0,2627,Tarleton State,20.0,fbs,fcs
+401908141,2026,1,regular,2026-09-05 15:00:00+00:00,False,False,2968,Gustavus Adolphus,29.0,2964,Central College,3.0,iii,iii
+401868284,2026,1,regular,2026-09-05 15:00:00+00:00,False,False,56,Stetson,45.0,2691,Webber International,10.0,fcs,
+401908470,2026,1,regular,2026-09-05 15:00:00+00:00,False,False,509,Crown,21.0,162,Hamline,31.0,iii,iii
 401867924,2026,1,regular,2026-09-05 16:00:00+00:00,False,True,2441,New Haven,3.0,284,Stonehill,21.0,fcs,fcs
-401862701,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,349,Army,59.0,2803,Bryant,3.0,fbs,fcs
-401908189,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,452,Endicott,24.0,127954,Eastern,14.0,iii,iii
-401908530,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2557,Coast Guard,49.0,111675,New England,35.0,iii,iii
-401856778,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,248,Houston,33.0,204,Oregon State,20.0,fbs,fbs
 401867928,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2681,Wagner,31.0,2583,Southern Connecticut State,7.0,fcs,ii
-401908101,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,191,Heidelberg,40.0,2373,Maryville (TN),14.0,iii,iii
-401908738,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,359,Otterbein,21.0,129738,Calvin,53.0,iii,iii
-401858425,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,84,Indiana,52.0,249,North Texas,16.0,fbs,fbs
-401907843,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,3071,North Central College,44.0,2802,Bethel (MN),21.0,iii,iii
-401908557,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2972,Plymouth State,28.0,131108,New England College,14.0,iii,
-401856780,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,277,West Virginia,31.0,324,Coastal Carolina,24.0,fbs,fbs
-401856634,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,333,Alabama,48.0,151,East Carolina,10.0,fbs,fbs
 401907826,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,72,Elmhurst,13.0,2286,Illinois College,28.0,iii,iii
-401906994,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2392,Michigan Tech,48.0,2395,Midwestern State,27.0,ii,ii
+401861962,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,41,UConn,56.0,322,Lafayette,7.0,fbs,fcs
+401866410,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,189,Bowling Green,13.0,2627,Tarleton State,20.0,fbs,fcs
+401862701,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,349,Army,59.0,2803,Bryant,3.0,fbs,fcs
+401858208,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,183,Syracuse,66.0,160,New Hampshire,3.0,fbs,fcs
+401858430,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,158,Nebraska,49.0,195,Ohio,21.0,fbs,fbs
+401858425,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,84,Indiana,52.0,249,North Texas,16.0,fbs,fbs
+401869960,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,256,James Madison,20.0,2335,Liberty,13.0,fbs,fbs
+401908557,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2972,Plymouth State,28.0,131108,New England College,14.0,iii,
+401907843,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,3071,North Central College,44.0,2802,Bethel (MN),21.0,iii,iii
+401856778,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,248,Houston,33.0,204,Oregon State,20.0,fbs,fbs
+401856780,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,277,West Virginia,31.0,324,Coastal Carolina,24.0,fbs,fbs
+401908189,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,452,Endicott,24.0,127954,Eastern,14.0,iii,iii
+401908353,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,118,Johns Hopkins,30.0,175,Ithaca,21.0,iii,iii
+401908624,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2528,Rensselaer,35.0,2749,WPI,7.0,iii,iii
 401908091,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,390,Utica,26.0,2686,Washington & Jefferson,11.0,iii,iii
 401907013,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,110254,Davenport,28.0,2654,Truman State,14.0,ii,ii
-401869960,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,256,James Madison,20.0,2335,Liberty,13.0,fbs,fbs
-401909005,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,89,Wabash,29.0,297,Hampden Sydney,20.0,iii,iii
-401908624,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2528,Rensselaer,35.0,2749,WPI,7.0,iii,iii
-401858430,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,158,Nebraska,49.0,195,Ohio,21.0,fbs,fbs
+401906994,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2392,Michigan Tech,48.0,2395,Midwestern State,27.0,ii,ii
 401906844,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2273,Hillsdale,55.0,2816,McKendree,24.0,ii,ii
+401908530,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2557,Coast Guard,49.0,111675,New England,35.0,iii,iii
+401856634,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,333,Alabama,48.0,151,East Carolina,10.0,fbs,fbs
+401908101,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,191,Heidelberg,40.0,2373,Maryville (TN),14.0,iii,iii
+401907879,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,146,Grove City,18.0,2782,SUNY Cortland,28.0,iii,iii
 401907832,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,2790,Albion,10.0,306,Illinois Wesleyan,24.0,iii,iii
-401908759,2026,1,regular,2026-09-05 16:30:00+00:00,False,True,67,Luther,30.0,268,Lawrence,7.0,iii,iii
+401909005,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,89,Wabash,29.0,297,Hampden Sydney,20.0,iii,iii
+401908738,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,359,Otterbein,21.0,129738,Calvin,53.0,iii,iii
+401908568,2026,1,regular,2026-09-05 16:00:00+00:00,False,True,110438,Dean,26.0,114,Fitchburg State,35.0,iii,iii
+401908563,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,110,Mass Maritime,49.0,274,Maine Maritime,0.0,iii,iii
+401908364,2026,1,regular,2026-09-05 16:00:00+00:00,False,False,323,Moravian,7.0,2422,Muhlenberg,34.0,iii,iii
 401908150,2026,1,regular,2026-09-05 16:30:00+00:00,False,False,2141,Coe,49.0,2155,Cornell (IA),7.0,iii,iii
 401908771,2026,1,regular,2026-09-05 16:30:00+00:00,False,False,65,Grinnell,16.0,133688,Mount Mercy,13.0,iii,
-401868017,2026,1,regular,2026-09-05 16:30:00+00:00,False,True,46,Georgetown,14.0,2329,Lehigh,45.0,fcs,fcs
 401858207,2026,1,regular,2026-09-05 16:30:00+00:00,False,False,221,Pittsburgh,59.0,193,Miami (OH),14.0,fbs,fbs
 401858432,2026,1,regular,2026-09-05 16:30:00+00:00,False,False,194,Ohio State,56.0,2050,Ball State,3.0,fbs,fbs
+401868017,2026,1,regular,2026-09-05 16:30:00+00:00,False,True,46,Georgetown,14.0,2329,Lehigh,45.0,fcs,fcs
+401908759,2026,1,regular,2026-09-05 16:30:00+00:00,False,True,67,Luther,30.0,268,Lawrence,7.0,iii,iii
 401856665,2026,1,regular,2026-09-05 16:45:00+00:00,False,False,2579,South Carolina,57.0,2309,Kent State,0.0,fbs,fbs
-401908805,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,126,Kalamazoo,10.0,352,Kenyon,40.0,iii,iii
-401907250,2026,1,regular,2026-09-05 17:00:00+00:00,False,True,60,Morehouse,21.0,2805,Clark Atlanta,31.0,ii,ii
-401908247,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,6845,Nebraska Wesleyan,0.0,2152,Concordia (MN),28.0,iii,iii
-401908650,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2003,Adrian,17.0,427,Ohio Northern,10.0,iii,iii
-401864496,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2005,Air Force,34.0,2184,Duquesne,0.0,fbs,fcs
 401856659,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,96,Kentucky,45.0,2754,Youngstown State,13.0,fbs,fcs
-401868000,2026,1,regular,2026-09-05 17:00:00+00:00,False,True,2142,Colgate,35.0,107,Holy Cross,10.0,fcs,fcs
-401907850,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,396,Wheaton (IL),24.0,426,Mount Union,23.0,iii,iii
-401908257,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2362,Manchester,17.0,433,Westminster (MO),10.0,iii,iii
-401908662,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2845,Waynesburg,12.0,424,Capital,35.0,iii,iii
-401908576,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2280,Husson,21.0,2967,Framingham State,33.0,iii,iii
+401907250,2026,1,regular,2026-09-05 17:00:00+00:00,False,True,60,Morehouse,21.0,2805,Clark Atlanta,31.0,ii,ii
+401864496,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2005,Air Force,34.0,2184,Duquesne,0.0,fbs,fcs
 401908965,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2688,Washington and Lee,13.0,2746,Wittenberg,7.0,iii,iii
-401908623,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2951,SUNY Maritime,42.0,402,Worcester State,41.0,iii,iii
+401908805,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,126,Kalamazoo,10.0,352,Kenyon,40.0,iii,iii
 401908744,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2171,Denison,14.0,2812,Hope,28.0,iii,iii
+401908662,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2845,Waynesburg,12.0,424,Capital,35.0,iii,iii
+401908650,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2003,Adrian,17.0,427,Ohio Northern,10.0,iii,iii
+401907850,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,396,Wheaton (IL),24.0,426,Mount Union,23.0,iii,iii
+401868000,2026,1,regular,2026-09-05 17:00:00+00:00,False,True,2142,Colgate,35.0,107,Holy Cross,10.0,fcs,fcs
+401856779,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,66,Iowa State,38.0,2546,Southeast Missouri State,10.0,fbs,fcs
 401908644,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2442,The College of New Jersey,7.0,2354,Lycoming,17.0,iii,iii
-401908609,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2970,William Paterson,17.0,2843,Western Connecticut State,27.0,iii,iii
-401908285,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2810,Hardin Simmons,44.0,411,Chapman,24.0,iii,iii
-401908617,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,293,Vermont State Castleton,29.0,2909,Westfield State,7.0,iii,iii
-401908049,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2738,Wisconsin Eau Claire,23.0,2800,Alma,15.0,iii,iii
+401908257,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2362,Manchester,17.0,433,Westminster (MO),10.0,iii,iii
+401908576,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2280,Husson,21.0,2967,Framingham State,33.0,iii,iii
+401908623,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2951,SUNY Maritime,42.0,402,Worcester State,41.0,iii,iii
 401907604,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2974,Shepherd,34.0,341,Frostburg State,26.0,ii,ii
 401873403,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2871,Kean,30.0,3110,SUNY Morrisville,33.0,iii,iii
+401908609,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2970,William Paterson,17.0,2843,Western Connecticut State,27.0,iii,iii
+401908617,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,293,Vermont State Castleton,29.0,2909,Westfield State,7.0,iii,iii
+401908069,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2614,Saint Vincent,60.0,125974,Hilbert,6.0,iii,iii
+401908285,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2810,Hardin Simmons,44.0,411,Chapman,24.0,iii,iii
+401908049,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,2738,Wisconsin Eau Claire,23.0,2800,Alma,15.0,iii,iii
+401906118,2026,1,regular,2026-09-05 17:00:00+00:00,False,True,330,Virginia State,42.0,2075,Bowie State,13.0,ii,ii
+401908247,2026,1,regular,2026-09-05 17:00:00+00:00,False,False,6845,Nebraska Wesleyan,0.0,2152,Concordia (MN),28.0,iii,iii
+401868186,2026,1,regular,2026-09-05 17:30:00+00:00,False,False,2747,Wofford,17.0,2241,Gardner-Webb,13.0,fcs,fcs
 401908206,2026,1,regular,2026-09-05 17:30:00+00:00,False,False,2023,Anderson (IN),12.0,2018,Allegheny,28.0,iii,iii
-401908765,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2891,Ripon,14.0,409,Concordia (WI),38.0,iii,iii
-401907691,2026,1,regular,2026-09-05 18:00:00+00:00,False,True,2939,Jamestown,0.0,2894,Sioux Falls,31.0,ii,ii
-401908460,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2923,Pomona Pitzer,42.0,2930,Willamette,23.0,iii,iii
+401906860,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2292,Indianapolis,10.0,2224,Findlay,30.0,ii,ii
 401907886,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2745,Wisconsin Whitewater,69.0,2101,Carleton,7.0,iii,iii
+401908412,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2553,Sewanee,37.0,2062,Bethany (WV),40.0,iii,iii
+401907655,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2102,Carnegie Mellon,7.0,2302,John Carroll,17.0,iii,iii
+401908018,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,271,Wisconsin Oshkosh,15.0,203,Linfield,41.0,iii,iii
+401906049,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2148,Concord,26.0,124180,Bluefield State,16.0,ii,ii
+401908499,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,262,Lake Forest,77.0,2257,Greenville,14.0,iii,iii
+401908765,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2891,Ripon,14.0,409,Concordia (WI),38.0,iii,iii
+401908921,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,375,St. Scholastica,14.0,2741,Wisconsin Lutheran,37.0,iii,iii
+401907691,2026,1,regular,2026-09-05 18:00:00+00:00,False,True,2939,Jamestown,0.0,2894,Sioux Falls,31.0,ii,ii
+401907789,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2832,St. Norbert,10.0,32,Carroll (WI),40.0,iii,iii
+401908039,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2600,Saint John's (MN),24.0,2740,Wisconsin La Crosse,21.0,iii,iii
+401866624,2026,1,regular,2026-09-05 18:00:00+00:00,False,True,2405,Monmouth,31.0,2529,Sacred Heart,24.0,fcs,fcs
+401908088,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,374,St. John Fisher,38.0,2221,FDU Florham,8.0,iii,iii
+401907420,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,366,Ferrum,16.0,2213,Emory & Henry,55.0,ii,ii
+401907758,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,63,Buena Vista,14.0,2283,Benedictine (IL),41.0,iii,iii
+401909047,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,391,Oberlin,2.0,2274,Hiram,33.0,iii,iii
+401862698,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,218,Temple,38.0,227,Rhode Island,14.0,fbs,fcs
+401908448,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,17,Claremont Mudd Scripps,19.0,583,Northwestern (MN),14.0,iii,iii
+401908460,2026,1,regular,2026-09-05 18:00:00+00:00,False,False,2923,Pomona Pitzer,42.0,2930,Willamette,23.0,iii,iii
+401906682,2026,1,regular,2026-09-05 19:00:00+00:00,False,False,437,Lake Erie,35.0,2830,Saint Anselm,7.0,ii,ii
+401868111,2026,1,regular,2026-09-05 19:00:00+00:00,False,False,149,Montana,45.0,2181,Drake,10.0,fcs,fcs
+401907475,2026,1,regular,2026-09-05 19:00:00+00:00,False,False,2022,American International,21.0,209,Lock Haven,14.0,ii,ii
+401856658,2026,1,regular,2026-09-05 19:00:00+00:00,False,False,61,Georgia,63.0,2634,Tennessee State,3.0,fbs,fcs
+401908722,2026,1,regular,2026-09-05 19:00:00+00:00,False,False,2242,Geneva,21.0,2725,Widener,14.0,iii,iii
+401907159,2026,1,regular,2026-09-05 19:00:00+00:00,False,False,613,South Dakota Mines,38.0,2586,Southwest Baptist,17.0,ii,ii
+401906597,2026,1,regular,2026-09-05 19:00:00+00:00,False,False,2331,Lenoir Rhyne,23.0,2695,West Alabama,34.0,ii,ii
+401907111,2026,1,regular,2026-09-05 19:00:00+00:00,False,False,2069,Black Hills State,44.0,512,Dakota State University,31.0,ii,
+401862694,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,2429,Charlotte,41.0,2643,The Citadel,43.0,fbs,fcs
+401858209,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,150,Duke,17.0,2655,Tulane,3.0,fbs,fbs
+401856667,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,251,Texas,59.0,326,Texas State,7.0,fbs,fbs
+401862696,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,2426,Navy,42.0,119,Towson,15.0,fbs,fcs
+401856636,2026,1,regular,2026-09-05 19:30:00+00:00,True,False,2,Auburn,17.0,239,Baylor,16.0,fbs,fbs
+401858434,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,213,Penn State,45.0,276,Marshall,0.0,fbs,fbs
+401862700,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,2636,UTSA,45.0,292,UT Rio Grande Valley,16.0,fbs,fcs
+401864499,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,2449,North Dakota State,38.0,2230,Fordham,0.0,fbs,fcs
+401856777,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,2132,Cincinnati,34.0,103,Boston College,15.0,fbs,fbs
+401858433,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,2483,Oregon,34.0,68,Boise State,27.0,fbs,fbs
+401866627,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,2026,App State,55.0,311,Maine,3.0,fbs,fcs
+401856666,2026,1,regular,2026-09-05 19:30:00+00:00,False,False,2633,Tennessee,56.0,231,Furman,9.0,fbs,fcs
+401856772,2026,1,regular,2026-09-05 19:45:00+00:00,False,False,202,Tulsa,24.0,197,Oklahoma State,10.0,fbs,fbs
+401907615,2026,1,regular,2026-09-05 20:00:00+00:00,False,False,611,Seton Hill,24.0,2699,West Liberty,28.0,ii,ii
+401907332,2026,1,regular,2026-09-05 20:00:00+00:00,False,False,2584,Southern Oregon,35.0,2848,Western Oregon,65.0,,ii
+401906921,2026,1,regular,2026-09-05 20:00:00+00:00,False,False,2019,Allen,31.0,125762,Florida Memorial University,38.0,ii,
+401908429,2026,1,regular,2026-09-05 20:00:00+00:00,False,False,2486,Pacific Lutheran,37.0,2094,Cal Lutheran,30.0,iii,iii
+401867875,2026,1,regular,2026-09-05 20:00:00+00:00,False,False,155,North Dakota,62.0,2900,St. Thomas (MN),26.0,fcs,fcs
+401907852,2026,1,regular,2026-09-05 20:00:00+00:00,False,False,3162,Alfred State,74.0,2644,Thiel,13.0,iii,iii
+401907130,2026,1,regular,2026-09-05 20:00:00+00:00,False,False,2201,Eastern New Mexico,23.0,11,Colorado Mesa,42.0,ii,ii
+401907634,2026,1,regular,2026-09-05 20:00:00+00:00,False,True,132,Bemidji State,38.0,2587,Southwest Minnesota State,0.0,ii,ii
+401873228,2026,1,regular,2026-09-05 20:00:00+00:00,False,True,2508,Puget Sound,21.0,2333,Lewis & Clark,42.0,iii,iii
+401856635,2026,1,regular,2026-09-05 20:15:00+00:00,False,False,8,Arkansas,31.0,2453,North Alabama,14.0,fbs,fcs
+401858426,2026,1,regular,2026-09-05 20:15:00+00:00,False,False,2294,Iowa,40.0,2459,Northern Illinois,0.0,fbs,fbs
+401906206,2026,1,regular,2026-09-05 21:00:00+00:00,False,False,2560,Shorter,20.0,490,Benedict,24.0,ii,ii
+401908275,2026,1,regular,2026-09-05 21:00:00+00:00,False,False,101161,Lyon,7.0,2194,East Texas Baptist,58.0,iii,iii
+401906973,2026,1,regular,2026-09-05 21:00:00+00:00,True,True,2232,Fort Valley State,23.0,2657,Tuskegee,24.0,ii,ii
+401868356,2026,1,regular,2026-09-05 21:00:00+00:00,False,False,2572,Southern Miss,49.0,2016,Alcorn State,3.0,fbs,fcs
+401868345,2026,1,regular,2026-09-05 21:30:00+00:00,False,False,2193,East Tennessee State,48.0,2839,Tusculum,14.0,fcs,ii
+401860878,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,36,Colorado State,35.0,2751,Wyoming,13.0,fbs,fbs
+401867978,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2428,North Carolina Central,27.0,2207,Elizabeth City State,6.0,fcs,ii
+401867973,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,295,Old Dominion,31.0,2450,Norfolk State,10.0,fbs,fcs
+401869127,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,47,Howard,21.0,257,Richmond,28.0,fcs,fcs
+401906903,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,129,Saginaw Valley State,41.0,2658,Texas A&M-Kingsville,24.0,ii,ii
+401868274,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2382,Mercer,62.0,2506,Presbyterian,3.0,fcs,fcs
+401867989,2026,1,regular,2026-09-05 22:00:00+00:00,False,True,2083,Bucknell,16.0,222,Villanova,17.0,fcs,fcs
+401868325,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2011,Alabama State,34.0,2323,Lane College,0.0,fcs,ii
+401906152,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2220,Fayetteville State,10.0,2882,UNC Pembroke,7.0,ii,ii
+401906146,2026,1,regular,2026-09-05 22:00:00+00:00,False,True,2676,Virginia Union,49.0,2940,Livingstone,20.0,ii,ii
+401868336,2026,1,regular,2026-09-05 22:00:00+00:00,False,True,236,Chattanooga,9.0,2635,Tennessee Tech,24.0,fcs,fcs
+401907273,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,129469,Anderson (SC),21.0,127230,Keiser (Fl),14.0,ii,
+401906133,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2339,Lincoln (PA),13.0,223,West Chester,21.0,ii,ii
+401867917,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2523,Robert Morris,29.0,2707,West Virginia State,9.0,fcs,ii
+401908076,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2047,Averett,13.0,286,North Carolina Wesleyan,27.0,iii,iii
+401908304,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2256,Greensboro,48.0,2258,Guilford,7.0,iii,iii
+401866626,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2166,Davidson,0.0,2210,Elon,38.0,fcs,fcs
+401906178,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2842,UVA Wise,20.0,2804,Chowan,24.0,ii,ii
+401906621,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2682,Walsh,23.0,112335,Wheeling,21.0,ii,ii
+401906199,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2107,Catawba,38.0,2822,North Greenville,40.0,ii,ii
+401867692,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2729,William & Mary,22.0,2169,Delaware State,15.0,fcs,fcs
+401906632,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,128,Northern Michigan,7.0,2838,Tiffin,35.0,ii,ii
+401907847,2026,1,regular,2026-09-05 22:00:00+00:00,False,False,2233,Franklin,34.0,75,North Park,31.0,iii,iii
+401907703,2026,1,regular,2026-09-05 22:30:00+00:00,False,True,559,University of Mary,7.0,2364,Minnesota State,48.0,ii,ii
+401906605,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2170,Delta State,13.0,351,Wingate,36.0,ii,ii
+401868140,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,55,Jacksonville State,49.0,2198,Eastern Kentucky,7.0,fbs,fcs
+401868170,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,290,Georgia Southern,31.0,2127,Charleston Southern,0.0,fbs,fcs
+401868071,2026,1,regular,2026-09-05 23:00:00+00:00,False,True,2110,Central Arkansas,14.0,110242,West Florida,42.0,fcs,fcs
+401870763,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2653,Troy,24.0,2534,Sam Houston,21.0,fbs,fbs
+401856668,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,245,Texas A&M,50.0,2623,Missouri State,0.0,fbs,fbs
+401907779,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2042,Augustana (IL),42.0,2564,Simpson (IA),14.0,iii,iii
+401856770,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2641,Texas Tech,33.0,2000,Abilene Christian,10.0,fbs,fcs
+401908325,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,102549,Schreiner,33.0,2045,Austin,27.0,,iii
+401907956,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,49,Dubuque,20.0,2744,Wisconsin Stout,34.0,iii,iii
+401856771,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2306,Kansas State,71.0,2447,Nicholls,3.0,fbs,fcs
+401860880,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,328,Utah State,17.0,304,Idaho State,29.0,fbs,fcs
+401908298,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2938,Huntingdon,20.0,2757,Berry,50.0,iii,iii
+401862699,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,58,South Florida,19.0,2229,Florida International,9.0,fbs,fbs
+401908781,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,101,Eureka,0.0,255,Knox,16.0,iii,iii
+401906589,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2402,Missouri S&T,7.0,196,Northeastern State,27.0,ii,ii
+401906166,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,122666,Barton,13.0,2551,Shaw,23.0,ii,ii
+401867684,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2630,UT Martin,42.0,2130,Chicago State,7.0,fcs,fcs
+401907456,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2444,Newberry,38.0,2890,Reinhardt,3.0,ii,
+401868316,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,6,South Alabama,39.0,2545,SE Louisiana,14.0,fbs,fcs
+401908272,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,86,Rose Hulman,23.0,83,DePauw,31.0,iii,iii
+401908267,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2419,Mount St Joseph,34.0,332,Muskingum,0.0,iii,iii
+401908426,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2588,Southwestern U,26.0,241,McMurry,36.0,iii,iii
+401908933,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,3112,Christopher Newport,43.0,3111,Apprentice School,14.0,iii,iii
+401868970,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2582,Southern,34.0,2310,Kentucky State,15.0,fcs,ii
+401862697,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,242,Rice,31.0,2277,Houston Christian,3.0,fbs,fcs
+401867866,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2393,Middle Tennessee,38.0,93,Murray State,14.0,fbs,fcs
+401862695,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,235,Memphis,42.0,2032,Arkansas State,24.0,fbs,fbs
+401869136,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2377,McNeese,52.0,102626,Texas Wesleyan,0.0,fcs,
+401868953,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2755,Grambling,48.0,2119,Central State,26.0,fcs,ii
+401868085,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,331,Eastern Washington,34.0,2460,Northern Iowa,24.0,fcs,fcs
+401907977,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2743,Wisconsin Stevens Point,17.0,124,Augsburg,12.0,iii,iii
+401868297,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2010,Alabama A&M,38.0,2396,Miles,23.0,fcs,ii
+401856669,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,238,Vanderbilt,28.0,2046,Austin Peay,9.0,fbs,fcs
+401868958,2026,1,regular,2026-09-05 23:00:00+00:00,False,False,2296,Jackson State,66.0,2206,Edward Waters,14.0,fcs,ii
+401908231,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,2262,Hanover,17.0,2121,Centre,0.0,iii,iii
+401858428,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,130,Michigan,13.0,2711,Western Michigan,12.0,fbs,fbs
+401908008,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,272,Wisconsin Platteville,44.0,2044,Aurora,7.0,iii,iii
+401869129,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,2348,Louisiana Tech,80.0,2466,Northwestern State,6.0,fbs,fcs
+401908111,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,548,LaGrange,31.0,3179,Point University,7.0,iii,
+401906929,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,2825,Quincy,28.0,127991,Roosevelt,41.0,ii,ii
+401856662,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,344,Mississippi State,62.0,2433,UL Monroe,13.0,fbs,fbs
+401858211,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,259,Virginia Tech,73.0,2678,VMI,3.0,fbs,fcs
+401856660,2026,1,regular,2026-09-05 23:30:00+00:00,False,False,99,LSU,51.0,228,Clemson,10.0,fbs,fbs
+401856637,2026,1,regular,2026-09-05 23:45:00+00:00,False,False,57,Florida,66.0,2226,Florida Atlantic,21.0,fbs,fbs
+401908433,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,386,Trinity (TX),36.0,2639,Texas Lutheran,14.0,iii,iii
+401908467,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2850,Whittier,14.0,129758,Simpson (CA),56.0,iii,
+401907100,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2834,Sul Ross State,52.0,2001,Adams State,26.0,ii,ii
+401907151,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2237,Fort Lewis,27.0,108358,Phoenix,9.0,ii,
+401907357,2026,1,regular,2026-09-06 00:00:00+00:00,False,True,90,Pittsburg State,10.0,2214,Emporia State,21.0,ii,ii
+401869142,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,309,Louisiana,38.0,2320,Lamar,7.0,fbs,fcs
+401908254,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2919,Monmouth (IL),21.0,2685,Wartburg,36.0,iii,iii
+401907247,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2403,Missouri Southern State,21.0,389,Upper Iowa,19.0,ii,ii
+401908475,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,18,Bridgewater State,63.0,40,Curry,35.0,iii,iii
+401868158,2026,1,regular,2026-09-06 00:00:00+00:00,False,True,253,Southern Utah,47.0,2692,Weber State,42.0,fcs,fcs
+401906168,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2736,Winston-Salem State,0.0,2369,Mars Hill,17.0,ii,ii
+401907465,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2519,Rhodes,0.0,143,Washington St. Louis,73.0,iii,iii
+401908454,2026,1,regular,2026-09-06 00:00:00+00:00,False,True,2318,La Verne,30.0,2049,Azusa Pacific,3.0,iii,iii
+401856775,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,252,BYU,63.0,3101,Utah Tech,7.0,fbs,fcs
+401858431,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,77,Northwestern,34.0,2571,South Dakota State,18.0,fbs,fcs
+401868306,2026,1,regular,2026-09-06 00:00:00+00:00,False,True,2617,Stephen F. Austin,44.0,2837,East Texas A&M,7.0,fcs,fcs
+401867883,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2458,Northern Colorado,23.0,233,South Dakota,38.0,fcs,fcs
+401858427,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,120,Maryland,62.0,2261,Hampton,0.0,fbs,fcs
+401868074,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,13,Cal Poly,24.0,2120,Central Washington,17.0,fcs,ii
+401867845,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,2710,Western Illinois,10.0,2287,Illinois State,41.0,fcs,fcs
+401908241,2026,1,regular,2026-09-06 00:00:00+00:00,False,False,263,Loras,31.0,133,St. Olaf,16.0,iii,iii
+401868119,2026,1,regular,2026-09-06 00:30:00+00:00,False,False,147,Montana State,51.0,2086,Butler,24.0,fcs,fcs
+401870790,2026,1,regular,2026-09-06 01:00:00+00:00,False,False,166,New Mexico State,51.0,2385,Mercyhurst,14.0,fbs,fcs
+401860879,2026,1,regular,2026-09-06 01:30:00+00:00,False,False,21,San Diego State,53.0,2502,Portland State,20.0,fbs,fcs
+401856773,2026,1,regular,2026-09-06 01:30:00+00:00,False,False,12,Arizona,35.0,2464,Northern Arizona,7.0,fbs,fcs
+401866411,2026,1,regular,2026-09-06 02:00:00+00:00,False,False,16,Sacramento State,52.0,2400,Mississippi Valley State,0.0,fbs,fcs
+401864498,2026,1,regular,2026-09-06 02:00:00+00:00,False,False,167,New Mexico,38.0,2117,Central Michigan,7.0,fbs,fbs
+401868163,2026,1,regular,2026-09-06 02:00:00+00:00,False,False,301,San Diego,17.0,302,UC Davis,49.0,fcs,fcs
+401864497,2026,1,regular,2026-09-06 02:00:00+00:00,False,True,62,Hawai'i,6.0,2439,UNLV,21.0,fbs,fbs
+401856774,2026,1,regular,2026-09-06 02:00:00+00:00,False,False,9,Arizona State,70.0,2415,Morgan State,7.0,fbs,fcs
+401908393,2026,1,regular,2026-09-06 02:05:00+00:00,False,False,415,George Fox,27.0,29,Redlands,0.0,iii,iii
+401864432,2026,1,regular,2026-09-06 02:30:00+00:00,False,False,2440,Nevada,49.0,98,Western Kentucky,14.0,fbs,fbs
+401858210,2026,1,regular,2026-09-06 02:30:00+00:00,False,False,25,California,24.0,26,UCLA,45.0,fbs,fbs
+401917058,2026,1,regular,2026-09-06 15:00:00+00:00,False,False,2097,Campbell,28.0,2717,Western Carolina,19.0,fcs,fcs
+401868967,2026,1,regular,2026-09-06 16:00:00+00:00,False,True,2504,Prairie View A&M,52.0,2640,Texas Southern,14.0,fcs,fcs
+401867939,2026,1,regular,2026-09-06 19:00:00+00:00,True,False,50,Florida A&M,13.0,2569,South Carolina State,31.0,fcs,fcs
+401858437,2026,1,regular,2026-09-06 20:00:00+00:00,False,False,264,Washington,24.0,265,Washington State,10.0,fbs,fbs
+401906158,2026,1,regular,2026-09-06 20:00:00+00:00,True,False,2304,Johnson C. Smith,7.0,2013,Albany State,27.0,ii,ii
+401858438,2026,1,regular,2026-09-06 23:30:00+00:00,True,False,87,Notre Dame,41.0,275,Wisconsin,13.0,fbs,fbs
+401856661,2026,1,regular,2026-09-06 23:30:00+00:00,True,False,145,Ole Miss,41.0,97,Louisville,38.0,fbs,fbs
+401858212,2026,1,regular,2026-09-07 23:30:00+00:00,False,True,52,Florida State,24.0,2567,SMU,27.0,fbs,fbs
