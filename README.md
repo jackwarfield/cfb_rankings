@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Indiana              | Big Ten              | 2-0      | 3950   | 324       |
-| 2     | Texas                | SEC                  | 2-0      | 2933   | 94        |
-| 3     | Ole Miss             | SEC                  | 2-0      | 2833   | 114       |
-| 4     | Miami                | ACC                  | 2-0      | 2780   | 121       |
-| 5     | Georgia              | SEC                  | 2-0      | 2768   | 131       |
-| 6     | Michigan             | Big Ten              | 2-0      | 2768   | 90        |
-| 7     | BYU                  | Big 12               | 2-0      | 2767   | 102       |
-| 8     | Texas A&M            | SEC                  | 2-0      | 2744   | 104       |
-| 9     | Alabama              | SEC                  | 2-0      | 2721   | 109       |
-| 10    | Duke                 | ACC                  | 2-0      | 2688   | 83        |
-| 11    | Notre Dame           | FBS Independents     | 2-0      | 2679   | 109       |
-| 12    | Texas Tech           | Big 12               | 2-0      | 2671   | 132       |
-| 13    | Iowa                 | Big Ten              | 2-0      | 2608   | 99        |
-| 14    | Virginia             | ACC                  | 2-0      | 2545   | 95        |
-| 15    | Utah                 | Big 12               | 1-0      | 2509   | 110       |
-| 16    | USC                  | Big Ten              | 2-0      | 2509   | 100       |
-| 17    | Vanderbilt           | SEC                  | 2-0      | 2483   | 117       |
-| 18    | SMU                  | ACC                  | 2-0      | 2437   | 93        |
-| 19    | LSU                  | SEC                  | 2-0      | 2436   | 95        |
-| 20    | Tennessee            | SEC                  | 2-0      | 2425   | 101       |
-| 21    | Florida              | SEC                  | 2-0      | 2396   | 85        |
-| 22    | Ohio State           | Big Ten              | 1-1      | 2396   | 93        |
-| 23    | North Texas          | American Athletic    | 1-1      | 2390   | 107       |
-| 24    | South Florida        | American Athletic    | 2-0      | 2382   | 89        |
-| 25    | Missouri             | SEC                  | 2-0      | 2381   | 102       |
+| 1     | Indiana              | Big Ten              | 2-0      | 3952   | 324       |
+| 2     | Texas                | SEC                  | 2-0      | 2936   | 95        |
+| 3     | Ole Miss             | SEC                  | 2-0      | 2836   | 114       |
+| 4     | Miami                | ACC                  | 2-0      | 2786   | 120       |
+| 5     | Georgia              | SEC                  | 2-0      | 2771   | 131       |
+| 6     | Michigan             | Big Ten              | 2-0      | 2771   | 90        |
+| 7     | BYU                  | Big 12               | 2-0      | 2770   | 102       |
+| 8     | Texas A&M            | SEC                  | 2-0      | 2746   | 105       |
+| 9     | Alabama              | SEC                  | 2-0      | 2724   | 109       |
+| 10    | Duke                 | ACC                  | 2-0      | 2690   | 83        |
+| 11    | Notre Dame           | FBS Independents     | 2-0      | 2681   | 109       |
+| 12    | Texas Tech           | Big 12               | 2-0      | 2674   | 132       |
+| 13    | Iowa                 | Big Ten              | 2-0      | 2610   | 99        |
+| 14    | USC                  | Big Ten              | 3-0      | 2574   | 108       |
+| 15    | Virginia             | ACC                  | 2-0      | 2548   | 95        |
+| 16    | Utah                 | Big 12               | 2-0      | 2542   | 126       |
+| 17    | Vanderbilt           | SEC                  | 2-0      | 2486   | 117       |
+| 18    | LSU                  | SEC                  | 2-0      | 2480   | 90        |
+| 19    | SMU                  | ACC                  | 2-0      | 2435   | 93        |
+| 20    | Tennessee            | SEC                  | 2-0      | 2428   | 101       |
+| 21    | Ohio State           | Big Ten              | 1-1      | 2398   | 93        |
+| 22    | Florida              | SEC                  | 2-0      | 2398   | 86        |
+| 23    | North Texas          | American Athletic    | 1-1      | 2396   | 106       |
+| 24    | Missouri             | SEC                  | 2-0      | 2383   | 102       |
+| 25    | South Florida        | American Athletic    | 2-0      | 2382   | 90        |
 
-Updated 09/12/2026 21:53:19
+Updated 09/15/2026 17:34:47
