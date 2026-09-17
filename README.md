@@ -26,4 +26,4 @@
 | 24    | Missouri             | SEC                  | 2-0      | 2383   | 102       |
 | 25    | South Florida        | American Athletic    | 2-0      | 2382   | 90        |
 
-Updated 09/15/2026 17:34:47
+Updated 09/17/2026 12:41:42
