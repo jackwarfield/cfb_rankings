@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Indiana              | Big Ten              | 4-0      | 3897   | 347       |
-| 2     | Florida              | SEC                  | 4-0      | 3214   | 94        |
-| 3     | Texas                | SEC                  | 4-0      | 3157   | 110       |
-| 4     | Miami                | ACC                  | 4-0      | 3053   | 116       |
-| 5     | Alabama              | SEC                  | 4-0      | 3034   | 113       |
-| 6     | Texas Tech           | Big 12               | 4-0      | 3001   | 125       |
-| 7     | Georgia              | SEC                  | 4-0      | 2988   | 124       |
-| 8     | Notre Dame           | FBS Independents     | 4-0      | 2930   | 112       |
-| 9     | Utah                 | Big 12               | 4-0      | 2927   | 113       |
-| 10    | Mississippi State    | SEC                  | 4-0      | 2884   | 103       |
-| 11    | BYU                  | Big 12               | 3-0      | 2882   | 118       |
-| 12    | Ole Miss             | SEC                  | 3-1      | 2799   | 81        |
-| 13    | Iowa                 | Big Ten              | 4-0      | 2799   | 126       |
-| 14    | Duke                 | ACC                  | 4-0      | 2791   | 116       |
-| 15    | Cincinnati           | Big 12               | 4-0      | 2785   | 104       |
-| 16    | Auburn               | SEC                  | 3-1      | 2712   | 85        |
-| 17    | Pittsburgh           | ACC                  | 4-0      | 2696   | 109       |
-| 18    | Nebraska             | Big Ten              | 4-0      | 2687   | 103       |
-| 19    | Wake Forest          | ACC                  | 3-1      | 2564   | 90        |
-| 20    | Ohio State           | Big Ten              | 3-1      | 2558   | 102       |
-| 21    | Kentucky             | SEC                  | 3-1      | 2552   | 91        |
-| 22    | James Madison        | Sun Belt             | 4-0      | 2542   | 131       |
-| 23    | LSU                  | SEC                  | 3-1      | 2541   | 75        |
-| 24    | UTSA                 | American Athletic    | 3-1      | 2539   | 93        |
-| 25    | South Florida        | American Athletic    | 4-0      | 2531   | 118       |
+| 1     | Indiana              | Big Ten              | 5-0      | 3890   | 341       |
+| 2     | Alabama              | SEC                  | 5-0      | 3400   | 105       |
+| 3     | Texas                | SEC                  | 4-0      | 3349   | 102       |
+| 4     | Texas Tech           | Big 12               | 5-0      | 3176   | 124       |
+| 5     | Miami                | ACC                  | 5-0      | 3152   | 126       |
+| 6     | BYU                  | Big 12               | 4-0      | 3126   | 113       |
+| 7     | Notre Dame           | FBS Independents     | 5-0      | 3098   | 116       |
+| 8     | Mississippi State    | SEC                  | 4-1      | 3014   | 83        |
+| 9     | Georgia              | SEC                  | 5-0      | 2987   | 153       |
+| 10    | Utah                 | Big 12               | 4-0      | 2860   | 130       |
+| 11    | Ohio State           | Big Ten              | 4-1      | 2849   | 96        |
+| 12    | Pittsburgh           | ACC                  | 5-0      | 2812   | 121       |
+| 13    | Missouri             | SEC                  | 4-1      | 2808   | 77        |
+| 14    | Tennessee            | SEC                  | 4-1      | 2804   | 97        |
+| 15    | Nebraska             | Big Ten              | 5-0      | 2784   | 115       |
+| 16    | Northwestern         | Big Ten              | 3-1      | 2762   | 104       |
+| 17    | Kentucky             | SEC                  | 4-1      | 2740   | 103       |
+| 18    | Florida              | SEC                  | 4-1      | 2728   | 69        |
+| 19    | James Madison        | Sun Belt             | 5-0      | 2709   | 129       |
+| 20    | Duke                 | ACC                  | 4-0      | 2709   | 123       |
+| 21    | Arizona              | Big 12               | 4-1      | 2694   | 91        |
+| 22    | Houston              | Big 12               | 4-1      | 2683   | 94        |
+| 23    | UCLA                 | Big Ten              | 4-0      | 2649   | 109       |
+| 24    | Wisconsin            | Big Ten              | 4-1      | 2645   | 89        |
+| 25    | Wake Forest          | ACC                  | 4-1      | 2618   | 99        |
 
-Updated 09/27/2026 12:48:04
+Updated 10/04/2026 00:25:16
