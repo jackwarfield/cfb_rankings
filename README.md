@@ -9,7 +9,7 @@
 | 7     | Notre Dame           | FBS Independents     | 5-0      | 3098   | 116       |
 | 8     | Mississippi State    | SEC                  | 4-1      | 3014   | 83        |
 | 9     | Georgia              | SEC                  | 5-0      | 2987   | 153       |
-| 10    | Utah                 | Big 12               | 4-0      | 2860   | 130       |
+| 10    | Utah                 | Big 12               | 4-0      | 2861   | 130       |
 | 11    | Ohio State           | Big Ten              | 4-1      | 2849   | 96        |
 | 12    | Pittsburgh           | ACC                  | 5-0      | 2812   | 121       |
 | 13    | Missouri             | SEC                  | 4-1      | 2808   | 77        |
@@ -26,4 +26,4 @@
 | 24    | Wisconsin            | Big Ten              | 4-1      | 2645   | 89        |
 | 25    | Wake Forest          | ACC                  | 4-1      | 2618   | 99        |
 
-Updated 10/04/2026 00:25:16
+Updated 10/05/2026 16:48:49
