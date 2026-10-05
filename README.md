@@ -26,4 +26,4 @@
 | 24    | Wisconsin            | Big Ten              | 4-1      | 2645   | 89        |
 | 25    | Wake Forest          | ACC                  | 4-1      | 2618   | 99        |
 
-Updated 10/05/2026 16:48:49
+Updated 10/05/2026 16:52:18
