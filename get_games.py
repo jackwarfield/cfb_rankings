@@ -142,10 +142,10 @@ def build_games_table(
     games = games.reset_index(drop=True)
 
     # michigan actually lost to Western Michigan
-    games.loc[
-        (games['home_team'] == 'Michigan') & (games['week'] == 1),
-        'home_points',
-    ] = 7
+    # games.loc[
+    #    (games['home_team'] == 'Michigan') & (games['week'] == 1),
+    #    'home_points',
+    # ] = 7
 
     games.to_csv(
         f'./games{year}.csv',
