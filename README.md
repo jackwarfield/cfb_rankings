@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Miami                | ACC                  | 7-0      | 3407   | 150       |
-| 2     | Utah                 | Big 12               | 7-0      | 3198   | 162       |
-| 3     | UCLA                 | Big Ten              | 7-0      | 3150   | 156       |
-| 4     | Kentucky             | SEC                  | 7-1      | 2847   | 76        |
-| 5     | Wake Forest          | ACC                  | 6-1      | 2826   | 115       |
-| 6     | Alabama              | SEC                  | 6-2      | 2743   | 68        |
-| 7     | Ohio State           | Big Ten              | 6-1      | 2737   | 77        |
-| 8     | Texas                | SEC                  | 5-2      | 2728   | 64        |
-| 9     | Georgia              | SEC                  | 6-1      | 2726   | 76        |
-| 10    | Florida              | SEC                  | 5-2      | 2673   | 66        |
-| 11    | LSU                  | SEC                  | 6-2      | 2666   | 69        |
-| 12    | Ole Miss             | SEC                  | 5-2      | 2650   | 67        |
-| 13    | Tennessee            | SEC                  | 6-2      | 2642   | 71        |
-| 14    | Indiana              | Big Ten              | 7-1      | 2627   | 81        |
-| 15    | BYU                  | Big 12               | 6-1      | 2621   | 77        |
-| 16    | South Carolina       | SEC                  | 4-3      | 2617   | 67        |
-| 17    | Notre Dame           | FBS Independents     | 6-1      | 2593   | 76        |
-| 18    | Oklahoma             | SEC                  | 4-3      | 2586   | 67        |
-| 19    | Arizona              | Big 12               | 6-1      | 2570   | 77        |
-| 20    | Mississippi State    | SEC                  | 4-3      | 2567   | 63        |
-| 21    | Missouri             | SEC                  | 5-2      | 2550   | 71        |
-| 22    | Houston              | Big 12               | 6-2      | 2492   | 77        |
-| 23    | Auburn               | SEC                  | 4-3      | 2490   | 71        |
-| 24    | Texas Tech           | Big 12               | 6-1      | 2465   | 77        |
-| 25    | UTSA                 | American Athletic    | 7-1      | 2438   | 96        |
+| 1     | Miami                | ACC                  | 7-0      | 3424   | 157       |
+| 2     | Utah                 | Big 12               | 8-0      | 3283   | 178       |
+| 3     | UCLA                 | Big Ten              | 8-0      | 3151   | 176       |
+| 4     | Kentucky             | SEC                  | 7-1      | 2876   | 76        |
+| 5     | Georgia              | SEC                  | 7-1      | 2820   | 77        |
+| 6     | Wake Forest          | ACC                  | 7-1      | 2809   | 125       |
+| 7     | Alabama              | SEC                  | 6-2      | 2787   | 69        |
+| 8     | Ohio State           | Big Ten              | 6-1      | 2767   | 77        |
+| 9     | Texas                | SEC                  | 5-2      | 2735   | 65        |
+| 10    | Ole Miss             | SEC                  | 6-2      | 2691   | 67        |
+| 11    | South Carolina       | SEC                  | 5-3      | 2686   | 65        |
+| 12    | LSU                  | SEC                  | 6-2      | 2682   | 70        |
+| 13    | Indiana              | Big Ten              | 8-1      | 2676   | 81        |
+| 14    | Tennessee            | SEC                  | 6-2      | 2669   | 71        |
+| 15    | Florida              | SEC                  | 5-3      | 2639   | 66        |
+| 16    | Mississippi State    | SEC                  | 4-3      | 2579   | 64        |
+| 17    | Texas Tech           | Big 12               | 7-1      | 2558   | 77        |
+| 18    | Missouri             | SEC                  | 5-2      | 2556   | 71        |
+| 19    | Oklahoma             | SEC                  | 4-4      | 2551   | 68        |
+| 20    | BYU                  | Big 12               | 7-1      | 2539   | 78        |
+| 21    | Notre Dame           | FBS Independents     | 7-1      | 2502   | 80        |
+| 22    | Houston              | Big 12               | 6-2      | 2500   | 80        |
+| 23    | Auburn               | SEC                  | 4-4      | 2465   | 71        |
+| 24    | Iowa                 | Big Ten              | 6-2      | 2465   | 70        |
+| 25    | Arizona              | Big 12               | 6-2      | 2428   | 71        |
 
-Updated 10/25/2026 11:04:46
+Updated 10/31/2026 17:59:51
